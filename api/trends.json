@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T09:36:48.479355+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2025-10-14T10:35:21.192705+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -30,11 +30,12 @@
             3,
             1,
             6,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时10分 ~ 09时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 10时35分]"
         },
         {
           "title": "2025经济诺奖聚焦创新何以推动经济增长 得主当场批评特朗普关税",
@@ -48,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时10分 ~ 09时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 10时35分]"
         },
         {
           "title": "解决了加沙问题能不能上天堂？特朗普：不这么认为",
@@ -118,8 +119,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时10分 ~ 09时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 10时35分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -127,11 +128,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时10分 ~ 09时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 10时35分]"
         },
         {
           "title": "被媒体问及是否会收回关于中国的话 特朗普急了：你们都是假新闻",
@@ -143,6 +145,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时11分 ~ 07时08分]"
+        },
+        {
+          "title": "以色列送了特朗普一个特别的礼物",
+          "url": "https://news.ifeng.com/c/8nR9cG7cgW3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 10时35分]"
         },
         {
           "title": "特朗普在以色列议会演讲被打断",
@@ -204,15 +217,15 @@
           "time_info": "00时10分"
         },
         {
-          "title": "以色列送了特朗普一个特别的礼物",
-          "url": "https://news.ifeng.com/c/8nR9cG7cgW3",
-          "source": "凤凰网",
+          "title": "特朗普政府拟拨款5亿美元加强无人机威胁防御",
+          "url": "https://flash.jin10.com/detail/20251014101136943800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "10时35分"
         },
         {
           "title": "乌克兰总统泽连斯基：将与美国总统特朗普讨论防空和乌克兰的远程能力问题。",
@@ -263,6 +276,32 @@
           "time_info": "[05时12分 ~ 06时08分]"
         },
         {
+          "title": "特朗普演讲遭抗议者打断 现场噘起嘴",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E9%81%AD%E6%8A%97%E8%AE%AE%E8%80%85%E6%89%93%E6%96%AD+%E7%8E%B0%E5%9C%BA%E5%99%98%E8%B5%B7%E5%98%B4",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 10时35分]"
+        },
+        {
+          "title": "特朗普的100%关税威胁是政治表演吗",
+          "url": "https://www.toutiao.com/trending/7560845798087331364/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 10时35分]"
+        },
+        {
           "title": "诺贝尔经济学奖得主批评特朗普关税",
           "url": "https://news.ifeng.com/c/8nQpqMAF9lj",
           "source": "凤凰网",
@@ -287,6 +326,18 @@
           "time_info": "[02时11分 ~ 04时10分]"
         },
         {
+          "title": "特朗普对华威胁后再改口暴露了什么",
+          "url": "https://www.toutiao.com/trending/7560694756964565046/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 10时35分]"
+        },
+        {
           "title": "美国总统特朗普：加沙将有许多资金和建筑物。",
           "url": "https://wallstreetcn.com/livenews/2986928",
           "source": "华尔街见闻-快讯",
@@ -297,6 +348,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 03时08分]"
+        },
+        {
+          "title": "特朗普C位合影喊话：大家笑起来",
+          "url": "https://www.toutiao.com/trending/7560888494140182043/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "特朗普：伊拉克有很多石油",
@@ -335,18 +397,6 @@
           "time_info": "[02时11分 ~ 03时08分]"
         },
         {
-          "title": "特朗普演讲遭抗议者打断 现场噘起嘴",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E9%81%AD%E6%8A%97%E8%AE%AE%E8%80%85%E6%89%93%E6%96%AD+%E7%8E%B0%E5%9C%BA%E5%99%98%E8%B5%B7%E5%98%B4",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 09时36分]"
-        },
-        {
           "title": "特朗普：美国与伊朗的接触\"相当频繁\"",
           "url": "https://flash.jin10.com/detail/20251014040935651800",
           "source": "金十数据",
@@ -383,16 +433,37 @@
           "time_info": "[00时10分 ~ 01时07分]"
         },
         {
-          "title": "特朗普的100%关税威胁是政治表演吗",
-          "url": "https://www.toutiao.com/trending/7560845798087331364/",
+          "title": "特朗普马克龙上演26秒掰手腕式握手",
+          "url": "https://www.toutiao.com/trending/7560319512873058355/",
           "source": "今日头条",
           "ranks": [
-            25,
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时27分 ~ 09时36分]"
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "特朗普马克龙26秒“掰手腕式握手”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "市场消息：美国总统特朗普与乌克兰总统泽连斯基将于周五就防空和武器问题进行会谈，还将讨论与俄罗斯可能展开的谈判。",
@@ -566,7 +637,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -624,17 +695,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "特朗普对华威胁后再改口暴露了什么",
-          "url": "https://www.toutiao.com/trending/7560694756964565046/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时36分"
         }
       ]
     },
@@ -673,11 +733,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时10分 ~ 09时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 10时35分]"
         },
         {
           "title": "美股三大指数高开 稀土概念股大涨",
@@ -702,11 +763,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 09时36分]"
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 10时35分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -716,8 +778,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 09时36分]"
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 10时35分]"
+        },
+        {
+          "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 10时35分]"
         },
         {
           "title": "贸易紧张局势缓和，美股强劲反弹，芯片股领涨，黄金突破4100关口，期银大涨7%",
@@ -740,17 +813,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
-        },
-        {
-          "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时36分"
         },
         {
           "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
@@ -839,7 +901,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI或将成为最大的无人公司",
@@ -855,6 +917,30 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时10分 ~ 07时08分]"
+        },
+        {
+          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
+          "url": "https://wallstreetcn.com/articles/3757107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 10时35分]"
+        },
+        {
+          "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
+          "url": "https://www.cls.cn/detail/2168170",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 10时35分]"
         },
         {
           "title": "电力供应商Genneia签署一份备忘录，将向OpenAI参与的阿根廷数据中心供电。",
@@ -883,27 +969,15 @@
           "time_info": "[04时10分 ~ 06时08分]"
         },
         {
-          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
-          "url": "https://wallstreetcn.com/articles/3757107",
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时27分 ~ 09时36分]"
-        },
-        {
-          "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
-          "url": "https://www.cls.cn/detail/2168170",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 09时36分]"
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "甲骨文CEO：OpenAI有能力承担每年600亿美元的云基础设施服务费用",
@@ -968,7 +1042,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         }
@@ -1043,7 +1117,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "亚锦赛男团中国3比1伊朗晋级四强",
@@ -1080,9 +1154,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 10时35分]"
+        },
+        {
+          "title": "乒乓亚锦赛伊朗教练现场手改球衣",
+          "url": "https://www.toutiao.com/trending/7560608993027342375/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "林诗栋不敌15岁伊朗小将",
@@ -1099,7 +1184,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "目前的金价，你还敢追吗？",
@@ -1113,6 +1198,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时11分 ~ 07时08分]"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）上海金早盘价为945.32元/克，较国际金价(950.27元/克)低4.95元/克",
+          "url": "https://flash.jin10.com/detail/20251014102105537800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "法国兴业银行将2026年底的黄金价格目标上调至每盎司5000美元，因ETF资金流动强劲和央行买入。",
