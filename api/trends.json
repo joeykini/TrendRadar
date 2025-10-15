@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T14:13:02.532265+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2025-10-15T15:10:27.793185+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时08分 ~ 14时13分]"
+          "appearance_count": 21,
+          "time_info": "[00时08分 ~ 15时10分]"
         },
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时26分 ~ 14时13分]"
+          "appearance_count": 10,
+          "time_info": "[08时26分 ~ 15时10分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -86,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 14时13分]"
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 15时10分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -184,6 +184,17 @@
           "time_info": "[02时13分 ~ 05时08分]"
         },
         {
+          "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
+          "url": "https://news.ifeng.com/c/8nTJ3Z36eHu",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
           "title": "美国总统特朗普：下令打击一艘与被指认的恐怖组织有关联、在委内瑞拉沿海从事毒品贩运活动的船只。",
           "url": "https://flash.jin10.com/detail/20251015014447544800",
           "source": "金十数据",
@@ -248,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "美国总统特朗普：乌克兰总统泽连斯基希望拥有“战斧”导弹。",
@@ -334,6 +356,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时08分]"
+        },
+        {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 15时10分]"
         },
         {
           "title": "特朗普改口称是想帮中国",
@@ -430,17 +464,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时09分 ~ 04时10分]"
-        },
-        {
-          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
-          "url": "https://www.cls.cn/detail/2169818",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 14时13分]"
         },
         {
           "title": "美国总统特朗普：周五将掌握一份关于被关闭政府部门的清单。",
@@ -542,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美国国防部长：我们从美国总统特朗普那里学到了以实力促和平的积极运用。",
+          "url": "https://flash.jin10.com/detail/20251015145235222800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "美国总统特朗普：我对西班牙感到不满，正考虑对西班牙实施贸易惩罚。",
@@ -892,7 +926,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -980,8 +1014,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 14时13分]"
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 15时10分]"
         },
         {
           "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
@@ -1299,6 +1333,39 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
+          "url": "https://www.zhihu.com/question/1961010617587561780",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时26分 ~ 15时10分]"
+        },
+        {
+          "title": "黄金有央行支撑而白银没有，高盛：投资金额小幅回落也会导致白银价格大幅回调",
+          "url": "https://wallstreetcn.com/articles/3757146",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1342,28 +1409,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
-          "url": "https://www.zhihu.com/question/1961010617587561780",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时26分 ~ 14时13分]"
         }
       ]
     }
