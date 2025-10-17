@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T22:08:22.495133+08:00",
-  "total_titles_processed": 2157,
+  "generated_at": "2025-10-17T23:10:01.910583+08:00",
+  "total_titles_processed": 2242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 112,
+      "match_count": 116,
       "titles": [
         {
           "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时08分 ~ 22时08分]"
+          "appearance_count": 12,
+          "time_info": "[17时08分 ~ 23时10分]"
+        },
+        {
+          "title": "特朗普：美国也需要，不能把家底掏空",
+          "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时08分 ~ 23时10分]"
         },
         {
           "title": "特朗普：可能会在未来两周内与普京会面",
@@ -58,33 +69,18 @@
           "time_info": "[00时10分 ~ 09时35分]"
         },
         {
-          "title": "特朗普：美国也需要，不能把家底掏空",
-          "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
-          "source": "凤凰网",
+          "title": "泽连斯基可能得再次从头说服特朗普",
+          "url": "https://www.toutiao.com/trending/7561736617245838889/",
+          "source": "今日头条",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时08分 ~ 22时08分]"
-        },
-        {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
-          "ranks": [
+            7,
+            8,
             4,
-            5,
-            1,
-            11,
-            9,
-            20,
-            25,
-            17
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时12分 ~ 22时08分]"
+          "appearance_count": 11,
+          "time_info": "[18时09分 ~ 23时10分]"
         },
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -98,6 +94,25 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时10分 ~ 09时35分]"
+        },
+        {
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            1,
+            11,
+            9,
+            20,
+            25,
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[14时12分 ~ 23时10分]"
         },
         {
           "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
@@ -123,24 +138,12 @@
             14,
             26,
             24,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时36分 ~ 20时13分]"
-        },
-        {
-          "title": "泽连斯基可能得再次从头说服特朗普",
-          "url": "https://www.toutiao.com/trending/7561736617245838889/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时09分 ~ 22时08分]"
+          "appearance_count": 15,
+          "time_info": "[10时36分 ~ 23时10分]"
         },
         {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
@@ -151,8 +154,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时12分 ~ 22时08分]"
+          "appearance_count": 15,
+          "time_info": "[14时12分 ~ 23时10分]"
         },
         {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
@@ -163,8 +166,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时35分 ~ 22时08分]"
+          "appearance_count": 20,
+          "time_info": "[09时35分 ~ 23时10分]"
         },
         {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
@@ -180,8 +183,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时23分 ~ 22时08分]"
+          "appearance_count": 18,
+          "time_info": "[11时23分 ~ 23时10分]"
         },
         {
           "title": "特朗普与普京将在布达佩斯举行会晤 美军3架B52飞赴委内瑞拉近海 | 环球市场",
@@ -286,6 +289,17 @@
           "time_info": "19时08分"
         },
         {
+          "title": "特朗普施压下 国际海事组织推迟船舶排放收费计划表决",
+          "url": "https://flash.jin10.com/detail/20251017224518874800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "印度回应特朗普称该国承诺停购俄油",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%B0%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AF%A5%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%81%9C%E8%B4%AD%E4%BF%84%E6%B2%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%258D%25B0%25E5%25BA%25A6%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25AF%25A5%25E5%259B%25BD%25E6%2589%25BF%25E8%25AF%25BA%25E5%2581%259C%25E8%25B4%25AD%25E4%25BF%2584%25E6%25B2%25B9%2523%26cate%3D5001%26stream_entry_id%3D31%26pos%3D27%26band_rank%3D26%26c_type%3D31%26realpos%3D26%26filter_type%3Drealtimehot%26lcate%3D5001%26flag%3D0%26dgr%3D0%26display_time%3D1760641519%26pre_seqid%3D17606415199480055043",
           "source": "微博",
@@ -309,17 +323,6 @@
           "time_info": "13时09分"
         },
         {
-          "title": "特朗普重新提交对《纽约时报》150亿美元诽谤诉讼",
-          "url": "https://wallstreetcn.com/livenews/2989789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
           "title": "消息人士：普京与特朗普通话或将重启伊斯坦布尔乌克兰问题谈判",
           "url": "https://flash.jin10.com/detail/20251017123305369800",
           "source": "金十数据",
@@ -340,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "特朗普贸易顾问纳瓦罗：我们不认为关税会提高制造业成本。",
+          "url": "https://flash.jin10.com/detail/20251017223116931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "克里姆林宫官员：美国总统特朗普告诉俄罗斯总统普京，冲突的结束将为与俄罗斯的经济合作开辟令人振奋的机遇。",
@@ -427,6 +441,18 @@
           "time_info": "[03时07分 ~ 04时10分]"
         },
         {
+          "title": "特朗普重新提交对《纽约时报》150亿美元诽谤诉讼",
+          "url": "https://wallstreetcn.com/livenews/2989789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 23时10分]"
+        },
+        {
           "title": "克里姆林宫官员：特朗普与普京的通话持续了近2.5小时。两国将迅速为峰会做好准备。",
           "url": "https://flash.jin10.com/detail/20251017021026332800",
           "source": "金十数据",
@@ -487,6 +513,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时27分 ~ 11时23分]"
+        },
+        {
+          "title": "马斯克说普京与特朗普通话令人鼓舞",
+          "url": "https://www.toutiao.com/trending/7561554652811034670/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时07分 ~ 23时10分]"
         },
         {
           "title": "牛弹琴：普京三板斧轻松搞定特朗普",
@@ -656,6 +693,17 @@
           "time_info": "[15时09分 ~ 17时08分]"
         },
         {
+          "title": "特朗普重新起诉《纽约时报》",
+          "url": "https://www.toutiao.com/trending/7561736617245904425/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "普京为何在此时致电特朗普",
           "url": "https://www.toutiao.com/trending/7562016120996105771/",
           "source": "今日头条",
@@ -666,17 +714,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 14时12分]"
-        },
-        {
-          "title": "马斯克说普京与特朗普通话令人鼓舞",
-          "url": "https://www.toutiao.com/trending/7561554652811034670/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
         },
         {
           "title": "与特朗普通话后 普京立即召集会议",
@@ -820,6 +857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "美国总统特朗普的贸易顾问纳瓦罗：不会在产能到位之前看到制造业就业岗位的增加。 不会看到（特朗普挑起的）关税造成美国制造成本上涨。",
+          "url": "https://wallstreetcn.com/livenews/2989804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "克里姆林宫官员：普京与特朗普的通话是应俄罗斯方面主动提议进行的。",
@@ -1320,7 +1368,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -1356,8 +1404,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "appearance_count": 4,
+          "time_info": "[22时07分 ~ 23时10分]"
+        },
+        {
+          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2173194",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时15分 ~ 23时10分]"
         },
         {
           "title": "美股盘前，美股三大股指期货均跌超1%。科技股普跌，甲骨文跌超3%，英伟达跌超2%，银行股走低，花旗跌近1.7%，美国银行跌超3%。诺和诺德、礼来盘前跌约3.7%。",
@@ -1380,17 +1440,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨约0.9%，半导体ETF跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/2989788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
         },
         {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
@@ -1416,28 +1465,6 @@
           "time_info": "16时10分"
         },
         {
-          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251017214136597800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "美股三大股指开盘涨跌不一，道指涨0.05%，标普500指数跌0.18%，纳指跌0.38%。银行股小幅走高，阿莱恩斯西部银行涨近2%，Zions涨近3%。礼来跌超3%，诺和诺德跌超4%，特朗普称“司美格鲁肽药价将大跌”。",
-          "url": "https://wallstreetcn.com/livenews/2989785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
           "title": "周五美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/2989778",
           "source": "华尔街见闻-快讯",
@@ -1448,6 +1475,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时16分 ~ 22时08分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨约0.9%，半导体ETF跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2989788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 23时10分]"
         },
         {
           "title": "美股地区银行指数收跌6.3%，创4月份以来最差单日表现。 Zions收跌13%，Western Alliance跌11%。",
@@ -1462,16 +1501,28 @@
           "time_info": "[04时10分 ~ 05时08分]"
         },
         {
-          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2173194",
-          "source": "财联社热门",
+          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251017214136597800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时15分 ~ 22时08分]"
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 23时10分]"
+        },
+        {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.05%，标普500指数跌0.18%，纳指跌0.38%。银行股小幅走高，阿莱恩斯西部银行涨近2%，Zions涨近3%。礼来跌超3%，诺和诺德跌超4%，特朗普称“司美格鲁肽药价将大跌”。",
+          "url": "https://wallstreetcn.com/livenews/2989785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 23时10分]"
         },
         {
           "title": "美股三大股指齐收跌 金龙指数跌近1%",
@@ -1628,7 +1679,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -1677,6 +1728,17 @@
           "time_info": "20时13分"
         },
         {
+          "title": "美股股指短线拉升，道指涨0.5%，标普500指数涨0.23%，纳指涨0.18%。",
+          "url": "https://flash.jin10.com/detail/20251017215650480800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "美国总统特朗普宣称，与德国默沙东（Merck KGaA）围绕（在美国市场）降低生育药物价格达成一份协议，该公司将获得关税宽限。 礼来制药美股盘后跌2.7%，诺和诺德ADR跌2.8%。",
           "url": "https://wallstreetcn.com/livenews/2989196",
           "source": "华尔街见闻-快讯",
@@ -1713,7 +1775,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "【早报】俄美总统再通话，或将在两周内会面；加速拉升！国际金价涨破4300美元",
@@ -1735,19 +1797,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时12分 ~ 22时08分]"
-        },
-        {
-          "title": "金价涨了 金条能变现吗",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E4%BA%86+%E9%87%91%E6%9D%A1%E8%83%BD%E5%8F%98%E7%8E%B0%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时15分 ~ 22时08分]"
+          "appearance_count": 8,
+          "time_info": "[20时12分 ~ 23时10分]"
         },
         {
           "title": "金价暴涨有新人用“金包银”省5万",
@@ -1756,11 +1807,37 @@
           "ranks": [
             17,
             26,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时08分 ~ 22时08分]"
+          "appearance_count": 9,
+          "time_info": "[19时08分 ~ 23时10分]"
+        },
+        {
+          "title": "金价涨了 金条能变现吗",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E4%BA%86+%E9%87%91%E6%9D%A1%E8%83%BD%E5%8F%98%E7%8E%B0%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时15分 ~ 23时10分]"
+        },
+        {
+          "title": "金价暴涨时 4万5黄金订单蒸发",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B6+4%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时15分 ~ 23时10分]"
         },
         {
           "title": "金价年内涨幅超50% 专家提醒",
@@ -1836,18 +1913,6 @@
           "time_info": "[18时10分 ~ 19时08分]"
         },
         {
-          "title": "金价暴涨时 4万5黄金订单蒸发",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B6+4%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时15分 ~ 22时08分]"
-        },
-        {
           "title": "是什么一直支持黄金价格一路飙升",
           "url": "https://www.toutiao.com/trending/7561799628442570266/",
           "source": "今日头条",
@@ -1910,6 +1975,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 02时13分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D29%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26band_rank%3D28%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26realpos%3D28%26flag%3D1%26dgr%3D0%26cate%3D5001%26display_time%3D1760712604%26pre_seqid%3D176071260448902731549102",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "金十整理：金价一度冲高至4380美元，对比历史暴涨纪录，黄金本轮牛市还能走多远？",
@@ -1991,8 +2067,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时35分 ~ 22时08分]"
+          "appearance_count": 20,
+          "time_info": "[09时35分 ~ 23时10分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -2166,6 +2242,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小马智行旗下卢森堡部门与斯泰兰蒂斯集团Stellantis宣布，双方将在欧洲共同测试无人驾驶出租车。 未来数月，两家公司将在卢森堡共同测试无人驾驶出租车，并将在2026年拓展至欧洲的其他地区。 本周稍早，谷歌母公司Alphabet旗下无人驾驶业务Waymo宣布，计划在英国伦敦启动自动驾驶出租车业务。",
+          "url": "https://wallstreetcn.com/livenews/2989800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "英国竞争与市场管理局批准解除对谷歌的限制措施。",
+          "url": "https://flash.jin10.com/detail/20251017200137863800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -2194,23 +2298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时10分 ~ 13时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国竞争与市场管理局批准解除对谷歌的限制措施。",
-          "url": "https://flash.jin10.com/detail/20251017200137863800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         }
       ]
     },
