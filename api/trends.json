@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T03:08:22.786335+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2025-10-18T04:10:22.256578+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时10分]"
         },
         {
           "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
@@ -26,8 +26,47 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时10分]"
+        },
+        {
+          "title": "特朗普又被告",
+          "url": "https://www.douyin.com/hot/2273463",
+          "source": "抖音",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 04时10分]"
+        },
+        {
+          "title": "泽连斯基可能得再次从头说服特朗普",
+          "url": "https://www.toutiao.com/trending/7561736617245838889/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            20,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时10分]"
+        },
+        {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时10分]"
         },
         {
           "title": "美国总统特朗普：希望我们能不用“战斧”导弹就结束战争。",
@@ -41,6 +80,43 @@
           "time_info": "02时10分"
         },
         {
+          "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时10分]"
+        },
+        {
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时10分]"
+        },
+        {
+          "title": "特朗普与普京约定在匈牙利会面",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%BA%A6%E5%AE%9A%E5%9C%A8%E5%8C%88%E7%89%99%E5%88%A9%E4%BC%9A%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时10分]"
+        },
+        {
           "title": "美国总统特朗普：这不仅仅是钱的问题，我们需要“战斧”导弹和许多其他武器，我们正在向乌克兰运送这些武器。",
           "url": "https://flash.jin10.com/detail/20251018015006993800",
           "source": "金十数据",
@@ -52,15 +128,15 @@
           "time_info": "02时10分"
         },
         {
-          "title": "特朗普政府对美国纽约市等多地暂停110亿美元项目拨款。",
-          "url": "https://wallstreetcn.com/livenews/2989870",
+          "title": "30年来首次：美国法院因特朗普政府关门而面临强制性无薪休假",
+          "url": "https://wallstreetcn.com/livenews/2989886",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "04时10分"
         },
         {
           "title": "美国总统特朗普：印度将不再购买俄罗斯石油。",
@@ -74,43 +150,6 @@
           "time_info": "02时10分"
         },
         {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时08分]"
-        },
-        {
-          "title": "特朗普又被告",
-          "url": "https://www.douyin.com/hot/2273463",
-          "source": "抖音",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 03时08分]"
-        },
-        {
-          "title": "泽连斯基可能得再次从头说服特朗普",
-          "url": "https://www.toutiao.com/trending/7561736617245838889/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时08分]"
-        },
-        {
           "title": "美国总统特朗普：将谈论向乌克兰输送“战斧”导弹。",
           "url": "https://flash.jin10.com/detail/20251018014737855800",
           "source": "金十数据",
@@ -120,43 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时08分]"
-        },
-        {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
-          "ranks": [
-            14,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时08分]"
-        },
-        {
-          "title": "特朗普与普京约定在匈牙利会面",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%BA%A6%E5%AE%9A%E5%9C%A8%E5%8C%88%E7%89%99%E5%88%A9%E4%BC%9A%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时08分]"
         },
         {
           "title": "特朗普重新起诉《纽约时报》",
@@ -177,11 +179,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 04时10分]"
+        },
+        {
+          "title": "特朗普政府对美国纽约市等多地暂停110亿美元项目拨款。",
+          "url": "https://wallstreetcn.com/livenews/2989870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时10分 ~ 03时08分]"
+          "time_info": "[03时08分 ~ 04时10分]"
         },
         {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
@@ -200,11 +215,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 04时10分]"
         },
         {
           "title": "美国参议院民主党成员Warren再次呼呼特朗普政府在美联储10月份货币政策会议之前发布9月非农就业报告。",
@@ -212,11 +228,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 04时10分]"
         },
         {
           "title": "美国总统特朗普：（提到普京和泽连斯基）他们之间有着极大的积怨，我认为这正在阻碍局势的解决。",
@@ -272,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "特朗普与泽连斯基再度会面，就美供乌“战斧”等问题表态",
+          "url": "https://wallstreetcn.com/livenews/2989872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         },
         {
           "title": "特朗普施压下 国际海事组织推迟船舶排放收费计划表决",
@@ -434,7 +462,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -462,11 +490,12 @@
           "ranks": [
             9,
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时10分]"
         },
         {
           "title": "金价涨了 金条能变现吗",
@@ -512,11 +541,12 @@
           "source": "微博",
           "ranks": [
             25,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 04时10分]"
         },
         {
           "title": "金价暴涨有新人用“金包银”省5万",
@@ -555,8 +585,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时10分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -567,8 +597,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时10分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -624,8 +654,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗外长：安理会第2231号决议18日到期 既往对伊限制将终止",
+          "url": "https://flash.jin10.com/detail/20251018034405343800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         }
       ]
     }
