@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T13:08:29.375999+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2025-10-20T14:12:44.307698+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 13时08分]"
+          "appearance_count": 8,
+          "time_info": "[09时38分 ~ 14时12分]"
         },
         {
           "title": "释疑｜普京向特朗普提新要求，顿巴斯因何成兵家必争？",
@@ -77,8 +77,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时07分 ~ 13时08分]"
+          "appearance_count": 21,
+          "time_info": "[00时07分 ~ 14时12分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -94,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时07分 ~ 13时08分]"
+          "appearance_count": 21,
+          "time_info": "[00时07分 ~ 14时12分]"
         },
         {
           "title": "全美700万人上街抗议特朗普",
@@ -121,8 +121,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时07分 ~ 13时08分]"
+          "appearance_count": 21,
+          "time_info": "[00时07分 ~ 14时12分]"
         },
         {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
@@ -226,6 +226,20 @@
           "time_info": "[00时08分 ~ 06时08分]"
         },
         {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.toutiao.com/trending/7563020612747165715/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            12,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时38分 ~ 14时12分]"
+        },
+        {
           "title": "泽连斯基：愿参加特朗普与普京的会晤",
           "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
@@ -240,6 +254,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时28分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时38分 ~ 14时12分]"
         },
         {
           "title": "比特币涨超2.2%，试探11万美元。 美国参议院Lindsey Graham称，总统特朗普表态要针对哥伦比亚宣布关税（威胁）。 预计将在纽约时间10月19-29日宣布。 特朗普称他要“打击哥伦比亚”。 此前，特朗普掐断了美国对哥伦比亚的援助。",
@@ -334,19 +361,6 @@
           "time_info": "[00时08分 ~ 06时08分]"
         },
         {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.toutiao.com/trending/7563020612747165715/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 13时08分]"
-        },
-        {
           "title": "特朗普：对哈马斯何时解除武装没有强硬“时间线”。",
           "url": "https://flash.jin10.com/detail/20251019223834796800",
           "source": "金十数据",
@@ -409,19 +423,6 @@
           "time_info": "[08时28分 ~ 12时13分]"
         },
         {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 13时08分]"
-        },
-        {
           "title": "美17州检察长起诉特朗普政府说明啥",
           "url": "https://www.toutiao.com/trending/7563083390186950170/",
           "source": "今日头条",
@@ -468,6 +469,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        },
+        {
+          "title": "特朗普被曝与泽连斯基再度激烈争吵",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            15,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 14时12分]"
         },
         {
           "title": "特朗普：普京将从乌克兰拿走一些东西，他赢得了一些财产。",
@@ -567,17 +582,15 @@
           "time_info": "08时28分"
         },
         {
-          "title": "特朗普被曝与泽连斯基再度激烈争吵",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
-          "source": "百度热搜",
+          "title": "美媒爆特朗普疑似险遭暗杀",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E4%BC%BC%E9%99%A9%E9%81%AD%E6%9A%97%E6%9D%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D5%26dgr%3D0%26band_rank%3D5%26q%3D%2523%25E7%25BE%258E%25E5%25AA%2592%25E7%2588%2586%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2596%2591%25E4%25BC%25BC%25E9%2599%25A9%25E9%2581%25AD%25E6%259A%2597%25E6%259D%2580%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26stream_entry_id%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D5%26display_time%3D1760940725%26pre_seqid%3D17609407250730188106859",
+          "source": "微博",
           "ranks": [
-            24,
-            15,
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 13时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "全美700万人涌上街头抗议特朗普",
@@ -640,6 +653,18 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
+          "title": "特朗普政策会走向何方",
+          "url": "https://www.toutiao.com/trending/7563147692252073508/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时12分]"
+        },
+        {
           "title": "特朗普发布辣眼AI视频引争议",
           "url": "https://www.douyin.com/hot/2275568",
           "source": "抖音",
@@ -682,6 +707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        },
+        {
+          "title": "特朗普称俄乌应按当前战线“割裂”顿巴斯地区",
+          "url": "https://wallstreetcn.com/livenews/2990457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "美国总统特朗普：美国正考虑从阿根廷购买牛肉。",
@@ -728,6 +764,17 @@
           "time_info": "08时28分"
         },
         {
+          "title": "欧盟官员卡拉斯：我们看到了特朗普为促成乌克兰和平所付出的努力。",
+          "url": "https://wallstreetcn.com/livenews/2990450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：特朗普将于今天或明天宣布对哥伦比亚实施重大关税措施。",
           "url": "https://flash.jin10.com/detail/20251020054917939800",
           "source": "金十数据",
@@ -748,17 +795,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
-        },
-        {
-          "title": "特朗普政策会走向何方",
-          "url": "https://www.toutiao.com/trending/7563147692252073508/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         },
         {
           "title": "美国副总统万斯：美国总统特朗普尚未决定向乌克兰提供战斧导弹。",
@@ -848,11 +884,25 @@
           "ranks": [
             30,
             27,
-            20
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时30分 ~ 14时12分]"
+        },
+        {
+          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时30分 ~ 13时08分]"
+          "time_info": "[12时12分 ~ 14时12分]"
         },
         {
           "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
@@ -865,18 +915,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 03时08分]"
-        },
-        {
-          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 13时08分]"
         },
         {
           "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
@@ -982,11 +1020,12 @@
           "url": "https://wallstreetcn.com/articles/3757466",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 14时12分]"
         }
       ]
     }
