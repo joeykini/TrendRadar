@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T08:28:21.647833+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2025-10-20T09:39:17.667376+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 56,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 08时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时07分 ~ 09时39分]"
         },
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -62,11 +62,12 @@
             11,
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 08时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时07分 ~ 09时39分]"
         },
         {
           "title": "全美700万人上街抗议特朗普",
@@ -93,8 +94,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 08时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时07分 ~ 09时39分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -104,8 +105,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 08时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时07分 ~ 09时39分]"
         },
         {
           "title": "特朗普：（就美国帮助企业后获取其股份）这是 “美国方式”。",
@@ -218,6 +219,18 @@
           "time_info": "[00时08分 ~ 06时08分]"
         },
         {
+          "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
+          "url": "https://news.ifeng.com/c/8naqHMsvJOK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时28分 ~ 09时39分]"
+        },
+        {
           "title": "特朗普：沙特已表示愿意加入亚伯拉罕协议。",
           "url": "https://flash.jin10.com/detail/20251019223930260800",
           "source": "金十数据",
@@ -231,6 +244,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 06时08分]"
+        },
+        {
+          "title": "特朗普：对华征收100%关税对美经济“不能持久”",
+          "url": "https://news.ifeng.com/c/8nbAb1jLGoo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
         },
         {
           "title": "特朗普：希望看到沙特加入亚伯拉罕协议。",
@@ -327,6 +351,28 @@
           "time_info": "[00时08分 ~ 06时08分]"
         },
         {
+          "title": "美17州检察长起诉特朗普政府说明啥",
+          "url": "https://www.toutiao.com/trending/7563083390186950170/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "特朗普专机着陆机场附近现可疑物",
+          "url": "https://news.ifeng.com/c/8nbCKtQ9LFh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
           "url": "https://wallstreetcn.com/livenews/2990227",
           "source": "华尔街见闻-快讯",
@@ -346,7 +392,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -443,18 +489,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
-        },
-        {
-          "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
-          "url": "https://news.ifeng.com/c/8naqHMsvJOK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -484,6 +519,30 @@
           "time_info": "[00时08分 ~ 03时08分]"
         },
         {
+          "title": "泽连斯基：愿参加特朗普与普京的会晤",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时28分 ~ 09时39分]"
+        },
+        {
+          "title": "俄美共建白令海峡隧道？特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BE%8E%E5%85%B1%E5%BB%BA%E7%99%BD%E4%BB%A4%E6%B5%B7%E5%B3%A1%E9%9A%A7%E9%81%93%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时28分 ~ 09时39分]"
+        },
+        {
           "title": "“特朗普全程在骂人”，上周五与泽连斯基再现“白宫争执”",
           "url": "https://flash.jin10.com/detail/20251020051502117800",
           "source": "金十数据",
@@ -508,6 +567,17 @@
           "time_info": "[06时08分 ~ 07时09分]"
         },
         {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.toutiao.com/trending/7563020612747165715/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
           "title": "8 个月内泽连斯基三访白宫，他与特朗普谈了什么？美国会提供「战斧」吗？俄乌局势转折点将至？",
           "url": "https://www.zhihu.com/question/1962826833562173906",
           "source": "知乎",
@@ -530,13 +600,35 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
+          "title": "遭特朗普指责纵容毒品生产 哥方反驳",
+          "url": "https://www.toutiao.com/trending/7562176658153701386/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
           "title": "美国总统特朗普：顿巴斯地区应保持现状，目前俄罗斯控制着其中约78%的土地。",
           "url": "https://flash.jin10.com/detail/20251020081158614800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -547,7 +639,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -558,7 +650,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -569,7 +661,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -580,7 +672,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -591,7 +683,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -607,26 +699,15 @@
           "time_info": "07时09分"
         },
         {
-          "title": "泽连斯基：愿参加特朗普与普京的会晤",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
+          "title": "特朗普：美方向以施压 加沙停火协议仍然有效",
+          "url": "https://wallstreetcn.com/livenews/2990290",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时28分"
-        },
-        {
-          "title": "俄美共建白令海峡隧道？特朗普回应",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BE%8E%E5%85%B1%E5%BB%BA%E7%99%BD%E4%BB%A4%E6%B5%B7%E5%B3%A1%E9%9A%A7%E9%81%93%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
+          "time_info": "09时39分"
         },
         {
           "title": "美国副总统万斯：美国总统特朗普尚未决定向乌克兰提供战斧导弹。",
@@ -635,7 +716,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -692,7 +773,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -701,11 +782,12 @@
           "url": "https://news.ifeng.com/c/8naUXXhxDm5",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时28分 ~ 09时39分]"
         },
         {
           "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
@@ -756,7 +838,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -767,7 +849,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         }
@@ -787,8 +869,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 08时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时07分 ~ 09时39分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
