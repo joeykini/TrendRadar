@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T13:08:51.720191+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2025-10-22T14:11:31.699964+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -67,6 +67,18 @@
           "time_info": "[00时10分 ~ 09时36分]"
         },
         {
+          "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819515",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时36分 ~ 14时11分]"
+        },
+        {
           "title": "外交部回应特朗普称将于明年访华",
           "url": "https://www.toutiao.com/trending/7563338600507768851/",
           "source": "今日头条",
@@ -95,8 +107,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时10分 ~ 13时08分]"
+          "appearance_count": 19,
+          "time_info": "[00时10分 ~ 14时11分]"
         },
         {
           "title": "特朗普：特普会待定，不想白费功夫",
@@ -104,23 +116,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时36分 ~ 13时08分]"
-        },
-        {
-          "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31819515",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时36分 ~ 13时08分]"
+          "appearance_count": 7,
+          "time_info": "[09时36分 ~ 14时11分]"
         },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -167,11 +168,48 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 13时08分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时11分]"
+        },
+        {
+          "title": "特朗普称大陆不想对台湾发动进攻，国台办回应",
+          "url": "https://news.ifeng.com/c/8neiMKW5b9G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时11分]"
+        },
+        {
+          "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时36分 ~ 14时11分]"
+        },
+        {
+          "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
+          "url": "https://wallstreetcn.com/articles/3757603",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 14时11分]"
         },
         {
           "title": "美学者：特朗普对华贸易政策反复变化让人厌倦",
@@ -185,28 +223,30 @@
           "time_info": "[09时36分 ~ 10时39分]"
         },
         {
-          "title": "特朗普称大陆不想对台湾发动进攻，国台办回应",
-          "url": "https://news.ifeng.com/c/8neiMKW5b9G",
-          "source": "凤凰网",
+          "title": "特朗普称大陆不想进攻台湾 国台办回应",
+          "url": "https://www.toutiao.com/trending/7563604843634544147/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "14时11分"
         },
         {
-          "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
-          "source": "澎湃新闻",
+          "title": "特朗普对俄乌和谈态度再变",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88%E6%80%81%E5%BA%A6%E5%86%8D%E5%8F%98",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            19,
-            17
+            28,
+            22,
+            26,
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时36分 ~ 13时08分]"
+          "time_info": "[10时39分 ~ 14时11分]"
         },
         {
           "title": "特朗普：尚未就与普京的会晤做出决定",
@@ -253,18 +293,6 @@
           "time_info": "04时11分"
         },
         {
-          "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
-          "url": "https://wallstreetcn.com/articles/3757603",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 13时08分]"
-        },
-        {
           "title": "特朗普政府将回填战略石油储备，美国油价昨日创五个月新低",
           "url": "https://wallstreetcn.com/livenews/2991351",
           "source": "华尔街见闻-快讯",
@@ -274,20 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
-        },
-        {
-          "title": "特朗普对俄乌和谈态度再变",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88%E6%80%81%E5%BA%A6%E5%86%8D%E5%8F%98",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            22,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 13时08分]"
         },
         {
           "title": "Cargill Inc.（嘉吉）利润在第一财季增长86%，美国总统特朗普的税收法案带来支持。",
@@ -376,6 +390,19 @@
           "time_info": "[05时07分 ~ 06时09分]"
         },
         {
+          "title": "特朗普吹嘘从各国拿到巨额关税资金",
+          "url": "https://www.toutiao.com/trending/7563600041760555071/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时11分]"
+        },
+        {
           "title": "美国总统特朗普：除非政府重新开放，否则不会与民主党领导人会面。",
           "url": "https://flash.jin10.com/detail/20251022050702789800",
           "source": "金十数据",
@@ -398,18 +425,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 13时08分]"
-        },
-        {
-          "title": "特朗普吹嘘从各国拿到巨额关税资金",
-          "url": "https://www.toutiao.com/trending/7563600041760555071/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时08分]"
         },
         {
           "title": "美国总统特朗普：仍认为乌克兰有机会与俄罗斯实现停火。未来两天内，我们将就俄乌局势发布通知。",
@@ -658,6 +673,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "中方回应特朗普称明年将访华",
+          "url": "https://www.douyin.com/hot/2277574",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：众议院民主党领袖杰弗里斯和我周二已与特朗普取得联系，希望双方坐下来进行谈判。",
           "url": "https://flash.jin10.com/detail/20251022025236255800",
           "source": "金十数据",
@@ -697,7 +723,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -990,8 +1016,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时28分 ~ 13时08分]"
+          "appearance_count": 8,
+          "time_info": "[08时28分 ~ 14时11分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -1179,19 +1205,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时10分 ~ 13时08分]"
+          "appearance_count": 19,
+          "time_info": "[00时10分 ~ 14时11分]"
         },
         {
           "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
           "url": "https://www.cls.cn/detail/2176453",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时36分 ~ 13时08分]"
+          "appearance_count": 7,
+          "time_info": "[09时36分 ~ 14时11分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -1232,6 +1259,20 @@
           "time_info": "[08时28分 ~ 12时09分]"
         },
         {
+          "title": "金价大跌有人一夜亏5万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E4%B8%80%E5%A4%9C%E4%BA%8F5%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26pos%3D15%26lcate%3D5001%26band_rank%3D15%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E4%25B8%2580%25E5%25A4%259C%25E4%25BA%258F5%25E4%25B8%2587%2523%26c_type%3D31%26realpos%3D15%26dgr%3D0%26cate%3D5001%26display_time%3D1761100629%26pre_seqid%3D176110062904402308722151",
+          "source": "微博",
+          "ranks": [
+            15,
+            11,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 14时11分]"
+        },
+        {
           "title": "国际金价一度暴跌6%",
           "url": "https://www.toutiao.com/trending/7563812032793808394/",
           "source": "今日头条",
@@ -1245,20 +1286,6 @@
           "time_info": "[08时28分 ~ 11时26分]"
         },
         {
-          "title": "金价大跌有人一夜亏5万",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E4%B8%80%E5%A4%9C%E4%BA%8F5%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26pos%3D15%26lcate%3D5001%26band_rank%3D15%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E4%25B8%2580%25E5%25A4%259C%25E4%25BA%258F5%25E4%25B8%2587%2523%26c_type%3D31%26realpos%3D15%26dgr%3D0%26cate%3D5001%26display_time%3D1761100629%26pre_seqid%3D176110062904402308722151",
-          "source": "微博",
-          "ranks": [
-            15,
-            11,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 13时08分]"
-        },
-        {
           "title": "金价银价急跌",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D24%26cate%3D5001%26realpos%3D24%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E6%2580%25A5%25E8%25B7%258C%2523%26pos%3D24%26dgr%3D0%26c_type%3D31%26display_time%3D1761088209%26pre_seqid%3D176108820904703133243135",
           "source": "微博",
@@ -1270,6 +1297,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时10分 ~ 11时26分]"
+        },
+        {
+          "title": "金价再次跌破 4200 美元，银行提示贵金属风险，交易所上调保证金，如何看待近期调整？普通投资者如何应对？",
+          "url": "https://www.zhihu.com/question/1964024451826943233",
+          "source": "知乎",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时11分]"
         },
         {
           "title": "国际金价大跌原因",
@@ -1286,18 +1325,6 @@
           "time_info": "[00时10分 ~ 08时28分]"
         },
         {
-          "title": "金价再次跌破 4200 美元，银行提示贵金属风险，交易所上调保证金，如何看待近期调整？普通投资者如何应对？",
-          "url": "https://www.zhihu.com/question/1964024451826943233",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 13时08分]"
-        },
-        {
           "title": "金价银价为什么同时下跌",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8C%E6%97%B6%E4%B8%8B%E8%B7%8C",
           "source": "bilibili 热搜",
@@ -1310,6 +1337,18 @@
           "time_info": "[11时26分 ~ 12时09分]"
         },
         {
+          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
+          "url": "https://www.cls.cn/detail/2176533",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时11分]"
+        },
+        {
           "title": "金十图示：2025年10月22日（周三）上海金早盘价为941.48元/克，较国际金价(941.71元/克)，低0.23元/克",
           "url": "https://flash.jin10.com/detail/20251022101752536800",
           "source": "金十数据",
@@ -1319,17 +1358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
-        },
-        {
-          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
-          "url": "https://www.cls.cn/detail/2176533",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         },
         {
           "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
@@ -1392,8 +1420,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 13时08分]"
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 14时11分]"
         },
         {
           "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
@@ -1477,11 +1505,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时28分 ~ 13时08分]"
+          "appearance_count": 8,
+          "time_info": "[08时28分 ~ 14时11分]"
         },
         {
           "title": "OpenAI首个AI浏览器发布",
@@ -1566,8 +1595,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时10分 ~ 13时08分]"
+          "appearance_count": 19,
+          "time_info": "[00时10分 ~ 14时11分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -1624,11 +1653,12 @@
           "url": "https://www.zhihu.com/question/1963713236953203912",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时11分]"
         },
         {
           "title": "DeepSeek新模型速览",
@@ -1645,7 +1675,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
@@ -1694,6 +1724,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "英国9月零售物价指数月率录得-0.4%，为2024年9月以来最大降幅。英国9月CPI月率录得0%，为2025年1月以来最小增幅。英镑兑美元GBP/USD短线跳水40点。",
+          "url": "https://flash.jin10.com/detail/20251022140056733800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "美元指数21日上涨",
           "url": "https://flash.jin10.com/detail/20251022035716416800",
           "source": "金十数据",
@@ -1717,7 +1758,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
