@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T19:09:09.975401+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2025-10-23T20:12:12.870949+08:00",
+  "total_titles_processed": 1969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 98,
+      "match_count": 104,
       "titles": [
         {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
@@ -143,8 +143,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时07分 ~ 19时09分]"
+          "appearance_count": 13,
+          "time_info": "[13时07分 ~ 20时12分]"
         },
         {
           "title": "特朗普取消与普京的会面",
@@ -202,8 +202,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时07分 ~ 19时09分]"
+          "appearance_count": 13,
+          "time_info": "[13时07分 ~ 20时12分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -217,8 +217,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时34分 ~ 19时09分]"
+          "appearance_count": 20,
+          "time_info": "[09时34分 ~ 20时12分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -282,8 +282,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时09分 ~ 19时09分]"
+          "appearance_count": 30,
+          "time_info": "[00时09分 ~ 20时12分]"
         },
         {
           "title": "特朗普普京会晤为何被“急踩刹车”",
@@ -335,6 +335,17 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时10分 ~ 20时12分]"
+        },
+        {
           "title": "特朗普与普京会晤为何急踩刹车",
           "url": "https://www.toutiao.com/trending/7563604843642867263/",
           "source": "今日头条",
@@ -382,15 +393,15 @@
           "time_info": "[02时12分 ~ 08时27分]"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
           "source": "凤凰网",
           "ranks": [
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时10分 ~ 19时09分]"
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 20时12分]"
         },
         {
           "title": "美国对俄施加新制裁，特朗普取消与普京会面",
@@ -505,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "以色列外交部长：政府目前尚未决定提前举行投票，因为正全力以赴确保美国总统特朗普的计划取得成功。",
+          "url": "https://flash.jin10.com/detail/20251023195236818800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "美国芝加哥商业交易所（CME）活牛期货跌幅重新扩大至1%，饲牛期货跌幅扩大至2%。 该国总统特朗普称，“那些饲养牛的农场主们必须降价。（我所挑起的）美国关税让养殖户们做得很好。”",
@@ -889,6 +911,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "扎哈罗娃回应特朗普证实取消“普特会” ：注意到该言论，俄愿意继续接触",
+          "url": "https://wallstreetcn.com/livenews/2992573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
           "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
           "url": "https://flash.jin10.com/detail/20251023043122869800",
           "source": "金十数据",
@@ -900,6 +933,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "以色列外交部长：美国人知道以色列致力于特朗普的和平计划，但我们正在等待哈马斯履行他们的义务。",
+          "url": "https://flash.jin10.com/detail/20251023194619319800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
           "title": "美国总统特朗普：畜牧场主必须降低价格。",
           "url": "https://flash.jin10.com/detail/20251023004402537800",
           "source": "金十数据",
@@ -909,6 +953,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "美国总统特朗普将于当地时间下午3点（北京时间次日凌晨3点）在华盛顿发表声明。",
+          "url": "https://wallstreetcn.com/livenews/2992566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "美媒称美国允许乌对俄使用远程导弹 特朗普：假新闻！",
@@ -975,6 +1030,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "以色列外交部长：以色列致力于推动美国总统特朗普计划取得成功。",
+          "url": "https://flash.jin10.com/detail/20251023193901665800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "芝加哥商业交易所（CME）饲料牛期货在特朗普表示牧场主必须降低价格后，跌至日内交易限额。",
@@ -1199,8 +1265,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时27分 ~ 19时09分]"
+          "appearance_count": 21,
+          "time_info": "[08时27分 ~ 20时12分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1240,8 +1306,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时09分 ~ 19时09分]"
+          "appearance_count": 30,
+          "time_info": "[00时09分 ~ 20时12分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -1682,8 +1748,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时34分 ~ 19时09分]"
+          "appearance_count": 20,
+          "time_info": "[09时34分 ~ 20时12分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -1805,7 +1871,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI发首款AI浏览器",
@@ -1838,7 +1904,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -1852,6 +1918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "OpenAI：Vantage和甲骨文(ORCL.N)将创造1000多个长期工作岗位和数千个间接工作岗位。",
