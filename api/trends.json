@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T21:17:07.350221+08:00",
-  "total_titles_processed": 2057,
+  "generated_at": "2025-10-23T22:08:26.375350+08:00",
+  "total_titles_processed": 2164,
   "failed_sources": [],
   "trends": [
     {
@@ -143,8 +143,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时07分 ~ 21时17分]"
+          "appearance_count": 16,
+          "time_info": "[13时07分 ~ 22时08分]"
         },
         {
           "title": "特朗普取消与普京的会面",
@@ -199,8 +199,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时10分 ~ 21时17分]"
+          "appearance_count": 11,
+          "time_info": "[16时10分 ~ 22时08分]"
         },
         {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
@@ -213,8 +213,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时07分 ~ 21时17分]"
+          "appearance_count": 16,
+          "time_info": "[13时07分 ~ 22时08分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -225,11 +225,12 @@
             14,
             12,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时34分 ~ 21时17分]"
+          "appearance_count": 23,
+          "time_info": "[09时34分 ~ 22时08分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -322,6 +323,17 @@
           "time_info": "[00时09分 ~ 13时08分]"
         },
         {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时11分 ~ 22时08分]"
+        },
+        {
           "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
           "source": "澎湃新闻",
@@ -344,17 +356,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时09分 ~ 07时08分]"
-        },
-        {
-          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时11分 ~ 21时17分]"
         },
         {
           "title": "特朗普与普京会晤为何急踩刹车",
@@ -535,7 +536,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -907,7 +908,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -1278,7 +1279,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1288,8 +1289,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[08时27分 ~ 21时17分]"
+          "appearance_count": 24,
+          "time_info": "[08时27分 ~ 22时08分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1417,7 +1418,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -1517,6 +1518,39 @@
           "time_info": "04时10分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、黄金ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2992636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.1%，纳指平开。特斯拉跌超4%，马斯克下调机器人和Robotaxi目标。能源股普遍上涨，埃克森美孚石油涨超1.8%，康菲石油涨近3%。美国航空涨超4%，此前该公司上调了2025年盈利预期。IBM股价开盘下跌8.3%，为7月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251023214255610800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "金十图示：2025年10月22日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251023003551309800",
           "source": "金十数据",
@@ -1548,6 +1582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2992616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         }
       ]
     },
@@ -1686,6 +1731,17 @@
           "time_info": "[11时22分 ~ 12时09分]"
         },
         {
+          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
+          "url": "https://wallstreetcn.com/articles/3757691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 22时08分]"
+        },
+        {
           "title": "黄金价格大跳水 金价到顶了吗",
           "url": "https://www.toutiao.com/trending/7563965781701037609/",
           "source": "今日头条",
@@ -1696,17 +1752,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时09分 ~ 05时08分]"
-        },
-        {
-          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
-          "url": "https://wallstreetcn.com/articles/3757691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 21时17分]"
         },
         {
           "title": "分析师：美政府停摆持续与地缘政治紧张局势推动金价重返4100美元上方",
@@ -1793,8 +1838,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时34分 ~ 21时17分]"
+          "appearance_count": 23,
+          "time_info": "[09时34分 ~ 22时08分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -1916,7 +1961,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI发首款AI浏览器",
@@ -1952,6 +1997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/2992635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
