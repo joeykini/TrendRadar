@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T19:08:16.301636+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2025-10-25T20:15:56.315966+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "韩统一部：特朗普金正恩会面机会“相当大”",
@@ -41,6 +41,17 @@
           "time_info": "[00时08分 ~ 06时08分]"
         },
         {
+          "title": "特朗普：愿在亚洲行期间会见金正恩",
+          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时07分 ~ 20时15分]"
+        },
+        {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
           "url": "https://www.cls.cn/detail/2180450",
           "source": "财联社热门",
@@ -52,35 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时07分 ~ 19时08分]"
-        },
-        {
-          "title": "特朗普玩“军阀剧本”这波绝了!",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346209&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%A9%E2%80%9C%E5%86%9B%E9%98%80%E5%89%A7%E6%9C%AC%E2%80%9D%E8%BF%99%E6%B3%A2%E7%BB%9D%E4%BA%86%21",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时09分 ~ 19时08分]"
-        },
-        {
-          "title": "特朗普：愿在亚洲行期间会见金正恩",
-          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时07分 ~ 19时08分]"
+          "appearance_count": 19,
+          "time_info": "[07时07分 ~ 20时15分]"
         },
         {
           "title": "网传特朗普考虑解散 NASA，这是真的吗？有哪些战略考量？",
@@ -98,6 +82,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[11时21分 ~ 19时08分]"
+        },
+        {
+          "title": "特朗普玩“军阀剧本”这波绝了!",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346209&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%A9%E2%80%9C%E5%86%9B%E9%98%80%E5%89%A7%E6%9C%AC%E2%80%9D%E8%BF%99%E6%B3%A2%E7%BB%9D%E4%BA%86%21",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时09分 ~ 20时15分]"
         },
         {
           "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
@@ -122,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时07分 ~ 19时08分]"
+          "appearance_count": 19,
+          "time_info": "[07时07分 ~ 20时15分]"
         },
         {
           "title": "特朗普赦免币安创始人赵长鹏",
@@ -202,6 +203,19 @@
           "time_info": "[12时10分 ~ 18时07分]"
         },
         {
+          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
+          "url": "https://wallstreetcn.com/articles/3757880",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时07分 ~ 20时15分]"
+        },
+        {
           "title": "据CNN：特朗普考虑打击委内瑞拉境内可卡因生产设施 。",
           "url": "https://flash.jin10.com/detail/20251025033713399800",
           "source": "金十数据",
@@ -213,19 +227,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时09分 ~ 08时27分]"
-        },
-        {
-          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
-          "url": "https://wallstreetcn.com/articles/3757880",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时07分 ~ 19时08分]"
         },
         {
           "title": "特朗普拿美加贸易谈判要挟得逞：加拿大将暂停播放反关税广告",
@@ -280,6 +281,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时07分 ~ 19时08分]"
+        },
+        {
+          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2993685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "美国高级官员：特朗普将在马来西亚签署重要和平协议。",
@@ -353,11 +365,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时08分]"
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 20时15分]"
         },
         {
           "title": "美国总统特朗普：我们将与新任日本首相建立美妙的关系。",
@@ -450,6 +463,19 @@
           "time_info": "[01时07分 ~ 03时07分]"
         },
         {
+          "title": "特朗普在“对中贸易争锋”中阵脚已乱",
+          "url": "https://www.toutiao.com/trending/7565063614768352822/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 20时15分]"
+        },
+        {
           "title": "特朗普据悉提名迈克尔·塞利格担任CFTC主席",
           "url": "https://flash.jin10.com/detail/20251025035840305800",
           "source": "金十数据",
@@ -460,18 +486,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时07分 ~ 08时27分]"
-        },
-        {
-          "title": "特朗普在“对中贸易争锋”中阵脚已乱",
-          "url": "https://www.toutiao.com/trending/7565063614768352822/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 19时08分]"
         },
         {
           "title": "美国总统特朗普：（当谈及里根关税广告）加拿大本应在今晚撤下该广告。",
@@ -498,6 +512,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时08分 ~ 17时07分]"
+        },
+        {
+          "title": "评论员：特朗普企图和我们玩田忌赛马",
+          "url": "https://www.toutiao.com/trending/7565030416722169363/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 20时15分]"
         },
         {
           "title": "市场消息：加拿大安大略省将撤销“反对关税”的广告，此前美国总统特朗普叫停两国之间的对话。",
@@ -596,15 +622,26 @@
           "time_info": "[03时07分 ~ 04时09分]"
         },
         {
-          "title": "评论员：特朗普企图和我们玩田忌赛马",
-          "url": "https://www.toutiao.com/trending/7565030416722169363/",
-          "source": "今日头条",
+          "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
+          "url": "https://flash.jin10.com/detail/20251025185202927800",
+          "source": "金十数据",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 16时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
+          "url": "https://flash.jin10.com/detail/20251025183737163800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "美媒：特朗普计划打造全新下一代“黄金舰队”或配备高超音速导弹",
@@ -671,12 +708,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "特朗普拟邀高市早苗同乘总统专机",
+          "url": "https://www.toutiao.com/trending/7565015433696247871/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
@@ -688,8 +736,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时27分 ~ 19时08分]"
+          "appearance_count": 18,
+          "time_info": "[08时27分 ~ 20时15分]"
         },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -714,8 +762,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时07分 ~ 19时08分]"
+          "appearance_count": 19,
+          "time_info": "[07时07分 ~ 20时15分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -817,6 +865,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "美股为何一直在上涨",
+          "url": "https://www.toutiao.com/trending/7564074588235317290/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         }
       ]
     },
