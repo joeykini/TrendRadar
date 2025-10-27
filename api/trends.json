@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T16:10:17.087475+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2025-10-27T17:10:03.728515+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -158,6 +158,17 @@
           "time_info": "[14时13分 ~ 16时10分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 17时10分]"
+        },
+        {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
           "url": "https://flash.jin10.com/detail/20251027041707138800",
           "source": "金十数据",
@@ -204,13 +215,26 @@
           "time_info": "14时13分"
         },
         {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时13分 ~ 17时10分]"
+        },
+        {
           "title": "特朗普：在医院接受了一次“完美的”核磁共振检查",
           "url": "https://flash.jin10.com/detail/20251027155706399800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -243,7 +267,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -258,18 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时13分 ~ 15时10分]"
-        },
-        {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时13分 ~ 16时10分]"
         },
         {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
@@ -554,7 +566,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -609,7 +621,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -785,19 +797,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时42分 ~ 16时10分]"
+          "appearance_count": 11,
+          "time_info": "[10时42分 ~ 17时10分]"
         },
         {
           "title": "美股盘前，科技股、中概股普涨",
           "url": "https://wallstreetcn.com/livenews/2994104",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 17时10分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -850,6 +863,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时08分 ~ 06时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金和白银价格回落，贵金属矿商美股盘前股价下跌，纽蒙特矿业(NEM.N)下跌3.4%，巴里克矿业(B.N)下跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20251027163510344800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时10分"
         }
       ]
     },
