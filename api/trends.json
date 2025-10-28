@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T18:09:08.153207+08:00",
-  "total_titles_processed": 1687,
+  "generated_at": "2025-10-28T19:07:01.545820+08:00",
+  "total_titles_processed": 1801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 86,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -108,6 +108,18 @@
           "time_info": "[08时26分 ~ 13时08分]"
         },
         {
+          "title": "高市早苗给特朗普送礼 日网民炸锅",
+          "url": "https://www.toutiao.com/trending/7566135501460098598/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时09分 ~ 19时07分]"
+        },
+        {
           "title": "美军机南海坠毁 特朗普：可能油不好",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
           "source": "百度热搜",
@@ -121,18 +133,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时35分 ~ 14时11分]"
-        },
-        {
-          "title": "高市早苗给特朗普送礼 日网民炸锅",
-          "url": "https://www.toutiao.com/trending/7566135501460098598/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时09分 ~ 18时09分]"
         },
         {
           "title": "特朗普：愿为金正恩延长亚洲行程",
@@ -167,6 +167,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时07分]"
+        },
+        {
+          "title": "特朗普演讲时当众搂住高市早苗",
+          "url": "https://www.toutiao.com/trending/7565434042020056612/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
+        },
+        {
+          "title": "美军航母摔飞机事大了！特朗普亲自解释靠谱吗？",
+          "url": "https://news.ifeng.com/c/8np6B3JJJNc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
+        },
+        {
+          "title": "特朗普自顾自检阅 高市早苗原地愣住",
+          "url": "https://www.toutiao.com/trending/7565434042020007460/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "特朗普见高市早苗三句话不离安倍",
@@ -241,6 +274,39 @@
           "time_info": "16时10分"
         },
         {
+          "title": "美国白宫：美国总统特朗普将于当地时间周三下午12:05（北京时间11:05）在APEC首席执行官午宴上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251028184042152800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "特朗普将于周三12:05在韩国举行的亚太经合组织会议上发表主旨演讲。",
+          "url": "https://wallstreetcn.com/livenews/2995066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)CEO库克出席了在东京举行的美国总统特朗普晚宴。",
+          "url": "https://flash.jin10.com/detail/20251028183803091800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "美国总统特朗普：感谢日本首相的欢迎。 正签署一项新协议，这是一项非常公平的协议。 我们将一起开展大量贸易。",
           "url": "https://wallstreetcn.com/livenews/2994635",
           "source": "华尔街见闻-快讯",
@@ -252,6 +318,17 @@
           "time_info": "09时36分"
         },
         {
+          "title": "特朗普将于韩国当地时间周三下午6:30与韩国总统共进晚餐。",
+          "url": "https://wallstreetcn.com/livenews/2995065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "特朗普再提2028参选可能，点名两个潜在接班人",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -261,6 +338,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时26分 ~ 10时38分]"
+        },
+        {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时08分 ~ 19时07分]"
         },
         {
           "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
@@ -283,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将于当地时间周三晚上6:30与韩国总统共进晚餐。",
+          "url": "https://flash.jin10.com/detail/20251028183750402800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "据日本电视台（NTV）：日本首相高市早苗正在进行最后协调，准备推荐提名特朗普获得诺贝尔和平奖。",
@@ -317,6 +416,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时26分 ~ 10时38分]"
+        },
+        {
+          "title": "特朗普略过日本国旗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D18%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D18%26c_type%3D31%26pos%3D18%26flag%3D1%26display_time%3D1761641670%26pre_seqid%3D17616416708570195468977",
+          "source": "微博",
+          "ranks": [
+            18,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时08分 ~ 19时07分]"
         },
         {
           "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
@@ -392,17 +504,6 @@
           "time_info": "[01时07分 ~ 05时07分]"
         },
         {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 18时09分]"
-        },
-        {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
           "url": "https://wallstreetcn.com/livenews/2994466",
           "source": "华尔街见闻-快讯",
@@ -414,18 +515,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 03时07分]"
-        },
-        {
-          "title": "特朗普略过日本国旗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D18%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D18%26c_type%3D31%26pos%3D18%26flag%3D1%26display_time%3D1761641670%26pre_seqid%3D17616416708570195468977",
-          "source": "微博",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 18时09分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -486,6 +575,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时11分 ~ 15时10分]"
+        },
+        {
+          "title": "特朗普与高市早苗一同乘机登上美航母",
+          "url": "https://www.toutiao.com/trending/7565775120976429082/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
+        },
+        {
+          "title": "特朗普和高市早苗登华盛顿号航母",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BB%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%8F%B7%E8%88%AA%E6%AF%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "特朗普回应美军机南海坠毁",
@@ -629,6 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "特朗普想要夺取的格陵兰岛发现新金矿",
+          "url": "https://flash.jin10.com/detail/20251028183501527800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "美国总统特朗普：美国已收到日本的军事装备订单。",
@@ -887,7 +1009,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -898,8 +1020,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时29分 ~ 18时09分]"
+          "appearance_count": 20,
+          "time_info": "[07时29分 ~ 19时07分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -936,7 +1058,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -1027,6 +1149,39 @@
           "time_info": "[05时07分 ~ 06时09分]"
         },
         {
+          "title": "联邦快递美股盘前扩大涨势，现上涨5.1%。",
+          "url": "https://wallstreetcn.com/livenews/2995047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "UPS美股盘前涨幅扩大至超20%，公司对第四季度营收预估超过市场预估。",
+          "url": "https://wallstreetcn.com/livenews/2995044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "UPS三季度营收214亿美元，预估208.7亿美元。 三季度经调整后每股收益1.74美元，预估1.32美元。 UPS预计第四季度营收约为240亿美元，市场预估238.7亿美元。 UPS美股盘前涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/2995038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
           "url": "https://flash.jin10.com/detail/20251028000829704800",
           "source": "金十数据",
@@ -1052,7 +1207,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -1077,19 +1232,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时25分 ~ 18时09分]"
-        },
-        {
-          "title": "LBMA预测金价一年内逼近5000美元，白银等金属同涨",
-          "url": "https://flash.jin10.com/detail/20251028175512834800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
+          "appearance_count": 13,
+          "time_info": "[11时25分 ~ 19时07分]"
         },
         {
           "title": "金价突然杀跌原因何在",
@@ -1099,11 +1243,23 @@
             24,
             21,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时10分 ~ 18时09分]"
+          "appearance_count": 8,
+          "time_info": "[15时10分 ~ 19时07分]"
+        },
+        {
+          "title": "LBMA预测金价一年内逼近5000美元，白银等金属同涨",
+          "url": "https://flash.jin10.com/detail/20251028175512834800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "金价",
@@ -1129,6 +1285,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 03时07分]"
+        },
+        {
+          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
+          "url": "https://wallstreetcn.com/articles/3758026",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "金价是由什么决定的",
@@ -1290,7 +1457,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
@@ -1304,6 +1471,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时07分 ~ 07时30分]"
+        },
+        {
+          "title": "PAYPAL美股盘前涨超15%，公司与OpenAI达成支付合作。",
+          "url": "https://wallstreetcn.com/livenews/2995062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
@@ -1323,9 +1501,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "Paypal(PYPL.O)：将把全球商户网络接入OpenAI的系统。",
+          "url": "https://flash.jin10.com/detail/20251028183047581800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "据CNBC：Paypal(PYPL.O)与OpenAI签署协议，成为ChatGPT的支付钱包。",
+          "url": "https://flash.jin10.com/detail/20251028182437625800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
