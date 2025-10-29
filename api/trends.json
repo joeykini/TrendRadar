@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T09:36:36.991401+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-10-29T10:39:23.747517+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 61,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -75,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时28分 ~ 09时36分]"
+          "appearance_count": 4,
+          "time_info": "[08时28分 ~ 10时39分]"
         },
         {
           "title": "“美方没回应”，特朗普高市谈完未举行记者会",
@@ -87,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时28分 ~ 09时36分]"
+          "appearance_count": 4,
+          "time_info": "[08时28分 ~ 10时39分]"
         },
         {
           "title": "特朗普访日在美士兵面前即兴起舞",
@@ -113,6 +113,28 @@
           "time_info": "[08时28分 ~ 08时29分]"
         },
         {
+          "title": "美国总统特朗普：日本首相高市早苗很棒，我觉得她是一个了不起的女人。她非常敏锐，非常聪明，非常有活力。",
+          "url": "https://flash.jin10.com/detail/20251029100237920800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "特朗普抵达韩国。",
+          "url": "https://wallstreetcn.com/livenews/2995543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "特朗普在美航母上讲话时用手拍导弹",
           "url": "https://www.toutiao.com/trending/7565827783251755027/",
           "source": "今日头条",
@@ -124,15 +146,37 @@
           "time_info": "00时11分"
         },
         {
+          "title": "美国总统特朗普：法律明确规定我不得竞选第三任期。",
+          "url": "https://flash.jin10.com/detail/20251029095959630800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "特朗普将于当地时间上午10:30抵达韩国金海机场。",
           "url": "https://wallstreetcn.com/livenews/2995468",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "美国总统特朗普：（关于第三个总统任期）据我所知，我想我是不被允许参选的。",
+          "url": "https://flash.jin10.com/detail/20251029095928228800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "WTI原油期货维持超过2%的跌幅，持稳于60美元关口附近。 哈马斯宣布推迟当地时间10月28日的以色列人质尸体移交工作，因为对方违反（美国总统特朗普撮合的）约定。",
@@ -146,15 +190,15 @@
           "time_info": "01时07分"
         },
         {
-          "title": "特朗普称轰炸广岛长崎只是小冲突",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BD%B0%E7%82%B8%E5%B9%BF%E5%B2%9B%E9%95%BF%E5%B4%8E%E5%8F%AA%E6%98%AF%E5%B0%8F%E5%86%B2%E7%AA%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D4%26realpos%3D4%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25BD%25B0%25E7%2582%25B8%25E5%25B9%25BF%25E5%25B2%259B%25E9%2595%25BF%25E5%25B4%258E%25E5%258F%25AA%25E6%2598%25AF%25E5%25B0%258F%25E5%2586%25B2%25E7%25AA%2581%2523%26stream_entry_id%3D31%26band_rank%3D4%26dgr%3D0%26display_time%3D1761700893%26pre_seqid%3D17617008931500343426421",
-          "source": "微博",
+          "title": "美国总统特朗普：我们拥有史上最强的经济，而能源价格也大幅下降，一切都在下降，牛肉价格有点高，我们也会让它降下来。",
+          "url": "https://flash.jin10.com/detail/20251029095829732800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "10时39分"
         },
         {
           "title": "如何看待特朗普贬低电磁弹射，并宣称动用行政手段废除电磁弹射?",
@@ -163,9 +207,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "特朗普称轰炸广岛长崎只是小冲突",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BD%B0%E7%82%B8%E5%B9%BF%E5%B2%9B%E9%95%BF%E5%B4%8E%E5%8F%AA%E6%98%AF%E5%B0%8F%E5%86%B2%E7%AA%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D4%26realpos%3D4%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25BD%25B0%25E7%2582%25B8%25E5%25B9%25BF%25E5%25B2%259B%25E9%2595%25BF%25E5%25B4%258E%25E5%258F%25AA%25E6%2598%25AF%25E5%25B0%258F%25E5%2586%25B2%25E7%25AA%2581%2523%26stream_entry_id%3D31%26band_rank%3D4%26dgr%3D0%26display_time%3D1761700893%26pre_seqid%3D17617008931500343426421",
+          "source": "微博",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 10时39分]"
         },
         {
           "title": "美国数十个州起诉总统特朗普砍掉食品救助的做法。（纽约时报）",
@@ -216,6 +272,18 @@
           "time_info": "[07时07分 ~ 08时29分]"
         },
         {
+          "title": "特朗普访日在美士兵面前即兴起舞",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D%E5%8D%B3%E5%85%B4%E8%B5%B7%E8%88%9E",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时28分 ~ 10时39分]"
+        },
+        {
           "title": "特朗普媒体与科技公司：“真相社交”将与Crypto.com合作，即将开始在“真相社交”上进行测试，随后将在美国全面推出。",
           "url": "https://flash.jin10.com/detail/20251029042335854800",
           "source": "金十数据",
@@ -240,18 +308,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时08分 ~ 07时07分]"
-        },
-        {
-          "title": "特朗普访日在美士兵面前即兴起舞",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D%E5%8D%B3%E5%85%B4%E8%B5%B7%E8%88%9E",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时28分 ~ 09时36分]"
         },
         {
           "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
@@ -290,6 +346,18 @@
           "time_info": "[05时08分 ~ 06时09分]"
         },
         {
+          "title": "高市早苗在安倍影子下拉拢特朗普",
+          "url": "https://www.toutiao.com/trending/7566425231099694598/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 10时39分]"
+        },
+        {
           "title": "美国卫生部长RFK Jr.勒令疾控中心研究海上风电场对（总统特朗普）所谓造成的伤害。",
           "url": "https://wallstreetcn.com/livenews/2995298",
           "source": "华尔街见闻-快讯",
@@ -326,6 +394,73 @@
           "time_info": "[00时11分 ~ 01时07分]"
         },
         {
+          "title": "美媒：特朗普在解决自己制造的危机",
+          "url": "https://www.toutiao.com/trending/7565398924144443455/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 10时39分]"
+        },
+        {
+          "title": "韩国称，特朗普将与李在明举行午宴峰会，特朗普和李在明将在峰会上讨论贸易和联盟现代化问题。",
+          "url": "https://wallstreetcn.com/livenews/2995537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美国总统特朗普：民主党人造成政府停摆，在某种程度上，他们会回来的。我认为他们目前被“打得很惨”。但他们只要说一句，“我们回到正轨吧”，一切就会恢复。没什么需要签署的，也没什么需要谈的。",
+          "url": "https://flash.jin10.com/detail/20251029095727696800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美国总统特朗普：值得注意的是，英伟达(NVDA.O)股价创出了新高，股市昨天也达到了历史最高点。我们所有市场都表现出色，几乎每一个市场都在不断攀升。",
+          "url": "https://flash.jin10.com/detail/20251029095602323800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "英伟达股价在ALT交易所上涨8.5%，此前特朗普在讲话中谈及Blackwell芯片。",
+          "url": "https://wallstreetcn.com/livenews/2995531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美日首脑会晤：为“美国核电超级大单”买单，高市成功取悦特朗普",
+          "url": "https://wallstreetcn.com/articles/3758090",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "美国法官延长了对美国总统特朗普政府在政府停摆期间大规模裁员的禁令。",
           "url": "https://flash.jin10.com/detail/20251029024058799800",
           "source": "金十数据",
@@ -343,20 +478,75 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
         {
-          "title": "高市早苗在安倍影子下拉拢特朗普",
-          "url": "https://www.toutiao.com/trending/7566425231099694598/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：我们在中东已经实现了和平。如有必要，我们可以很轻松地消除哈马斯，那将意味着哈马斯的终结。但我们更愿意选择和平方式。",
+          "url": "https://flash.jin10.com/detail/20251029095118266800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "特朗普演讲时一把搂住高市早苗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E6%97%B6%E4%B8%80%E6%8A%8A%E6%90%82%E4%BD%8F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美国总统特朗普：以色列有权进行报复。",
+          "url": "https://flash.jin10.com/detail/20251029095016001800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美国总统特朗普：哈马斯是中东协议的一小部分。如果哈马斯不收敛，他们将被消灭。",
+          "url": "https://flash.jin10.com/detail/20251029094924538800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "丰田高管：我们在特朗普第一任期期间的投资约为100亿美元。（本次）我们并未提及同样的金额，但表示希望投资和创造就业的意愿没有改变。",
+          "url": "https://flash.jin10.com/detail/20251029094900785800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "10时39分"
         },
         {
           "title": "特朗普对巴西加征关税的措施遭参议院象征性否决",
@@ -469,6 +659,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "如何看待特朗普与安倍昭惠见面",
+          "url": "https://www.toutiao.com/trending/7566243116995317275/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
           "url": "https://wallstreetcn.com/livenews/2995211",
           "source": "华尔街见闻-快讯",
@@ -486,18 +687,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "美媒：特朗普在解决自己制造的危机",
-          "url": "https://www.toutiao.com/trending/7565398924144443455/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -540,8 +730,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 09时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 10时39分]"
         },
         {
           "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
@@ -553,8 +743,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时07分 ~ 09时36分]"
+          "appearance_count": 5,
+          "time_info": "[07时07分 ~ 10时39分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -612,11 +802,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时28分 ~ 09时36分]"
+          "appearance_count": 4,
+          "time_info": "[08时28分 ~ 10时39分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨将近5%，获得其股权投资的诺基亚ADR涨约23%",
@@ -703,7 +894,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -716,8 +907,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 09时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 10时39分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -764,6 +955,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时08分]"
+        },
+        {
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：考虑到公司未来的资本需求，IPO是最有可能的途径。",
@@ -850,11 +1052,12 @@
             12,
             13,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 09时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 10时39分]"
         },
         {
           "title": "金价银价暴跌原因",
