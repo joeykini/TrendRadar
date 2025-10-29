@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T14:11:36.506772+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2025-10-29T15:08:45.563238+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 107,
+      "match_count": 112,
       "titles": [
         {
           "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时28分 ~ 14时11分]"
+          "appearance_count": 12,
+          "time_info": "[08时28分 ~ 15时08分]"
         },
         {
           "title": "“美方没回应”，特朗普高市谈完未举行记者会",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时28分 ~ 14时11分]"
+          "appearance_count": 12,
+          "time_info": "[08时28分 ~ 15时08分]"
         },
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时11分 ~ 08时29分]"
+        },
+        {
+          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
+          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 15时08分]"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
@@ -80,15 +91,18 @@
           "time_info": "[00时11分 ~ 04时08分]"
         },
         {
-          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
-          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
-          "source": "凤凰网",
+          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            15,
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 14时11分]"
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 15时08分]"
         },
         {
           "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
@@ -102,17 +116,15 @@
           "time_info": "[00时11分 ~ 07时07分]"
         },
         {
-          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
-          "source": "澎湃新闻",
+          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
+          "url": "https://www.zhihu.com/question/1966809012960977218",
+          "source": "知乎",
           "ranks": [
-            15,
-            10,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时39分 ~ 14时11分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时08分]"
         },
         {
           "title": "特朗普访日在美士兵面前即兴起舞",
@@ -126,17 +138,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时28分 ~ 12时12分]"
-        },
-        {
-          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
-          "url": "https://www.zhihu.com/question/1966809012960977218",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 14时11分]"
         },
         {
           "title": "特朗普访日在美士兵面前即兴起舞",
@@ -181,6 +182,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 15时08分]"
         },
         {
           "title": "特朗普在美航母上讲话时用手拍导弹",
@@ -293,6 +307,17 @@
           "time_info": "13时10分"
         },
         {
+          "title": "美国纽约州北部莱茵贝克一年一度的圣诞庆祝活动26年来首次被取消。组织者将取消原因归咎于特朗普关税直接导致的成本上升。",
+          "url": "https://flash.jin10.com/detail/20251029144739286800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "如何看待特朗普贬低电磁弹射，并宣称动用行政手段废除电磁弹射?",
           "url": "https://www.zhihu.com/question/1966558346145411453",
           "source": "知乎",
@@ -302,19 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
-        },
-        {
-          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 14时11分]"
         },
         {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
@@ -401,6 +413,20 @@
           "time_info": "[07时07分 ~ 08时29分]"
         },
         {
+          "title": "特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D23%26stream_entry_id%3D31%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26band_rank%3D22%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D22%26c_type%3D31%26lcate%3D5001%26flag%3D1%26cate%3D5001%26display_time%3D1761714363%26pre_seqid%3D17617143630440158302105",
+          "source": "微博",
+          "ranks": [
+            22,
+            25,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时08分]"
+        },
+        {
           "title": "特朗普在日本欢迎仪式尴尬绕场",
           "url": "https://www.douyin.com/hot/2285984",
           "source": "抖音",
@@ -411,6 +437,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时30分 ~ 12时12分]"
+        },
+        {
+          "title": "特朗普抵韩 落地后专属BGM响起",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时08分]"
         },
         {
           "title": "特朗普媒体与科技公司：“真相社交”将与Crypto.com合作，即将开始在“真相社交”上进行测试，随后将在美国全面推出。",
@@ -460,31 +499,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时39分 ~ 11时31分]"
-        },
-        {
-          "title": "特朗普",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D23%26stream_entry_id%3D31%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26band_rank%3D22%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D22%26c_type%3D31%26lcate%3D5001%26flag%3D1%26cate%3D5001%26display_time%3D1761714363%26pre_seqid%3D17617143630440158302105",
-          "source": "微博",
-          "ranks": [
-            22,
-            25,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 14时11分]"
-        },
-        {
-          "title": "特朗普抵韩 落地后专属BGM响起",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 14时11分]"
         },
         {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
@@ -544,6 +558,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时08分 ~ 06时09分]"
+        },
+        {
+          "title": "特朗普：韩国谈判非常厉害。 韩国已成为造船业的佼佼者。",
+          "url": "https://wallstreetcn.com/livenews/2995637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时08分]"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普",
@@ -606,6 +632,18 @@
           "time_info": "[00时11分 ~ 01时07分]"
         },
         {
+          "title": "韩国总统：特朗普做得很好，带来了和平。 将在造船业上合作。",
+          "url": "https://wallstreetcn.com/livenews/2995634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时08分]"
+        },
+        {
           "title": "特朗普：我们来韩国不是为了见加拿大。",
           "url": "https://wallstreetcn.com/livenews/2995573",
           "source": "华尔街见闻-快讯",
@@ -616,6 +654,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 13时10分]"
+        },
+        {
+          "title": "特朗普为何抨击美航母电磁弹射技术",
+          "url": "https://www.toutiao.com/trending/7566463348447907366/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时08分]"
         },
         {
           "title": "特朗普到底想不想俄乌停战",
@@ -658,9 +708,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        },
+        {
+          "title": "媒体：高市早苗极力讨好特朗普却演砸",
+          "url": "https://www.toutiao.com/trending/7566495048360005161/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "美国总统特朗普：民主党人造成政府停摆，在某种程度上，他们会回来的。我认为他们目前被“打得很惨”。但他们只要说一句，“我们回到正轨吧”，一切就会恢复。没什么需要签署的，也没什么需要谈的。",
@@ -702,18 +763,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
-          "title": "特朗普：韩国谈判非常厉害。 韩国已成为造船业的佼佼者。",
-          "url": "https://wallstreetcn.com/livenews/2995637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -762,17 +812,6 @@
           "time_info": "09时36分"
         },
         {
-          "title": "韩国总统：特朗普做得很好，带来了和平。 将在造船业上合作。",
-          "url": "https://wallstreetcn.com/livenews/2995634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
           "title": "美国总统特朗普：我们在中东已经实现了和平。如有必要，我们可以很轻松地消除哈马斯，那将意味着哈马斯的终结。但我们更愿意选择和平方式。",
           "url": "https://flash.jin10.com/detail/20251029095118266800",
           "source": "金十数据",
@@ -812,7 +851,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -900,7 +939,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -922,7 +961,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -969,6 +1008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时29分"
+        },
+        {
+          "title": "特朗普：曾威胁要对印度和巴基斯坦加征250%关税 以解决两国冲突",
+          "url": "https://flash.jin10.com/detail/20251029142653787800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达预计未来六个季度将实现5000亿美元业务规模。 将发货2000万Blackwell Ruben GPU。 美国亚利桑那州Blackwell（工厂）“满负荷生产”。 等待特朗普政府批准对沙特出口。",
@@ -1021,7 +1071,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -1070,15 +1120,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "特朗普为何抨击美航母电磁弹射技术",
-          "url": "https://www.toutiao.com/trending/7566463348447907366/",
-          "source": "今日头条",
+          "title": "高市早苗被特朗普介绍后高兴到转圈",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8B%E7%BB%8D%E5%90%8E%E9%AB%98%E5%85%B4%E5%88%B0%E8%BD%AC%E5%9C%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D23%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E8%25A2%25AB%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25BB%258B%25E7%25BB%258D%25E5%2590%258E%25E9%25AB%2598%25E5%2585%25B4%25E5%2588%25B0%25E8%25BD%25AC%25E5%259C%2588%2523%26dgr%3D0%26c_type%3D31%26pos%3D24%26cate%3D5001%26flag%3D1%26band_rank%3D23%26filter_type%3Drealtimehot%26display_time%3D1761720011%26pre_seqid%3D17617200113030116972736",
+          "source": "微博",
           "ranks": [
-            24
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时11分"
+          "time_info": "15时08分"
         },
         {
           "title": "美国总统特朗普：我们是韩国的真诚伙伴。",
@@ -1186,9 +1236,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        },
+        {
+          "title": "韩国拟赠特朗普金色王冠模型",
+          "url": "https://www.toutiao.com/trending/7565866566953271346/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "美国总统特朗普：到我第二个任期结束时，可能将有21万亿-22万亿美元的投资流入美国。",
@@ -1239,8 +1300,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时07分 ~ 14时11分]"
+          "appearance_count": 13,
+          "time_info": "[07时07分 ~ 15时08分]"
         },
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1415,7 +1476,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -1441,8 +1502,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时39分 ~ 14时11分]"
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 15时08分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -1491,6 +1552,17 @@
           "time_info": "[03时08分 ~ 04时08分]"
         },
         {
+          "title": "OpenAI首席财务官：我们希望与世界各国政府合作，推广我们的技术，这种技术也能为美国带来一种软实力。",
+          "url": "https://flash.jin10.com/detail/20251029144659448800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：考虑到公司未来的资本需求，IPO是最有可能的途径。",
           "url": "https://flash.jin10.com/detail/20251029024018931800",
           "source": "金十数据",
@@ -1500,6 +1572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "OpenAI首席财务官：周二与微软达成的协议使我们能够以一种复杂程度低得多的方式继续筹集资金。",
+          "url": "https://flash.jin10.com/detail/20251029144001597800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
@@ -1538,7 +1621,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -1602,8 +1685,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 14时11分]"
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 15时08分]"
         },
         {
           "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
@@ -1631,13 +1714,24 @@
           "time_info": "[08时28分 ~ 09时36分]"
         },
         {
+          "title": "汇丰：金价料将于明年上半年见顶 峰值指向4400美元",
+          "url": "https://flash.jin10.com/detail/20251029144255061800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "现货黄金跌破 3900 美元，6 个交易日累计跌超 10％，黄金是否还具备投资价值？未来金价走势如何？",
           "url": "https://www.zhihu.com/question/1966579524385903459",
           "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -1720,6 +1814,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时08分 ~ 06时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "汇丰：黄金的涨势将延续到新的一年，价格将在2026年上半年见顶。",
+          "url": "https://flash.jin10.com/detail/20251029143430802800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
