@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T21:16:06.971196+08:00",
-  "total_titles_processed": 2000,
+  "generated_at": "2025-10-31T22:09:21.757068+08:00",
+  "total_titles_processed": 2109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时37分 ~ 21时16分]"
+          "appearance_count": 18,
+          "time_info": "[10时37分 ~ 22时09分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -119,8 +119,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时35分 ~ 21时16分]"
+          "appearance_count": 19,
+          "time_info": "[09时35分 ~ 22时09分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -165,6 +165,18 @@
           "time_info": "[00时08分 ~ 09时35分]"
         },
         {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 22时09分]"
+        },
+        {
           "title": "特朗普：给中美元首会晤打12分",
           "url": "https://www.toutiao.com/trending/7566587793552719878/",
           "source": "今日头条",
@@ -190,8 +202,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时26分 ~ 21时16分]"
+          "appearance_count": 20,
+          "time_info": "[08时26分 ~ 22时09分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -269,18 +281,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时08分 ~ 09时35分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 21时16分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -775,6 +775,17 @@
           "time_info": "11时29分"
         },
         {
+          "title": "土耳其外交部长：与美国总统特朗普在纽约会晤讨论加沙问题的各国外交部长将于下周一召开会议，商讨加沙停火事宜。",
+          "url": "https://flash.jin10.com/detail/20251031214220761800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "美国总统特朗普：现在是共和党人废除冗长辩论的时候了。",
           "url": "https://flash.jin10.com/detail/20251031103855707800",
           "source": "金十数据",
@@ -833,7 +844,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -844,8 +855,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时07分 ~ 21时16分]"
+          "appearance_count": 21,
+          "time_info": "[07时07分 ~ 22时09分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
@@ -933,6 +944,18 @@
           "time_info": "[20时12分 ~ 21时16分]"
         },
         {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 22时09分]"
+        },
+        {
           "title": "美股收盘：三大指数集体下跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
@@ -943,6 +966,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时26分 ~ 10时37分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2997747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 22时09分]"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌2%。",
@@ -969,24 +1004,13 @@
           "time_info": "[06时09分 ~ 07时07分]"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2997747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
           "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
           "url": "https://wallstreetcn.com/livenews/2997746",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -1013,17 +1037,6 @@
           "time_info": "19时07分"
         },
         {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
           "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/2997653",
           "source": "华尔街见闻-快讯",
@@ -1033,6 +1046,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
@@ -1057,6 +1081,17 @@
           "time_info": "05时07分"
         },
         {
+          "title": "美股盘初：纳指涨1.5%，亚马逊涨约12%，苹果涨约2%",
+          "url": "https://wallstreetcn.com/livenews/2997765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
           "url": "https://wallstreetcn.com/livenews/2997557",
           "source": "华尔街见闻-快讯",
@@ -1079,13 +1114,24 @@
           "time_info": "05时07分"
         },
         {
+          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251031214235711800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
           "url": "https://flash.jin10.com/detail/20251031205708619800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -1292,7 +1338,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
@@ -1315,8 +1361,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时07分 ~ 21时16分]"
+          "appearance_count": 10,
+          "time_info": "[17时07分 ~ 22时09分]"
         },
         {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
@@ -1340,6 +1386,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时08分 ~ 06时09分]"
+        },
+        {
+          "title": "共和党参议员称谷歌人工智能模型针对保守派",
+          "url": "https://wallstreetcn.com/livenews/2997771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         }
       ]
     },
@@ -1423,7 +1480,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -1457,8 +1514,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时28分 ~ 21时16分]"
+          "appearance_count": 17,
+          "time_info": "[11时28分 ~ 22时09分]"
         }
       ]
     }
