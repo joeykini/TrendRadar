@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T12:09:16.287798+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2025-11-01T13:08:19.973907+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时29分 ~ 12时09分]"
+          "appearance_count": 11,
+          "time_info": "[08时29分 ~ 13时08分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时07分 ~ 12时09分]"
+          "appearance_count": 12,
+          "time_info": "[07时07分 ~ 13时08分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -89,11 +89,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 12时09分]"
+          "appearance_count": 9,
+          "time_info": "[09时38分 ~ 13时08分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -109,6 +110,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时06分 ~ 07时07分]"
+        },
+        {
+          "title": "特朗普：加总理道歉了，没用",
+          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 13时08分]"
         },
         {
           "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
@@ -222,17 +234,6 @@
           "time_info": "[07时07分 ~ 10时40分]"
         },
         {
-          "title": "特朗普：加总理道歉了，没用",
-          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 12时09分]"
-        },
-        {
           "title": "美国总统特朗普：始终愿意与民主党人会面。民主党人所要做的就是开放政府。",
           "url": "https://flash.jin10.com/detail/20251101020307809800",
           "source": "金十数据",
@@ -281,6 +282,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时08分 ~ 09时38分]"
+        },
+        {
+          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
+          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 13时08分]"
         },
         {
           "title": "美国法官裁定，特朗普政府在政府停摆期间暂停美国补充营养协助计划（SNAP）食品援助福利的计划可能违法。",
@@ -367,17 +379,6 @@
           "time_info": "[08时29分 ~ 08时30分]"
         },
         {
-          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
-          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
           "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
           "url": "https://flash.jin10.com/detail/20251101011922130800",
           "source": "金十数据",
@@ -388,6 +389,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 03时07分]"
+        },
+        {
+          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
+          "url": "https://news.ifeng.com/c/8nvMEROArvE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "据CNN：美国国防部批准向乌克兰提供战斧导弹，最终决策权移交美国总统特朗普。",
@@ -596,8 +608,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时07分 ~ 12时09分]"
+          "appearance_count": 12,
+          "time_info": "[07时07分 ~ 13时08分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -609,8 +621,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时07分 ~ 12时09分]"
+          "appearance_count": 12,
+          "time_info": "[07时07分 ~ 13时08分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -623,8 +635,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时10分 ~ 12时09分]"
+          "appearance_count": 21,
+          "time_info": "[00时10分 ~ 13时08分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -770,11 +782,12 @@
             11,
             10,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时08分 ~ 12时09分]"
+          "appearance_count": 13,
+          "time_info": "[06时08分 ~ 13时08分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
