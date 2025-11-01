@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T11:28:03.694082+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-11-01T12:09:16.287798+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -51,8 +51,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时29分 ~ 11时28分]"
+          "appearance_count": 9,
+          "time_info": "[08时29分 ~ 12时09分]"
+        },
+        {
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时07分 ~ 12时09分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -71,17 +84,16 @@
           "time_info": "[00时10分 ~ 08时30分]"
         },
         {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            7,
-            6
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时07分 ~ 11时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 12时09分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -210,16 +222,15 @@
           "time_info": "[07时07分 ~ 10时40分]"
         },
         {
-          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
-          "source": "澎湃新闻",
+          "title": "特朗普：加总理道歉了，没用",
+          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            16
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 11时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 12时09分]"
         },
         {
           "title": "美国总统特朗普：始终愿意与民主党人会面。民主党人所要做的就是开放政府。",
@@ -356,15 +367,15 @@
           "time_info": "[08时29分 ~ 08时30分]"
         },
         {
-          "title": "特朗普：加总理道歉了，没用",
-          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
+          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
           "source": "凤凰网",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时27分 ~ 11时28分]"
+          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
@@ -585,8 +596,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时07分 ~ 11时28分]"
+          "appearance_count": 10,
+          "time_info": "[07时07分 ~ 12时09分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -594,11 +605,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时07分 ~ 11时28分]"
+          "appearance_count": 10,
+          "time_info": "[07时07分 ~ 12时09分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -607,11 +619,12 @@
           "ranks": [
             7,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时10分 ~ 11时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时10分 ~ 12时09分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -670,6 +683,18 @@
           "time_info": "[04时10分 ~ 09时38分]"
         },
         {
+          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
+          "url": "https://www.cls.cn/detail/2188453",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 12时09分]"
+        },
+        {
           "title": "可选消费ETF收涨超2.6%，领跑美股行业ETF，标普可选消费板块收涨约4.1%",
           "url": "https://wallstreetcn.com/livenews/2997896",
           "source": "华尔街见闻-快讯",
@@ -682,18 +707,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时07分 ~ 08时30分]"
-        },
-        {
-          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
-          "url": "https://www.cls.cn/detail/2188453",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 11时28分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -760,8 +773,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时08分 ~ 11时28分]"
+          "appearance_count": 11,
+          "time_info": "[06时08分 ~ 12时09分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
