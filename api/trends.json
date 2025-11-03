@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T12:14:29.494717+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2025-11-03T13:08:50.922663+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时28分 ~ 12时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时28分 ~ 13时08分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -65,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时08分 ~ 12时14分]"
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 13时08分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -153,6 +153,17 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
+          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
+          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时08分]"
+        },
+        {
           "title": "特朗普主动提“G2” 中国为何不接招",
           "url": "https://www.toutiao.com/trending/7567992516465659442/",
           "source": "今日头条",
@@ -167,15 +178,17 @@
           "time_info": "[03时06分 ~ 07时08分]"
         },
         {
-          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
-          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
-          "source": "凤凰网",
+          "title": "核武专家都在猜 特朗普这话什么意思",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            2
+            28,
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时14分]"
+          "appearance_count": 6,
+          "time_info": "[09时37分 ~ 13时08分]"
         },
         {
           "title": "美国总统特朗普：我们将进行核试验，因为我不希望我们成为唯一不这样做的国家。",
@@ -233,19 +246,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时07分 ~ 07时08分]"
-        },
-        {
-          "title": "核武专家都在猜 特朗普这话什么意思",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 12时14分]"
         },
         {
           "title": "奥巴马怼特朗普政府“无法无天”",
@@ -314,11 +314,12 @@
           "url": "https://www.toutiao.com/trending/7568318449886170651/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时08分]"
         },
         {
           "title": "特朗普为何威胁对尼日利亚动武",
@@ -521,6 +522,58 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "奥尔特曼称OpenAI年收入远超130亿美元",
+          "url": "https://flash.jin10.com/detail/20251103081100518800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
+        },
+        {
+          "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
+          "url": "https://wallstreetcn.com/livenews/2998342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时08分]"
+        },
+        {
+          "title": "市场消息：OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
+          "url": "https://flash.jin10.com/detail/20251103120231849800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -544,8 +597,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 13时08分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）上海金早盘价为914.28元/克，较国际金价(914.63元/克)，低0.35元/克",
@@ -595,11 +648,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时08分]"
         },
         {
           "title": "亚市盘初，现货黄金、现货白银小幅低开。 WTI开盘上涨0.6%，此前彭博报道，OPEC+将在明年一季度暂停增产石油。 美股三大股指期货开盘小幅走高，道指期货涨0.11%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
@@ -674,46 +728,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 00时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "奥尔特曼称OpenAI年收入远超130亿美元",
-          "url": "https://flash.jin10.com/detail/20251103081100518800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时28分"
-        },
-        {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 02时09分]"
-        },
-        {
-          "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
-          "url": "https://wallstreetcn.com/livenews/2998342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         }
       ]
     },
