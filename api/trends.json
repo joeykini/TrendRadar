@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T13:09:05.083311+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2025-11-06T14:10:52.508436+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时35分 ~ 13时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时35分 ~ 14时10分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -54,21 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时26分 ~ 13时09分]"
-        },
-        {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时07分 ~ 13时09分]"
+          "appearance_count": 8,
+          "time_info": "[08时26分 ~ 14时10分]"
         },
         {
           "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
@@ -80,8 +67,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时26分 ~ 13时09分]"
+          "appearance_count": 8,
+          "time_info": "[08时26分 ~ 14时10分]"
+        },
+        {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[05时07分 ~ 14时10分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -109,6 +109,18 @@
           "time_info": "[08时26分 ~ 12时11分]"
         },
         {
+          "title": "特朗普的大麻烦来了",
+          "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 14时10分]"
+        },
+        {
           "title": "纽约新市长为何成特朗普的“噩梦”",
           "url": "https://www.toutiao.com/trending/7569209850954026547/",
           "source": "今日头条",
@@ -122,16 +134,15 @@
           "time_info": "[01时08分 ~ 07时09分]"
         },
         {
-          "title": "特朗普的大麻烦来了",
-          "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 13时09分]"
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 14时10分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -144,17 +155,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时26分 ~ 10时38分]"
-        },
-        {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
         },
         {
           "title": "为结束政府“停摆”美国会民主党领袖呼吁特朗普开始会谈",
@@ -668,6 +668,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "特朗普召集共和党开总结大会总结了啥",
+          "url": "https://www.toutiao.com/trending/7569437613585600006/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "民主党呼吁特朗普会谈结束政府停摆",
           "url": "https://www.toutiao.com/trending/7569362062070825002/",
           "source": "今日头条",
@@ -706,8 +717,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时26分 ~ 13时09分]"
+          "appearance_count": 8,
+          "time_info": "[08时26分 ~ 14时10分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -730,22 +741,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时35分 ~ 13时09分]"
-        },
-        {
-          "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 07时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时35分 ~ 14时10分]"
         },
         {
           "title": "美股泡沫有多大？瑞银给出七个观测指标",
@@ -757,8 +758,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时35分 ~ 13时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时35分 ~ 14时10分]"
+        },
+        {
+          "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 07时09分]"
         },
         {
           "title": "Metsera美股盘后涨6.8%。",
@@ -1196,17 +1208,6 @@
           "time_info": "08时26分"
         },
         {
-          "title": "澳大利亚贸易顺差受金价飙升推动",
-          "url": "https://flash.jin10.com/detail/20251106125006375800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
           "title": "金十图示：2025年11月06日（周四）上海金早盘价为912.29元/克，较国际金价(911.43元/克)，高0.86元/克",
           "url": "https://flash.jin10.com/detail/20251106101739837800",
           "source": "金十数据",
@@ -1217,6 +1218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 11时31分]"
+        },
+        {
+          "title": "澳大利亚贸易顺差受金价飙升推动",
+          "url": "https://flash.jin10.com/detail/20251106125006375800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 14时10分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
@@ -1267,8 +1280,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时26分 ~ 13时09分]"
+          "appearance_count": 8,
+          "time_info": "[08时26分 ~ 14时10分]"
         },
         {
           "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
