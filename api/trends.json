@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T03:07:40.461481+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2025-11-08T04:09:39.154254+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时09分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时09分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -38,8 +38,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时09分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时09分]"
         },
         {
           "title": "美国总统特朗普：将与匈牙利总理欧尔班讨论贸易、能源和乌克兰问题。",
@@ -53,28 +64,6 @@
           "time_info": "02时11分"
         },
         {
-          "title": "特朗普称希望继续在布达佩斯与普京会晤",
-          "url": "https://wallstreetcn.com/livenews/3001364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时07分]"
-        },
-        {
           "title": "特朗普称佩洛西在股市“非法敛财”",
           "url": "https://flash.jin10.com/detail/20251107234753828800",
           "source": "金十数据",
@@ -85,6 +74,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 01时07分]"
+        },
+        {
+          "title": "美国总统特朗普：谈及会见俄罗斯总统普京的事宜。 若有可能，我愿意在匈牙利布达佩斯会见普京。",
+          "url": "https://wallstreetcn.com/livenews/3001349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时11分 ~ 04时09分]"
         },
         {
           "title": "美国总统特朗普：如果共和党废除阻挠议事（冗长辩论）规则，他们将在未来多年赢得胜利；如果他们不这样做，灾难将不可避免！",
@@ -111,16 +113,16 @@
           "time_info": "[00时08分 ~ 01时07分]"
         },
         {
-          "title": "美国总统特朗普：谈及会见俄罗斯总统普京的事宜。 若有可能，我愿意在匈牙利布达佩斯会见普京。",
-          "url": "https://wallstreetcn.com/livenews/3001349",
+          "title": "特朗普称希望继续在布达佩斯与普京会晤",
+          "url": "https://wallstreetcn.com/livenews/3001364",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时11分 ~ 03时07分]"
+          "time_info": "[03时07分 ~ 04时09分]"
         },
         {
           "title": "美国总统特朗普：考虑在“制裁俄罗斯石油”方面实施豁免。 考虑对匈牙利实施豁免。",
@@ -128,11 +130,108 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            20
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时11分 ~ 04时09分]"
+        },
+        {
+          "title": "美国总统特朗普：我完全支持人工智能。",
+          "url": "https://flash.jin10.com/detail/20251108022405006800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时11分 ~ 03时07分]"
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
+          "title": "美国财长贝森特：波音公司10月份向总统特朗普颁发年度销售员奖。 该公司CEO出现在总统办公室。",
+          "url": "https://wallstreetcn.com/livenews/3001358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
+          "title": "美国财长贝森特：波音公司上月授予特朗普年度最佳推销员奖。",
+          "url": "https://flash.jin10.com/detail/20251108022325665800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
+          "title": "美国总统特朗普：不知道政府停摆会持续多久。",
+          "url": "https://flash.jin10.com/detail/20251108021803798800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
+          "title": "美国总统特朗普：政府停摆持续多久取决于民主党。",
+          "url": "https://flash.jin10.com/detail/20251108021732972800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
+          "title": "特朗普：美国通胀处于完美水平",
+          "url": "https://wallstreetcn.com/livenews/3001354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
+          "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
+          "url": "https://flash.jin10.com/detail/20251108021224420800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
+          "title": "美国总统特朗普：通胀处于一个完美的水平。",
+          "url": "https://flash.jin10.com/detail/20251108021030096800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
         },
         {
           "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
@@ -146,101 +245,13 @@
           "time_info": "02时11分"
         },
         {
-          "title": "美国总统特朗普：我完全支持人工智能。",
-          "url": "https://flash.jin10.com/detail/20251108022405006800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "美国财长贝森特：波音公司10月份向总统特朗普颁发年度销售员奖。 该公司CEO出现在总统办公室。",
-          "url": "https://wallstreetcn.com/livenews/3001358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "美国财长贝森特：波音公司上月授予特朗普年度最佳推销员奖。",
-          "url": "https://flash.jin10.com/detail/20251108022325665800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "美国总统特朗普：不知道政府停摆会持续多久。",
-          "url": "https://flash.jin10.com/detail/20251108021803798800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "美国总统特朗普：政府停摆持续多久取决于民主党。",
-          "url": "https://flash.jin10.com/detail/20251108021732972800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "特朗普：美国通胀处于完美水平",
-          "url": "https://wallstreetcn.com/livenews/3001354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
-          "url": "https://flash.jin10.com/detail/20251108021224420800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "美国总统特朗普：通胀处于一个完美的水平。",
-          "url": "https://flash.jin10.com/detail/20251108021030096800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
           "title": "美国总统特朗普：我们一致认为，俄乌冲突将在不久的将来结束。",
           "url": "https://flash.jin10.com/detail/20251108020524732800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -262,7 +273,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -295,7 +306,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -317,7 +328,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -328,7 +339,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         }
@@ -347,8 +358,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时09分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -360,8 +371,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时09分]"
         },
         {
           "title": "美股费城半导体指数跌超4%，纳微半导体跌17.5%，英伟达两倍做多ETF跌8.2%，Coherent跌7.6%，Arm跌6.6%，英伟达、超微电脑、博通、AMD、格芯跌超4%。 标普500指数跌约1.2%，纳指跌约1.9%。",
@@ -444,8 +455,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时09分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
@@ -503,8 +514,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 04时09分]"
         }
       ]
     },
