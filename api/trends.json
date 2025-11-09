@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T08:29:28.229426+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2025-11-09T09:37:31.362892+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,26 @@
           "url": "https://flash.jin10.com/detail/20251108220636044800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 08时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 09时37分]"
+        },
+        {
+          "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
+          "url": "https://wallstreetcn.com/articles/3758973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 09时37分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -26,32 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 08时29分]"
-        },
-        {
-          "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
-          "url": "https://wallstreetcn.com/articles/3758973",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 08时29分]"
-        },
-        {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 08时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 09时37分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -63,11 +54,23 @@
             9,
             16,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 08时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 09时37分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 09时37分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -92,6 +95,18 @@
           "time_info": "[00时07分 ~ 04时07分]"
         },
         {
+          "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
+          "url": "https://wallstreetcn.com/articles/3758966",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 09时37分]"
+        },
+        {
           "title": "特朗普开始调整“话术”以争取选民",
           "url": "https://www.toutiao.com/trending/7569436810300964907/",
           "source": "今日头条",
@@ -103,24 +118,13 @@
           "time_info": "[02时08分 ~ 02时09分]"
         },
         {
-          "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
-          "url": "https://wallstreetcn.com/articles/3758966",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时29分"
-        },
-        {
           "title": "欧尔班当场挖特朗普“墙脚”",
           "url": "https://www.toutiao.com/trending/7569946456040292378/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时29分"
         }
@@ -140,11 +144,12 @@
             6,
             13,
             16,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 08时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 09时37分]"
         },
         {
           "title": "伊朗总统：若持续无雨将撤离德黑兰",
@@ -177,8 +182,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 08时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 09时37分]"
         }
       ]
     },
@@ -209,11 +214,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 08时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 09时37分]"
         }
       ]
     },
@@ -232,8 +238,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 08时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 09时37分]"
         }
       ]
     }
