@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T17:09:56.076494+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2025-11-10T18:09:19.634131+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普宣布一个大消息",
@@ -164,6 +164,20 @@
           "time_info": "[13时08分 ~ 15时08分]"
         },
         {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时11分 ~ 18时09分]"
+        },
+        {
           "title": "特朗普被严重警告",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A",
           "source": "百度热搜",
@@ -237,19 +251,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时08分 ~ 07时08分]"
-        },
-        {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时11分 ~ 17时09分]"
         },
         {
           "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
@@ -448,6 +449,17 @@
           "time_info": "[11时31分 ~ 11时32分]"
         },
         {
+          "title": "拜登为什么罕见出面痛批特朗普",
+          "url": "https://www.toutiao.com/trending/7570996784411971126/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 18时09分]"
+        },
+        {
           "title": "如何看待特朗普要给美国民众发钱",
           "url": "https://www.toutiao.com/trending/7570944913760587274/",
           "source": "今日头条",
@@ -470,13 +482,24 @@
           "time_info": "08时30分"
         },
         {
+          "title": "克里姆林宫：（就美国总统特朗普有关俄乌冲突将在不久的将来结束的言论回应）我们也希望冲突能尽快结束。",
+          "url": "https://flash.jin10.com/detail/20251110172130688800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "美国上诉法院裁定，特朗普政府必须全额发放补充营养协助计划（SNAP）福利。",
           "url": "https://flash.jin10.com/detail/20251110162612983800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -568,8 +591,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时41分 ~ 17时09分]"
+          "appearance_count": 12,
+          "time_info": "[10时41分 ~ 18时09分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -589,11 +612,12 @@
           "url": "https://wallstreetcn.com/livenews/3002065",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时09分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -632,7 +656,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价",
@@ -655,7 +679,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -670,6 +694,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时32分 ~ 12时12分]"
+        },
+        {
+          "title": "金价再次直线上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 18时09分]"
         }
       ]
     },
