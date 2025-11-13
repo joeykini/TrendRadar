@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-11-13T16:10:13.509885+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2025-11-13T17:09:26.688410+08:00",
+  "total_titles_processed": 1606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
           "url": "https://news.ifeng.com/c/8oFCuwr7cLg",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时11分 ~ 16时10分]"
+          "appearance_count": 12,
+          "time_info": "[12时11分 ~ 17时09分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
           "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时09分 ~ 16时10分]"
+          "appearance_count": 10,
+          "time_info": "[13时09分 ~ 17时09分]"
         },
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -43,8 +45,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时08分 ~ 16时10分]"
+          "appearance_count": 30,
+          "time_info": "[01时08分 ~ 17时09分]"
+        },
+        {
+          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
+          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时08分 ~ 17时09分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -73,15 +87,17 @@
           "time_info": "[09时35分 ~ 11时29分]"
         },
         {
-          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
-          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
-          "source": "凤凰网",
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
           "ranks": [
-            4
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时08分 ~ 16时10分]"
+          "appearance_count": 8,
+          "time_info": "[14时10分 ~ 17时09分]"
         },
         {
           "title": "特朗普送叙政权领导人自产香水",
@@ -97,17 +113,15 @@
           "time_info": "[12时11分 ~ 16时10分]"
         },
         {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
+          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
+          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时10分 ~ 16时10分]"
+          "time_info": "[15时08分 ~ 17时09分]"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普希望今晚签署结束政府停摆的法案。",
@@ -127,7 +141,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -205,17 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时10分 ~ 14时11分]"
-        },
-        {
-          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
-          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时08分 ~ 16时10分]"
         },
         {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
@@ -300,6 +303,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时07分]"
+        },
+        {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "美国上诉法院暂时阻止了特朗普政府的命令，该命令要求达美航空和墨西哥航空公司于1月1日前终止合资企业。",
@@ -604,8 +618,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 17时09分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -712,8 +726,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时08分 ~ 16时10分]"
+          "appearance_count": 20,
+          "time_info": "[07时08分 ~ 17时09分]"
         },
         {
           "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
