@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T09:36:21.239856+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2025-11-13T10:39:05.344208+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时08分 ~ 09时36分]"
+          "appearance_count": 16,
+          "time_info": "[01时08分 ~ 10时39分]"
+        },
+        {
+          "title": "特朗普罕见为中国留学生辩护",
+          "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 10时39分]"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普希望今晚签署结束政府停摆的法案。",
@@ -46,17 +58,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时07分 ~ 05时07分]"
-        },
-        {
-          "title": "特朗普罕见为中国留学生辩护",
-          "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
         },
         {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
@@ -237,7 +238,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -259,7 +260,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -300,8 +301,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 09时36分]"
+          "appearance_count": 6,
+          "time_info": "[07时08分 ~ 10时39分]"
         },
         {
           "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
@@ -334,7 +335,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -382,11 +383,12 @@
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 10时39分]"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -565,11 +567,12 @@
           "ranks": [
             19,
             20,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 09时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时09分 ~ 10时39分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
