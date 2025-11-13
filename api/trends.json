@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T20:12:25.078388+08:00",
-  "total_titles_processed": 1904,
+  "generated_at": "2025-11-13T21:18:05.135275+08:00",
+  "total_titles_processed": 2000,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[01时08分 ~ 20时12分]"
+          "appearance_count": 36,
+          "time_info": "[01时08分 ~ 21时18分]"
         },
         {
           "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
@@ -93,6 +93,18 @@
           "time_info": "[12时11分 ~ 15时09分]"
         },
         {
+          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时10分 ~ 21时18分]"
+        },
+        {
           "title": "特朗普罕见为中国留学生辩护",
           "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
           "source": "凤凰网",
@@ -118,6 +130,17 @@
           "time_info": "[12时11分 ~ 16时10分]"
         },
         {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时08分 ~ 21时18分]"
+        },
+        {
           "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
           "url": "https://news.ifeng.com/c/8oFEfoIotGG",
           "source": "凤凰网",
@@ -127,18 +150,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时08分 ~ 18时10分]"
-        },
-        {
-          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时10分 ~ 20时12分]"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普希望今晚签署结束政府停摆的法案。",
@@ -161,17 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
-        },
-        {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时08分 ~ 20时12分]"
         },
         {
           "title": "瑞士商业代表团送特朗普金条和劳力士 或为换取低关税",
@@ -493,7 +493,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -672,6 +672,17 @@
           "time_info": "[09时35分 ~ 13时10分]"
         },
         {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时07分 ~ 21时18分]"
+        },
+        {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
@@ -684,15 +695,17 @@
           "time_info": "[16时09分 ~ 18时10分]"
         },
         {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
           "ranks": [
-            2
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 20时12分]"
+          "appearance_count": 6,
+          "time_info": "[18时10分 ~ 21时18分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -707,16 +720,16 @@
           "time_info": "[11时28分 ~ 13时10分]"
         },
         {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时10分 ~ 20时12分]"
+          "time_info": "[20时11分 ~ 21时18分]"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
@@ -740,17 +753,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时07分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时11分 ~ 20时12分]"
         },
         {
           "title": "OpenAI宣布推出GPT-5.1系列模型，新版本将从本周开始向用户推送。",
@@ -822,7 +824,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -835,6 +837,17 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[07时08分 ~ 17时09分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113210734667800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
@@ -914,6 +927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "美股小型股有望跑赢大盘 盈利增长更快估值更具吸引力",
+          "url": "https://flash.jin10.com/detail/20251113202452131800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -997,7 +1021,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -1008,7 +1032,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -1019,7 +1043,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -1108,7 +1132,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         }
