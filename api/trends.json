@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T20:10:43.554006+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-11-16T21:11:40.764745+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -144,6 +144,20 @@
           "time_info": "[14时10分 ~ 18时07分]"
         },
         {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时08分 ~ 21时11分]"
+        },
+        {
           "title": "特朗普与曾经亲密盟友格林关系破裂，共和党裂痕扩大",
           "url": "https://wallstreetcn.com/livenews/3005241",
           "source": "华尔街见闻-快讯",
@@ -159,20 +173,6 @@
           "time_info": "[12时11分 ~ 16时08分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时08分 ~ 20时10分]"
-        },
-        {
           "title": "10亿至50亿！特朗普开口了",
           "url": "https://news.ifeng.com/c/8oKTyan4q6j",
           "source": "凤凰网",
@@ -180,8 +180,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 20时10分]"
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 21时11分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-16）",
@@ -189,11 +189,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 20时10分]"
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 21时11分]"
         },
         {
           "title": "特朗普想发2000美元支票 钱从哪来",
@@ -221,7 +222,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -335,11 +336,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 20时10分]"
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 21时11分]"
         },
         {
           "title": "伊朗外长：美国正在转变为基于武力的霸权主义",
@@ -360,11 +362,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 20时10分]"
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 21时11分]"
         },
         {
           "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
@@ -372,11 +375,23 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 20时10分]"
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 21时11分]"
+        },
+        {
+          "title": "伊朗外长说：暂无正进行的铀浓缩活动",
+          "url": "https://wallstreetcn.com/livenews/3005334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         }
       ]
     },
@@ -426,8 +441,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时07分 ~ 20时10分]"
+          "appearance_count": 26,
+          "time_info": "[00时07分 ~ 21时11分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -483,8 +498,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 20时10分]"
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 21时11分]"
         }
       ]
     }
