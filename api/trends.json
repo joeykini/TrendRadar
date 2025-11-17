@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T09:36:11.294547+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2025-11-17T10:38:38.143566+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时27分 ~ 09时36分]"
+          "appearance_count": 5,
+          "time_info": "[08时27分 ~ 10时38分]"
         },
         {
           "title": "特朗普与得力干将反目成仇",
@@ -100,11 +101,12 @@
           "url": "https://www.cls.cn/detail/2201676",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时27分 ~ 09时36分]"
+          "appearance_count": 5,
+          "time_info": "[08时27分 ~ 10时38分]"
         },
         {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
@@ -114,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
+          "appearance_count": 3,
+          "time_info": "[09时35分 ~ 10时38分]"
         },
         {
           "title": "特朗普削减多种农产品关税，美媒：物价上涨已引起选民不满",
@@ -168,7 +170,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -179,7 +181,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -190,7 +192,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -201,7 +203,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         }
@@ -261,11 +263,12 @@
             5,
             7,
             12,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时07分 ~ 09时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 10时38分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
