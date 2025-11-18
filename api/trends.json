@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T10:38:00.546581+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2025-11-18T11:27:17.965046+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 10时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时08分 ~ 11时27分]"
         },
         {
           "title": "曝特朗普与昔日得力干将决裂",
@@ -77,6 +77,19 @@
           "time_info": "07时07分"
         },
         {
+          "title": "特朗普为何因关税问题大动肝火",
+          "url": "https://www.toutiao.com/trending/7573841857147309614/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时35分 ~ 11时27分]"
+        },
+        {
           "title": "美联储理事沃勒：拒绝评论美国总统特朗普针对FOMC利率的论调是否对美联储有帮助。",
           "url": "https://wallstreetcn.com/livenews/3006059",
           "source": "华尔街见闻-快讯",
@@ -112,18 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 05时07分]"
-        },
-        {
-          "title": "特朗普为何因关税问题大动肝火",
-          "url": "https://www.toutiao.com/trending/7573841857147309614/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 10时38分]"
         },
         {
           "title": "特朗普会晤麦当劳高层 借力快餐业宣传“降成本”",
@@ -208,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 04时08分]"
+        },
+        {
+          "title": "特朗普表态支持公开爱泼斯坦案文件",
+          "url": "https://www.toutiao.com/trending/7572905836377604105/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
         },
         {
           "title": "据Politico：特朗普考虑将美国联邦紧急事务管理局（FEMA）总部迁移到得州。",
@@ -318,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "特朗普称计划向沙特出售F-35战机",
+          "url": "https://wallstreetcn.com/livenews/3006205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "美国总统特朗普：我听说麦当劳(MCD.N)正在重新致力于提供价格实惠的选择。",
@@ -533,8 +556,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时07分 ~ 10时38分]"
+          "appearance_count": 8,
+          "time_info": "[07时07分 ~ 11时27分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -542,11 +565,25 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 10时38分]"
+          "appearance_count": 5,
+          "time_info": "[09时35分 ~ 11时27分]"
+        },
+        {
+          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
+          "url": "https://www.cls.cn/detail/2203264",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时35分 ~ 11时27分]"
         },
         {
           "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
@@ -559,18 +596,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时07分]"
-        },
-        {
-          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
-          "url": "https://www.cls.cn/detail/2203264",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 10时38分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.68%，报289.48点。 纽约证交所ARCA金矿开采商指数收跌1.58%，报2124.04点，北京时间22:59涨至2170.10点刷新日高，01:33出现一波显著的下跌行情，04:03跌至2109.73点刷新日低。",
@@ -747,11 +772,12 @@
             12,
             11,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 10时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时08分 ~ 11时27分]"
         },
         {
           "title": "谷歌：将投资建设两个面向跨印度洋地区的全新连接枢纽。",
@@ -769,11 +795,12 @@
           "url": "https://www.zhihu.com/question/1970226468920471782",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 10时38分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 11时27分]"
         },
         {
           "title": "标普500指数初步收跌约1%，金融、能源、科技、原材料、工业板块至多跌约2%，电信板块仍然涨超0.9%。 纳斯达克100指数初步收跌0.9%，成分股中，Booking、Trade Desk、Shopify、高通初步至多收跌4.8%，安进则涨1.4%，再生元制药涨1.7%，谷歌C涨2.9%，谷歌A涨3.1%。 美国运通初步收跌约4.3%，Salesforce、IBM至多跌2.7%，领跌道指成分股，英伟达跌1.9%，苹果跌1.8%，安进与强生则涨超1%。 半导体指数跌1.5%，银行指数跌2.6%，小盘股指跌2.2%。",
@@ -867,8 +894,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时26分 ~ 11时27分]"
+        },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
           "url": "https://wallstreetcn.com/articles/3759498",
@@ -892,15 +930,15 @@
           "time_info": "[04时08分 ~ 07时07分]"
         },
         {
-          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
+          "title": "金十图示：2025年11月18日（周二）上海金早盘价为921.22元/克，较国际金价(917.98元/克)，高3.24元/克",
+          "url": "https://flash.jin10.com/detail/20251118110222619800",
+          "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时26分 ~ 10时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
@@ -959,11 +997,12 @@
           "url": "https://www.cls.cn/detail/2203227",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 10时38分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 11时27分]"
         }
       ]
     },
@@ -993,6 +1032,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么说千问能硬刚 ChatGPT？",
+          "url": "https://www.zhihu.com/question/1973891012469465744",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
         }
       ]
     },
