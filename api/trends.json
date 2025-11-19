@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T20:11:48.016338+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-11-19T21:16:59.638319+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 83,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -51,11 +51,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时37分 ~ 20时11分]"
+          "appearance_count": 17,
+          "time_info": "[10时37分 ~ 21时16分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -66,11 +67,12 @@
             10,
             8,
             22,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 18时08分]"
+          "appearance_count": 11,
+          "time_info": "[12时09分 ~ 21时16分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -99,6 +101,17 @@
           "time_info": "[16时09分 ~ 20时11分]"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时08分 ~ 21时16分]"
+        },
+        {
           "title": "美法院维持驳回特朗普对CNN的诽谤诉讼",
           "url": "https://flash.jin10.com/detail/20251119075409041800",
           "source": "金十数据",
@@ -108,17 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时08分 ~ 20时11分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
@@ -212,6 +214,17 @@
           "time_info": "[08时28分 ~ 09时35分]"
         },
         {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时06分 ~ 21时16分]"
+        },
+        {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
           "url": "https://wallstreetcn.com/livenews/3006688",
           "source": "华尔街见闻-快讯",
@@ -235,17 +248,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时10分 ~ 04时08分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时06分 ~ 20时11分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -432,6 +434,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "特朗普怒怼提问记者",
+          "url": "https://www.douyin.com/hot/2310914",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "特朗普再次呼吁吊销ABC执照 并否认与爱泼斯坦有任何关系",
           "url": "https://flash.jin10.com/detail/20251119031700998800",
           "source": "金十数据",
@@ -584,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "特朗普怒怼ABC女记者",
+          "url": "https://www.toutiao.com/trending/7574268540435136563/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "美国总统特朗普：王储要求解除对叙利亚的制裁。",
@@ -834,7 +858,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -859,6 +883,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "美媒：特朗普批准中情局在委内瑞拉实施秘密行动",
+          "url": "https://wallstreetcn.com/livenews/3007210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "美国白宫：美国总统特朗普批准了一项重大国防销售方案，其中包括未来F-35战机的交付。",
@@ -919,7 +954,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -974,11 +1009,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时08分 ~ 20时11分]"
+          "appearance_count": 7,
+          "time_info": "[17时08分 ~ 21时16分]"
         },
         {
           "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
@@ -1141,6 +1177,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-19）",
+          "url": "https://flash.jin10.com/detail/20251119203949397800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "金十图示：2025年11月18日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251119013116709800",
           "source": "金十数据",
@@ -1155,7 +1202,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -1167,8 +1214,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时35分 ~ 20时11分]"
+          "appearance_count": 18,
+          "time_info": "[09时35分 ~ 21时16分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -1211,8 +1258,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时26分 ~ 20时11分]"
+          "appearance_count": 16,
+          "time_info": "[11时26分 ~ 21时16分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -1240,11 +1287,12 @@
             19,
             20,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时35分 ~ 20时11分]"
+          "appearance_count": 18,
+          "time_info": "[09时35分 ~ 21时16分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -1268,11 +1316,23 @@
             9,
             18,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时07分 ~ 20时11分]"
+          "appearance_count": 10,
+          "time_info": "[15时07分 ~ 21时16分]"
+        },
+        {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -1391,7 +1451,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -1403,8 +1463,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时35分 ~ 20时11分]"
+          "appearance_count": 15,
+          "time_info": "[09时35分 ~ 21时16分]"
         },
         {
           "title": "OpenAI与Target公司宣布合作伙伴关系。",
@@ -1413,9 +1473,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
+        },
+        {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3007227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "OpenAI与Target公司宣布合作伙伴关系",
@@ -1424,7 +1495,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -1495,6 +1566,45 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沙特王储：将尽最大努力推动伊朗协议。",
+          "url": "https://flash.jin10.com/detail/20251119014943997800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "沙特王储访美前收到伊朗总统来信",
+          "url": "https://wallstreetcn.com/livenews/3006815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "国际原子能机构总干事：国际原子能机构核查人员已重返伊朗",
+          "url": "https://wallstreetcn.com/livenews/3007207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1520,34 +1630,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "沙特王储：将尽最大努力推动伊朗协议。",
-          "url": "https://flash.jin10.com/detail/20251119014943997800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "沙特王储访美前收到伊朗总统来信",
-          "url": "https://wallstreetcn.com/livenews/3006815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
         }
       ]
     },
