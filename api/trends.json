@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T14:10:48.775055+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-11-20T15:08:27.066464+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -33,6 +33,18 @@
           "time_info": "[00时09分 ~ 07时07分]"
         },
         {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时37分 ~ 15时08分]"
+        },
+        {
           "title": "马斯克出席特朗普与沙特王储晚宴",
           "url": "https://www.toutiao.com/trending/7573762239518228521/",
           "source": "今日头条",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时26分 ~ 12时08分]"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时37分 ~ 14时10分]"
         },
         {
           "title": "特朗普批准公布爱泼斯坦案档案",
@@ -199,6 +199,18 @@
           "time_info": "02时10分"
         },
         {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 15时08分]"
+        },
+        {
           "title": "据官员们透露，美国总统特朗普的半导体关税计划可能会被推迟。（路透）",
           "url": "https://wallstreetcn.com/livenews/3007379",
           "source": "华尔街见闻-快讯",
@@ -222,18 +234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 03时06分]"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 14时10分]"
         },
         {
           "title": "美国总统特朗普谈及前段时间突击检查现代汽车（并强行遣返相关人员）事件，称：我们解决了这个问题。",
@@ -349,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "英国外交部发言人：英国支持特朗普总统希望结束俄乌冲突愿望，只要俄罗斯撤回军队、停止其非法入侵，明天就能做到这一点。",
@@ -577,7 +588,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -695,8 +706,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时26分 ~ 14时10分]"
+          "appearance_count": 11,
+          "time_info": "[08时26分 ~ 15时08分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -708,8 +719,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时07分 ~ 14时10分]"
+          "appearance_count": 12,
+          "time_info": "[07时07分 ~ 15时08分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -918,7 +929,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -958,11 +969,12 @@
             7,
             11,
             10,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时09分 ~ 14时10分]"
+          "appearance_count": 20,
+          "time_info": "[00时09分 ~ 15时08分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -974,11 +986,12 @@
             5,
             6,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时07分 ~ 14时10分]"
+          "appearance_count": 19,
+          "time_info": "[01时07分 ~ 15时08分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -991,8 +1004,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时10分 ~ 14时10分]"
+          "appearance_count": 17,
+          "time_info": "[02时10分 ~ 15时08分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -1076,6 +1089,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "谷歌：在中国台北启用新的硬件工程中心。",
+          "url": "https://wallstreetcn.com/livenews/3007704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
@@ -1286,6 +1310,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "卖空者浑水创始人Carson Block：现在喜欢做多股票。 看涨加拿大初级金矿公司Snowline Gold Corp.（SGD）。 相比黄金价格，该公司参与的潜在项目的价值被低估了。",
+          "url": "https://wallstreetcn.com/livenews/3007340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",
+          "url": "https://flash.jin10.com/detail/20251120040028916800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -1362,34 +1425,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "卖空者浑水创始人Carson Block：现在喜欢做多股票。 看涨加拿大初级金矿公司Snowline Gold Corp.（SGD）。 相比黄金价格，该公司参与的潜在项目的价值被低估了。",
-          "url": "https://wallstreetcn.com/livenews/3007340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",
-          "url": "https://flash.jin10.com/detail/20251120040028916800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
         }
       ]
     }
