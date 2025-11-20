@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T11:26:33.273648+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2025-11-20T12:08:22.858106+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时26分 ~ 11时26分]"
+          "appearance_count": 7,
+          "time_info": "[08时26分 ~ 12时08分]"
         },
         {
           "title": "知情人士：特朗普政府考虑暂缓征收半导体关税",
@@ -198,6 +198,29 @@
           "time_info": "[02时10分 ~ 03时06分]"
         },
         {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 12时08分]"
+        },
+        {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 12时08分]"
+        },
+        {
           "title": "美国总统特朗普谈及前段时间突击检查现代汽车（并强行遣返相关人员）事件，称：我们解决了这个问题。",
           "url": "https://wallstreetcn.com/livenews/3007359",
           "source": "华尔街见闻-快讯",
@@ -208,29 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 03时06分]"
-        },
-        {
-          "title": "特朗普批准公布爱泼斯坦案档案",
-          "url": "https://www.toutiao.com/trending/7574614385700851210/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 11时26分]"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 11时26分]"
         },
         {
           "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
@@ -323,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国总统特朗普谈及前段时间突击检查现代汽车（并强行遣返相关人员）事件，称：我们解决了这个问题。",
@@ -637,8 +648,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时07分 ~ 11时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时07分 ~ 12时08分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -649,8 +660,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时26分 ~ 11时26分]"
+          "appearance_count": 7,
+          "time_info": "[08时26分 ~ 12时08分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -897,11 +908,12 @@
             5,
             9,
             7,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 11时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时09分 ~ 12时08分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -916,8 +928,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时07分 ~ 11时26分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 12时08分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -930,8 +942,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时10分 ~ 11时26分]"
+          "appearance_count": 13,
+          "time_info": "[02时10分 ~ 12时08分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -980,6 +992,30 @@
           "time_info": "[05时07分 ~ 06时07分]"
         },
         {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时08分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
+          "url": "https://flash.jin10.com/detail/20251120104126755800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时08分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
           "url": "https://wallstreetcn.com/livenews/3007418",
           "source": "华尔街见闻-快讯",
@@ -1002,28 +1038,6 @@
           "time_info": "00时09分"
         },
         {
-          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
-          "url": "https://www.zhihu.com/question/1974483598263476355",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
-          "url": "https://flash.jin10.com/detail/20251120104126755800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
           "title": "中信证券：Gemini 3 Pro多模态领先，关注应用新机会",
           "url": "https://wallstreetcn.com/livenews/3007512",
           "source": "华尔街见闻-快讯",
@@ -1041,7 +1055,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
