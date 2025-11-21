@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T19:07:09.185368+08:00",
-  "total_titles_processed": 1906,
+  "generated_at": "2025-11-21T20:12:06.397759+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -31,8 +31,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时10分 ~ 19时07分]"
+          "appearance_count": 13,
+          "time_info": "[14时10分 ~ 20时12分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -67,17 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
-        },
-        {
-          "title": "知情人士：由于美国政府停摆43天，以及今年夏天首批250亿美元拨款缺乏明确计划，美国总统特朗普主推的“金穹”导弹防御计划面临重大延误。",
-          "url": "https://flash.jin10.com/detail/20251121190142654800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望处决国会山成员。",
@@ -171,6 +160,18 @@
           "time_info": "[04时08分 ~ 05时07分]"
         },
         {
+          "title": "知情人士：由于美国政府停摆43天，以及今年夏天首批250亿美元拨款缺乏明确计划，美国总统特朗普主推的“金穹”导弹防御计划面临重大延误。",
+          "url": "https://flash.jin10.com/detail/20251121190142654800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 20时12分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对继续打击毒贩“非常有兴趣”。",
           "url": "https://wallstreetcn.com/livenews/3008133",
           "source": "华尔街见闻-快讯",
@@ -219,6 +220,18 @@
           "time_info": "[06时07分 ~ 07时07分]"
         },
         {
+          "title": "市场消息：乌克兰总统泽连斯基和特朗普将于下周讨论和平计划。",
+          "url": "https://flash.jin10.com/detail/20251121184349648800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 20时12分]"
+        },
+        {
           "title": "泽连斯基已收到美和平计划草案 将与特朗普通话磋商",
           "url": "https://wallstreetcn.com/livenews/3008104",
           "source": "华尔街见闻-快讯",
@@ -265,15 +278,15 @@
           "time_info": "[14时10分 ~ 14时11分]"
         },
         {
-          "title": "市场消息：乌克兰总统泽连斯基和特朗普将于下周讨论和平计划。",
-          "url": "https://flash.jin10.com/detail/20251121184349648800",
+          "title": "美媒称特朗普执政团队可能“大换血” 白宫发言人否认",
+          "url": "https://flash.jin10.com/detail/20251121192247348800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时07分"
+          "time_info": "20时12分"
         },
         {
           "title": "特朗普签署命令 免除部分巴西农产品40%的关税",
@@ -318,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
+        },
+        {
+          "title": "泽连斯基将于下周与特朗普讨论和平计划",
+          "url": "https://wallstreetcn.com/livenews/3008662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "美法官叫停特朗普政府在华盛顿特区部署国民警卫队计划",
@@ -392,7 +416,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -417,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普政府的官员为上任一周年后可能进行的内阁调整做准备。",
+          "url": "https://flash.jin10.com/detail/20251121190554844800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "美国白宫：美国总统特朗普有意对贩毒集团采取进一步行动，国家安全团队正在讨论此类选项。",
@@ -469,7 +504,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -543,7 +578,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -593,8 +628,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时35分 ~ 19时07分]"
+          "appearance_count": 18,
+          "time_info": "[09时35分 ~ 20时12分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -623,8 +658,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时35分 ~ 19时07分]"
+          "appearance_count": 18,
+          "time_info": "[09时35分 ~ 20时12分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -649,8 +684,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时10分 ~ 19时07分]"
+          "appearance_count": 13,
+          "time_info": "[14时10分 ~ 20时12分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -665,6 +700,19 @@
           "time_info": "[12时08分 ~ 16时10分]"
         },
         {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时07分 ~ 20时12分]"
+        },
+        {
           "title": "美股为何巨震暴跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
@@ -677,19 +725,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时07分 ~ 17时08分]"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时07分 ~ 19时07分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -809,6 +844,17 @@
           "time_info": "[08时27分 ~ 09时35分]"
         },
         {
+          "title": "美股投资者为何不愿为英伟达财报买单",
+          "url": "https://www.toutiao.com/trending/7575115515551551030/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 20时12分]"
+        },
+        {
           "title": "英伟达光环消失！美股遭遇惨烈高台跳水 华尔街全在问：为什么？",
           "url": "https://www.cls.cn/detail/2206908",
           "source": "财联社热门",
@@ -862,6 +908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "美股股指期货全线走高，纳指期货转涨，此前一度跌超0.9%，标普500指数期货涨0.2%，道指期货涨0.47%。",
+          "url": "https://wallstreetcn.com/livenews/3008659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -969,7 +1026,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -1043,7 +1100,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
@@ -1157,6 +1214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "出门问问TicNote与CodeBanana已全面接入Gemini 3模型",
+          "url": "https://wallstreetcn.com/livenews/3008660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
@@ -1456,8 +1524,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时27分 ~ 19时07分]"
+          "appearance_count": 19,
+          "time_info": "[08时27分 ~ 20时12分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -1553,7 +1621,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         }
