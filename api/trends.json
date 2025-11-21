@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T17:08:07.147023+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2025-11-21T18:08:05.276614+08:00",
+  "total_titles_processed": 1807,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,18 @@
           "time_info": "[08时27分 ~ 16时10分]"
         },
         {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时10分 ~ 18时08分]"
+        },
+        {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
           "url": "https://news.ifeng.com/c/8oRnabvaRvi",
           "source": "凤凰网",
@@ -32,18 +44,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时27分 ~ 14时11分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时10分 ~ 17时08分]"
         },
         {
           "title": "报道：特朗普悄然提名枪械管理局局长",
@@ -446,7 +446,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -548,8 +548,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时35分 ~ 17时08分]"
+          "appearance_count": 14,
+          "time_info": "[09时35分 ~ 18时08分]"
+        },
+        {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 18时08分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -563,8 +578,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时35分 ~ 17时08分]"
+          "appearance_count": 14,
+          "time_info": "[09时35分 ~ 18时08分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -581,20 +596,6 @@
           "time_info": "[00时08分 ~ 07时07分]"
         },
         {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 17时08分]"
-        },
-        {
           "title": "美股为何巨震暴跌",
           "url": "https://www.toutiao.com/trending/7574979338739650091/",
           "source": "今日头条",
@@ -605,6 +606,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时08分 ~ 16时10分]"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时10分 ~ 18时08分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -619,18 +632,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时07分 ~ 17时08分]"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时10分 ~ 17时08分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -690,6 +691,18 @@
           "time_info": "[05时07分 ~ 06时07分]"
         },
         {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 18时08分]"
+        },
+        {
           "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
           "url": "https://flash.jin10.com/detail/20251121032845526800",
           "source": "金十数据",
@@ -736,17 +749,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 07时07分]"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -1396,8 +1398,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时27分 ~ 17时08分]"
+          "appearance_count": 15,
+          "time_info": "[08时27分 ~ 18时08分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -1482,7 +1484,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
