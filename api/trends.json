@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-24T14:11:40.055081+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2025-11-24T15:08:38.205982+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 27,
       "titles": [
+        {
+          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
+          "url": "https://wallstreetcn.com/articles/3759963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时36分 ~ 15时08分]"
+        },
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
           "url": "https://news.ifeng.com/c/8oWeN8vWETi",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时28分 ~ 13时09分]"
-        },
-        {
-          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
-          "url": "https://wallstreetcn.com/articles/3759963",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时36分 ~ 14时11分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -235,6 +236,17 @@
           "time_info": "[00时07分 ~ 02时09分]"
         },
         {
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时08分]"
+        },
+        {
           "title": "特朗普称乌对美方努力毫无感激之情",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B9%8C%E5%AF%B9%E7%BE%8E%E6%96%B9%E5%8A%AA%E5%8A%9B%E6%AF%AB%E6%97%A0%E6%84%9F%E6%BF%80%E4%B9%8B%E6%83%85",
           "source": "百度热搜",
@@ -268,24 +280,13 @@
           "time_info": "07时07分"
         },
         {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
           "title": "特朗普：“囤货”现象即将结束 关税收入将激增",
           "url": "https://flash.jin10.com/detail/20251124131919141800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -296,7 +297,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -407,11 +408,12 @@
           "url": "https://wallstreetcn.com/articles/3759968",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时08分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货涨0.6%，纳斯达克100指数期货涨0.7%，道指期货涨0.4%。",
