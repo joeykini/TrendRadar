@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-26T14:11:20.146917+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2025-11-26T15:08:25.802132+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
+        {
+          "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
+          "url": "https://www.cls.cn/detail/2210938",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 15时08分]"
+        },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
@@ -20,30 +32,6 @@
           "time_info": "[00时09分 ~ 08时27分]"
         },
         {
-          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时07分 ~ 14时11分]"
-        },
-        {
-          "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
-          "url": "https://www.cls.cn/detail/2210938",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时27分 ~ 14时11分]"
-        },
-        {
           "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
           "url": "https://news.ifeng.com/c/8oaUqYk7kJR",
           "source": "凤凰网",
@@ -53,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时27分 ~ 14时11分]"
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 15时08分]"
         },
         {
           "title": "特朗普电话后，日本沮丧了三次",
@@ -65,8 +53,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时27分 ~ 14时11分]"
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 15时08分]"
+        },
+        {
+          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时07分 ~ 15时08分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -83,6 +83,46 @@
           "time_info": "[00时09分 ~ 13时08分]"
         },
         {
+          "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
+          "url": "https://www.cls.cn/detail/2210885",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 15时08分]"
+        },
+        {
+          "title": "2026年11月深圳的APEC会议，特朗普要来了？",
+          "url": "https://news.ifeng.com/c/8oZweOPfKbO",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 15时08分]"
+        },
+        {
+          "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
+          "url": "https://www.cls.cn/detail/2210988",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时38分 ~ 15时08分]"
+        },
+        {
           "title": "特朗普：俄乌和平协议已“非常接近达成”",
           "url": "https://www.cls.cn/detail/2210903",
           "source": "财联社热门",
@@ -94,21 +134,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时07分 ~ 14时11分]"
-        },
-        {
-          "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
-          "url": "https://www.cls.cn/detail/2210885",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时27分 ~ 14时11分]"
+          "appearance_count": 12,
+          "time_info": "[07时07分 ~ 15时08分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -120,18 +147,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时09分 ~ 07时07分]"
-        },
-        {
-          "title": "2026年11月深圳的APEC会议，特朗普要来了？",
-          "url": "https://news.ifeng.com/c/8oZweOPfKbO",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时27分 ~ 14时11分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -148,6 +163,19 @@
           "time_info": "[09时35分 ~ 14时11分]"
         },
         {
+          "title": "美财长：特朗普明年或两次访华",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E5%B9%B4%E6%88%96%E4%B8%A4%E6%AC%A1%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时38分 ~ 15时08分]"
+        },
+        {
           "title": "特朗普与高市早苗通话",
           "url": "https://www.douyin.com/hot/2317172",
           "source": "抖音",
@@ -158,21 +186,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时09分 ~ 07时07分]"
-        },
-        {
-          "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
-          "url": "https://www.cls.cn/detail/2210988",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时38分 ~ 14时11分]"
         },
         {
           "title": "特朗普在白宫赦免火鸡 引全场爆笑",
@@ -213,18 +226,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时35分 ~ 13时08分]"
-        },
-        {
-          "title": "美财长：特朗普明年或两次访华",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E5%B9%B4%E6%88%96%E4%B8%A4%E6%AC%A1%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时38分 ~ 14时11分]"
         },
         {
           "title": "白宫否认特朗普考虑撤掉联邦调查局局长卡什·帕特尔。",
@@ -447,6 +448,18 @@
           "time_info": "[00时09分 ~ 06时07分]"
         },
         {
+          "title": "日本外相尴尬找补特朗普对日态度",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%96%E7%9B%B8%E5%B0%B4%E5%B0%AC%E6%89%BE%E8%A1%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E6%97%A5%E6%80%81%E5%BA%A6",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时10分 ~ 15时08分]"
+        },
+        {
           "title": "特朗普想重启成龙电影尖峰时刻",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E9%87%8D%E5%90%AF%E6%88%90%E9%BE%99%E7%94%B5%E5%BD%B1%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -579,15 +592,26 @@
           "time_info": "[02时10分 ~ 03时06分]"
         },
         {
-          "title": "日本外相尴尬找补特朗普对日态度",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%96%E7%9B%B8%E5%B0%B4%E5%B0%AC%E6%89%BE%E8%A1%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E6%97%A5%E6%80%81%E5%BA%A6",
-          "source": "百度热搜",
+          "title": "刚见面不久特朗普为何急着和中方通话",
+          "url": "https://www.toutiao.com/trending/7575911692447055908/",
+          "source": "今日头条",
           "ranks": [
-            30
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时10分 ~ 14时11分]"
+          "time_info": "[15时07分 ~ 15时08分]"
+        },
+        {
+          "title": "美财长：特朗普明年或将两次访华",
+          "url": "https://www.douyin.com/hot/2318105",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 15时08分]"
         },
         {
           "title": "特朗普催拍成龙主演电影《尖峰时刻》",
@@ -838,6 +862,18 @@
       "match_count": 19,
       "titles": [
         {
+          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 15时08分]"
+        },
+        {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
           "url": "https://www.cls.cn/detail/2210485",
           "source": "财联社热门",
@@ -850,18 +886,6 @@
           "time_info": "[00时09分 ~ 08时27分]"
         },
         {
-          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时27分 ~ 14时11分]"
-        },
-        {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
           "url": "https://www.cls.cn/detail/2210921",
           "source": "财联社热门",
@@ -871,8 +895,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时27分 ~ 14时11分]"
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 15时08分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -896,8 +920,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时07分 ~ 15时08分]"
+        },
+        {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[07时07分 ~ 14时11分]"
+          "time_info": "[09时35分 ~ 15时08分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -913,29 +948,6 @@
           "time_info": "[00时09分 ~ 08时27分]"
         },
         {
-          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
-          "url": "https://www.cls.cn/detail/2210371",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 07时07分]"
-        },
-        {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时35分 ~ 14时11分]"
-        },
-        {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
           "url": "https://wallstreetcn.com/articles/3760076",
           "source": "华尔街见闻",
@@ -944,8 +956,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时35分 ~ 14时11分]"
+          "appearance_count": 10,
+          "time_info": "[09时35分 ~ 15时08分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -957,8 +969,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时35分 ~ 14时11分]"
+          "appearance_count": 10,
+          "time_info": "[09时35分 ~ 15时08分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
+          "url": "https://www.cls.cn/detail/2210371",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 07时07分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -1030,11 +1054,12 @@
           "url": "https://www.cls.cn/detail/2211188",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 14时11分]"
+          "appearance_count": 4,
+          "time_info": "[14时10分 ~ 15时08分]"
         },
         {
           "title": "如何评价谷歌 TPU 业务？",
@@ -1404,7 +1429,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         }
