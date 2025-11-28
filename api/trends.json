@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T14:11:21.361991+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-11-28T15:08:34.339869+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -53,11 +53,24 @@
           "ranks": [
             12,
             14,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时35分 ~ 14时11分]"
+          "appearance_count": 8,
+          "time_info": "[09时35分 ~ 15时08分]"
+        },
+        {
+          "title": "特朗普称将对委内瑞拉展开地面行动",
+          "url": "https://www.douyin.com/hot/2319972",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时35分 ~ 15时08分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -67,17 +80,6 @@
             16,
             18,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时35分 ~ 14时11分]"
-        },
-        {
-          "title": "特朗普称将对委内瑞拉展开地面行动",
-          "url": "https://www.douyin.com/hot/2319972",
-          "source": "抖音",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -97,6 +99,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时35分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普称将暂停“第三世界国家”移民",
+          "url": "https://www.toutiao.com/trending/7577245940038258219/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "中方回应特朗普要求高市降低声调",
+          "url": "https://www.douyin.com/hot/2319515",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            17,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时35分 ~ 15时08分]"
         },
         {
           "title": "美国总统特朗普：正在解决F-35战机的维护问题。",
@@ -141,20 +169,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时26分 ~ 12时09分]"
-        },
-        {
-          "title": "中方回应特朗普要求高市降低声调",
-          "url": "https://www.douyin.com/hot/2319515",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时35分 ~ 14时11分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
@@ -207,6 +221,18 @@
           "time_info": "[09时35分 ~ 10时37分]"
         },
         {
+          "title": "丹麦设立“守夜人” 专盯特朗普的一举一动",
+          "url": "https://flash.jin10.com/detail/20251128133301169800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时08分]"
+        },
+        {
           "title": "特朗普：将永久停止所有“第三世界”国家的移民",
           "url": "https://wallstreetcn.com/livenews/3011877",
           "source": "华尔街见闻-快讯",
@@ -217,6 +243,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时08分 ~ 14时11分]"
+        },
+        {
+          "title": "据英国金融时报：印尼正抵制美国总统特朗普试图强使其接受所谓“毒丸条款”及其它强制性条款的企图，这些条款原本拟纳入其与美国的“对等关税”贸易协议中。",
+          "url": "https://flash.jin10.com/detail/20251128132329449800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时08分]"
         },
         {
           "title": "德国总理默茨：我将设法劝说美国（总统特朗普），进而让南非获得参与2026年（由美方轮值主办的）二十国集团（G20）峰会。",
@@ -255,6 +293,17 @@
           "time_info": "[10时37分 ~ 11时27分]"
         },
         {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "美国总统特朗普：将永久暂停来自所有第三世界国家的移民，以使美国体系得以全面恢复。",
           "url": "https://flash.jin10.com/detail/20251128122807470800",
           "source": "金十数据",
@@ -283,29 +332,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
-          "title": "丹麦设立“守夜人” 专盯特朗普的一举一动",
-          "url": "https://flash.jin10.com/detail/20251128133301169800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
-          "title": "据英国金融时报：印尼正抵制美国总统特朗普试图强使其接受所谓“毒丸条款”及其它强制性条款的企图，这些条款原本拟纳入其与美国的“对等关税”贸易协议中。",
-          "url": "https://flash.jin10.com/detail/20251128132329449800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -371,7 +398,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -393,7 +420,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -434,7 +461,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
@@ -444,8 +471,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时26分 ~ 14时11分]"
+          "appearance_count": 9,
+          "time_info": "[08时26分 ~ 15时08分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -457,8 +484,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时07分 ~ 14时11分]"
+          "appearance_count": 10,
+          "time_info": "[07时07分 ~ 15时08分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -474,8 +501,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时08分 ~ 14时11分]"
+          "appearance_count": 18,
+          "time_info": "[00时08分 ~ 15时08分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -483,11 +510,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 14时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 15时08分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -513,6 +541,17 @@
           "time_info": "[13时07分 ~ 13时08分]"
         },
         {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "DeepSeek发布可自验证数学模型DeepSeekMath-V2",
           "url": "https://wallstreetcn.com/livenews/3011557",
           "source": "华尔街见闻-快讯",
@@ -527,7 +566,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
@@ -569,11 +608,23 @@
           "url": "https://wallstreetcn.com/livenews/3011904",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时08分]"
+        },
+        {
+          "title": "为OpenAI数据中心发展买单 合作伙伴累积千亿美元债务",
+          "url": "https://flash.jin10.com/detail/20251128142049192800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时11分"
+          "time_info": "15时08分"
         },
         {
           "title": "据英国金融时报：多家银行正商谈再向甲骨文(ORCL.N)和数据中心建设商VANTAGE提供380亿美元贷款，以资助其为OpenAI建设更多数据中心。",
@@ -582,7 +633,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         }
@@ -737,8 +788,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时26分 ~ 14时11分]"
+          "appearance_count": 9,
+          "time_info": "[08时26分 ~ 15时08分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
