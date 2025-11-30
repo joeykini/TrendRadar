@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T15:07:43.000382+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2025-11-30T16:08:57.592905+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -29,11 +29,12 @@
             20,
             22,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时07分 ~ 15时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时07分 ~ 16时08分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -178,11 +179,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 15时07分]"
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 16时08分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -196,6 +198,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时17分 ~ 14时09分]"
+        },
+        {
+          "title": "美两党布局中期选举 特朗普拼经济",
+          "url": "https://www.toutiao.com/trending/7578382556505050643/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         }
       ]
     },
@@ -260,11 +273,12 @@
             2,
             8,
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时07分 ~ 15时07分]"
+          "appearance_count": 20,
+          "time_info": "[00时07分 ~ 16时08分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -310,8 +324,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 15时07分]"
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 16时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         }
       ]
     },
