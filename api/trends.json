@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T09:35:58.033055+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2025-12-03T10:39:31.220009+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 80,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -50,9 +50,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://news.ifeng.com/c/8omI9QpRNFm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "美国总统特朗普：我喜欢他（指巴西总统卢拉）。",
@@ -64,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "特朗普积极暗示哈塞特为下任美联储主席，美国很快将对贩毒集团进行陆地打击，普京威胁切断乌克兰海上通道，亚马逊推出定制AI芯片......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251203103110984800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "美国总统特朗普：与巴西总统卢拉的通话很棒，谈到了贸易与制裁的问题。",
@@ -83,7 +105,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
         },
@@ -97,6 +119,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        },
+        {
+          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
+          "url": "https://www.cls.cn/detail/2217685",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 10时39分]"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
@@ -300,17 +336,16 @@
           "time_info": "[04时16分 ~ 05时07分]"
         },
         {
-          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
-          "url": "https://www.cls.cn/detail/2217685",
-          "source": "财联社热门",
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11,
+            10,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时08分 ~ 09时35分]"
+          "time_info": "[08时28分 ~ 10时39分]"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -324,18 +359,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 05时07分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时28分 ~ 09时35分]"
         },
         {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
@@ -530,6 +553,18 @@
           "time_info": "[04时16分 ~ 05时07分]"
         },
         {
+          "title": "美特使与特朗普女婿漫步莫斯科红场",
+          "url": "https://www.toutiao.com/trending/7579132126877548586/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 10时39分]"
+        },
+        {
           "title": "美国总统特朗普重申对鲍威尔的批评，特朗普表示连摩根大通CEO戴蒙都说鲍威尔应该降低利率。",
           "url": "https://flash.jin10.com/detail/20251203005821190800",
           "source": "金十数据",
@@ -552,6 +587,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 05时07分]"
+        },
+        {
+          "title": "特朗普宣布拜登时期文件全部作废",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 10时39分]"
         },
         {
           "title": "巴西总统府：巴西总统卢拉周二与美国总统特朗普通了电话。",
@@ -661,6 +708,17 @@
           "time_info": "08时28分"
         },
         {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.toutiao.com/trending/7579444252149763593/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "特朗普：不清楚有关委内瑞拉船只遭到第二次袭击的事",
           "url": "https://flash.jin10.com/detail/20251203042601542800",
           "source": "金十数据",
@@ -689,7 +747,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
         },
@@ -714,17 +772,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "美特使与特朗普女婿漫步莫斯科红场",
-          "url": "https://www.toutiao.com/trending/7579132126877548586/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时35分"
         },
         {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
@@ -777,7 +824,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
         },
@@ -813,17 +860,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "特朗普宣布拜登时期文件全部作废",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时35分"
         },
         {
           "title": "俄罗斯总统普京：欧洲人正阻挠美国政府和美国总统特朗普通过谈判实现和平。欧洲人没有和平议程，他们站在战争一边。",
@@ -892,6 +928,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "特朗普女婿为何出现在俄美会谈",
+          "url": "https://www.toutiao.com/trending/7579438166952824330/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "首位美籍教皇利奥十四世敦促特朗普政府不要试图通过军事手段推翻委内瑞拉总统马杜罗，利奥十四世表示，如果华盛顿寻求变革，与其采取对抗，不如尝试对话或施加经济压力。",
           "url": "https://flash.jin10.com/detail/20251203003259046800",
           "source": "金十数据",
@@ -927,11 +974,12 @@
           "ranks": [
             12,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时37分 ~ 09时35分]"
+          "appearance_count": 12,
+          "time_info": "[01时37分 ~ 10时39分]"
         },
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
@@ -949,11 +997,12 @@
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时28分 ~ 09时35分]"
+          "appearance_count": 3,
+          "time_info": "[08时28分 ~ 10时39分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -962,11 +1011,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 09时35分]"
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 10时39分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股盘中）",
@@ -1134,8 +1184,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时28分 ~ 10时39分]"
+        },
+        {
+          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
+          "url": "https://wallstreetcn.com/articles/3760498",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时28分 ~ 09时35分]"
+          "time_info": "[09时35分 ~ 10时39分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -1148,17 +1209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时11分]"
-        },
-        {
-          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
-          "url": "https://wallstreetcn.com/articles/3760498",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时35分"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -1178,7 +1228,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
         }
@@ -1264,8 +1314,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 09时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 10时39分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -1350,6 +1400,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
+          "url": "https://flash.jin10.com/detail/20251203101800307800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "黄金价格走高 等待美联储政策指引",
+          "url": "https://flash.jin10.com/detail/20251203095707024800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         }
       ]
     },
