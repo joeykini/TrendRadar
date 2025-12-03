@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:08:16.033951+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2025-12-03T14:11:13.511051+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 13时08分]"
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 14时11分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.toutiao.com/trending/7579444252149763593/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 14时11分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -54,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时28分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[08时28分 ~ 14时11分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -66,24 +80,12 @@
             11,
             6,
             5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时08分 ~ 13时08分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.toutiao.com/trending/7579444252149763593/",
-          "source": "今日头条",
-          "ranks": [
             7,
-            4,
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 13时08分]"
+          "appearance_count": 12,
+          "time_info": "[07时08分 ~ 14时11分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -789,7 +791,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -995,8 +997,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时28分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[08时28分 ~ 14时11分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -1009,8 +1011,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时08分 ~ 13时08分]"
+          "appearance_count": 12,
+          "time_info": "[07时08分 ~ 14时11分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -1190,8 +1192,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时28分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[08时28分 ~ 14时11分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1225,11 +1227,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 13时08分]"
+          "appearance_count": 6,
+          "time_info": "[12时12分 ~ 14时11分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
