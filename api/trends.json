@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T22:06:57.311079+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2025-12-06T23:07:10.406283+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -21,8 +21,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时34分 ~ 18时07分]"
+          "appearance_count": 14,
+          "time_info": "[09时34分 ~ 23时07分]"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时07分 ~ 23时07分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -41,17 +54,17 @@
           "time_info": "[01时07分 ~ 08时26分]"
         },
         {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
           "source": "知乎",
           "ranks": [
-            6,
-            8,
-            9
+            16,
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时07分 ~ 22时06分]"
+          "appearance_count": 8,
+          "time_info": "[18时07分 ~ 23时07分]"
         },
         {
           "title": "日媒：特朗普与高市通话措辞非常严厉",
@@ -152,17 +165,15 @@
           "time_info": "[11时25分 ~ 15时07分]"
         },
         {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            15,
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时07分 ~ 22时06分]"
+          "time_info": "[20时10分 ~ 23时07分]"
         },
         {
           "title": "特朗普提议给美式橄榄球改名",
@@ -392,17 +403,6 @@
           "time_info": "[00时08分 ~ 01时08分]"
         },
         {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时10分 ~ 22时06分]"
-        },
-        {
           "title": "美国总统特朗普：签署了一份总统备忘录，指示卫生与公众服务部快速推进对其他国家疫苗接种计划的全面评估。疾控中心疫苗委员会做出了一个非常明智的决定，终止其乙型肝炎疫苗接种建议。",
           "url": "https://flash.jin10.com/detail/20251206083946203800",
           "source": "金十数据",
@@ -486,6 +486,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 05时06分]"
+        },
+        {
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "美国总统特朗普：与加拿大和墨西哥相处得很好。",
@@ -619,8 +630,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时25分 ~ 22时06分]"
+          "appearance_count": 22,
+          "time_info": "[08时25分 ~ 23时07分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -650,8 +661,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时25分 ~ 22时06分]"
+          "appearance_count": 22,
+          "time_info": "[08时25分 ~ 23时07分]"
         },
         {
           "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股盘中）",
@@ -804,7 +815,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -820,17 +831,6 @@
           "time_info": "[11时25分 ~ 21时13分]"
         },
         {
-          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
-          "url": "https://flash.jin10.com/detail/20251206034533252800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时06分 ~ 08时26分]"
-        },
-        {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
           "url": "https://wallstreetcn.com/articles/3760832",
           "source": "华尔街见闻",
@@ -840,8 +840,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时07分 ~ 22时06分]"
+          "appearance_count": 8,
+          "time_info": "[18时07分 ~ 23时07分]"
+        },
+        {
+          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
+          "url": "https://flash.jin10.com/detail/20251206034533252800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时06分 ~ 08时26分]"
         },
         {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
@@ -879,6 +890,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时08分 ~ 09时35分]"
+        },
+        {
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
@@ -975,8 +997,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时25分 ~ 22时06分]"
+          "appearance_count": 16,
+          "time_info": "[11时25分 ~ 23时07分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -1065,8 +1087,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时10分 ~ 22时06分]"
+          "appearance_count": 6,
+          "time_info": "[20时10分 ~ 23时07分]"
         }
       ]
     },
