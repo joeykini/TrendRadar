@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T13:09:09.381621+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2025-12-10T14:11:16.066059+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时28分 ~ 13时09分]"
+          "appearance_count": 12,
+          "time_info": "[08时28分 ~ 14时11分]"
         },
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时10分 ~ 13时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时10分 ~ 14时11分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -137,6 +137,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 14时11分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -224,6 +235,18 @@
           "time_info": "[06时14分 ~ 07时08分]"
         },
         {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 14时11分]"
+        },
+        {
           "title": "欧盟重罚X平台遭特朗普抨击",
           "url": "https://www.douyin.com/hot/2331490",
           "source": "抖音",
@@ -284,15 +307,15 @@
           "time_info": "[06时14分 ~ 07时08分]"
         },
         {
-          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
-          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "title": "邵永灵：特朗普正用国家权力变现",
+          "url": "https://www.toutiao.com/trending/7582064656005467699/",
           "source": "今日头条",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
+          "time_info": "[14时10分 ~ 14时11分]"
         },
         {
           "title": "特朗普政府：维持大豆库存等预期不变",
@@ -305,6 +328,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 03时07分]"
+        },
+        {
+          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 14时11分]"
+        },
+        {
+          "title": "特朗普厕所门口受访被人推门撞到",
+          "url": "https://www.toutiao.com/trending/7582097221663936046/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 14时11分]"
+        },
+        {
+          "title": "美财长向乌总理重申特朗普承诺",
+          "url": "https://www.toutiao.com/trending/7582063864838209562/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 14时11分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：他不喜欢我",
@@ -401,7 +457,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -696,8 +752,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时07分 ~ 13时09分]"
+          "appearance_count": 14,
+          "time_info": "[07时07分 ~ 14时11分]"
         },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -962,8 +1018,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时28分 ~ 13时09分]"
+          "appearance_count": 12,
+          "time_info": "[08时28分 ~ 14时11分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1027,8 +1083,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时28分 ~ 13时09分]"
+          "appearance_count": 12,
+          "time_info": "[08时28分 ~ 14时11分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
