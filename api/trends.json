@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T13:09:57.409392+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2025-12-11T14:11:42.890602+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 13时09分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 14时11分]"
         },
         {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时28分 ~ 13时09分]"
+          "appearance_count": 8,
+          "time_info": "[08时28分 ~ 14时11分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -66,17 +66,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
-        },
-        {
-          "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
-          "url": "https://wallstreetcn.com/livenews/3018939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -136,6 +125,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时08分 ~ 06时08分]"
+        },
+        {
+          "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
+          "url": "https://wallstreetcn.com/livenews/3018939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 14时11分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -409,6 +410,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "据英国金融时报：英国承诺在与美国总统特朗普达成关税协议后，额外投入15亿英镑用于国民医疗服务体系药品。",
+          "url": "https://flash.jin10.com/detail/20251211130201705800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "特朗普称将在明年初任命加沙“和平委员会”",
           "url": "https://wallstreetcn.com/livenews/3018727",
           "source": "华尔街见闻-快讯",
@@ -587,8 +599,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时28分 ~ 13时09分]"
+          "appearance_count": 8,
+          "time_info": "[08时28分 ~ 14时11分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -600,8 +612,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时06分 ~ 13时09分]"
+          "appearance_count": 9,
+          "time_info": "[07时06分 ~ 14时11分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
