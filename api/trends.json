@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T12:23:07.529104+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2025-12-15T13:11:21.381570+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,19 @@
           "time_info": "[01时06分 ~ 07时07分]"
         },
         {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时11分]"
+        },
+        {
           "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
           "url": "https://wallstreetcn.com/livenews/3020431",
           "source": "华尔街见闻-快讯",
@@ -66,16 +79,18 @@
           "time_info": "[03时06分 ~ 07时07分]"
         },
         {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
-          "source": "华尔街见闻",
+          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
+          "url": "https://www.cls.cn/detail/2229153",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            3
+            10,
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 12时23分]"
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时11分]"
         },
         {
           "title": "“影子美联储主席”哈塞特：特朗普可以向美联储提供建议，但无权设定其行动",
@@ -102,19 +117,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 05时07分]"
-        },
-        {
-          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
-          "url": "https://www.cls.cn/detail/2229153",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 12时23分]"
         },
         {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
@@ -154,8 +156,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时36分 ~ 12时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时36分 ~ 13时11分]"
         },
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -163,11 +165,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时36分 ~ 12时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时36分 ~ 13时11分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -179,8 +182,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 12时23分]"
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时11分]"
         }
       ]
     },
@@ -198,8 +201,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时07分 ~ 12时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 13时11分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）上海金早盘价为974.55元/克，较国际金价(980.31元/克)，低5.76元/克",
