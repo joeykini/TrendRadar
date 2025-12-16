@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T10:41:57.343964+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2025-12-16T11:35:29.234882+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -70,8 +70,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 10时41分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 11时35分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -81,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 10时41分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 11时35分]"
         },
         {
           "title": "文件显示：美国总统特朗普向英国广播公司（BBC）索赔50亿美元。",
@@ -116,6 +116,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        },
+        {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 11时35分]"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
@@ -163,18 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时08分]"
-        },
-        {
-          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
-          "url": "https://wallstreetcn.com/articles/3761439",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 10时41分]"
         },
         {
           "title": "美国总统特朗普：丰田刚刚批准了在美国建设制造工厂。",
@@ -284,6 +285,17 @@
           "time_info": "[03时39分 ~ 04时17分]"
         },
         {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 11时35分]"
+        },
+        {
           "title": "特朗普正式起诉BBC 索赔50亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9450%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -359,17 +371,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
         },
         {
           "title": "美国总统特朗普：我今天没看股市，也许它上涨了。",
@@ -504,6 +505,17 @@
           "time_info": "01时10分"
         },
         {
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "美国总统特朗普：将很快对英国广播公司（BBC）提起诉讼。",
           "url": "https://flash.jin10.com/detail/20251216044150857800",
           "source": "金十数据",
@@ -600,6 +612,19 @@
           "time_info": "[00时09分 ~ 06时08分]"
         },
         {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 11时35分]"
+        },
+        {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2230200",
           "source": "财联社热门",
@@ -612,19 +637,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时09分 ~ 09时36分]"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 10时41分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
@@ -754,6 +766,79 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "澳新银行：鉴于全球经济增长前景恶化、贸易紧张局势再起、美联储独立性受损以及股市抛售等因素，可能导致金价在2026年潜在突破5000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251216101024659800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "澳新银行表示，受全球增长前景恶化、贸易紧张局势再起、美联储独立性受损以及股市抛售潮等因素影响，金价或于2026年突破5000 美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3021329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 11时35分]"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）上海金早盘价为970.56元/克，较国际金价(970.45元/克)，高0.11元/克",
+          "url": "https://flash.jin10.com/detail/20251216110323554800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "市场分析：美元和美国国债收益率是本周金价的主要推动因素",
+          "url": "https://flash.jin10.com/detail/20251215235510246800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "澳新银行：受全球增长前景恶化、贸易紧张局势再起、美联储独立性受损以及股市抛售潮等因素影响，金价或于2026年突破5000美元/盎司。 若美国经济增长前景改善、美元汇率意外走强且美联储采取鹰派政策，现货黄金或于 2026年回落至3500美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3021329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -801,56 +886,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "澳新银行：鉴于全球经济增长前景恶化、贸易紧张局势再起、美联储独立性受损以及股市抛售等因素，可能导致金价在2026年潜在突破5000美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251216101024659800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "澳新银行表示，受全球增长前景恶化、贸易紧张局势再起、美联储独立性受损以及股市抛售潮等因素影响，金价或于2026年突破5000 美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3021329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 10时41分]"
-        },
-        {
-          "title": "市场分析：美元和美国国债收益率是本周金价的主要推动因素",
-          "url": "https://flash.jin10.com/detail/20251215235510246800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
         }
       ]
     },
