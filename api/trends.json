@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:08:47.272210+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2025-12-16T19:07:48.784908+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时35分 ~ 18时08分]"
+          "appearance_count": 16,
+          "time_info": "[09时35分 ~ 19时07分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -95,11 +95,12 @@
             13,
             12,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时41分 ~ 18时08分]"
+          "appearance_count": 14,
+          "time_info": "[10时41分 ~ 19时07分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -130,6 +131,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时09分 ~ 05时19分]"
+        },
+        {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 19时07分]"
         },
         {
           "title": "文件显示：美国总统特朗普向英国广播公司（BBC）索赔50亿美元。",
@@ -182,7 +194,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -196,17 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
-          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理前往美国，讨论核合作协议。",
@@ -901,7 +902,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -912,7 +913,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -934,7 +935,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -1007,9 +1008,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 19时07分]"
         },
         {
           "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
@@ -1058,7 +1059,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         }
