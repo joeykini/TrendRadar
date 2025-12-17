@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T11:33:37.512961+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2025-12-17T12:15:41.429329+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -25,8 +25,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时09分 ~ 11时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时09分 ~ 12时15分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时09分 ~ 11时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时09分 ~ 12时15分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -88,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 12时15分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -99,8 +99,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 12时15分]"
         },
         {
           "title": "特朗普政府宣布对40国实施入境限制",
@@ -109,9 +109,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 12时15分]"
         },
         {
           "title": "特朗普预计最快于本周签署一项行政令，加快推进大麻的重新分类。（NBC）",
@@ -134,17 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
-        },
-        {
-          "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
-          "url": "https://flash.jin10.com/detail/20251217111048852800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -207,6 +196,18 @@
           "time_info": "[08时28分 ~ 09时36分]"
         },
         {
+          "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
+          "url": "https://flash.jin10.com/detail/20251217111048852800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 12时15分]"
+        },
+        {
           "title": "雪佛龙(CVX.N)：在特朗普发布封锁令后，公司在委内瑞拉的业务仍在正常开展，未受干扰。",
           "url": "https://flash.jin10.com/detail/20251217082048989800",
           "source": "金十数据",
@@ -250,8 +251,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 12时15分]"
         },
         {
           "title": "特朗普称认定委政府是“恐怖组织”",
@@ -311,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时10分]"
+        },
+        {
+          "title": "特朗普称已下令封锁进出委受制裁油轮",
+          "url": "https://www.toutiao.com/trending/7584624870806277638/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 12时15分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
@@ -402,17 +415,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
-        },
-        {
-          "title": "特朗普称已下令封锁进出委受制裁油轮",
-          "url": "https://www.toutiao.com/trending/7584624870806277638/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
         },
         {
           "title": "据NBC新闻：预计美国总统特朗普最早将于本周签署一项行政命令，以加快大麻的重新分类进程。",
@@ -630,7 +632,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -762,8 +764,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时07分 ~ 11时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时07分 ~ 12时15分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
@@ -982,11 +984,12 @@
           "url": "https://flash.jin10.com/detail/20251217110034700800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 12时15分]"
         },
         {
           "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
@@ -1032,11 +1035,12 @@
           "url": "https://flash.jin10.com/detail/20251217110123946800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 12时15分]"
         },
         {
           "title": "金价在美国11月非农就业报告后出现一波反弹行情",
