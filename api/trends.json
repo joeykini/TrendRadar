@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T15:10:11.234584+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2025-12-17T16:10:37.722029+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
@@ -110,11 +110,12 @@
             1,
             2,
             10,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 15时10分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 16时10分]"
         },
         {
           "title": "特朗普预计最快于本周签署一项行政令，加快推进大麻的重新分类。（NBC）",
@@ -126,6 +127,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        },
+        {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时09分 ~ 16时10分]"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了一项公告，进一步限制外国国民入境。对布基纳法索、马里、尼日尔、南苏丹和叙利亚等五个新增国家，以及持巴勒斯坦权力机构签发旅行证件的个人，实施全面入境限制和禁令。对老挝和塞拉利昂这两个此前仅受部分限制的国家，升级为实施全面入境限制和禁令。",
@@ -161,15 +174,16 @@
           "time_info": "09时36分"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时09分 ~ 15时10分]"
+          "time_info": "[14时10分 ~ 16时10分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -280,17 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 05时08分]"
-        },
-        {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时10分 ~ 15时10分]"
         },
         {
           "title": "特朗普称认定委政府是“恐怖组织”",
