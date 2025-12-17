@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T10:40:35.320683+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2025-12-17T11:33:37.512961+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -21,11 +21,12 @@
             4,
             3,
             2,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 10时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时09分 ~ 11时33分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -59,11 +60,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 10时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时09分 ~ 11时33分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -86,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 11时33分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -97,8 +99,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 11时33分]"
+        },
+        {
+          "title": "特朗普政府宣布对40国实施入境限制",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "特朗普预计最快于本周签署一项行政令，加快推进大麻的重新分类。（NBC）",
@@ -121,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
+          "url": "https://flash.jin10.com/detail/20251217111048852800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -219,6 +243,28 @@
           "time_info": "[04时08分 ~ 05时08分]"
         },
         {
+          "title": "特朗普下令封锁所有受制裁委油轮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 11时33分]"
+        },
+        {
+          "title": "特朗普称认定委政府是“恐怖组织”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A4%E5%AE%9A%E5%A7%94%E6%94%BF%E5%BA%9C%E6%98%AF%E2%80%9C%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 11时33分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
           "url": "https://wallstreetcn.com/livenews/3021872",
           "source": "华尔街见闻-快讯",
@@ -291,26 +337,16 @@
           "time_info": "[09时36分 ~ 10时40分]"
         },
         {
-          "title": "特朗普下令封锁所有受制裁委油轮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
+          "title": "委内瑞拉副总统：特朗普正以威胁手段图谋掠夺本国资源。",
+          "url": "https://wallstreetcn.com/livenews/3022047",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时36分 ~ 10时40分]"
-        },
-        {
-          "title": "特朗普称认定委政府是“恐怖组织”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A4%E5%AE%9A%E5%A7%94%E6%94%BF%E5%BA%9C%E6%98%AF%E2%80%9C%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 10时40分]"
+          "time_info": "[10时40分 ~ 11时33分]"
         },
         {
           "title": "委内瑞拉政府：美国总统特朗普的封锁“完全不理性”，违反了自由贸易和航行自由。",
@@ -319,7 +355,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -368,6 +404,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "特朗普称已下令封锁进出委受制裁油轮",
+          "url": "https://www.toutiao.com/trending/7584624870806277638/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
           "title": "据NBC新闻：预计美国总统特朗普最早将于本周签署一项行政命令，以加快大麻的重新分类进程。",
           "url": "https://flash.jin10.com/detail/20251217080138619800",
           "source": "金十数据",
@@ -407,7 +454,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -533,17 +580,6 @@
           "time_info": "08时28分"
         },
         {
-          "title": "委内瑞拉副总统：特朗普正以威胁手段图谋掠夺本国资源。",
-          "url": "https://wallstreetcn.com/livenews/3022047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：美国总统特朗普将谈论未来展望，或许会预告新年政策。",
           "url": "https://flash.jin10.com/detail/20251217030552131800",
           "source": "金十数据",
@@ -588,13 +624,24 @@
           "time_info": "08时28分"
         },
         {
+          "title": "供弱需强，现货白银首次站上65美元/盎司，多头仍占主导；油价周二跌破关键水平后，特朗普对委内瑞拉油轮实施封锁，推动油价回升，美国原油卖出信号强劲，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251217103329781800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
           "title": "特朗普：BBC把糟糕言论强加到我嘴里",
           "url": "https://www.toutiao.com/trending/7584299591064436779/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -711,11 +758,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时07分 ~ 10时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时07分 ~ 11时33分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
@@ -856,7 +904,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI聘请乔治·奥斯本牵头全球“星际之门”扩张计划。",
@@ -876,7 +924,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -910,22 +958,35 @@
           "url": "https://wallstreetcn.com/livenews/3022066",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 11时33分]"
         },
         {
           "title": "OpenAI发布GPT Image1.5",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT%20Image1.5",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 11时33分]"
+        },
+        {
+          "title": "据悉OpenAI商谈从亚马逊融资100亿美元",
+          "url": "https://flash.jin10.com/detail/20251217110034700800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "11时33分"
         },
         {
           "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
@@ -959,6 +1020,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月17日（周三）上海金早盘价为973.38元/克，较国际金价(976.54元/克)，低3.16元/克",
+          "url": "https://flash.jin10.com/detail/20251217110123946800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "金价在美国11月非农就业报告后出现一波反弹行情",
+          "url": "https://wallstreetcn.com/livenews/3021918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
@@ -1034,23 +1123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价在美国11月非农就业报告后出现一波反弹行情",
-          "url": "https://wallstreetcn.com/livenews/3021918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
         }
       ]
     },
