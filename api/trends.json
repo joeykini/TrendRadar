@@ -1,12 +1,37 @@
 {
-  "generated_at": "2025-12-19T13:09:17.912277+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2025-12-19T14:11:08.272453+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 71,
       "titles": [
+        {
+          "title": "特朗普再次向乌克兰施压",
+          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 14时11分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时36分 ~ 14时11分]"
+        },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2233937",
@@ -21,31 +46,6 @@
           "time_info": "[00时09分 ~ 10时41分]"
         },
         {
-          "title": "特朗普再次向乌克兰施压",
-          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 13时09分]"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时36分 ~ 13时09分]"
-        },
-        {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
           "url": "https://www.cls.cn/detail/2234192",
           "source": "财联社热门",
@@ -55,8 +55,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时36分 ~ 13时09分]"
+          "appearance_count": 10,
+          "time_info": "[09时36分 ~ 14时11分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时28分 ~ 14时11分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -70,20 +85,6 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时28分 ~ 13时09分]"
-        },
-        {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
           "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
           "source": "澎湃新闻",
@@ -95,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时10分 ~ 13时09分]"
+          "appearance_count": 19,
+          "time_info": "[02时10分 ~ 14时11分]"
         },
         {
           "title": "特朗普，敢不敢动武？",
@@ -106,8 +107,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 13时09分]"
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 14时11分]"
         },
         {
           "title": "美国国防部：美国总统特朗普提名乔舒亚·鲁德（Joshua Rudd）晋升至将军级别，并任命其为国家安全局局长。",
@@ -262,6 +263,18 @@
           "time_info": "[08时28分 ~ 09时36分]"
         },
         {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 14时11分]"
+        },
+        {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
           "url": "https://flash.jin10.com/detail/20251219031834867800",
           "source": "金十数据",
@@ -356,17 +369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 04时08分]"
-        },
-        {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
         },
         {
           "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
@@ -539,7 +541,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -856,8 +858,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时07分 ~ 13时09分]"
+          "appearance_count": 13,
+          "time_info": "[07时07分 ~ 14时11分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 14时11分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -870,18 +885,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时10分 ~ 06时08分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 13时09分]"
         },
         {
           "title": "甲骨文美股盘后涨3%。",
@@ -1090,6 +1093,19 @@
           "time_info": "[00时09分 ~ 08时28分]"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 14时11分]"
+        },
+        {
           "title": "OpenAI可能会在本轮融资中获得搞到8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3023367",
           "source": "华尔街见闻-快讯",
@@ -1099,18 +1115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
-        },
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 13时09分]"
         },
         {
           "title": "OpenAI：推出GPT-5.2-Codex。",
