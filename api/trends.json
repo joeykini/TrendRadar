@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T16:09:32.436676+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-12-21T17:07:56.150042+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -88,6 +88,20 @@
           "time_info": "[01时06分 ~ 05时06分]"
         },
         {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 17时07分]"
+        },
+        {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/livenews/3024367",
           "source": "华尔街见闻-快讯",
@@ -127,18 +141,18 @@
           "time_info": "[00时07分 ~ 05时06分]"
         },
         {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://wallstreetcn.com/livenews/3024384",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            7,
-            6,
-            5
+            4,
+            12,
+            17,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时08分 ~ 16时09分]"
+          "time_info": "[14时10分 ~ 17时07分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -146,24 +160,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 16时09分]"
-        },
-        {
-          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://wallstreetcn.com/livenews/3024384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            17
+            6,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时10分 ~ 16时09分]"
+          "time_info": "[15时07分 ~ 17时07分]"
         },
         {
           "title": "高市早苗着急早点见特朗普",
@@ -194,7 +196,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -235,11 +237,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时07分 ~ 16时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时07分 ~ 17时07分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -249,11 +252,12 @@
             1,
             6,
             10,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 16时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 17时07分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -276,8 +280,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 16时09分]"
+          "appearance_count": 4,
+          "time_info": "[14时10分 ~ 17时07分]"
         }
       ]
     },
@@ -366,8 +370,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时35分 ~ 16时09分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 17时07分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -390,8 +394,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 16时09分]"
+          "appearance_count": 4,
+          "time_info": "[14时10分 ~ 17时07分]"
         }
       ]
     },
@@ -417,11 +421,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 16时09分]"
+          "appearance_count": 4,
+          "time_info": "[14时10分 ~ 17时07分]"
         },
         {
           "title": "金价又涨了",
@@ -450,8 +455,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 16时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 17时07分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
