@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-24T21:16:57.378737+08:00",
-  "total_titles_processed": 1886,
+  "generated_at": "2025-12-24T22:08:18.271724+08:00",
+  "total_titles_processed": 1971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时10分 ~ 22时08分]"
+        },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
           "url": "https://wallstreetcn.com/articles/3761868",
@@ -21,16 +33,19 @@
           "time_info": "[00时08分 ~ 08时28分]"
         },
         {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            10,
+            9,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时10分 ~ 21时16分]"
+          "appearance_count": 17,
+          "time_info": "[11时35分 ~ 22时08分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -48,20 +63,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时28分 ~ 15时10分]"
-        },
-        {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时35分 ~ 21时16分]"
         },
         {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
@@ -121,8 +122,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时08分 ~ 21时16分]"
+          "appearance_count": 29,
+          "time_info": "[00时08分 ~ 22时07分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -204,6 +205,17 @@
           "time_info": "[00时08分 ~ 05时07分]"
         },
         {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时07分 ~ 22时08分]"
+        },
+        {
           "title": "特朗普再谈格陵兰问题 还提到中国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E9%97%AE%E9%A2%98+%E8%BF%98%E6%8F%90%E5%88%B0%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -227,17 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
-        },
-        {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时07分 ~ 21时16分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -275,6 +276,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 03时07分]"
+        },
+        {
+          "title": "评论员：特朗普级战舰可能造不出来",
+          "url": "https://www.toutiao.com/trending/7587325146696781348/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时12分 ~ 22时08分]"
         },
         {
           "title": "克林顿大尺度照被公布 特朗普回应",
@@ -322,6 +336,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时35分 ~ 12时18分]"
+        },
+        {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
         },
         {
           "title": "法官裁定维持特朗普提出的10万美元H-1B签证申请费。",
@@ -396,18 +421,6 @@
           "time_info": "[03时07分 ~ 04时08分]"
         },
         {
-          "title": "评论员：特朗普级战舰可能造不出来",
-          "url": "https://www.toutiao.com/trending/7587325146696781348/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时12分 ~ 21时16分]"
-        },
-        {
           "title": "特朗普的金色舰队实力如何",
           "url": "https://www.toutiao.com/trending/7587343371690053139/",
           "source": "今日头条",
@@ -448,7 +461,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -525,7 +538,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -654,7 +667,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -691,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3026248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）热门中概股行情一览（美股盘中）",
@@ -802,6 +826,17 @@
           "time_info": "[06时07分 ~ 07时07分]"
         },
         {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "UiPath美股盘后涨5.4%。",
           "url": "https://wallstreetcn.com/livenews/3025791",
           "source": "华尔街见闻-快讯",
@@ -822,6 +857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-24）",
+          "url": "https://flash.jin10.com/detail/20251224213043071800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "周二（12月23日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.75%，报87730美元。 CME以太币期货DCR主力合约跌0.55%，报2970.50美元。 美股加密货币与加密货币关联指数跌2.46%，报62.26点。 最近24小时，MarketVector数字资产100小盘指数跌1.62%，暂报3522.18点。 MarketVector数字资产100指数跌0.79%，暂报17965.86点。",
@@ -950,7 +996,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美元指数23日下跌",
@@ -1022,6 +1068,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "初请数据公布后，现货黄金、美元指数DXY短线变动不大，美国股指期货保持稳定。",
+          "url": "https://flash.jin10.com/detail/20251224213209777800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         }
       ]
     },
@@ -1036,11 +1093,12 @@
           "ranks": [
             17,
             7,
-            2
+            2,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时07分 ~ 20时12分]"
+          "appearance_count": 6,
+          "time_info": "[18时07分 ~ 22时08分]"
         },
         {
           "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
@@ -1081,6 +1139,36 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
+          "url": "https://wallstreetcn.com/livenews/3025735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 05时07分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1092,8 +1180,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时28分 ~ 21时16分]"
+          "appearance_count": 20,
+          "time_info": "[08时28分 ~ 22时08分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -1141,25 +1229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
-          "url": "https://wallstreetcn.com/livenews/3025735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 05时07分]"
         }
       ]
     },
