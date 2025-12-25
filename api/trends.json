@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T20:12:31.001528+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2025-12-25T21:16:34.437852+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时08分 ~ 07时07分]"
+        },
+        {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 21时16分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -44,18 +56,6 @@
           "time_info": "[00时08分 ~ 13时10分]"
         },
         {
-          "title": "高市早苗：想尽快与特朗普会晤",
-          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时09分 ~ 20时12分]"
-        },
-        {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
           "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
           "source": "凤凰网",
@@ -64,8 +64,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时09分 ~ 20时12分]"
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 21时16分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -189,6 +189,17 @@
           "time_info": "[02时10分 ~ 03时06分]"
         },
         {
+          "title": "俄罗斯外交部：我们希望美国总统特朗普的务实与理性有助于在国际法框架内找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20251225202508685800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "特朗普发表圣诞祝福 不忘自夸政绩",
           "url": "https://flash.jin10.com/detail/20251225103018828800",
           "source": "金十数据",
@@ -248,8 +259,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时28分 ~ 20时12分]"
+          "appearance_count": 18,
+          "time_info": "[08时28分 ~ 21时16分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -276,8 +287,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时43分 ~ 20时12分]"
+          "appearance_count": 13,
+          "time_info": "[10时43分 ~ 21时16分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -440,11 +451,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 20时12分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 21时16分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
@@ -606,11 +618,12 @@
           "url": "https://wallstreetcn.com/articles/3762036",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 21时16分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
