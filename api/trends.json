@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T11:35:44.237664+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2025-12-25T12:20:22.563266+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时28分 ~ 11时35分]"
+          "appearance_count": 5,
+          "time_info": "[08时28分 ~ 12时20分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时07分 ~ 11时35分]"
+          "appearance_count": 6,
+          "time_info": "[07时07分 ~ 12时20分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -204,8 +204,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 11时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时08分 ~ 12时20分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -300,7 +300,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -322,7 +322,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         }
@@ -402,11 +402,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 12时20分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
@@ -416,8 +417,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 12时20分]"
         },
         {
           "title": "金价又创历史新高",
@@ -437,7 +438,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         }
