@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T16:10:14.689754+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2025-12-26T17:08:50.064150+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时36分 ~ 16时10分]"
+          "appearance_count": 11,
+          "time_info": "[09时36分 ~ 17时08分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -133,8 +133,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 17时08分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "泽连斯基：已同意在近期与特朗普会面。 很多事情可以在年底前决定。",
@@ -198,7 +209,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -242,8 +253,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时36分 ~ 16时10分]"
+          "appearance_count": 11,
+          "time_info": "[09时36分 ~ 17时08分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -263,6 +274,19 @@
           "time_info": "[00时08分 ~ 09时36分]"
         },
         {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时10分 ~ 17时08分]"
+        },
+        {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
           "url": "https://flash.jin10.com/detail/20251226101958346800",
           "source": "金十数据",
@@ -272,18 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
-        },
-        {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时10分 ~ 16时10分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -396,6 +408,18 @@
           "time_info": "[00时08分 ~ 04时08分]"
         },
         {
+          "title": "伊朗称在海湾扣押一艘运载走私燃料的外国油轮",
+          "url": "https://flash.jin10.com/detail/20251226154852421800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 17时08分]"
+        },
+        {
           "title": "以色列国防军：今天早些时候，以色列国防军与辛贝特在黎巴嫩纳萨里耶地区击毙了“圣城旅”第840作战单位的关键分子哈辛·马哈茂德·马尔沙德·阿勒-乔哈利。过去数年，他一直参与推动在叙黎战区针对以色列国的恐怖行动。哈辛在伊朗革命卫队服役，参与了伊朗指挥的针对以色列国和安全部队的恐怖活动。",
           "url": "https://flash.jin10.com/detail/20251225221002451800",
           "source": "金十数据",
@@ -408,24 +432,13 @@
           "time_info": "[00时08分 ~ 01时07分]"
         },
         {
-          "title": "伊朗称在海湾扣押一艘运载走私燃料的外国油轮",
-          "url": "https://flash.jin10.com/detail/20251226154852421800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
           "title": "伊朗国营媒体：伊朗在海湾扣押一艘运载走私燃料的外国油轮。",
           "url": "https://flash.jin10.com/detail/20251226154344656800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         }
@@ -475,8 +488,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时08分 ~ 16时10分]"
+          "appearance_count": 23,
+          "time_info": "[00时08分 ~ 17时08分]"
         }
       ]
     },
