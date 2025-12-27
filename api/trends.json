@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T20:11:17.709288+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-12-27T21:14:48.549297+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,18 @@
           "time_info": "[11时34分 ~ 19时06分]"
         },
         {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时07分 ~ 21时14分]"
+        },
+        {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
           "url": "https://flash.jin10.com/detail/20251227010749216800",
           "source": "金十数据",
@@ -91,18 +103,6 @@
           "time_info": "[02时10分 ~ 08时28分]"
         },
         {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时07分 ~ 20时11分]"
-        },
-        {
           "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
           "url": "https://news.ifeng.com/c/8pPc87WsghO",
           "source": "凤凰网",
@@ -112,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时27分 ~ 08时28分]"
+        },
+        {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 21时14分]"
         },
         {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
@@ -127,17 +138,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时10分 ~ 19时06分]"
-        },
-        {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 20时11分]"
         },
         {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
@@ -205,6 +205,19 @@
           "time_info": "[01时07分 ~ 03时06分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
+          "url": "https://flash.jin10.com/detail/20251227184915067800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 21时14分]"
+        },
+        {
           "title": "特朗普：美国目前没有承认索马里兰的计划",
           "url": "https://flash.jin10.com/detail/20251227140350372800",
           "source": "金十数据",
@@ -218,6 +231,17 @@
           "time_info": "[15时07分 ~ 17时07分]"
         },
         {
+          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
+          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时06分 ~ 21时14分]"
+        },
+        {
           "title": "特朗普：“未经我批准，泽连斯基一无所有”",
           "url": "https://flash.jin10.com/detail/20251227085451542800",
           "source": "金十数据",
@@ -228,18 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时36分 ~ 10时40分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
-          "url": "https://flash.jin10.com/detail/20251227184915067800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 20时11分]"
         },
         {
           "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
@@ -268,15 +280,27 @@
           "time_info": "[12时15分 ~ 15时07分]"
         },
         {
-          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
-          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
-          "source": "凤凰网",
+          "title": "特朗普为何又索要盟友的领土",
+          "url": "https://www.toutiao.com/trending/7588483119292878372/",
+          "source": "今日头条",
           "ranks": [
-            8
+            22,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时06分 ~ 20时11分]"
+          "time_info": "[20时10分 ~ 21时14分]"
+        },
+        {
+          "title": "评论员：特朗普搞和平总是制造敌人",
+          "url": "https://www.toutiao.com/trending/7588476767900274226/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时10分 ~ 21时14分]"
         },
         {
           "title": "特朗普下令袭击尼日利亚，有人急了：万一跟中国打呢",
@@ -302,6 +326,18 @@
           "time_info": "[00时08分 ~ 01时07分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 21时14分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
           "url": "https://flash.jin10.com/detail/20251227180421799800",
           "source": "金十数据",
@@ -324,39 +360,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 07时08分]"
-        },
-        {
-          "title": "特朗普为何又索要盟友的领土",
-          "url": "https://www.toutiao.com/trending/7588483119292878372/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时10分 ~ 20时11分]"
-        },
-        {
-          "title": "评论员：特朗普搞和平总是制造敌人",
-          "url": "https://www.toutiao.com/trending/7588476767900274226/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时10分 ~ 20时11分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
-          "url": "https://flash.jin10.com/detail/20251227191857626800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
         },
         {
           "title": "乌总统：乌美安全保障协议接近完成 签署取决于与特朗普会晤",
@@ -405,8 +408,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时35分 ~ 20时11分]"
+          "appearance_count": 17,
+          "time_info": "[09时35分 ~ 21时14分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
