@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T21:14:48.549297+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2025-12-27T22:07:40.257252+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -69,8 +69,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时07分 ~ 22时07分]"
+        },
+        {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[15时07分 ~ 21时14分]"
+          "time_info": "[17时07分 ~ 22时07分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -114,15 +125,15 @@
           "time_info": "[08时27分 ~ 08时28分]"
         },
         {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "title": "她说特朗普有“酒鬼性格”",
+          "url": "https://news.ifeng.com/c/8pQlyArpb5f",
           "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时07分 ~ 21时14分]"
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
         },
         {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
@@ -138,6 +149,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时10分 ~ 19时06分]"
+        },
+        {
+          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
+          "url": "https://flash.jin10.com/detail/20251227214522049800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
@@ -280,6 +302,19 @@
           "time_info": "[12时15分 ~ 15时07分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时11分 ~ 22时07分]"
+        },
+        {
           "title": "特朗普为何又索要盟友的领土",
           "url": "https://www.toutiao.com/trending/7588483119292878372/",
           "source": "今日头条",
@@ -326,18 +361,6 @@
           "time_info": "[00时08分 ~ 01时07分]"
         },
         {
-          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
-          "url": "https://flash.jin10.com/detail/20251227191857626800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时11分 ~ 21时14分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
           "url": "https://flash.jin10.com/detail/20251227180421799800",
           "source": "金十数据",
@@ -360,6 +383,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 07时08分]"
+        },
+        {
+          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
+          "url": "https://flash.jin10.com/detail/20251227213217547800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "乌总统：乌美安全保障协议接近完成 签署取决于与特朗普会晤",
@@ -408,8 +442,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时35分 ~ 21时14分]"
+          "appearance_count": 19,
+          "time_info": "[09时35分 ~ 22时07分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -693,8 +727,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金饰价格破1400元黄金回收加工却遇冷",
+          "url": "https://www.toutiao.com/trending/7588294573819101226/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
         {
           "title": "金饰价格突破1400元黄金回收遇冷",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B41400%E5%85%83%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E9%81%87%E5%86%B7%23&t=31&band_rank=25&Refer=top",
