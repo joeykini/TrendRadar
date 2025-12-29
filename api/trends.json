@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T21:19:24.335259+08:00",
-  "total_titles_processed": 1758,
+  "generated_at": "2025-12-29T22:08:27.888635+08:00",
+  "total_titles_processed": 1845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -96,6 +96,19 @@
           "time_info": "[00时08分 ~ 07时07分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时12分 ~ 22时08分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3027672",
           "source": "华尔街见闻-快讯",
@@ -148,19 +161,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 06时07分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时12分 ~ 21时19分]"
         },
         {
           "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
@@ -626,6 +626,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
+          "url": "https://flash.jin10.com/detail/20251229213129062800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯将帮助乌克兰重建。普京曾慷慨地帮助了乌克兰，包括以低价供应能源。",
           "url": "https://flash.jin10.com/detail/20251229061318480800",
           "source": "金十数据",
@@ -1070,7 +1081,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -1092,9 +1103,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时08分]"
         },
         {
           "title": "受科技股拖累，美股指期货走低，贵金属全线回落，现货白银新高后跳水日内大跌6%，WTI原油涨逾2%",
@@ -1120,6 +1131,17 @@
           "time_info": "[19时07分 ~ 20时13分]"
         },
         {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
           "url": "https://flash.jin10.com/detail/20251229170123670800",
           "source": "金十数据",
@@ -1140,6 +1162,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗：从俄罗斯发射三颗卫星到太空",
+          "url": "https://wallstreetcn.com/livenews/3027666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            17,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时07分]"
+        },
+        {
+          "title": "据耶路撒冷邮报：周一，大量伊朗电话号码向以色列手机用户发送短信。以色列方面警告收件人不要回复。",
+          "url": "https://flash.jin10.com/detail/20251229213948529800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "伊朗前外长：内塔尼亚胡扼杀每个和平机会",
+          "url": "https://wallstreetcn.com/livenews/3028193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "三颗伊朗观测卫星搭乘俄火箭升空",
+          "url": "https://wallstreetcn.com/livenews/3027940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 15时12分]"
+        },
+        {
+          "title": "阿联酋和伊朗两国外长通电话 就也门局势交换意见",
+          "url": "https://flash.jin10.com/detail/20251229164423041800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     },
@@ -1183,50 +1271,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗：从俄罗斯发射三颗卫星到太空",
-          "url": "https://wallstreetcn.com/livenews/3027666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            17,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 07时07分]"
-        },
-        {
-          "title": "三颗伊朗观测卫星搭乘俄火箭升空",
-          "url": "https://wallstreetcn.com/livenews/3027940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 15时12分]"
-        },
-        {
-          "title": "阿联酋和伊朗两国外长通电话 就也门局势交换意见",
-          "url": "https://flash.jin10.com/detail/20251229164423041800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1236,11 +1280,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时07分 ~ 21时19分]"
+          "appearance_count": 5,
+          "time_info": "[19时07分 ~ 22时08分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -1251,8 +1296,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时12分 ~ 21时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时12分 ~ 22时08分]"
         }
       ]
     },
