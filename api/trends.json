@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T17:10:28.948712+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2025-12-31T18:07:54.072625+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
@@ -310,7 +310,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
         }
@@ -329,8 +329,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时28分 ~ 17时10分]"
+          "appearance_count": 15,
+          "time_info": "[08时28分 ~ 18时07分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -554,6 +554,17 @@
           "time_info": "[02时10分 ~ 04时08分]"
         },
         {
+          "title": "年末伊朗又起内忧：货币暴跌、三年来最大抗议",
+          "url": "https://news.ifeng.com/c/8pXBVSUicd9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 18时07分]"
+        },
+        {
           "title": "伊朗外长：伊朗不会放弃和平核技术",
           "url": "https://flash.jin10.com/detail/20251231010744539800",
           "source": "金十数据",
@@ -564,17 +575,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 03时07分]"
-        },
-        {
-          "title": "年末伊朗又起内忧：货币暴跌、三年来最大抗议",
-          "url": "https://news.ifeng.com/c/8pXBVSUicd9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时10分"
         },
         {
           "title": "美国更新对伊朗相关制裁名单中的指定对象。",
