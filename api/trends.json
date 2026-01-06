@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T12:22:19.292499+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-01-06T13:11:04.661450+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时09分 ~ 10时45分]"
+        },
+        {
+          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
+          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 13时11分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -32,6 +43,18 @@
           "time_info": "[00时09分 ~ 08时29分]"
         },
         {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 13时11分]"
+        },
+        {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
           "url": "https://www.toutiao.com/trending/7591783882828431398/",
           "source": "今日头条",
@@ -43,17 +66,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时09分 ~ 07时07分]"
-        },
-        {
-          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
-          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 12时22分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -90,8 +102,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时09分 ~ 12时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时09分 ~ 13时11分]"
+        },
+        {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时29分 ~ 13时11分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -118,16 +141,15 @@
           "time_info": "[00时09分 ~ 07时07分]"
         },
         {
-          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
-          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
           "source": "凤凰网",
           "ranks": [
-            1,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 12时22分]"
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 13时11分]"
         },
         {
           "title": "墨总统回应特朗普：合作可以干预不行",
@@ -144,15 +166,18 @@
           "time_info": "[08时29分 ~ 11时36分]"
         },
         {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
           "ranks": [
-            11
+            10,
+            14,
+            21,
+            29
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[08时29分 ~ 12时22分]"
+          "time_info": "[10时44分 ~ 13时11分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -179,17 +204,6 @@
           "time_info": "[09时36分 ~ 12时22分]"
         },
         {
-          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
-          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 12时22分]"
-        },
-        {
           "title": "特朗普对印度买俄石油发出最后通牒",
           "url": "https://www.toutiao.com/trending/7591650384435888171/",
           "source": "今日头条",
@@ -201,17 +215,17 @@
           "time_info": "00时09分"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%90%88%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%B9%B2%E9%A2%84%E4%B8%8D%E8%A1%8C",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            14,
-            21
+            28,
+            30,
+            29
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时44分 ~ 12时22分]"
+          "time_info": "[11时35分 ~ 13时11分]"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -355,16 +369,15 @@
           "time_info": "[00时09分 ~ 03时08分]"
         },
         {
-          "title": "墨总统回应特朗普：合作可以干预不行",
-          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%90%88%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%B9%B2%E9%A2%84%E4%B8%8D%E8%A1%8C",
-          "source": "百度热搜",
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
           "ranks": [
-            28,
-            30
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时35分 ~ 12时22分]"
+          "time_info": "[12时21分 ~ 13时11分]"
         },
         {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
@@ -392,15 +405,15 @@
           "time_info": "[10时45分 ~ 11时36分]"
         },
         {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时22分]"
+          "time_info": "[13时10分 ~ 13时11分]"
         },
         {
           "title": "马斯克与特朗普夫妇共进晚餐",
@@ -780,8 +793,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时07分 ~ 12时22分]"
+          "appearance_count": 11,
+          "time_info": "[07时07分 ~ 13时11分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -805,8 +818,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时07分 ~ 12时22分]"
+          "appearance_count": 11,
+          "time_info": "[07时07分 ~ 13时11分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -818,8 +831,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时09分 ~ 12时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时09分 ~ 13时11分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -941,7 +954,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1014,6 +1027,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "市场消息：一名以色列官员称伊朗进口用于离心机和弹道导弹的零部件。",
+          "url": "https://flash.jin10.com/detail/20260106125456607800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "外媒：美国似乎正考虑对伊朗实施干预，以色列亦蠢蠢欲动",
           "url": "https://flash.jin10.com/detail/20260106050824120800",
           "source": "金十数据",
@@ -1051,8 +1075,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时36分 ~ 12时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时36分 ~ 13时11分]"
         },
         {
           "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
