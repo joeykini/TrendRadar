@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-07T07:07:50.534992+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-01-07T08:28:59.607819+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 74,
       "titles": [
-        {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时07分]"
-        },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
@@ -25,11 +14,24 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时07分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 08时28分]"
+        },
+        {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 08时28分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -52,11 +54,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时08分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[04时08分 ~ 08时28分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -74,6 +77,28 @@
           "time_info": "[00时09分 ~ 07时07分]"
         },
         {
+          "title": "特朗普称格陵兰岛“到处是俄中船只” 丹麦外相：不实",
+          "url": "https://wallstreetcn.com/livenews/3031966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
+          "url": "https://www.cls.cn/detail/2249909",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
           "title": "特朗普：将与国防承包商对话。",
           "url": "https://flash.jin10.com/detail/20260107000150386800",
           "source": "金十数据",
@@ -83,6 +108,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.00%，现报56.41美元/桶。消息面上，特朗普称委内瑞拉将向美国移交3000万至5000万桶石油。",
+          "url": "https://flash.jin10.com/detail/20260107075915378800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "特朗普称若输中期选举或被弹劾",
+          "url": "https://www.toutiao.com/trending/7591446002708774921/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
         },
         {
           "title": "美国总统特朗普重申对国防承包商的批评。",
@@ -96,6 +143,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "特朗普政府向委内政部长发出威胁：要么合作，要么成为目标",
+          "url": "https://flash.jin10.com/detail/20260107075848366800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
           "title": "白宫声明称，美国总统特朗普及其团队正在讨论获取格陵兰岛的一系列选项，“利用美国军方始终是一个选项”。 特朗普与团队正围绕吞并格陵兰岛讨论诸多选项。（路透）",
           "url": "https://wallstreetcn.com/livenews/3031879",
           "source": "华尔街见闻-快讯",
@@ -105,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "特朗普：委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://flash.jin10.com/detail/20260107075214198800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -300,6 +369,72 @@
           "time_info": "01时10分"
         },
         {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%8D%B0%E5%BA%A6%E5%8F%91%E5%87%BA%E6%96%B0%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "WTI原油期货短线走低，日内跌幅扩大至0.9%，此前特朗普称，委内瑞拉将向美国交付3000-5000万桶石油。",
+          "url": "https://wallstreetcn.com/livenews/3031959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "美国总统特朗普：石油将由储存船运输，并直接运至美国的卸货码头。",
+          "url": "https://flash.jin10.com/detail/20260107074827020800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "特朗普政府警告委内瑞拉内政部长，要么配合，否则或将被列为打击目标。",
+          "url": "https://wallstreetcn.com/livenews/3031958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "美国总统特朗普：已要求美国能源部长赖特执行此计划。",
+          "url": "https://flash.jin10.com/detail/20260107074759060800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://wallstreetcn.com/livenews/3031957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
           "title": "巴西副总统：巴西总统卢拉与美国总统特朗普关系良好。",
           "url": "https://flash.jin10.com/detail/20260107025800176800",
           "source": "金十数据",
@@ -309,6 +444,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美国总统特朗普：石油将按其市场价格出售，而这些资金将由我掌控。",
+          "url": "https://flash.jin10.com/detail/20260107074757735800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "美国总统特朗普：我很高兴地宣布，委内瑞拉的临时当局将向美国移交3000万至5000万桶高品质、受制裁的原油。",
+          "url": "https://flash.jin10.com/detail/20260107074733975800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "消息人士：特朗普政府警告委内瑞拉内政部长，要么合作，要么成为潜在目标。",
+          "url": "https://flash.jin10.com/detail/20260107074138804800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "特朗普：若输中期选举 我可能被弹劾",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%8B%A5%E8%BE%93%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE+%E6%88%91%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%BC%B9%E5%8A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
         },
         {
           "title": "美国总统特朗普：除了纽约那边，所有人都支持我们在委内瑞拉的行动。",
@@ -355,6 +534,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "特朗普政府正讨论获取格陵兰岛方案",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
           "title": "美国总统特朗普：我老婆讨厌我跳舞。她跟我说，你能想象罗斯福（FDR）跳舞吗？",
           "url": "https://flash.jin10.com/detail/20260106233914098800",
           "source": "金十数据",
@@ -388,15 +578,37 @@
           "time_info": "00时09分"
         },
         {
+          "title": "特朗普扑向委石油遭美巨头打脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%91%E5%90%91%E5%A7%94%E7%9F%B3%E6%B2%B9%E9%81%AD%E7%BE%8E%E5%B7%A8%E5%A4%B4%E6%89%93%E8%84%B8%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
           "title": "美国一名参议员要求获取“石油行业与特朗普政府磋商”的相关信息。",
           "url": "https://wallstreetcn.com/livenews/3031923",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "特朗普称必须赢得中期选举",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BF%85%E9%A1%BB%E8%B5%A2%E5%BE%97%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
         },
         {
           "title": "美国特使威特科夫：特朗普坚决支持安全协议，这些协议将用于抵御任何针对乌克兰的攻击，并保护乌克兰。",
@@ -430,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普考虑动用美军获取格陵兰岛",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%83%E8%99%91%E5%8A%A8%E7%94%A8%E7%BE%8E%E5%86%9B%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
         },
         {
           "title": "特朗普称将与石油公司和保险公司举行会谈",
@@ -625,7 +848,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         }
@@ -633,7 +856,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -670,8 +893,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时07分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 08时28分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -680,9 +903,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时07分 ~ 08时28分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股收盘）",
@@ -757,15 +992,15 @@
           "time_info": "[06时08分 ~ 07时07分]"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时07分"
+          "time_info": "08时28分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.1%，苹果跌超1.8%，亚马逊涨约3.4%",
@@ -847,8 +1082,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时07分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 08时28分]"
         },
         {
           "title": "伊朗警告：可能对敌人进行先发制人的打击",
