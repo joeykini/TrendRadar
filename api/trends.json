@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T20:13:21.226339+08:00",
-  "total_titles_processed": 2007,
+  "generated_at": "2026-01-09T21:19:44.396642+08:00",
+  "total_titles_processed": 2115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 170,
+      "match_count": 173,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -27,8 +27,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时11分 ~ 21时19分]"
+        },
+        {
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时11分 ~ 20时13分]"
+          "time_info": "[18时08分 ~ 21时19分]"
         },
         {
           "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
@@ -60,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时11分 ~ 20时13分]"
+          "appearance_count": 11,
+          "time_info": "[13时11分 ~ 21时19分]"
         },
         {
           "title": "特朗普放话“我不需要国际法”",
@@ -72,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时36分 ~ 20时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时36分 ~ 21时19分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -85,8 +96,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时36分 ~ 20时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时36分 ~ 21时19分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -96,11 +107,12 @@
             7,
             6,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时45分 ~ 20时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时45分 ~ 21时19分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -139,17 +151,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时09分 ~ 07时07分]"
-        },
-        {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时08分 ~ 20时13分]"
         },
         {
           "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
@@ -198,6 +199,17 @@
           "time_info": "[07时07分 ~ 15时11分]"
         },
         {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时10分 ~ 21时19分]"
+        },
+        {
           "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
           "source": "澎湃新闻",
@@ -242,17 +254,6 @@
           "time_info": "[01时11分 ~ 07时07分]"
         },
         {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时10分 ~ 20时13分]"
-        },
-        {
           "title": "外交部回应特朗普涉台言论",
           "url": "https://www.douyin.com/hot/2362093",
           "source": "抖音",
@@ -262,8 +263,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时08分 ~ 20时13分]"
+          "appearance_count": 6,
+          "time_info": "[18时08分 ~ 21时19分]"
         },
         {
           "title": "据纽约时报：美国总统特朗普表示，他确实相信外交礼节。",
@@ -1549,7 +1550,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -1659,7 +1660,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -1725,7 +1726,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -1747,9 +1748,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
+        },
+        {
+          "title": "白宫官员：雪佛龙、埃克森美孚和哈利伯顿将出席与特朗普的会唔。 壳牌、瓦莱罗、马拉松、埃尼将出席与特朗普的会唔。",
+          "url": "https://wallstreetcn.com/livenews/3034131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：预计美国总统特朗普将在未来一两个月就房利美和房地美的IPO作出决定。（外媒更正：非下个月）",
@@ -1780,9 +1792,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
+        },
+        {
+          "title": "地缘博弈催生牛股 特朗普接管意向助推格陵兰银行暴涨42%",
+          "url": "https://flash.jin10.com/detail/20260109204619672800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "美国石油公司高管们将于美东时间周五14:00（北京时间周六03:00）在白宫会见总统特朗普。（CBS）",
@@ -1934,9 +1957,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
+        },
+        {
+          "title": "白宫官员：壳牌、瓦莱罗、马拉松、埃尼将出席与特朗普的会唔。",
+          "url": "https://flash.jin10.com/detail/20260109203359740800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "美国参议院多数党领袖John Thune：总统特朗普与国务卿卢比奥的委内瑞拉计划非常合理。",
@@ -1967,7 +2001,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -1986,7 +2020,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "一觉醒来，伊朗采取极端措施了",
@@ -2014,6 +2048,21 @@
           "time_info": "[00时09分 ~ 12时22分]"
         },
         {
+          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
+          "url": "https://www.zhihu.com/question/1992897642179552544",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            8,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时10分 ~ 21时19分]"
+        },
+        {
           "title": "国服玩家爆料:伊朗暴乱士兵揭竿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348885&amp;topic_name=%E5%9B%BD%E6%9C%8D%E7%8E%A9%E5%AE%B6%E7%88%86%E6%96%99%3A%E4%BC%8A%E6%9C%97%E6%9A%B4%E4%B9%B1%E5%A3%AB%E5%85%B5%E6%8F%AD%E7%AB%BF",
           "source": "贴吧",
@@ -2029,20 +2078,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时36分 ~ 18时08分]"
-        },
-        {
-          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
-          "url": "https://www.zhihu.com/question/1992897642179552544",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时10分 ~ 20时13分]"
         },
         {
           "title": "伊朗采取极端措施了",
@@ -2067,6 +2102,17 @@
           "time_info": "16时10分"
         },
         {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：来自德黑兰的影像显示，伊朗安全部队采取了过度且强硬的应对措施。",
+          "url": "https://flash.jin10.com/detail/20260109211220996800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "伊朗最高领袖哈梅内伊：伊朗不会容忍外国支持的行动。",
           "url": "https://flash.jin10.com/detail/20260109164927482800",
           "source": "金十数据",
@@ -2076,6 +2122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：德黑兰刑事调查部门多名警官在夜间遭武装抗议者杀害。",
+          "url": "https://flash.jin10.com/detail/20260109210656059800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "伊朗最高领袖哈梅内伊：伊朗不会向破坏行为屈服。",
@@ -2095,7 +2152,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -2218,6 +2275,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "迪拜机场确认多趟飞往伊朗航班被取消",
+          "url": "https://wallstreetcn.com/livenews/3034149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "声明显示，迪拜航空将继续密切关注伊朗局势，并据此调整航班时刻表。",
           "url": "https://flash.jin10.com/detail/20260109185108825800",
           "source": "金十数据",
@@ -2240,6 +2308,17 @@
           "time_info": "08时29分"
         },
         {
+          "title": "伊朗指责美以策划动乱",
+          "url": "https://www.douyin.com/hot/2362541",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "伊朗最高领袖哈梅内伊：伊朗绝不容忍为外国人效力的雇佣兵。",
           "url": "https://flash.jin10.com/detail/20260109171930325800",
           "source": "金十数据",
@@ -2260,6 +2339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        },
+        {
+          "title": "伊朗外交部长：德黑兰支持叙利亚的稳定。",
+          "url": "https://flash.jin10.com/detail/20260109205611108800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "伊朗实施网络管控，大范围断网",
@@ -2306,6 +2396,17 @@
           "time_info": "18时08分"
         },
         {
+          "title": "伊朗外交部长：阿曼外交大臣将于周六访问伊朗。",
+          "url": "https://flash.jin10.com/detail/20260109204950843800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "伊朗最高领袖哈梅内伊敦促伊朗人民维护团结。",
           "url": "https://flash.jin10.com/detail/20260109171313091800",
           "source": "金十数据",
@@ -2326,6 +2427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "伊朗外交部长：外国军事干预伊朗的可能性“非常低”。",
+          "url": "https://flash.jin10.com/detail/20260109204634545800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "伊斯坦布尔机场网站显示，1月9日至少有五班飞往伊朗德黑兰的土耳其航空航班被取消。",
@@ -2352,8 +2464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时29分 ~ 20时13分]"
+          "appearance_count": 16,
+          "time_info": "[08时29分 ~ 21时19分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -2523,7 +2635,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         }
@@ -2673,8 +2785,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时45分 ~ 20时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时45分 ~ 21时19分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -2717,7 +2829,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         }
@@ -2881,7 +2993,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
