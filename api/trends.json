@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T11:38:31.814788+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-01-14T12:26:35.753028+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 101,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时10分 ~ 11时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时10分 ~ 12时26分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时29分 ~ 11时38分]"
+          "appearance_count": 6,
+          "time_info": "[08时29分 ~ 12时26分]"
         },
         {
           "title": "特朗普驳斥戴蒙对司法部调查鲍威尔的批评",
@@ -256,6 +256,18 @@
           "time_info": "[06时08分 ~ 07时08分]"
         },
         {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 12时26分]"
+        },
+        {
           "title": "特朗普称取消与伊朗官员所有会面",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%E6%89%80%E6%9C%89%E4%BC%9A%E9%9D%A2%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -312,18 +324,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 05时08分]"
-        },
-        {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 11时38分]"
         },
         {
           "title": "美国总统特朗普：（当被问及参议员Tillis认为对鲍威尔进行刑事调查是过度之举时）我想这就是Tillis未来将不会再担任参议员的原因吧。",
@@ -410,6 +410,18 @@
           "time_info": "[04时08分 ~ 05时08分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时26分]"
+        },
+        {
           "title": "美国总统特朗普：美联储主席扼杀了经济的每一次反弹。",
           "url": "https://flash.jin10.com/detail/20260114031448130800",
           "source": "金十数据",
@@ -443,6 +455,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时29分 ~ 08时30分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时26分]"
         },
         {
           "title": "美国众议院议长约翰逊：已经与总统特朗普讨论10%的信用卡利率上限方案。 在这个问题上（的立法）需要大量沟通。 必须在信用卡利率上限方案方面非常深思熟虑。",
@@ -548,17 +572,6 @@
           "time_info": "09时37分"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
           "title": "美国总统特朗普：美国人现在撤离伊朗是个好主意。",
           "url": "https://flash.jin10.com/detail/20260114020240505800",
           "source": "金十数据",
@@ -590,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "美国总统特朗普：过去，经济形势好的时候利率就会下降。",
@@ -669,15 +693,15 @@
           "time_info": "09时37分"
         },
         {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
+          "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
+          "url": "https://wallstreetcn.com/livenews/3036636",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "12时26分"
         },
         {
           "title": "美国总统特朗普称赞核心通胀率（下降）和GDP增长。",
@@ -1144,8 +1168,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时10分 ~ 11时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时10分 ~ 12时26分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -1159,6 +1183,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时10分 ~ 08时30分]"
+        },
+        {
+          "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
+          "url": "https://news.ifeng.com/c/8psTbSveNse",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时29分 ~ 12时26分]"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -1175,11 +1210,12 @@
             14,
             12,
             15,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时10分 ~ 11时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时10分 ~ 12时26分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
@@ -1193,17 +1229,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时10分 ~ 08时30分]"
-        },
-        {
-          "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
-          "url": "https://news.ifeng.com/c/8psTbSveNse",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时29分 ~ 11时38分]"
         },
         {
           "title": "美政府第二次警告：立即离开伊朗！",
@@ -1260,11 +1285,12 @@
           "ranks": [
             22,
             21,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时37分 ~ 12时26分]"
         },
         {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
@@ -1274,8 +1300,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 12时26分]"
         },
         {
           "title": "中方回应“是否建议公民去伊朗”",
@@ -1286,8 +1312,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 12时26分]"
         },
         {
           "title": "欧盟官员：欧盟外交政策机构已传唤伊朗大使。",
@@ -1365,7 +1391,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -1508,6 +1534,19 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
+          "url": "https://www.cls.cn/detail/2256863",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时07分 ~ 12时26分]"
+        },
+        {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
           "url": "https://wallstreetcn.com/articles/3763167",
           "source": "华尔街见闻",
@@ -1522,19 +1561,6 @@
           "time_info": "[00时10分 ~ 06时08分]"
         },
         {
-          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
-          "url": "https://www.cls.cn/detail/2256863",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时07分 ~ 11时38分]"
-        },
-        {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
           "url": "https://wallstreetcn.com/articles/3763167",
           "source": "华尔街见闻",
@@ -1542,8 +1568,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时29分 ~ 11时38分]"
+          "appearance_count": 6,
+          "time_info": "[08时29分 ~ 12时26分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
@@ -1688,8 +1714,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时10分 ~ 11时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时10分 ~ 12时26分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1758,7 +1784,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -1860,14 +1886,14 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时10分 ~ 11时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时10分 ~ 12时26分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "两年期美债收益率跌超1个基点，美国CPI数据出炉时显著跳水",
@@ -1880,6 +1906,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时08分 ~ 06时08分]"
+        },
+        {
+          "title": "惠誉：美联储独立性为美债评级关键",
+          "url": "https://www.toutiao.com/trending/7594628526180089882/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     }
