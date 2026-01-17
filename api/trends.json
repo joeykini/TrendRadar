@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T19:06:57.596063+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-01-17T20:11:07.107793+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时27分 ~ 19时06分]"
+          "appearance_count": 19,
+          "time_info": "[08时27分 ~ 20时11分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -89,8 +89,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时35分 ~ 19时06分]"
+          "appearance_count": 17,
+          "time_info": "[09时35分 ~ 20时11分]"
         },
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -116,8 +116,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时27分 ~ 19时06分]"
+          "appearance_count": 19,
+          "time_info": "[08时27分 ~ 20时11分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -173,6 +173,17 @@
           "time_info": "[00时09分 ~ 08时28分]"
         },
         {
+          "title": "特朗普改口：无理由在美国明州动用《反叛乱法》",
+          "url": "https://v.ifeng.com/c/8pzVDiebRY4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 20时11分]"
+        },
+        {
           "title": "圆脸评特朗普获赠和平奖",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E8%B5%A0%E5%92%8C%E5%B9%B3%E5%A5%96",
           "source": "bilibili 热搜",
@@ -184,17 +195,6 @@
           "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "特朗普改口：无理由在美国明州动用《反叛乱法》",
-          "url": "https://v.ifeng.com/c/8pzVDiebRY4",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时06分]"
-        },
-        {
           "title": "特朗普希望哈塞特留在原岗位 现货金银短线跳水",
           "url": "https://flash.jin10.com/detail/20260116233718516800",
           "source": "金十数据",
@@ -204,6 +204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
+          "url": "https://flash.jin10.com/detail/20260117193443128800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "美国总统特朗普：可能会因为格陵兰问题而对其他国家加征关税。",
@@ -256,15 +267,15 @@
           "time_info": "00时10分"
         },
         {
-          "title": "伊朗最高领袖哈梅内伊：特朗普是罪犯",
-          "url": "https://flash.jin10.com/detail/20260117182506253800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
+          "url": "https://flash.jin10.com/detail/20260117185814130800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时06分"
+          "time_info": "20时11分"
         },
         {
           "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
@@ -280,6 +291,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时28分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 20时11分]"
+        },
+        {
+          "title": "埃及总统塞西：重视特朗普关于调解埃及与埃塞俄比亚在复兴大坝问题上争端的提议。",
+          "url": "https://flash.jin10.com/detail/20260117173914674800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 20时11分]"
         },
         {
           "title": "美国法官：Dominion Energy可会恢复被总统特朗普叫停的风电项目。",
@@ -318,18 +354,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时11分]"
-        },
-        {
-          "title": "埃及总统塞西：重视特朗普关于调解埃及与埃塞俄比亚在复兴大坝问题上争端的提议。",
-          "url": "https://flash.jin10.com/detail/20260117173914674800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时06分]"
         },
         {
           "title": "美国总统特朗普：明尼苏达州问题很快就会得到解决。",
@@ -392,6 +416,18 @@
           "time_info": "[04时08分 ~ 05时08分]"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：特朗普是罪犯",
+          "url": "https://flash.jin10.com/detail/20260117182506253800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 20时11分]"
+        },
+        {
           "title": "铜矿概念股普遍下跌，特朗普不愿意让白宫顾问哈塞特担任美联储主席。 泰克资源跌2.99%，美国铜指数基金跌2.77%，自由港跌2.33%，铜矿ETF跌1.9%，必和必拓ADR、力拓ADR、南方铜业、淡水河谷ADR至多跌1.9%，McEwen涨1.57%，Gold Com涨4.43%。",
           "url": "https://wallstreetcn.com/livenews/3038937",
           "source": "华尔街见闻-快讯",
@@ -427,18 +463,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时07分 ~ 08时28分]"
-        },
-        {
-          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://wallstreetcn.com/articles/3763499",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时07分 ~ 19时06分]"
         },
         {
           "title": "特朗普自曝暂缓打伊朗原因",
@@ -513,6 +537,18 @@
           "time_info": "[00时10分 ~ 01时10分]"
         },
         {
+          "title": "哈梅内伊：特朗普是罪犯",
+          "url": "https://wallstreetcn.com/livenews/3039111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 20时11分]"
+        },
+        {
           "title": "特朗普对明州示威者发出军事警告 动用军队执法仍是“备选项”",
           "url": "https://flash.jin10.com/detail/20260117022922204800",
           "source": "金十数据",
@@ -525,6 +561,18 @@
           "time_info": "[03时08分 ~ 04时08分]"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：伊朗认为美国总统特朗普应对抗议期间对伊朗人造成的伤亡、损失和诽谤负责。",
+          "url": "https://flash.jin10.com/detail/20260117174453624800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 20时11分]"
+        },
+        {
           "title": "以关税换领土？ 特朗普拟动用关税武器敲开北极门户",
           "url": "https://flash.jin10.com/detail/20260117000942141800",
           "source": "金十数据",
@@ -535,6 +583,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时11分]"
+        },
+        {
+          "title": "埃及总统塞西：已致信特朗普，重申开罗的立场及其对本国水安全的关切。",
+          "url": "https://flash.jin10.com/detail/20260117174020851800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 20时11分]"
         },
         {
           "title": "特朗普：我是关税之王，如果最高法院的官司输了将是美国之耻",
@@ -655,28 +715,6 @@
           "time_info": "[06时07分 ~ 07时08分]"
         },
         {
-          "title": "哈梅内伊：特朗普是罪犯",
-          "url": "https://wallstreetcn.com/livenews/3039111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "伊朗最高领袖哈梅内伊：伊朗认为美国总统特朗普应对抗议期间对伊朗人造成的伤亡、损失和诽谤负责。",
-          "url": "https://flash.jin10.com/detail/20260117174453624800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
           "title": "美国总统特朗普表示希望哈塞特留在全美经济顾问委员会（NEC）后，美国两年期国债收益率上升。",
           "url": "https://flash.jin10.com/detail/20260116232949532800",
           "source": "金十数据",
@@ -686,17 +724,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "埃及总统塞西：已致信特朗普，重申开罗的立场及其对本国水安全的关切。",
-          "url": "https://flash.jin10.com/detail/20260117174020851800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
         },
         {
           "title": "现货黄金跌破4580美元/盎司，日内跌0.78%。特朗普谈及美联储主席职位时表示，想让哈塞特留在全美经济顾问委员会（NEC）。",
@@ -933,7 +960,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -967,8 +994,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时33分 ~ 19时06分]"
+          "appearance_count": 14,
+          "time_info": "[11时33分 ~ 20时11分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -1064,17 +1091,6 @@
           "time_info": "[08时28分 ~ 13时08分]"
         },
         {
-          "title": "伊朗最高领袖哈梅内伊：那些与以色列和美国有关联的人在抗议活动中造成了大规模破坏并导致数千人死亡。",
-          "url": "https://flash.jin10.com/detail/20260117184028196800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
           "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
           "url": "https://wallstreetcn.com/livenews/3039047",
           "source": "华尔街见闻-快讯",
@@ -1088,6 +1104,40 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时08分 ~ 11时34分]"
+        },
+        {
+          "title": "伊朗网络服务恢复约1小时后再次中断",
+          "url": "https://wallstreetcn.com/livenews/3039126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
+          "title": "伊朗谴责七国集团干涉伊朗内政",
+          "url": "https://wallstreetcn.com/livenews/3039124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：那些与以色列和美国有关联的人在抗议活动中造成了大规模破坏并导致数千人死亡。",
+          "url": "https://flash.jin10.com/detail/20260117184028196800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 20时11分]"
         },
         {
           "title": "伊朗武装部队总参谋长：敌对势力利用媒体歪曲事实",
@@ -1141,6 +1191,19 @@
           "time_info": "[06时07分 ~ 08时28分]"
         },
         {
+          "title": "巴基斯坦外长和伊朗外长通电话 呼吁保持地区和平稳定",
+          "url": "https://flash.jin10.com/detail/20260117164104796800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 20时11分]"
+        },
+        {
           "title": "欧洲航空安全局：美国可能采取军事行动已使伊朗防空部队进入高度戒备状态，目前德黑兰飞行情报区发生误判的可能性正在上升。",
           "url": "https://flash.jin10.com/detail/20260117024414472800",
           "source": "金十数据",
@@ -1163,18 +1226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 05时08分]"
-        },
-        {
-          "title": "巴基斯坦外长和伊朗外长通电话 呼吁保持地区和平稳定",
-          "url": "https://flash.jin10.com/detail/20260117164104796800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时06分]"
         },
         {
           "title": "欧盟航空安全局建议航空运营商避开伊朗空域",
@@ -1247,6 +1298,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：我们不会把国家拖入战争，但也不会让国内外的犯罪分子逍遥法外。",
+          "url": "https://flash.jin10.com/detail/20260117184112590800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "伊朗媒体：约3000人因骚乱被捕",
           "url": "https://wallstreetcn.com/livenews/3038899",
           "source": "华尔街见闻-快讯",
@@ -1299,8 +1361,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时07分 ~ 19时06分]"
+          "appearance_count": 21,
+          "time_info": "[07时07分 ~ 20时11分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -1456,8 +1518,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时07分 ~ 19时06分]"
+          "appearance_count": 8,
+          "time_info": "[15时07分 ~ 20时11分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -1554,11 +1616,12 @@
           "url": "https://wallstreetcn.com/livenews/3039109",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 20时11分]"
         }
       ]
     },
