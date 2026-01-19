@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T19:08:46.086456+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-01-19T20:14:00.159012+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 86,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时31分 ~ 19时08分]"
+          "appearance_count": 17,
+          "time_info": "[08时31分 ~ 20时14分]"
         },
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -94,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 19时08分]"
+          "appearance_count": 12,
+          "time_info": "[12时28分 ~ 20时14分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -193,6 +193,20 @@
           "time_info": "[00时08分 ~ 05时07分]"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 20时14分]"
+        },
+        {
           "title": "英镑兑美元报价跌0.3%，投资者关注美国总统特朗普（在吞并格陵兰方面）对欧洲多国发出的关税威胁。",
           "url": "https://wallstreetcn.com/livenews/3039298",
           "source": "华尔街见闻-快讯",
@@ -234,6 +248,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 05时07分]"
+        },
+        {
+          "title": "据美国财经媒体Semafor：美国总统特朗普周三在达沃斯召集首席执行官参加招待会。",
+          "url": "https://flash.jin10.com/detail/20260119194231884800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "白宫经济顾问哈塞特：美国总统特朗普关于“白宫是我最好的去处”的说法可能是正确的。 特朗普说他希望我继续担任助理， 不相信特朗普已经针对美联储主席人选做出了最终决定。 特朗普还没有就住房支持（措施）做最终决定。 特朗普将购房速度放慢归咎于更高的首付款。",
@@ -372,7 +397,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -518,19 +543,6 @@
           "time_info": "[12时28分 ~ 13时16分]"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 19时08分]"
-        },
-        {
           "title": "贝森特称“软弱”的欧洲意味着特朗普必须接管格陵兰岛",
           "url": "https://wallstreetcn.com/livenews/3039295",
           "source": "华尔街见闻-快讯",
@@ -630,6 +642,18 @@
           "time_info": "[08时31分 ~ 09时37分]"
         },
         {
+          "title": "德总理称特朗普关税威胁损害跨大西洋关系",
+          "url": "https://wallstreetcn.com/livenews/3039709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时14分]"
+        },
+        {
           "title": "美国邀约60国加入特朗普版联合国",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%82%80%E7%BA%A660%E5%9B%BD%E5%8A%A0%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%88%E8%81%94%E5%90%88%E5%9B%BD%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -639,6 +663,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
+          "url": "https://wallstreetcn.com/livenews/3039707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时14分]"
         },
         {
           "title": "英国首相斯塔默与欧洲领导人及特朗普通话 重申反对美国关税政策",
@@ -740,7 +776,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -795,18 +831,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "德总理称特朗普关税威胁损害跨大西洋关系",
-          "url": "https://wallstreetcn.com/livenews/3039709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -820,17 +845,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
-        },
-        {
-          "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
-          "url": "https://wallstreetcn.com/livenews/3039707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
         },
         {
           "title": "英国首相斯塔默：（就美国总统特朗普的和平委员会）我们已表明愿意在第二阶段发挥我们的作用。我们正就相关条款与盟友磋商。",
@@ -850,7 +864,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -883,7 +897,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1023,7 +1037,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "世界周刊之伊朗危机",
@@ -1098,6 +1112,28 @@
           "time_info": "[03时06分 ~ 07时07分]"
         },
         {
+          "title": "伊朗官员：网络服务将于本周末恢复正常",
+          "url": "https://wallstreetcn.com/livenews/3039748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗称本周内互联网将恢复正常。",
+          "url": "https://flash.jin10.com/detail/20260119194007842800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "伊朗总统：袭击最高领袖等同“发动全面战争”",
           "url": "https://wallstreetcn.com/livenews/3039296",
           "source": "华尔街见闻-快讯",
@@ -1143,7 +1179,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1183,8 +1219,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 19时08分]"
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 20时14分]"
         },
         {
           "title": "美股明日休市 金银油交易提前结束",
