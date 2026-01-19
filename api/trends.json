@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T18:11:03.730130+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-01-19T19:08:46.086456+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 85,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时31分 ~ 18时11分]"
+          "appearance_count": 15,
+          "time_info": "[08时31分 ~ 19时08分]"
         },
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -83,6 +84,20 @@
           "time_info": "[08时31分 ~ 15时14分]"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 19时08分]"
+        },
+        {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
           "source": "澎湃新闻",
@@ -108,19 +123,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 09时37分]"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 18时11分]"
         },
         {
           "title": "伊朗：将追究特朗普等人责任",
@@ -364,6 +366,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "德国政府发言人：不认同美国总统特朗普的和平委员会会削弱联合国的担忧。",
+          "url": "https://flash.jin10.com/detail/20260119184647494800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "哈塞特回应称，特朗普不选他担任美联储主席可能是正确的",
           "url": "https://wallstreetcn.com/livenews/3039285",
           "source": "华尔街见闻-快讯",
@@ -505,6 +518,19 @@
           "time_info": "[12时28分 ~ 13时16分]"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时08分]"
+        },
+        {
           "title": "贝森特称“软弱”的欧洲意味着特朗普必须接管格陵兰岛",
           "url": "https://wallstreetcn.com/livenews/3039295",
           "source": "华尔街见闻-快讯",
@@ -531,18 +557,6 @@
           "time_info": "[03时06分 ~ 06时07分]"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 18时11分]"
-        },
-        {
           "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
           "url": "https://wallstreetcn.com/articles/3763551",
           "source": "华尔街见闻",
@@ -550,8 +564,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 19时08分]"
+        },
+        {
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时08分]"
         },
         {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
@@ -565,18 +592,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时08分 ~ 02时09分]"
-        },
-        {
-          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 18时11分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”，我已跟他通电话",
@@ -714,9 +729,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "德国政府发言人：德国感谢美国总统特朗普发出的和平理事会邀请。",
+          "url": "https://flash.jin10.com/detail/20260119184323133800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "挪威首相：我已多次向美国总统特朗普明确解释，诺贝尔和平奖是由一个独立委员会颁发的。",
@@ -725,7 +751,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -736,7 +762,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -747,7 +773,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -758,9 +784,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "金十整理：从突袭委内瑞拉、威胁伊朗到为格陵兰岛对欧发动关税战，特朗普开年三周的“三连击”将如何搅动市场？",
+          "url": "https://flash.jin10.com/detail/20260119182634326800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "德总理称特朗普关税威胁损害跨大西洋关系",
+          "url": "https://wallstreetcn.com/livenews/3039709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "【外交部回应美方对欧洲八国加征关税】据新华社，美国总统特朗普17日在社交媒体上宣布，将从2月1日起对来自丹麦、挪威、瑞典、法国、德国、英国、荷兰和芬兰的输美商品加征10%关税，并宣称加征关税的税率将从6月1日起提高至25%，直到相关方就美国“全面、彻底购买格陵兰岛”达成协议。对此，外交部发言人郭嘉昆19日在例行记者会上表示，中方已经多次阐明在格陵兰岛问题上的立场。以联合国宪章宗旨和原则为基础的国际法是现行国际秩序的基础，必须得到维护。",
@@ -774,15 +822,37 @@
           "time_info": "16时12分"
         },
         {
+          "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
+          "url": "https://wallstreetcn.com/livenews/3039707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "英国首相斯塔默：（就美国总统特朗普的和平委员会）我们已表明愿意在第二阶段发挥我们的作用。我们正就相关条款与盟友磋商。",
           "url": "https://flash.jin10.com/detail/20260119174618506800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
+          "url": "https://wallstreetcn.com/livenews/3039703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "专家：若特朗普对欧关税威胁落实，欧盟将集体反击美国",
@@ -805,6 +875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
+        },
+        {
+          "title": "英媒：特朗普撼动世界，世界却爱上中国",
+          "url": "https://wallstreetcn.com/livenews/3039698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美媒采访特朗普后被白宫当面警告",
@@ -846,7 +927,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -901,7 +982,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -923,7 +1004,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -934,7 +1015,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         }
@@ -942,7 +1023,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "世界周刊之伊朗危机",
@@ -1056,6 +1137,17 @@
           "time_info": "[05时07分 ~ 06时07分]"
         },
         {
+          "title": "法国总统办公室：法国总统马克龙将于中午召开国防和国家安全会议。会议将讨论格陵兰岛、叙利亚和伊朗。",
+          "url": "https://flash.jin10.com/detail/20260119182051551800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "伊朗议会议长：我们挫败了破坏我国稳定的阴谋。",
           "url": "https://flash.jin10.com/detail/20260119154724623800",
           "source": "金十数据",
@@ -1084,6 +1176,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时08分]"
+        },
+        {
           "title": "美股明日休市 金银油交易提前结束",
           "url": "https://flash.jin10.com/detail/20260118225633271800",
           "source": "金十数据",
@@ -1094,17 +1197,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 05时07分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 18时11分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
