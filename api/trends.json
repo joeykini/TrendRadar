@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:13:14.040213+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-23T14:11:46.539646+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 101,
+      "match_count": 102,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时36分 ~ 13时13分]"
+          "appearance_count": 11,
+          "time_info": "[09时36分 ~ 14时11分]"
         },
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时12分 ~ 13时13分]"
+          "appearance_count": 23,
+          "time_info": "[00时12分 ~ 14时11分]"
         },
         {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
@@ -65,19 +65,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 13时13分]"
+          "appearance_count": 9,
+          "time_info": "[10时46分 ~ 14时11分]"
         },
         {
           "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
           "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 13时13分]"
+          "appearance_count": 9,
+          "time_info": "[10时46分 ~ 14时11分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -99,8 +100,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时12分 ~ 13时13分]"
+          "appearance_count": 23,
+          "time_info": "[00时12分 ~ 14时11分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -136,8 +137,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时12分 ~ 13时13分]"
+          "appearance_count": 23,
+          "time_info": "[00时12分 ~ 14时11分]"
         },
         {
           "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
@@ -286,6 +287,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "美国总统特朗普：听取了关于美联储理事库克被解雇案的最高法院部分庭审。",
           "url": "https://flash.jin10.com/detail/20260123060712333800",
           "source": "金十数据",
@@ -392,6 +404,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时12分 ~ 01时13分]"
+        },
+        {
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 14时11分]"
         },
         {
           "title": "法国用特朗普表情包回怼特朗普",
@@ -510,17 +533,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 03时11分]"
-        },
-        {
-          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
-          "url": "https://www.cls.cn/detail/2267102",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
         },
         {
           "title": "美国总统特朗普：格陵兰协议正在谈判之中。",
@@ -1189,8 +1201,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时30分 ~ 13时13分]"
+          "appearance_count": 13,
+          "time_info": "[08时30分 ~ 14时11分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -1563,7 +1575,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
@@ -1588,11 +1600,12 @@
           "ranks": [
             13,
             21,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时30分 ~ 13时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时30分 ~ 14时11分]"
         },
         {
           "title": "伊朗将以更大决心继续对抗美以",
@@ -1615,6 +1628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "美军对伊朗开战进入倒计时了吗",
+          "url": "https://www.toutiao.com/trending/7598386191951466003/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "土耳其与伊朗两国总统通电话 强调反对外部干涉伊朗局势",
@@ -1792,11 +1816,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时36分 ~ 13时13分]"
+          "appearance_count": 11,
+          "time_info": "[09时36分 ~ 14时11分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
