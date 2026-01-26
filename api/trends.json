@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T13:17:02.498792+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-01-26T14:13:47.420301+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -79,8 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时08分 ~ 13时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 14时13分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -92,6 +92,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时08分 ~ 07时08分]"
+        },
+        {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 14时13分]"
         },
         {
           "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
@@ -143,18 +155,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 06时07分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时55分 ~ 13时17分]"
         },
         {
           "title": "特朗普治下的石油套利：外资贸易行接管委内瑞拉出口 利润空间惊人",
@@ -370,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "特朗普就移民执法人员枪杀美公民发声",
+          "url": "https://www.toutiao.com/trending/7599204696355504171/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
@@ -468,15 +479,40 @@
           "time_info": "10时55分"
         },
         {
+          "title": "美国派出重兵合围伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B4%BE%E5%87%BA%E9%87%8D%E5%85%B5%E5%90%88%E5%9B%B4%E4%BC%8A%E6%9C%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时13分]"
+        },
+        {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
           "url": "https://wallstreetcn.com/articles/3764129",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时13分]"
+        },
+        {
+          "title": "伊朗称若遭军事打击将袭击美航母",
+          "url": "https://www.toutiao.com/trending/7599250332044230719/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时13分]"
         },
         {
           "title": "伊朗：军队已“手扣扳机”随时待命",
@@ -488,28 +524,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时31分 ~ 08时32分]"
-        },
-        {
-          "title": "美国派出重兵合围伊朗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B4%BE%E5%87%BA%E9%87%8D%E5%85%B5%E5%90%88%E5%9B%B4%E4%BC%8A%E6%9C%97%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
-        },
-        {
-          "title": "伊朗称若遭军事打击将袭击美航母",
-          "url": "https://www.toutiao.com/trending/7599250332044230719/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
         },
         {
           "title": "美国会在何时对伊朗实施打击",
@@ -562,38 +576,41 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "国际金价突破5000美元关口",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 13时17分]"
-        },
-        {
           "title": "杨德龙：国际金价下一目标价1万美元",
           "url": "https://www.toutiao.com/trending/7599480136756366899/",
           "source": "今日头条",
           "ranks": [
             7,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时13分]"
+        },
+        {
+          "title": "国际金价突破5000美元关口",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 14时13分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
           "url": "https://www.zhihu.com/question/1999025860699710314",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 14时13分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -601,11 +618,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 14时13分]"
         },
         {
           "title": "国际金价疯涨原因",
@@ -656,8 +674,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 14时13分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -722,6 +740,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
