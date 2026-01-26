@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T16:11:31.948385+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-01-26T17:15:02.537520+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时55分 ~ 16时11分]"
+          "appearance_count": 11,
+          "time_info": "[10时55分 ~ 17时15分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -92,8 +92,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时08分 ~ 16时11分]"
+          "appearance_count": 25,
+          "time_info": "[00时08分 ~ 17时15分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -200,6 +200,17 @@
           "time_info": "[00时08分 ~ 06时07分]"
         },
         {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
           "title": "美国总统特朗普表示，政府正在“重新评估”明尼阿波利斯枪击事件的所有细节。",
           "url": "https://flash.jin10.com/detail/20260126075757265800",
           "source": "金十数据",
@@ -221,6 +232,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 05时07分]"
+        },
+        {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 17时15分]"
         },
         {
           "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
@@ -258,17 +280,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时07分 ~ 07时08分]"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 16时11分]"
         },
         {
           "title": "特朗普就移民执法人员枪杀美公民发声",
@@ -402,7 +413,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
@@ -410,7 +421,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -423,6 +434,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时08分 ~ 08时32分]"
+        },
+        {
+          "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
+          "url": "https://wallstreetcn.com/articles/3764129",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 17时15分]"
         },
         {
           "title": "伊朗武装力量已进入全面戒备状态",
@@ -438,20 +463,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时31分 ~ 13时17分]"
-        },
-        {
-          "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
-          "url": "https://wallstreetcn.com/articles/3764129",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 16时11分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -554,6 +565,17 @@
           "time_info": "[15时13分 ~ 15时14分]"
         },
         {
+          "title": "美与伊朗真会打起来吗",
+          "url": "https://www.toutiao.com/trending/7599564724350504491/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
           "title": "伊朗：军队已“手扣扳机”随时待命",
           "url": "https://www.toutiao.com/trending/7598928240891592723/",
           "source": "今日头条",
@@ -607,13 +629,54 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "伊朗外交部：伊朗从未、也不会寻求核武器",
+          "url": "https://wallstreetcn.com/livenews/3043845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时42分 ~ 17时15分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时42分 ~ 17时15分]"
+        },
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
           "url": "https://www.toutiao.com/trending/7599480136756366899/",
@@ -627,34 +690,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时31分 ~ 15时14分]"
-        },
-        {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 16时11分]"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 16时11分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -712,12 +747,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "避险需求与金价飙升推动瑞郎大幅走强",
+          "url": "https://flash.jin10.com/detail/20260126165531796800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -744,6 +790,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 06时07分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
+          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
+          "url": "https://wallstreetcn.com/livenews/3043857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3043852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "本周重要事件与数据预告：美联储决议，美股巨头财报相继发布",
@@ -780,7 +859,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -835,11 +914,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时13分 ~ 16时11分]"
+          "appearance_count": 6,
+          "time_info": "[14时13分 ~ 17时15分]"
         }
       ]
     },
