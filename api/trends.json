@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T12:37:05.587235+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-01-29T13:24:16.094037+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -95,8 +95,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 12时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 13时24分]"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 13时24分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -113,30 +127,6 @@
           "time_info": "[08时33分 ~ 12时37分]"
         },
         {
-          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
-          "url": "https://flash.jin10.com/detail/20260129120407962800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2273451",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 12时37分]"
-        },
-        {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
           "url": "https://flash.jin10.com/detail/20260129004308229800",
           "source": "金十数据",
@@ -148,15 +138,16 @@
           "time_info": "01时16分"
         },
         {
-          "title": "特朗普和舒默朝着可能达成避免美国政府停摆的协议迈进。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3046090",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
           "ranks": [
-            5
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时55分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -195,6 +186,18 @@
           "time_info": "[01时16分 ~ 02时13分]"
         },
         {
+          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
+          "url": "https://flash.jin10.com/detail/20260129120407962800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时24分]"
+        },
+        {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢比尔·阿克曼。",
           "url": "https://wallstreetcn.com/livenews/3045720",
           "source": "华尔街见闻-快讯",
@@ -231,15 +234,27 @@
           "time_info": "[01时16分 ~ 02时13分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
+          "title": "特朗普和舒默朝着可能达成避免美国政府停摆的协议迈进。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3046090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 12时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -264,17 +279,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时13分]"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
         },
         {
           "title": "美国总统特朗普赞赏财长贝森特，称自己不想失去他。",
@@ -407,7 +411,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -454,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "特朗普与参议院民主党领袖推进磋商 力图避免政府停摆",
+          "url": "https://flash.jin10.com/detail/20260129123617629800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美国总统特朗普：让泽尔丁负责洛杉矶山火重建许可。",
@@ -555,6 +570,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "据纽约时报：美国总统特朗普和美国参议院少数党领袖舒默正朝着达成一项可能的协议迈进，以避免政府停摆。",
+          "url": "https://flash.jin10.com/detail/20260129122742373800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "特朗普：明尼苏达州联邦执法将适度放缓 但不会停",
           "url": "https://wallstreetcn.com/livenews/3045667",
           "source": "华尔街见闻-快讯",
@@ -646,7 +672,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -676,6 +702,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时14分 ~ 09时38分]"
+        },
+        {
+          "title": "伊朗副外长：做好200%的自卫准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%EF%BC%9A%E5%81%9A%E5%A5%BD200%25%E7%9A%84%E8%87%AA%E5%8D%AB%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            17,
+            13,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时33分 ~ 13时24分]"
         },
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
@@ -710,20 +751,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时10分]"
-        },
-        {
-          "title": "伊朗副外长：做好200%的自卫准备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%EF%BC%9A%E5%81%9A%E5%A5%BD200%25%E7%9A%84%E8%87%AA%E5%8D%AB%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            17,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时33分 ~ 12时37分]"
         },
         {
           "title": "伊朗总统宣布启动紧急状态",
@@ -783,6 +810,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时16分]"
+        },
+        {
+          "title": "伊朗副外长：做好200%的自卫准备",
+          "url": "https://www.toutiao.com/trending/7600264339626885147/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "中国代表：支持伊朗国家稳定",
@@ -936,18 +974,6 @@
           "time_info": "[00时14分 ~ 08时33分]"
         },
         {
-          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2273158",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 11时01分]"
-        },
-        {
           "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
           "url": "https://www.cls.cn/detail/2273407",
           "source": "财联社热门",
@@ -958,8 +984,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时33分 ~ 12时37分]"
+          "appearance_count": 8,
+          "time_info": "[08时33分 ~ 13时24分]"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 11时01分]"
         },
         {
           "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
@@ -1109,7 +1147,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1121,6 +1159,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时14分 ~ 07时10分]"
+        },
+        {
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时33分 ~ 13时24分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -1136,17 +1185,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时14分 ~ 11时01分]"
-        },
-        {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时33分 ~ 12时37分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -1175,8 +1213,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 12时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 13时24分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1194,6 +1232,18 @@
           "time_info": "[00时14分 ~ 12时37分]"
         },
         {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 13时24分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -1205,18 +1255,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时13分 ~ 07时10分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 12时37分]"
         },
         {
           "title": "金价银价暴涨原因",
@@ -1252,6 +1290,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时33分 ~ 09时38分]"
+        },
+        {
+          "title": "金价飙涨消费者把黄金变现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%8A%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
+        },
+        {
+          "title": "有家庭买三金价格越等越高",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%AE%B6%E5%BA%AD%E4%B9%B0%E4%B8%89%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B6%8A%E7%AD%89%E8%B6%8A%E9%AB%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
@@ -1355,11 +1415,12 @@
           "ranks": [
             5,
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 12时37分]"
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 13时24分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
