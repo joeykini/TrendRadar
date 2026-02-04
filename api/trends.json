@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T20:17:41.895534+08:00",
-  "total_titles_processed": 1958,
+  "generated_at": "2026-02-04T21:32:05.673037+08:00",
+  "total_titles_processed": 2085,
   "failed_sources": [],
   "trends": [
     {
@@ -857,20 +857,6 @@
           "time_info": "[00时24分 ~ 07时12分]"
         },
         {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时24分 ~ 20时17分]"
-        },
-        {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
           "source": "澎湃新闻",
@@ -878,11 +864,39 @@
             11,
             8,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时16分 ~ 20时17分]"
+          "appearance_count": 8,
+          "time_info": "[16时16分 ~ 21时32分]"
+        },
+        {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            10,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时24分 ~ 21时32分]"
+        },
+        {
+          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
+          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时17分 ~ 21时32分]"
         },
         {
           "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
@@ -895,6 +909,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时38分 ~ 12时37分]"
+        },
+        {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 21时32分]"
         },
         {
           "title": "一位美国官员表示，伊朗革命卫队原计划于上周日和本周一在霍尔木兹海峡进行实弹军事演习，但在收到美国的警告后取消了演习。",
@@ -928,17 +955,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
-          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：与一架无人机在国际水域的联络中断，联络中断的原因目前尚不清楚。",
@@ -987,18 +1003,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时32分 ~ 11时03分]"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 20时17分]"
         },
         {
           "title": "伊朗外长同多国外长通电话 讨论地区局势",
@@ -1307,8 +1311,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时12分 ~ 20时17分]"
+          "appearance_count": 18,
+          "time_info": "[07时12分 ~ 21时32分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -1332,8 +1336,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时24分 ~ 20时17分]"
+          "appearance_count": 12,
+          "time_info": "[13时24分 ~ 21时32分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1345,8 +1349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时32分 ~ 20时17分]"
+          "appearance_count": 17,
+          "time_info": "[08时32分 ~ 21时32分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -1383,8 +1387,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时37分 ~ 20时17分]"
+          "appearance_count": 13,
+          "time_info": "[12时37分 ~ 21时32分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1418,7 +1422,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -1955,7 +1959,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -2049,6 +2053,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "调查：地缘风险与央行买盘支撑 2026年金价或再创新高",
+          "url": "https://flash.jin10.com/detail/20260204205419654800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "路透调查：2026年金价预计平均为每盎司4746.50美元，2027年为4745.42美元。2026年银价预计平均为每盎司79.50美元，2027年为71.80美元。",
+          "url": "https://flash.jin10.com/detail/20260204205023665800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
@@ -2109,7 +2135,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周二（2月3日）纽约尾盘，美国10年期国债收益率跌0.79个基点，报4.2695%。 两年期美债收益率跌0.41个基点，报3.5675%；30年期美债收益率跌0.83个基点，报4.9035%。",
@@ -2143,6 +2169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "2/10年期美债收益率差逼近四年来最阔水平",
+          "url": "https://flash.jin10.com/detail/20260204204145278800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
