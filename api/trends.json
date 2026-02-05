@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T15:26:28.628319+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-02-05T16:18:19.980081+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 15时26分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 16时18分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -77,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时21分 ~ 15时26分]"
+          "appearance_count": 20,
+          "time_info": "[01时21分 ~ 16时18分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -95,17 +95,6 @@
           "time_info": "[00时20分 ~ 11时05分]"
         },
         {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.toutiao.com/trending/7603003215299149878/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时36分 ~ 11时05分]"
-        },
-        {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
           "url": "https://www.cls.cn/detail/2281033",
           "source": "财联社热门",
@@ -115,8 +104,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时05分 ~ 15时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 16时18分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7603003215299149878/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时36分 ~ 11时05分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -518,8 +518,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 16时18分]"
+        },
+        {
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时05分 ~ 15时26分]"
+          "time_info": "[12时39分 ~ 16时18分]"
         },
         {
           "title": "美国国务卿鲁比奥：如果伊朗方面想在星期五会面，我们已经准备好了。",
@@ -564,19 +577,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 15时26分]"
         },
         {
           "title": "伊朗消息人士：美方泄露谈判取消表明其缺乏诚意",
@@ -768,7 +768,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -808,8 +808,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时38分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时38分 ~ 16时18分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -822,8 +822,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时05分 ~ 15时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 16时18分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -848,6 +848,18 @@
           "time_info": "07时10分"
         },
         {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时30分 ~ 16时18分]"
+        },
+        {
           "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
           "url": "https://flash.jin10.com/detail/20260205055519813800",
           "source": "金十数据",
@@ -858,17 +870,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时10分]"
-        },
-        {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时30分 ~ 15时26分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -893,6 +894,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时10分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时18分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -951,17 +963,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时36分"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
         },
         {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
@@ -1066,7 +1067,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -1247,6 +1248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时36分"
+        },
+        {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
@@ -1431,6 +1443,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
+          "url": "https://www.cls.cn/detail/2281407",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     }
