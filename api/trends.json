@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T12:39:29.896094+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-02-05T13:31:13.654961+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 12时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 13时31分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -66,8 +66,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时21分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[01时21分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 13时31分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -95,15 +106,17 @@
           "time_info": "[08时36分 ~ 11时05分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
           "ranks": [
-            1
+            10,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时38分 ~ 12时39分]"
+          "time_info": "[11时05分 ~ 13时31分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -165,18 +178,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时36分 ~ 09时39分]"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时05分 ~ 12时39分]"
         },
         {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美已做好上市准备，接下来就看总统特朗普的决定了。",
@@ -418,7 +419,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -602,6 +603,17 @@
           "time_info": "[04时12分 ~ 05时14分]"
         },
         {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时05分 ~ 13时31分]"
+        },
+        {
           "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
           "url": "https://wallstreetcn.com/articles/3764876",
           "source": "华尔街见闻",
@@ -612,6 +624,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 01时21分]"
+        },
+        {
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时31分]"
         },
         {
           "title": "伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行",
@@ -635,17 +659,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 05时14分]"
-        },
-        {
-          "title": "鲁比奥否认向伊朗让步，透露美方条件",
-          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时05分 ~ 12时39分]"
         },
         {
           "title": "美国国务卿鲁比奥：与伊朗的谈判若要取得有意义的成果，就必须包括弹道导弹议题。",
@@ -714,17 +727,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
           "title": "据AXIOS网站：由于伊朗方面拒绝讨论非核问题，美伊于周五的核谈判取消。",
           "url": "https://flash.jin10.com/detail/20260205012859414800",
           "source": "金十数据",
@@ -772,7 +774,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -782,8 +784,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 13时31分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -795,6 +797,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时05分 ~ 13时31分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet电话会结束。",
@@ -818,18 +833,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时10分]"
-        },
-        {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时05分 ~ 12时39分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -878,6 +881,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时10分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
         },
         {
           "title": "谷歌营收业绩超预期，2026年资本开支超预期",
@@ -1058,6 +1072,18 @@
           "time_info": "[00时20分 ~ 07时10分]"
         },
         {
+          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
+          "url": "https://www.cls.cn/detail/2280969",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时36分 ~ 13时31分]"
+        },
+        {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
           "url": "https://wallstreetcn.com/articles/3764895",
           "source": "华尔街见闻",
@@ -1084,18 +1110,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时20分 ~ 11时05分]"
-        },
-        {
-          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
-          "url": "https://www.cls.cn/detail/2280969",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时36分 ~ 12时39分]"
         },
         {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
