@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T17:20:48.434710+08:00",
-  "total_titles_processed": 1672,
+  "generated_at": "2026-02-06T18:18:45.438996+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时38分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时38分 ~ 18时18分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时04分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时04分 ~ 18时18分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时18分]"
         },
         {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
@@ -115,6 +115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-06）",
+          "url": "https://flash.jin10.com/detail/20260206180327794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -407,6 +418,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "特朗普力挺高市，金融市场怎么看？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260206175033829800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "贝森特：特朗普将决定是否就利率问题起诉美联储主席提名人沃什",
           "url": "https://wallstreetcn.com/livenews/3050778",
           "source": "华尔街见闻-快讯",
@@ -438,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普转发李小龙武打视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E5%8F%91%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%A6%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "美国财长贝森特：无权决定是否在特朗普国税局诉讼案中签发支票，我们将遵照司法部指示行事。",
@@ -534,7 +567,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -597,7 +630,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -612,6 +645,21 @@
           "time_info": "[00时20分 ~ 07时10分]"
         },
         {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时39分 ~ 18时18分]"
+        },
+        {
           "title": "美国伊朗谈判今日举行",
           "url": "https://www.douyin.com/hot/2391128",
           "source": "抖音",
@@ -624,20 +672,6 @@
           "time_info": "[12时39分 ~ 15时24分]"
         },
         {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时39分 ~ 17时20分]"
-        },
-        {
           "title": "贝森特：看到伊朗啥样了吧，我们干的",
           "url": "https://news.ifeng.com/c/8qWIKuTzdj9",
           "source": "凤凰网",
@@ -645,8 +679,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 18时18分]"
         },
         {
           "title": "中方阐明在伊朗问题上的原则立场",
@@ -657,8 +691,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 18时18分]"
         },
         {
           "title": "美伊核谈判在即 伊朗外长称将坚定捍卫伊朗权利",
@@ -880,6 +914,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "阿曼外交部：我们斡旋了伊朗和美国之间的间接会谈。",
+          "url": "https://flash.jin10.com/detail/20260206175026951800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "据《华尔街日报》援引一位美国官员的话报道，美国赴伊朗进行会谈的代表团成员包括美国中央司令部司令布拉德·库珀海军上将。",
           "url": "https://flash.jin10.com/detail/20260206155302383800",
           "source": "金十数据",
@@ -889,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "阿曼外交部：与伊朗外长阿拉奇和美国中东问题特使威特科夫的磋商重点在于创造谈判条件。",
+          "url": "https://flash.jin10.com/detail/20260206174804274800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "据半岛电视台：伊朗和美国的谈判团队分别由伊朗外长阿拉格奇和美国特使威特科夫率领。",
@@ -924,13 +980,24 @@
           "time_info": "03时20分"
         },
         {
+          "title": "伊朗外交消息人士：美国中央司令部或任何地区军事官员的介入，可能危及伊朗与美国在阿曼举行的“间接核”会谈。",
+          "url": "https://flash.jin10.com/detail/20260206173554695800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "伊朗外交部：抵制美国“任何过分的要求或冒险行为”",
           "url": "https://wallstreetcn.com/livenews/3051265",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -979,6 +1046,17 @@
           "time_info": "11时04分"
         },
         {
+          "title": "伊朗在谈判前展示导弹",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%9C%A8%E8%B0%88%E5%88%A4%E5%89%8D%E5%B1%95%E7%A4%BA%E5%AF%BC%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗外长阿拉格齐启程前往阿曼马斯喀特，与美国举行核谈判。",
           "url": "https://flash.jin10.com/detail/20260206022659578800",
           "source": "金十数据",
@@ -1010,12 +1088,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        },
+        {
+          "title": "克里姆林宫：（就伊朗问题表态）我们敦促各方保持克制。",
+          "url": "https://flash.jin10.com/detail/20260206173045673800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "克里姆林宫：欢迎在阿曼就伊朗问题展开对话，期待局势缓和。",
+          "url": "https://flash.jin10.com/detail/20260206173032090800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -1113,15 +1213,15 @@
           "time_info": "[12时39分 ~ 16时18分]"
         },
         {
-          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
-          "url": "https://wallstreetcn.com/livenews/3051294",
-          "source": "华尔街见闻-快讯",
+          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时18分"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -1147,6 +1247,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时12分 ~ 07时10分]"
+        },
+        {
+          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
+          "url": "https://wallstreetcn.com/livenews/3051294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时18分]"
         },
         {
           "title": "美股收盘：纳指连续3天均跌超1%",
@@ -1193,6 +1305,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "美股期指盘中转涨，道指期货涨0.11%，标普500指数期货涨0.28%，纳斯达克100指数期货涨0.3%，盘中一度跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3051309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "亚马逊(AMZN.O)美股盘后大跌近9%。",
           "url": "https://flash.jin10.com/detail/20260206050409662800",
           "source": "金十数据",
@@ -1226,6 +1349,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "美股三大股指期货均转涨，纳指期货现涨0.4%，标普500指数期货涨0.3%，道指期货涨0.1%，此前纳指期货一度跌超1.6%。",
+          "url": "https://flash.jin10.com/detail/20260206173458950800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
           "url": "https://wallstreetcn.com/livenews/3050756",
           "source": "华尔街见闻-快讯",
@@ -1240,7 +1374,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "软银：将在日本的合资企业服务中使用OpenAI的新企业平台。",
@@ -1321,6 +1455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "实测OpenAI和Cluade模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BOpenAI%E5%92%8CCluade%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
@@ -1336,8 +1481,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时38分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时38分 ~ 18时18分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -1392,7 +1537,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
@@ -1450,8 +1595,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时38分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时38分 ~ 18时18分]"
         }
       ]
     },
