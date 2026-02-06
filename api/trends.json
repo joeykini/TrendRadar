@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T11:04:18.996201+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-02-06T12:39:33.027867+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时39分]"
+        },
+        {
+          "title": "日本大选前，特朗普发文支持高市",
+          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时04分]"
+          "time_info": "[11时04分 ~ 12时39分]"
         },
         {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
@@ -75,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
-        },
-        {
-          "title": "日本大选前，特朗普发文支持高市",
-          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
         },
         {
           "title": "美国总统特朗普：据许多人所言，斯塔默总理已经做出了力所能及的最大努力来达成那项协议。",
@@ -243,6 +243,18 @@
           "time_info": "[03时20分 ~ 04时12分]"
         },
         {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时39分]"
+        },
+        {
           "title": "特朗普：《新削减战略武器条约》应被改进而非延长",
           "url": "https://wallstreetcn.com/livenews/3050855",
           "source": "华尔街见闻-快讯",
@@ -378,17 +390,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
           "title": "美国总统特朗普：与其延长“新削减战略武器条约”，我们更应该让专家们着手制定一项全新、改进且现代化的条约，使其能够长久延续下去。",
           "url": "https://flash.jin10.com/detail/20260206025002718800",
           "source": "金十数据",
@@ -433,6 +434,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "是否会谋求第三个任期？特朗普：我不知道，但那会很有趣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32542705",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "特朗普即将推出“TrumpRX”药房网站 以提供折扣药品购买服务",
           "url": "https://flash.jin10.com/detail/20260206032833892800",
           "source": "金十数据",
@@ -472,7 +484,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -486,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "押注“特朗普行情”散户正遭受重创",
+          "url": "https://www.toutiao.com/trending/7603551518200958473/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "巴西总统卢拉：或于3月第一周赴华盛顿会见美国总统特朗普。",
@@ -513,7 +536,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -532,11 +555,12 @@
           "url": "https://wallstreetcn.com/livenews/3051071",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时39分]"
         },
         {
           "title": "伊朗外长阿拉格齐抵达阿曼。",
@@ -549,6 +573,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时10分]"
+        },
+        {
+          "title": "伊朗军方：我们能够轻易进入美军基地",
+          "url": "https://wallstreetcn.com/livenews/3051064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时39分]"
         },
         {
           "title": "伊朗外长率团赴阿曼，将与美国进行核问题谈判",
@@ -599,6 +635,17 @@
           "time_info": "[04时12分 ~ 05时12分]"
         },
         {
+          "title": "美国伊朗谈判今日举行",
+          "url": "https://www.douyin.com/hot/2391128",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "伊朗外长率团赴阿曼与美国进行核问题谈判",
           "url": "https://flash.jin10.com/detail/20260206025617070800",
           "source": "金十数据",
@@ -611,25 +658,36 @@
         },
         {
           "title": "伊朗军方：我们能够轻易进入美军基地",
-          "url": "https://wallstreetcn.com/livenews/3051064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "伊朗军方：我们能够轻易进入美军基地",
           "url": "https://flash.jin10.com/detail/20260206104014218800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "美伊谈判前夕 伊朗展示先进弹道导弹",
@@ -693,7 +751,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -723,7 +781,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -790,8 +848,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时09分 ~ 11时04分]"
+          "appearance_count": 6,
+          "time_info": "[07时09分 ~ 12时39分]"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -827,8 +885,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时04分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时39分]"
         },
         {
           "title": "美股收盘：纳指连续3天均跌超1%",
@@ -840,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -931,7 +1000,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -967,7 +1036,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -1041,11 +1110,12 @@
           "ranks": [
             6,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 11时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 12时39分]"
         },
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -1053,11 +1123,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时04分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时39分]"
         }
       ]
     },
@@ -1083,7 +1154,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -1094,7 +1165,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -1123,8 +1194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时04分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时39分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
