@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-09T20:22:45.263359+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2026-02-09T21:36:32.871841+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 23,
       "titles": [
+        {
+          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
+          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 21时36分]"
+        },
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
           "url": "https://flash.jin10.com/detail/20260208234419221800",
@@ -30,11 +42,12 @@
           "ranks": [
             15,
             14,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时47分 ~ 20时22分]"
+          "appearance_count": 12,
+          "time_info": "[12时47分 ~ 21时36分]"
         },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -62,18 +75,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时10分 ~ 07时12分]"
-        },
-        {
-          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
-          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 20时22分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -291,7 +292,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗外长：伊美核谈判开局良好",
@@ -308,6 +309,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时10分 ~ 11时09分]"
+        },
+        {
+          "title": "伊朗原子能组织主席：将浓缩铀运出伊朗不在谈判议程之内",
+          "url": "https://wallstreetcn.com/livenews/3052365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
@@ -363,9 +375,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
+        },
+        {
+          "title": "伊朗媒体发AI视频模拟打击美军舰队",
+          "url": "https://wallstreetcn.com/livenews/3052357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "伊朗原子能机构负责人埃斯拉米：我们与国际原子能机构的合作仍在继续，但该机构对受保障核设施遭军事袭击一事尚有未完成的任务，这无法回避。",
@@ -374,7 +397,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -385,7 +408,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -396,7 +419,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -509,7 +532,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -561,6 +584,17 @@
           "time_info": "19时22分"
         },
         {
+          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2285010",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "本周“惨况”继续？高盛：美股抛售潮尚未结束，金银和比特币亦受连累！",
           "url": "https://www.cls.cn/detail/2284121",
           "source": "财联社热门",
@@ -598,8 +632,92 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3051817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 05时10分]"
+        },
+        {
+          "title": "美元指数DXY持续走低，日内跌幅扩大至0.7%。欧元兑美元EUR/USD突破1.19，创1月30日以来新高，日内涨0.74%。美元兑日元USD/JPY失守156，日内跌幅0.78%。",
+          "url": "https://flash.jin10.com/detail/20260209212804665800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "现货黄金短线走低13美元，报5012美元/盎司。美元指数DXY回落至97下方，日内跌0.59%。",
+          "url": "https://flash.jin10.com/detail/20260209212450505800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美元指数持续走低，日内跌幅扩大至0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3052358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美元指数DXY短线走低15点，非美货币集体走强，欧元兑美元EUR/USD走高20点。",
+          "url": "https://flash.jin10.com/detail/20260209140215972800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "美元指数日内跌幅达0.5%，报97.18。",
+          "url": "https://wallstreetcn.com/livenews/3052351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美元指数DXY持续走低，日内跌幅扩大至0.6%。澳元兑美元AUD/USD日内涨幅扩大至0.50%，欧元兑美元EUR/USD涨0.6%，英镑兑美元GBP/USD涨0.4%，美元兑日元USD/JPY跌0.6%。",
+          "url": "https://flash.jin10.com/detail/20260209210644389800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -613,6 +731,17 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时10分 ~ 12时47分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet计划通过美元债券发行筹集约150亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3052364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "Kimi K2.5持续霸榜Openrouter，大幅度领先Gemini 3",
@@ -638,6 +767,17 @@
           "time_info": "19时22分"
         },
         {
+          "title": "谷歌母公司Alphabet启动七批美元债券发行。",
+          "url": "https://wallstreetcn.com/livenews/3052346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "道达尔能源将在德州为谷歌供应1吉瓦太阳能电力",
           "url": "https://wallstreetcn.com/livenews/3052196",
           "source": "华尔街见闻-快讯",
@@ -652,7 +792,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
@@ -668,44 +808,98 @@
           "time_info": "[18时27分 ~ 20时22分]"
         },
         {
+          "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "策略师：若非农数据显著偏离预期，美元及美债收益率料剧烈波动",
           "url": "https://flash.jin10.com/detail/20260209194344154800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
+        },
+        {
+          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
+          "url": "https://www.zhihu.com/question/2004143319609993151",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "在Alphabet(GOOG.O)公布债券发行计划后，美债收益率小幅上升。",
+          "url": "https://flash.jin10.com/detail/20260209204912914800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3051817",
+          "title": "OpenAI准备在本周推出更新版聊天模型",
+          "url": "https://wallstreetcn.com/livenews/3052361",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            30
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
-          "title": "美元指数DXY短线走低15点，非美货币集体走强，欧元兑美元EUR/USD走高20点。",
-          "url": "https://flash.jin10.com/detail/20260209140215972800",
+          "title": "OpenAI创始人：ChatGPT月增长重超10% 本周将推新版聊天模型",
+          "url": "https://flash.jin10.com/detail/20260209211725388800",
           "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时31分"
+          "time_info": "21时36分"
+        },
+        {
+          "title": "据CNBC：ChatGPT月增长率超过10%。",
+          "url": "https://flash.jin10.com/detail/20260209210816509800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "据CNBC：OpenAI计划于本周发布一款升级版对话模型。",
+          "url": "https://flash.jin10.com/detail/20260209210728140800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -718,11 +912,12 @@
           "url": "https://s.weibo.com/weibo?q=%23Kimi%E5%BB%BA%E8%AE%AE%E7%BD%91%E5%8F%8B%E5%85%88%E7%94%A8DeepSeek%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时36分]"
         }
       ]
     }
