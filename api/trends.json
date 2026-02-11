@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T21:35:55.876073+08:00",
-  "total_titles_processed": 1918,
+  "generated_at": "2026-02-11T22:29:25.058766+08:00",
+  "total_titles_processed": 1996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时45分 ~ 07时18分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 22时29分]"
         },
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -53,17 +64,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时45分 ~ 08时41分]"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 21时35分]"
         },
         {
           "title": "外交部回应特朗普涉中加合作言论",
@@ -250,6 +250,18 @@
           "time_info": "[11时09分 ~ 14时31分]"
         },
         {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 22时29分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗希望达成协议，不达成协议是愚蠢的。",
           "url": "https://flash.jin10.com/detail/20260211055436114800",
           "source": "金十数据",
@@ -323,18 +335,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普在爱泼斯坦案文件出现100万次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 21时35分]"
         },
         {
           "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
@@ -651,6 +651,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
+          "url": "https://www.zhihu.com/question/2004862099634016476",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
           "url": "https://wallstreetcn.com/livenews/3053143",
           "source": "华尔街见闻-快讯",
@@ -764,7 +775,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -789,8 +800,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时40分 ~ 21时35分]"
+          "appearance_count": 17,
+          "time_info": "[08时40分 ~ 22时29分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -828,8 +839,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时35分 ~ 21时35分]"
+          "appearance_count": 12,
+          "time_info": "[13时35分 ~ 22时29分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -853,8 +864,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 21时35分]"
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 22时29分]"
         },
         {
           "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify美股盘前涨超8%。",
@@ -874,7 +885,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -976,13 +987,24 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3053787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "市场聚焦美国非农，美股指期货全线上扬，美元连跌四日，黄金突破5100美元大关，白银站上86美元",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -1009,13 +1031,24 @@
           "time_info": "17时23分"
         },
         {
+          "title": "美国非农数据公布后，美股期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3053777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "T-Mobile第四季度总净新增用户244万，同比增长20%，市场预期199万。 第四季度每股收益1.88美元，去年同期2.57美元，市场预期2.03美元。 第四季度营收243.3亿美元，同比增长11%，市场预期242亿美元。 第四季度后付费净新增用户238万，同比增长23%，市场预期192万。 T-Mobile美股盘前跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3053749",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
@@ -1023,19 +1056,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "伊朗总统：不寻求核武器 愿接受核查",
-          "url": "https://www.toutiao.com/trending/7604987910697287722/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 21时35分]"
-        },
         {
           "title": "伊朗总统致歉",
           "url": "https://news.ifeng.com/c/8qf5xxJfwSa",
@@ -1044,8 +1066,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 22时29分]"
+        },
+        {
+          "title": "伊朗总统：不寻求核武器 愿接受核查",
+          "url": "https://www.toutiao.com/trending/7604987910697287722/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时22分 ~ 22时29分]"
         },
         {
           "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
@@ -1217,7 +1251,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -1255,6 +1289,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "法国外长表示，法国将为遭受伊朗当局打击的伊朗人增加人道主义庇护签证。",
+          "url": "https://flash.jin10.com/detail/20260211213918475800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "伊朗总统说伊朗不寻求核武器",
           "url": "https://wallstreetcn.com/livenews/3053584",
           "source": "华尔街见闻-快讯",
@@ -1282,8 +1327,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时49分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[12时49分 ~ 22时29分]"
         },
         {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
@@ -1382,7 +1427,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -1393,8 +1438,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 22时29分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -1403,9 +1448,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时29分]"
+        },
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时29分"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -1416,8 +1472,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 22时29分]"
         },
         {
           "title": "DeepSeek更新新模型",
@@ -1429,6 +1485,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时22分 ~ 20时23分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "DeepSeek更新新模型，支持最高1M百万Token上下文长度",
@@ -1445,7 +1512,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "非农前夜，降息预期难振风险偏好，标普冲高转跌，美债涨，金银震荡回落，原油横盘",
@@ -1483,6 +1550,17 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "非农就业意外强劲，美股指期货短线拉升，美元指数走高，美债承压，黄金一度突破5100美元大关",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "机构：美债替代品寥寥 外资持债意向坚挺",
           "url": "https://flash.jin10.com/detail/20260211041750931800",
           "source": "金十数据",
@@ -1503,12 +1581,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "两年期美债收益率触及一周高点3.551%，最新报3.533%，上涨7.9个基点。",
+          "url": "https://flash.jin10.com/detail/20260211214220979800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数DXY短线急升50点，现报97.14。",
@@ -1517,7 +1606,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -1554,6 +1643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "美元指数DXY回吐非农数据发布以来的部分涨幅，现报97。",
+          "url": "https://flash.jin10.com/detail/20260211214402545800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "非农料出现有史以来最大的年度下修 美元指数预计在数据公布前维持震荡",
