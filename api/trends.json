@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T22:29:25.058766+08:00",
-  "total_titles_processed": 1996,
+  "generated_at": "2026-02-11T23:26:02.490366+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时22分 ~ 22时29分]"
+          "appearance_count": 9,
+          "time_info": "[18时22分 ~ 23时26分]"
         },
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -88,6 +88,17 @@
           "time_info": "[09时40分 ~ 16时20分]"
         },
         {
+          "title": "特朗普发帖后 CNN都看不下去了",
+          "url": "https://www.toutiao.com/trending/7604706291541704723/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
           "url": "https://www.cls.cn/detail/2286509",
           "source": "财联社热门",
@@ -137,6 +148,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时22分 ~ 23时26分]"
+        },
+        {
+          "title": "美国国会预算办公室（CBO）：特朗普关税带来的更高收入将在10年内减少3万亿美元的赤字。",
+          "url": "https://flash.jin10.com/detail/20260211230139888800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美国国会预算办公室（CBO）警告称，特朗普的财政路径不可持续，将未来十年的美国赤字预期提高1.4万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：不认为美国总统特朗普会退出美国墨西哥加拿大贸易协议（USMCA）。",
+          "url": "https://wallstreetcn.com/livenews/3053826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
@@ -250,18 +306,6 @@
           "time_info": "[11时09分 ~ 14时31分]"
         },
         {
-          "title": "特朗普在爱泼斯坦案文件出现100万次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 22时29分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗希望达成协议，不达成协议是愚蠢的。",
           "url": "https://flash.jin10.com/detail/20260211055436114800",
           "source": "金十数据",
@@ -323,6 +367,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时22分 ~ 19时22分]"
+        },
+        {
+          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
+          "url": "https://www.zhihu.com/question/2004862099634016476",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时29分 ~ 23时26分]"
         },
         {
           "title": "特朗普表面祝贺高市私下大发雷霆",
@@ -574,6 +630,17 @@
           "time_info": "[08时40分 ~ 08时41分]"
         },
         {
+          "title": "墨西哥总统辛鲍姆：不认为美国总统特朗普会退出《美墨加协定》。",
+          "url": "https://flash.jin10.com/detail/20260211225820867800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "报道：特朗普将指示五角大楼与燃煤发电厂签订合同，以期重振煤炭行业",
           "url": "https://wallstreetcn.com/livenews/3053396",
           "source": "华尔街见闻-快讯",
@@ -585,6 +652,17 @@
           "time_info": "11时09分"
         },
         {
+          "title": "美国总统特朗普：美国应该承担更低的借债成本。 美国应该对债务支付更低的成本。 因此，美国应该支付（全球）最低的利率。",
+          "url": "https://wallstreetcn.com/livenews/3053820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "消息人士：特朗普私下权衡是否退出美墨加协定",
           "url": "https://flash.jin10.com/detail/20260211194907796800",
           "source": "金十数据",
@@ -594,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "特朗普大赞非农数据，再催美联储降息至“全球最低”",
+          "url": "https://flash.jin10.com/detail/20260211225433326800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "特朗普：反对以色列推进约旦河西岸吞并举措",
@@ -616,6 +705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "美国总统特朗普：非农数据很棒，远超预期。",
+          "url": "https://wallstreetcn.com/livenews/3053819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "市场消息：美国总统特朗普私下权衡是否退出他亲自谈判达成的美墨加贸易协定。",
@@ -651,15 +751,26 @@
           "time_info": "16时20分"
         },
         {
-          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
-          "url": "https://www.zhihu.com/question/2004862099634016476",
-          "source": "知乎",
+          "title": "美国总统特朗普：美国的借债成本应该低得多，因此我们应该支付最低利率。",
+          "url": "https://flash.jin10.com/detail/20260211224903710800",
+          "source": "金十数据",
           "ranks": [
-            16
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时29分"
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美国总统特朗普：美国应该为其借款（债券！）支付更少的利息。",
+          "url": "https://flash.jin10.com/detail/20260211224827730800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -775,7 +886,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -800,8 +911,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时40分 ~ 22时29分]"
+          "appearance_count": 19,
+          "time_info": "[08时40分 ~ 23时26分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -830,6 +941,19 @@
           "time_info": "[07时18分 ~ 14时31分]"
         },
         {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时22分 ~ 23时26分]"
+        },
+        {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
           "url": "https://wallstreetcn.com/articles/3765455",
           "source": "华尔街见闻",
@@ -839,8 +963,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时35分 ~ 22时29分]"
+          "appearance_count": 14,
+          "time_info": "[13时35分 ~ 23时26分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -853,19 +977,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时45分 ~ 09时40分]"
-        },
-        {
-          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
-          "url": "https://www.zhihu.com/question/2004662806780338439",
-          "source": "知乎",
-          "ranks": [
-            12,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时22分 ~ 22时29分]"
         },
         {
           "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify美股盘前涨超8%。",
@@ -993,7 +1104,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -1037,9 +1148,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
+        },
+        {
+          "title": "半导体ETF涨2.47%，能源业ETF涨1.99%，全球科技股指数ETF涨1.7%，在美股盘初领跑行业ETF，医疗业ETF则跌0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3053811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260211223705065800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "T-Mobile第四季度总净新增用户244万，同比增长20%，市场预期199万。 第四季度每股收益1.88美元，去年同期2.57美元，市场预期2.03美元。 第四季度营收243.3亿美元，同比增长11%，市场预期242亿美元。 第四季度后付费净新增用户238万，同比增长23%，市场预期192万。 T-Mobile美股盘前跌超1%。",
@@ -1056,7 +1189,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗总统致歉",
@@ -1066,8 +1199,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 22时29分]"
+          "appearance_count": 6,
+          "time_info": "[20时22分 ~ 23时26分]"
         },
         {
           "title": "伊朗总统：不寻求核武器 愿接受核查",
@@ -1075,11 +1208,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[19时22分 ~ 23时26分]"
         },
         {
           "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
@@ -1289,13 +1423,24 @@
           "time_info": "12时49分"
         },
         {
+          "title": "哈马斯表示，已在多哈与伊朗高级安全官员举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260211223555220800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "法国外长表示，法国将为遭受伊朗当局打击的伊朗人增加人道主义庇护签证。",
           "url": "https://flash.jin10.com/detail/20260211213918475800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -1324,11 +1469,12 @@
             12,
             11,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时49分 ~ 22时29分]"
+          "appearance_count": 15,
+          "time_info": "[12时49分 ~ 23时26分]"
         },
         {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
@@ -1435,11 +1581,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 22时29分]"
+          "appearance_count": 6,
+          "time_info": "[20时22分 ~ 23时26分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -1449,19 +1596,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时29分]"
+          "appearance_count": 4,
+          "time_info": "[21时35分 ~ 23时26分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
           "url": "https://www.cls.cn/detail/2287578",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时29分 ~ 23时26分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -1472,8 +1620,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 22时29分]"
+          "appearance_count": 6,
+          "time_info": "[20时22分 ~ 23时26分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时29分 ~ 23时26分]"
         },
         {
           "title": "DeepSeek更新新模型",
@@ -1485,17 +1644,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
         },
         {
           "title": "DeepSeek更新新模型，支持最高1M百万Token上下文长度",
@@ -1526,6 +1674,18 @@
           "time_info": "07时18分"
         },
         {
+          "title": "非农就业意外强劲，美股指期货短线拉升，美元指数走高，美债承压，黄金一度突破5100美元大关",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时29分 ~ 23时26分]"
+        },
+        {
           "title": "道明证券：大多数外国投资者并未承认自己在卖出美债",
           "url": "https://wallstreetcn.com/livenews/3053272",
           "source": "华尔街见闻-快讯",
@@ -1548,17 +1708,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "非农就业意外强劲，美股指期货短线拉升，美元指数走高，美债承压，黄金一度突破5100美元大关",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
         },
         {
           "title": "机构：美债替代品寥寥 外资持债意向坚挺",
@@ -1589,7 +1738,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         }
@@ -1651,7 +1800,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
