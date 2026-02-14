@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-14T11:03:00.185373+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-02-14T12:37:43.538842+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
+        {
+          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
+          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时14分 ~ 12时37分]"
+        },
         {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
@@ -18,24 +31,24 @@
             17,
             19,
             22,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时37分]"
         },
         {
-          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
-          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
           "source": "凤凰网",
           "ranks": [
-            5,
-            7,
-            8
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时14分 ~ 11时03分]"
+          "appearance_count": 9,
+          "time_info": "[04时14分 ~ 12时37分]"
         },
         {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
@@ -48,18 +61,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时20分 ~ 11时03分]"
-        },
-        {
-          "title": "特朗普将访问委内瑞拉",
-          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时14分 ~ 11时03分]"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -156,6 +157,18 @@
           "time_info": "02时19分"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时35分 ~ 12时37分]"
+        },
+        {
           "title": "美国总统特朗普重申：与北约关系良好。",
           "url": "https://wallstreetcn.com/livenews/3055341",
           "source": "华尔街见闻-快讯",
@@ -243,18 +256,6 @@
           "time_info": "[01时21分 ~ 02时19分]"
         },
         {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时35分 ~ 11时03分]"
-        },
-        {
           "title": "美国总统特朗普称赞通胀下降，声称：今天发布了不错的金融数据。",
           "url": "https://wallstreetcn.com/livenews/3055305",
           "source": "华尔街见闻-快讯",
@@ -265,6 +266,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时19分]"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时38分 ~ 12时37分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
@@ -319,18 +333,6 @@
           "time_info": "[02时19分 ~ 04时14分]"
         },
         {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时38分 ~ 11时03分]"
-        },
-        {
           "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
           "url": "https://wallstreetcn.com/livenews/3055316",
           "source": "华尔街见闻-快讯",
@@ -342,6 +344,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 04时14分]"
+        },
+        {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时37分]"
         },
         {
           "title": "美国总统特朗普：美国是北约的重要成员。",
@@ -440,17 +454,6 @@
           "time_info": "[01时21分 ~ 02时19分]"
         },
         {
-          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
-          "url": "https://www.cls.cn/detail/2290112",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
-        },
-        {
           "title": "美国总统特朗普：（谈及伊朗）如果我们达成协议，它们（航母打击群）很快就会离开。",
           "url": "https://flash.jin10.com/detail/20260214005452299800",
           "source": "金十数据",
@@ -531,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "美国总统特朗普：我认为内塔尼亚胡应该获得赦免。",
@@ -660,7 +674,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -685,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "日媒披露特朗普拒绝在中日间力挺日本",
+          "url": "https://www.toutiao.com/trending/7605283067519008810/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "Anthropic PBC：任命曾经担任美国总统特朗普助理的Chris Liddell为董事会成员。",
@@ -736,8 +761,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时37分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -773,8 +798,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时37分]"
+        },
+        {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 12时37分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -802,20 +842,6 @@
           "time_info": "[00时19分 ~ 07时13分]"
         },
         {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 11时03分]"
-        },
-        {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
           "url": "https://www.zhihu.com/question/2005568531748648323",
           "source": "知乎",
@@ -825,17 +851,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时13分]"
-        },
-        {
-          "title": "美股：金银大涨 英伟达蒸发6900亿元",
-          "url": "https://www.toutiao.com/trending/7606270891333091371/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
         },
         {
           "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览（美股盘中）",
@@ -858,6 +873,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "美股：金银大涨 英伟达蒸发6900亿元",
+          "url": "https://www.toutiao.com/trending/7606270891333091371/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时37分]"
         },
         {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
@@ -945,7 +972,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国国土安全部（DHS）围绕移民与海关执法局（ICE）追踪问题传唤谷歌、Meta、Reddit、以及Discord。（纽约时报）",
@@ -1022,6 +1049,17 @@
           "time_info": "[07时13分 ~ 08时35分]"
         },
         {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
           "url": "https://flash.jin10.com/detail/20260214005013634800",
           "source": "金十数据",
@@ -1057,8 +1095,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时37分]"
         },
         {
           "title": "伊朗外长：内塔尼亚胡是战争贩子",
@@ -1142,7 +1180,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -1164,8 +1202,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时35分 ~ 11时03分]"
+          "appearance_count": 5,
+          "time_info": "[08时35分 ~ 12时37分]"
         },
         {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
@@ -1179,6 +1217,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 07时13分]"
+        },
+        {
+          "title": "中国持续减持美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7606523556855287338/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
@@ -1195,7 +1244,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -1218,29 +1267,53 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时35分 ~ 11时03分]"
+          "appearance_count": 5,
+          "time_info": "[08时35分 ~ 12时37分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
           "url": "https://wallstreetcn.com/livenews/3055437",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时37分]"
+        },
+        {
+          "title": "一年了 美国还在追着DeepSeek抹黑",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E4%BA%86+%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%9C%A8%E8%BF%BD%E7%9D%80DeepSeek%E6%8A%B9%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时03分"
+          "time_info": "12时37分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
+          "url": "https://flash.jin10.com/detail/20260214122124232800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
           "url": "https://wallstreetcn.com/livenews/3055331",
