@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T20:19:32.678891+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-02-16T21:33:32.095440+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时35分 ~ 20时19分]"
+          "appearance_count": 11,
+          "time_info": "[13时35分 ~ 21时33分]"
         },
         {
           "title": "伊朗外长启程赴会，以总理预设四项条件",
@@ -185,6 +185,19 @@
           "time_info": "[06时08分 ~ 07时10分]"
         },
         {
+          "title": "国际原子能机构总干事说已与伊朗外长完成技术讨论",
+          "url": "https://wallstreetcn.com/livenews/3055723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时33分]"
+        },
+        {
           "title": "伊朗大秀肌肉回应美国施压",
           "url": "https://www.toutiao.com/trending/7607336004873096742/",
           "source": "今日头条",
@@ -263,18 +276,6 @@
           "time_info": "[08时36分 ~ 11时08分]"
         },
         {
-          "title": "国际原子能机构总干事说已与伊朗外长完成技术讨论",
-          "url": "https://wallstreetcn.com/livenews/3055723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时19分]"
-        },
-        {
           "title": "伊朗外长阿拉格齐：我将与核专家们一起，于周一与国际原子能机构总干事格罗西进行深入的技术探讨。与此同时，周二在与美国进行外交谈判之前，我还将会见阿曼外交大臣。我带着切实可行的方案来到日内瓦，旨在达成公平公正的协议。屈服于威胁的选项不在谈判桌上。",
           "url": "https://flash.jin10.com/detail/20260216135843569800",
           "source": "金十数据",
@@ -311,6 +312,30 @@
           "time_info": "[17时24分 ~ 18时24分]"
         },
         {
+          "title": "伊朗革命卫队海军在霍尔木兹海峡举行军演",
+          "url": "https://wallstreetcn.com/livenews/3055730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时33分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：与伊朗达成协议将非常困难。",
+          "url": "https://flash.jin10.com/detail/20260216191911022800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时33分]"
+        },
+        {
           "title": "国际原子能机构总干事说已与伊朗外长完成技术讨论",
           "url": "https://flash.jin10.com/detail/20260216183408983800",
           "source": "金十数据",
@@ -322,37 +347,26 @@
           "time_info": "19时20分"
         },
         {
-          "title": "伊朗革命卫队海军在霍尔木兹海峡举行军演",
-          "url": "https://wallstreetcn.com/livenews/3055730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：与伊朗达成协议将非常困难。",
-          "url": "https://flash.jin10.com/detail/20260216191911022800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
           "title": "伊朗谈判桌上抛出经济筹码",
           "url": "https://www.toutiao.com/trending/7607288187614232627/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
+        },
+        {
+          "title": "伊朗海军在霍尔木兹海峡举行演习",
+          "url": "https://www.toutiao.com/trending/7607094104816287770/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     },
@@ -558,11 +572,36 @@
           "url": "https://wallstreetcn.com/livenews/3055729",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时33分]"
+        },
+        {
+          "title": "匈牙利总理欧尔班：自美国总统特朗普上台以来，美匈关系中不存在任何冲突点。",
+          "url": "https://flash.jin10.com/detail/20260216192059299800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时33分]"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
+          "url": "https://flash.jin10.com/detail/20260216191824464800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时33分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-16）",
@@ -576,17 +615,6 @@
           "time_info": "19时20分"
         },
         {
-          "title": "匈牙利总理欧尔班：自美国总统特朗普上台以来，美匈关系中不存在任何冲突点。",
-          "url": "https://flash.jin10.com/detail/20260216192059299800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
           "title": "特朗普边境事务主管驳回民主党改革ICE的要求",
           "url": "https://flash.jin10.com/detail/20260216075810272800",
           "source": "金十数据",
@@ -598,24 +626,13 @@
           "time_info": "08时36分"
         },
         {
-          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
-          "url": "https://flash.jin10.com/detail/20260216191824464800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
           "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
           "url": "https://flash.jin10.com/detail/20260216191100927800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -637,7 +654,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         }
@@ -659,8 +676,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时46分 ~ 20时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时46分 ~ 21时33分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -775,8 +792,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时09分 ~ 20时19分]"
+          "appearance_count": 26,
+          "time_info": "[00时09分 ~ 21时33分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -795,6 +812,17 @@
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时33分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
           "url": "https://wallstreetcn.com/livenews/3055703",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -806,26 +834,16 @@
           "time_info": "[18时24分 ~ 19时20分]"
         },
         {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
           "title": "千问3.5成本仅为谷歌大模型5%",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时33分]"
         }
       ]
     },
@@ -884,8 +902,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时19分 ~ 20时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 21时33分]"
         }
       ]
     },
@@ -937,6 +955,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY突破97，日内涨0.13%。",
+          "url": "https://flash.jin10.com/detail/20260216202327950800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     }
