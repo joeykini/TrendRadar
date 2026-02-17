@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T20:19:37.166723+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-02-17T21:36:08.503296+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "谈判前夕，伊朗革命卫队海军举行大规模海上演习",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时41分 ~ 20时19分]"
+          "appearance_count": 15,
+          "time_info": "[12时41分 ~ 21时36分]"
         },
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -55,8 +55,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时19分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时36分]"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
+          "url": "https://news.ifeng.com/c/8qp7TBBVD03",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 21时36分]"
         },
         {
           "title": "伊朗外长与美谈判前夕强调不屈服",
@@ -93,18 +104,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
-          "url": "https://news.ifeng.com/c/8qp7TBBVD03",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -131,15 +131,15 @@
           "time_info": "19时21分"
         },
         {
-          "title": "伊朗准备在日内瓦停留数日，甚至数周以达成协议。（伊朗半官方媒体ISNA）",
-          "url": "https://wallstreetcn.com/livenews/3055967",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖哈梅内伊：核能是我们不可剥夺的权利，这一点也已写入国际原子能机构的准则。也就是说，所有国家都有权拥有核设施和浓缩铀设施。这是国家权利之一。美国为什么要干涉。",
+          "url": "https://flash.jin10.com/detail/20260217211743380800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "21时36分"
         },
         {
           "title": "据伊朗官方媒体：伊朗国家石油公司表示，印度扣押的三艘船只与伊朗毫无关联。",
@@ -217,6 +217,18 @@
           "time_info": "[19时21分 ~ 20时19分]"
         },
         {
+          "title": "伊朗准备在日内瓦停留数日，甚至数周以达成协议。（伊朗半官方媒体ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3055967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时36分]"
+        },
+        {
           "title": "媒体人：伊朗弹道导弹反击已在准备中",
           "url": "https://www.toutiao.com/trending/7607630757841866246/",
           "source": "今日头条",
@@ -242,6 +254,18 @@
           "time_info": "[02时17分 ~ 04时11分]"
         },
         {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://www.toutiao.com/trending/7606880300451086355/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 21时36分]"
+        },
+        {
           "title": "哈梅内伊强调美国无法摧毁伊朗",
           "url": "https://wallstreetcn.com/livenews/3055945",
           "source": "华尔街见闻-快讯",
@@ -254,6 +278,30 @@
           "time_info": "[19时21分 ~ 20时19分]"
         },
         {
+          "title": "【伊朗宣布霍尔木兹海峡部分区域将关闭数小时】据伊朗法尔斯通讯社17日报道，作为“霍尔木兹海峡智能控制演习”的一部分，霍尔木兹海峡部分区域将关闭数小时，以确保航行安全。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3055962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时36分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军军演主要阶段在霍尔木兹海峡展开",
+          "url": "https://wallstreetcn.com/livenews/3055961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时36分]"
+        },
+        {
           "title": "靛蓝航空：鉴于伊朗地区及其相关空域的最新事态发展；此前宣布的航班取消已延长至2026年3月28日。",
           "url": "https://flash.jin10.com/detail/20260217002047082800",
           "source": "金十数据",
@@ -264,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时17分]"
+        },
+        {
+          "title": "伊朗外交部发言人: 谈判讨论了核问题和解除制裁问题",
+          "url": "https://wallstreetcn.com/livenews/3055958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时36分]"
         },
         {
           "title": "伊朗大秀肌肉回应美国施压",
@@ -312,15 +372,15 @@
           "time_info": "17时23分"
         },
         {
-          "title": "【伊朗宣布霍尔木兹海峡部分区域将关闭数小时】据伊朗法尔斯通讯社17日报道，作为“霍尔木兹海峡智能控制演习”的一部分，霍尔木兹海峡部分区域将关闭数小时，以确保航行安全。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3055962",
+          "title": "伊朗最高领袖：伊朗拥有何种类型或射程的导弹与美国无关。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3055983",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "21时36分"
         },
         {
           "title": "伊朗高级官员：伊朗与美国谈判的立场“积极而认真”，但对谈判结果不抱先入之见。",
@@ -334,24 +394,13 @@
           "time_info": "17时23分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队海军军演主要阶段在霍尔木兹海峡展开",
-          "url": "https://wallstreetcn.com/livenews/3055961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
           "title": "伊朗革命卫队海军指挥官：霍尔木兹海峡完全在我们的行动监控之下。我们可以在必要时收紧或调节海上交通。任何违反海事规定的船只将被拦截。霍尔木兹海峡局势始终在我们的掌控之中。",
           "url": "https://flash.jin10.com/detail/20260217193746328800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -389,17 +438,6 @@
           "time_info": "18时22分"
         },
         {
-          "title": "伊朗外交部发言人: 谈判讨论了核问题和解除制裁问题",
-          "url": "https://wallstreetcn.com/livenews/3055958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
           "title": "伊朗预计与美国的间接谈判将持续到下午。",
           "url": "https://flash.jin10.com/detail/20260217173317192800",
           "source": "金十数据",
@@ -428,18 +466,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://www.toutiao.com/trending/7606880300451086355/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -461,7 +488,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -483,9 +510,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
+        },
+        {
+          "title": "市场消息：伊朗媒体报道，德黑兰在与美国的最新谈判中重新提出了关于建立地区联合体生产核燃料板的旧构想。伊朗坚持核燃料板生产必须在其境内进行，不愿将生产过程完全外包。",
+          "url": "https://flash.jin10.com/detail/20260217203511572800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "伊朗最高领袖哈梅内伊：国家存在这种通货膨胀是不合逻辑的。国家货币贬值到这种程度是不合逻辑的。这必须得到纠正。",
@@ -494,9 +532,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
+        },
+        {
+          "title": "美国高级官员：与伊朗的第二轮谈判已结束。",
+          "url": "https://flash.jin10.com/detail/20260217203227384800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "伊朗外交部发言人：谈判讨论了核问题和解除制裁问题",
@@ -505,9 +554,31 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
+        },
+        {
+          "title": "伊朗在核谈判中提出新方案",
+          "url": "https://flash.jin10.com/detail/20260217203155136800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "伊朗革命卫队海军司令：关闭霍尔木兹海峡的决定权在于伊朗最高领导人，我们随时准备执行领导人的命令。",
+          "url": "https://flash.jin10.com/detail/20260217202540111800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -525,6 +596,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[09时38分 ~ 18时22分]"
+        },
+        {
+          "title": "美部长与下属传出婚外情，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时36分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -556,17 +638,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时36分 ~ 14时29分]"
-        },
-        {
-          "title": "美部长与下属传出婚外情，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时19分]"
         },
         {
           "title": "特朗普称他将间接参与美国和伊朗谈判",
@@ -737,6 +808,17 @@
           "time_info": "[05时10分 ~ 06时10分]"
         },
         {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时36分]"
+        },
+        {
           "title": "特朗普反应低调 日本怕中美搞大动作",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
           "source": "百度热搜",
@@ -836,17 +918,6 @@
           "time_info": "[00时18分 ~ 01时19分]"
         },
         {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时19分]"
-        },
-        {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
           "url": "https://flash.jin10.com/detail/20260217002446619800",
           "source": "金十数据",
@@ -869,6 +940,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时21分 ~ 20时19分]"
+        },
+        {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://wallstreetcn.com/livenews/3055955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时36分]"
         },
         {
           "title": "美国总统特朗普：伊朗谈判能力差，希望他们在谈判中能更讲道理。",
@@ -935,17 +1018,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时36分"
-        },
-        {
-          "title": "特朗普称希拉里精神错乱",
-          "url": "https://wallstreetcn.com/livenews/3055955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
         },
         {
           "title": "美国总统特朗普：我将间接参与伊朗谈判；伊朗想达成协议。",
@@ -1020,7 +1092,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         }
@@ -1028,7 +1100,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -1042,8 +1114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时38分 ~ 20时19分]"
+          "appearance_count": 18,
+          "time_info": "[09时38分 ~ 21时36分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -1058,17 +1130,6 @@
           "time_info": "[11时06分 ~ 14时29分]"
         },
         {
-          "title": "Paramount美股盘前涨超4%，报道称华纳兄弟探索将暂时重启与Paramount的交易谈判。",
-          "url": "https://wallstreetcn.com/livenews/3055969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
           "title": "美股盘前，部分热门中概股走强，百度(BIDU.O)涨超1%、万国数据(GDS.O)涨0.8%、阿里巴巴(BABA.N)涨0.7%。",
           "url": "https://flash.jin10.com/detail/20260217170620021800",
           "source": "金十数据",
@@ -1078,6 +1139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "奈飞股价美股盘前一度上涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3055985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -1091,6 +1163,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时23分 ~ 19时21分]"
+        },
+        {
+          "title": "Paramount美股盘前涨超4%，报道称华纳兄弟探索将暂时重启与Paramount的交易谈判。",
+          "url": "https://wallstreetcn.com/livenews/3055969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时36分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -1269,7 +1353,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价",
@@ -1278,11 +1362,23 @@
           "ranks": [
             13,
             11,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时19分]"
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 21时36分]"
+        },
+        {
+          "title": "市场消息：丹纳赫集团（Danaher）将以每股180美元的现金价格收购美国医疗技术和消费电子公司Masimo。",
+          "url": "https://flash.jin10.com/detail/20260217210431278800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
