@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T21:36:08.503296+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-02-17T22:23:58.423068+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 56,
       "titles": [
         {
           "title": "谈判前夕，伊朗革命卫队海军举行大规模海上演习",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时41分 ~ 21时36分]"
+          "appearance_count": 16,
+          "time_info": "[12时41分 ~ 22时23分]"
         },
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 21时36分]"
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 22时23分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时19分 ~ 21时36分]"
+          "appearance_count": 4,
+          "time_info": "[20时19分 ~ 22时23分]"
         },
         {
           "title": "伊朗外长与美谈判前夕强调不屈服",
@@ -84,6 +84,17 @@
           "time_info": "[11时06分 ~ 14时29分]"
         },
         {
+          "title": "伊朗最高领袖：伊朗的武器事务与和平核事业“与美国无关”",
+          "url": "https://wallstreetcn.com/livenews/3056013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
           "url": "https://wallstreetcn.com/livenews/3055812",
           "source": "华尔街见闻-快讯",
@@ -96,6 +107,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时17分 ~ 06时10分]"
+        },
+        {
+          "title": "伊朗外长：伊美就谈判指导原则达成一致",
+          "url": "https://wallstreetcn.com/livenews/3056012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "伊朗在军事演习期间向霍尔木兹海峡发射导弹",
@@ -131,13 +153,24 @@
           "time_info": "19时21分"
         },
         {
+          "title": "伊朗外交部长：这并不意味着我们很快就能达成协议，但通往协议的道路已经开启。",
+          "url": "https://flash.jin10.com/detail/20260217215500020800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "伊朗最高领袖哈梅内伊：核能是我们不可剥夺的权利，这一点也已写入国际原子能机构的准则。也就是说，所有国家都有权拥有核设施和浓缩铀设施。这是国家权利之一。美国为什么要干涉。",
           "url": "https://flash.jin10.com/detail/20260217211743380800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -241,6 +274,18 @@
           "time_info": "[11时06分 ~ 13时33分]"
         },
         {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://www.toutiao.com/trending/7606880300451086355/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时19分 ~ 22时23分]"
+        },
+        {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
           "url": "https://flash.jin10.com/detail/20260217012748362800",
           "source": "金十数据",
@@ -254,18 +299,6 @@
           "time_info": "[02时17分 ~ 04时11分]"
         },
         {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://www.toutiao.com/trending/7606880300451086355/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时19分 ~ 21时36分]"
-        },
-        {
           "title": "哈梅内伊强调美国无法摧毁伊朗",
           "url": "https://wallstreetcn.com/livenews/3055945",
           "source": "华尔街见闻-快讯",
@@ -276,6 +309,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时21分 ~ 20时19分]"
+        },
+        {
+          "title": "伊朗最高领袖：伊朗拥有何种类型或射程的导弹与美国无关。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3055983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时23分]"
         },
         {
           "title": "【伊朗宣布霍尔木兹海峡部分区域将关闭数小时】据伊朗法尔斯通讯社17日报道，作为“霍尔木兹海峡智能控制演习”的一部分，霍尔木兹海峡部分区域将关闭数小时，以确保航行安全。（新华社）",
@@ -372,15 +417,15 @@
           "time_info": "17时23分"
         },
         {
-          "title": "伊朗最高领袖：伊朗拥有何种类型或射程的导弹与美国无关。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3055983",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部长：双方仍有待解决的议题。",
+          "url": "https://flash.jin10.com/detail/20260217215239134800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "22时23分"
         },
         {
           "title": "伊朗高级官员：伊朗与美国谈判的立场“积极而认真”，但对谈判结果不抱先入之见。",
@@ -405,6 +450,17 @@
           "time_info": "20时19分"
         },
         {
+          "title": "伊朗外交部长：双方将就潜在协议文件开展工作并相互交换。",
+          "url": "https://flash.jin10.com/detail/20260217215223412800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "伊朗最高领袖哈梅内伊：（谈及美伊谈判）预先决定谈判结果是“愚蠢的”。",
           "url": "https://flash.jin10.com/detail/20260217183014872800",
           "source": "金十数据",
@@ -414,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "WTI原油短线下挫0.8美元。伊朗外交部长称，与上一轮谈判相比，局势出现了良好进展。",
+          "url": "https://flash.jin10.com/detail/20260217215201338800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "伊朗外长与美谈判前夕强调不屈服",
@@ -436,6 +503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "伊朗外交部长：我们已就主要原则与美国达成共识。",
+          "url": "https://flash.jin10.com/detail/20260217215058625800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "伊朗预计与美国的间接谈判将持续到下午。",
@@ -521,7 +599,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -543,7 +621,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -565,7 +643,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -576,7 +654,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         }
@@ -584,7 +662,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -605,8 +683,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 21时36分]"
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 22时23分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -706,6 +784,17 @@
           "time_info": "08时36分"
         },
         {
+          "title": "美国总统特朗普的儿子埃里克·特朗普投资一家拥有美国国防部合同的无人机公司。",
+          "url": "https://flash.jin10.com/detail/20260217215547535800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "美国总统特朗普：认为和平委员会将远远超出加沙。",
           "url": "https://flash.jin10.com/detail/20260217081305483800",
           "source": "金十数据",
@@ -770,6 +859,17 @@
           "time_info": "[07时11分 ~ 11时06分]"
         },
         {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 22时23分]"
+        },
+        {
           "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
           "url": "https://flash.jin10.com/detail/20260217024318964800",
           "source": "金十数据",
@@ -806,17 +906,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时10分]"
-        },
-        {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 21时36分]"
         },
         {
           "title": "特朗普反应低调 日本怕中美搞大动作",
@@ -1064,6 +1153,17 @@
           "time_info": "11时06分"
         },
         {
+          "title": "美国总统特朗普：已故的杰西·杰克逊牧师是个好人。",
+          "url": "https://flash.jin10.com/detail/20260217213755064800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "特朗普与马里兰州州长就管道破裂和污水泄漏的应对措施发生冲突",
           "url": "https://flash.jin10.com/detail/20260217164530562800",
           "source": "金十数据",
@@ -1100,7 +1200,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -1114,8 +1214,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时38分 ~ 21时36分]"
+          "appearance_count": 19,
+          "time_info": "[09时38分 ~ 22时23分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -1139,17 +1239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
-        },
-        {
-          "title": "奈飞股价美股盘前一度上涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3055985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -1177,6 +1266,18 @@
           "time_info": "[20时19分 ~ 21时36分]"
         },
         {
+          "title": "奈飞股价美股盘前一度上涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3055985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时23分]"
+        },
+        {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
           "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
@@ -1200,6 +1301,28 @@
           "time_info": "[00时18分 ~ 01时19分]"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "美股盘前，部分明星科技股走软，AMD(AMD.O)跌1.3%、英特尔(INTC.O)跌近1%、美光科技(MU.O)跌超1%。",
           "url": "https://flash.jin10.com/detail/20260217170115300800",
           "source": "金十数据",
@@ -1209,6 +1332,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-17）",
+          "url": "https://flash.jin10.com/detail/20260217214857731800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌超1%，标普500指数期货跌0.6%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3055992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "美股今日休市一天",
@@ -1304,6 +1449,59 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时23分]"
+        },
+        {
+          "title": "市场消息：丹纳赫集团（Danaher）将以每股180美元的现金价格收购美国医疗技术和消费电子公司Masimo。",
+          "url": "https://flash.jin10.com/detail/20260217210431278800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "金价银价直线跳水",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
+          "url": "https://flash.jin10.com/detail/20260217171116932800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1348,48 +1546,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            11,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 21时36分]"
-        },
-        {
-          "title": "市场消息：丹纳赫集团（Danaher）将以每股180美元的现金价格收购美国医疗技术和消费电子公司Masimo。",
-          "url": "https://flash.jin10.com/detail/20260217210431278800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
-          "url": "https://flash.jin10.com/detail/20260217171116932800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         }
       ]
     },
