@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T21:35:01.366097+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2026-02-19T22:25:50.417395+08:00",
+  "total_titles_processed": 1897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -151,6 +151,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "美国财政部声明：特朗普将于12月14日至15日在迈阿密主持G20峰会。美国将于8月下旬和9月在北卡罗来纳州阿什维尔举办G20财政官员会议。",
+          "url": "https://flash.jin10.com/detail/20260219220303113800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
           "url": "https://flash.jin10.com/detail/20260218233358175800",
           "source": "金十数据",
@@ -160,6 +171,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国空军基地打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260219220045780800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3056653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美多家团体起诉特朗普政府撤销气候危害认定",
@@ -336,6 +369,17 @@
           "time_info": "13时33分"
         },
         {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260219215414927800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国总统特朗普：英国首相斯塔默在就迪戈加西亚签署百年租约一事上犯下了重大错误。",
           "url": "https://flash.jin10.com/detail/20260219024624113800",
           "source": "金十数据",
@@ -419,7 +463,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -463,7 +507,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -529,7 +573,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -595,7 +639,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -651,8 +695,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[12时42分 ~ 22时25分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -666,8 +710,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时06分 ~ 21时35分]"
+          "appearance_count": 15,
+          "time_info": "[11时06分 ~ 22时25分]"
+        },
+        {
+          "title": "美以或对伊朗发动大规模袭击",
+          "url": "https://www.douyin.com/hot/2405517",
+          "source": "抖音",
+          "ranks": [
+            1,
+            13,
+            9,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 22时25分]"
         },
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -712,21 +771,6 @@
           "time_info": "[00时25分 ~ 14时28分]"
         },
         {
-          "title": "美以或对伊朗发动大规模袭击",
-          "url": "https://www.douyin.com/hot/2405517",
-          "source": "抖音",
-          "ranks": [
-            1,
-            13,
-            9,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时26分 ~ 21时35分]"
-        },
-        {
           "title": "俄外长：美国若打击伊朗后果严重",
           "url": "https://www.douyin.com/hot/2405736",
           "source": "抖音",
@@ -736,11 +780,12 @@
             24,
             25,
             27,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时26分 ~ 21时35分]"
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 22时25分]"
         },
         {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
@@ -752,8 +797,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[16时19分 ~ 22时25分]"
         },
         {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
@@ -766,8 +811,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 22时25分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -778,11 +823,12 @@
             16,
             11,
             25,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 22时25分]"
         },
         {
           "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
@@ -795,8 +841,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 22时25分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -891,6 +937,19 @@
           "time_info": "[08时37分 ~ 13时33分]"
         },
         {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时25分]"
+        },
+        {
           "title": "波兰总理呼吁在伊朗的波兰公民尽快离境",
           "url": "https://wallstreetcn.com/livenews/3056625",
           "source": "华尔街见闻-快讯",
@@ -927,19 +986,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时19分 ~ 17时21分]"
-        },
-        {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时35分]"
         },
         {
           "title": "白宫新闻秘书Leavitt声称，在伊朗问题上取得了一点进展。 针对俄乌问题的三方会谈取得进展。",
@@ -1207,7 +1253,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -1281,7 +1327,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -1305,8 +1351,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时13分 ~ 21时35分]"
+          "appearance_count": 19,
+          "time_info": "[06时13分 ~ 22时25分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -1345,8 +1391,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 21时35分]"
+          "appearance_count": 26,
+          "time_info": "[00时25分 ~ 22时25分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1358,8 +1404,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 21时35分]"
+          "appearance_count": 26,
+          "time_info": "[00时25分 ~ 22时25分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1372,8 +1418,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 21时35分]"
+          "appearance_count": 26,
+          "time_info": "[00时25分 ~ 22时25分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1384,8 +1430,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[16时19分 ~ 22时25分]"
         },
         {
           "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
@@ -1393,11 +1439,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时35分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时25分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -1409,6 +1456,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-19）",
+          "url": "https://flash.jin10.com/detail/20260219220707052800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美股盘前，白银概念股走强，泛美白银(PAAS.O)涨4.6%、赫克拉矿业(HL.N)涨1.9%、First Majestic(AG.O)涨1.3%。",
@@ -1485,6 +1554,18 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
+          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3056638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
+        },
+        {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056488",
           "source": "华尔街见闻-快讯",
@@ -1495,17 +1576,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3056638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
         },
         {
           "title": "房利美股价迅速扩大涨幅，上涨4%。",
@@ -1606,6 +1676,17 @@
           "time_info": "11时07分"
         },
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时25分]"
+        },
+        {
           "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
           "url": "https://wallstreetcn.com/livenews/3056596",
           "source": "华尔街见闻-快讯",
@@ -1629,17 +1710,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时35分]"
         },
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
@@ -1787,8 +1857,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美元指数站上98，为2月6日以来首次，日内涨近0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
           "url": "https://wallstreetcn.com/livenews/3056412",
@@ -1838,7 +1919,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价涨约2%，白银涨约5%",
@@ -1864,6 +1945,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时20分 ~ 19时20分]"
+        },
+        {
+          "title": "加拿大2025年贸易逆差创历史新高 金价上涨掩盖了关税的真正冲击",
+          "url": "https://flash.jin10.com/detail/20260219215117708800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
