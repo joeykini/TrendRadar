@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T21:49:44.458714+08:00",
-  "total_titles_processed": 1933,
+  "generated_at": "2026-02-25T22:26:14.592216+08:00",
+  "total_titles_processed": 1996,
   "failed_sources": [],
   "trends": [
     {
@@ -71,6 +71,29 @@
           "time_info": "[01时35分 ~ 20时20分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 22时26分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 22时26分]"
+        },
+        {
           "title": "特朗普打还是不打，只是时间问题了",
           "url": "https://news.ifeng.com/c/8r1bJIeSigy",
           "source": "凤凰网",
@@ -132,29 +155,6 @@
           "time_info": "[14时31分 ~ 16时20分]"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 21时49分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 21时49分]"
-        },
-        {
           "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -164,6 +164,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时27分 ~ 16时20分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 22时26分]"
         },
         {
           "title": "特朗普：伊朗正研制很快打到美国的导弹",
@@ -198,20 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时06分 ~ 11时07分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 21时49分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -969,7 +969,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1268,21 +1268,6 @@
           "time_info": "[11时06分 ~ 17时23分]"
         },
         {
-          "title": "伊朗大规模军演 试射多种导弹",
-          "url": "https://www.douyin.com/hot/2410859",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2,
-            1,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时45分 ~ 21时49分]"
-        },
-        {
           "title": "中方回应“美考虑军事打击伊朗”",
           "url": "https://www.douyin.com/hot/2410571",
           "source": "抖音",
@@ -1295,6 +1280,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 09时38分]"
+        },
+        {
+          "title": "伊朗大规模军演 试射多种导弹",
+          "url": "https://www.douyin.com/hot/2410859",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2,
+            1,
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[12时45分 ~ 22时26分]"
         },
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -1481,6 +1482,18 @@
           "time_info": "[17时23分 ~ 19时20分]"
         },
         {
+          "title": "伊朗加紧装载油轮 或为防备美可能发动的袭击做准备",
+          "url": "https://flash.jin10.com/detail/20260225212833464800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 22时26分]"
+        },
+        {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
           "url": "https://flash.jin10.com/detail/20260225025902265800",
           "source": "金十数据",
@@ -1515,17 +1528,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时24分]"
-        },
-        {
-          "title": "伊朗加紧装载油轮 或为防备美可能发动的袭击做准备",
-          "url": "https://flash.jin10.com/detail/20260225212833464800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         },
         {
           "title": "伊朗外交部长：德黑兰将在日内瓦恢复与美国会谈，旨在尽快达成一项公平公正的协议。",
@@ -1567,7 +1569,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1600,7 +1602,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1619,7 +1621,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1680,17 +1682,6 @@
           "time_info": "[00时29分 ~ 12时46分]"
         },
         {
-          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
-          "url": "https://wallstreetcn.com/livenews/3058905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
           "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
           "url": "https://www.cls.cn/detail/2294269",
           "source": "财联社热门",
@@ -1701,6 +1692,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时27分 ~ 18时24分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225220210090800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 22时26分]"
         },
         {
           "title": "惠普(HPQ.N)美股盘前下跌5.4%，此前该公司预计2026年个人电脑部门出货量将出现两位数降幅。",
@@ -1724,6 +1738,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时26分]"
+        },
+        {
+          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
+          "url": "https://wallstreetcn.com/livenews/3058905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 22时26分]"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
@@ -1774,15 +1800,27 @@
           "time_info": "[01时35分 ~ 02时26分]"
         },
         {
-          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2295156",
-          "source": "财联社热门",
+          "title": "美股期货维持涨势，美国贸易代表：部分国家关税将升至15% 其他或更高",
+          "url": "https://wallstreetcn.com/livenews/3058887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 22时26分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058910",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时49分"
+          "time_info": "22时26分"
         },
         {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
@@ -1816,17 +1854,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
-        },
-        {
-          "title": "美股期货维持涨势，美国贸易代表：部分国家关税将升至15% 其他或更高",
-          "url": "https://wallstreetcn.com/livenews/3058887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -2012,11 +2039,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 22时26分]"
         },
         {
           "title": "金价波动",
