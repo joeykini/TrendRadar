@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T01:27:49.359002+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-02-27T02:21:34.626505+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时21分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时21分]"
         },
         {
           "title": "美媒说美国将在谈判中向伊朗提出强硬要求",
@@ -41,15 +41,26 @@
           "time_info": "00时24分"
         },
         {
-          "title": "据福克斯新闻：美国众议员Fallon表示，如果伊朗政权不停止铀浓缩及对恐怖主义的国家支持，所有选项都在考虑之中。",
-          "url": "https://flash.jin10.com/detail/20260227012422570800",
-          "source": "金十数据",
+          "title": "美海军第五舰队驻巴林总部缩减人员规模，据称此举是为应对伊朗可能发动的袭击",
+          "url": "https://wallstreetcn.com/livenews/3059708",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时21分"
+        },
+        {
+          "title": "伊朗阿巴丹工业区发生大火 园区内有伊朗最大炼油厂",
+          "url": "https://flash.jin10.com/detail/20260227014249301800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         },
         {
           "title": "美媒说美国将在谈判中向伊朗提出强硬要求",
@@ -64,6 +75,18 @@
           "time_info": "[00时24分 ~ 01时27分]"
         },
         {
+          "title": "据福克斯新闻：美国众议员Fallon表示，如果伊朗政权不停止铀浓缩及对恐怖主义的国家支持，所有选项都在考虑之中。",
+          "url": "https://flash.jin10.com/detail/20260227012422570800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时21分]"
+        },
+        {
           "title": "中方正密切关注伊朗局势发展",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8F%91%E5%B1%95",
           "source": "bilibili 热搜",
@@ -71,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时21分]"
         },
         {
           "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
@@ -80,11 +103,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时21分]"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
@@ -95,19 +119,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时21分]"
         },
         {
           "title": "当地时间26日晚，伊朗和美国在日内瓦举行的第三轮间接谈判在短暂休会后，开始进行第二阶段谈判。（央视）",
           "url": "https://wallstreetcn.com/livenews/3059687",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时21分]"
+        },
+        {
+          "title": "伊朗代表团已返回谈判地点，参加美伊日内瓦会谈。（CGTN）",
+          "url": "https://wallstreetcn.com/livenews/3059681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时21分]"
         },
         {
           "title": "美国参议院共和党领袖图恩：若美国对伊朗采取行动，目标应是实现政权更迭。",
@@ -132,17 +169,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "伊朗代表团已返回谈判地点，参加美伊日内瓦会谈。（CGTN）",
-          "url": "https://wallstreetcn.com/livenews/3059681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
           "title": "据伊朗国家媒体报道，伊朗南部阿巴丹市一工业园区发生火灾。",
           "url": "https://flash.jin10.com/detail/20260226232601025800",
           "source": "金十数据",
@@ -160,7 +186,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         }
@@ -168,18 +194,30 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
+          "url": "https://flash.jin10.com/detail/20260227015004327800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
           "url": "https://wallstreetcn.com/livenews/3059695",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时21分]"
         },
         {
           "title": "美国众议院监督委员会主席Comer：在爱泼斯坦问题上，我们对克林顿夫妇有疑问，将适时对外披露相关信息。 总统特朗普的商务部长卢特尼克可能也会被传唤出席听证会。",
@@ -213,8 +251,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时21分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -224,8 +262,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时21分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -235,19 +273,42 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时21分]"
         },
         {
           "title": "市场消息：美国一名联邦法官目前拒绝叫停特朗普提出的白宫宴会厅项目。",
           "url": "https://flash.jin10.com/detail/20260227012041500800",
           "source": "金十数据",
           "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时21分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：存在大规模的掩盖行为来保护特朗普。",
+          "url": "https://flash.jin10.com/detail/20260227014024748800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时21分"
+        },
+        {
+          "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3059705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         },
         {
           "title": "据纽约时报：美国总统特朗普将于当地时间周四在华盛顿会见纽约市市长马姆达尼。",
@@ -256,7 +317,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -267,7 +328,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -278,7 +339,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         }
@@ -286,7 +347,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -296,8 +357,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时21分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -307,8 +368,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时21分]"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260227013229287800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260227013033854800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         },
         {
           "title": "美股延续跌势，标普500指数下跌1.00%。",
@@ -383,11 +466,12 @@
           "url": "https://wallstreetcn.com/livenews/3059680",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时21分]"
         }
       ]
     }
