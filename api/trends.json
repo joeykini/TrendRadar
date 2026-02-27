@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T12:39:48.228448+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-02-27T13:28:19.634792+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -68,8 +68,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 13时28分]"
         },
         {
           "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
@@ -81,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时35分 ~ 12时39分]"
+          "appearance_count": 8,
+          "time_info": "[08时35分 ~ 13时28分]"
         },
         {
           "title": "伊核最新谈判：美立场强硬，伊朗将提折中方案",
@@ -305,6 +305,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时35分 ~ 08时36分]"
+        },
+        {
+          "title": "伊朗外长敦促阿富汗和巴基斯坦通过对话解决分歧。",
+          "url": "https://flash.jin10.com/detail/20260227124053017800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "据伊朗国家电视台：美国代表团参加伊朗问题会谈的车辆离开会场。",
@@ -554,8 +565,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 13时28分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -582,8 +593,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时35分 ~ 12时39分]"
+          "appearance_count": 8,
+          "time_info": "[08时35分 ~ 13时28分]"
         },
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -606,17 +617,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
-          "url": "https://flash.jin10.com/detail/20260227120709043800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -642,6 +642,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时13分]"
+        },
+        {
+          "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
+          "url": "https://flash.jin10.com/detail/20260227120709043800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时28分]"
         },
         {
           "title": "美国众议院监督委员会主席Comer：在爱泼斯坦问题上，我们对克林顿夫妇有疑问，将适时对外披露相关信息。 总统特朗普的商务部长卢特尼克可能也会被传唤出席听证会。",
@@ -692,6 +704,17 @@
           "time_info": "[00时24分 ~ 01时27分]"
         },
         {
+          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
+          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时28分]"
+        },
+        {
           "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
           "url": "https://wallstreetcn.com/livenews/3059705",
           "source": "华尔街见闻-快讯",
@@ -703,6 +726,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时21分 ~ 04时15分]"
+        },
+        {
+          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时28分]"
         },
         {
           "title": "市场消息：美国一名联邦法官目前拒绝叫停特朗普提出的白宫宴会厅项目。",
@@ -741,6 +776,18 @@
           "time_info": "[03时21分 ~ 04时15分]"
         },
         {
+          "title": "特朗普关于伊朗导弹的说法未获美国情报部门支持",
+          "url": "https://flash.jin10.com/detail/20260227115235508800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时28分]"
+        },
+        {
           "title": "特朗普威胁驱逐教父饰演者",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E9%A9%B1%E9%80%90%E6%95%99%E7%88%B6%E9%A5%B0%E6%BC%94%E8%80%85%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -774,28 +821,6 @@
           "time_info": "07时12分"
         },
         {
-          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
-          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3059979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
           "title": "美军驻中东最高将领向特朗普汇报针对伊朗的军事选项",
           "url": "https://flash.jin10.com/detail/20260227091836465800",
           "source": "金十数据",
@@ -805,17 +830,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
-        },
-        {
-          "title": "特朗普关于伊朗导弹的说法未获美国情报部门支持",
-          "url": "https://flash.jin10.com/detail/20260227115235508800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
         },
         {
           "title": "据纽约时报：美国总统特朗普将于当地时间周四在华盛顿会见纽约市市长马姆达尼。",
@@ -846,7 +860,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -945,6 +959,18 @@
           "time_info": "[00时24分 ~ 07时12分]"
         },
         {
+          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2296570",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 13时28分]"
+        },
+        {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2296406",
           "source": "财联社热门",
@@ -956,18 +982,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 11时03分]"
-        },
-        {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 12时39分]"
         },
         {
           "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
@@ -1138,8 +1152,31 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 13时28分]"
+        },
+        {
+          "title": "韩国批准谷歌的地图数据出口申请。",
+          "url": "https://flash.jin10.com/detail/20260227130247973800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
         {
           "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
           "url": "https://wallstreetcn.com/livenews/3059781",
@@ -1153,16 +1190,17 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
-          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
-          "url": "https://www.cls.cn/detail/2296526",
-          "source": "财联社热门",
+          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2010521633262101357",
+          "source": "知乎",
           "ranks": [
-            11,
-            13
+            12,
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时28分]"
         },
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
@@ -1187,17 +1225,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时21分]"
-        },
-        {
-          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2010521633262101357",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
         },
         {
           "title": "谷歌深夜发布生图模型Nano Banana 2",
@@ -1335,11 +1362,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 13时27分]"
         },
         {
           "title": "DeepSeek联合清北重磅硬核论文：发力智能体底层基建，击穿Agent推理I/O瓶颈",
