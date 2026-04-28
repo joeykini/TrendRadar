@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T06:25:27.470713+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-04-29T07:23:55.878214+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时23分]"
         },
         {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时23分]"
         },
         {
           "title": "普京：全世界都钦佩伊朗人民抵抗美国",
@@ -40,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时23分]"
         },
         {
           "title": "伊朗警方发现“星链”设备等间谍装备",
@@ -51,8 +52,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时23分]"
         },
         {
           "title": "伊朗“蚊子舰队”如何控制海峡",
@@ -60,11 +61,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时23分]"
         },
         {
           "title": "伊朗革命卫队称永久管理霍尔木兹",
@@ -75,8 +77,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 06时25分]"
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 07时23分]"
         },
         {
           "title": "据Tanker Tracker：卫星图像显示，伊朗国家油轮公司旗下的10艘油轮已确认停泊在恰巴哈尔港附近的港口外。这表明，在美国实施海上封锁后，从伊朗出发的原油运输路线正在发生变化。",
@@ -101,15 +103,15 @@
           "time_info": "01时38分"
         },
         {
-          "title": "美国：禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
-          "url": "https://wallstreetcn.com/livenews/3096035",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗陆军：战争尚未结束，正严阵以待",
+          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
+          "source": "凤凰网",
           "ranks": [
-            3
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时36分 ~ 07时23分]"
         },
         {
           "title": "美国军方表示，部队将继续执行对伊朗港口的封锁行动。",
@@ -134,27 +136,17 @@
           "time_info": "[03时36分 ~ 06时25分]"
         },
         {
-          "title": "伊朗陆军：战争尚未结束，正严阵以待",
-          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时36分 ~ 06时25分]"
-        },
-        {
           "title": "英国首相府：英国财政大臣明确表示，政府需要对伊朗战争对经济的影响做出灵活和负责任的回应。",
           "url": "https://flash.jin10.com/detail/20260429045410077800",
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时23分]"
         },
         {
           "title": "卫星图像显示伊朗恰巴哈尔港附近海域出现多艘油轮",
@@ -162,11 +154,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时23分]"
         },
         {
           "title": "美军：在对伊朗港口封锁行动中已要求39艘船只掉头",
@@ -192,6 +185,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时25分]"
+        },
+        {
+          "title": "美国：禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3096035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "伊朗战争丨伊朗陆军：战争尚未结束，正严阵以待",
@@ -241,6 +246,18 @@
           "time_info": "[00时41分 ~ 01时38分]"
         },
         {
+          "title": "据半岛电视台：白宫表示，美国不会为了结束战争并开放霍尔木兹海峡而“仓促与伊朗达成糟糕的协议”。",
+          "url": "https://flash.jin10.com/detail/20260429054559423800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
           "title": "美媒：伊朗或向巴基斯坦提交调整版方案",
           "url": "https://wallstreetcn.com/livenews/3095941",
           "source": "华尔街见闻-快讯",
@@ -265,17 +282,6 @@
           "time_info": "[03时36分 ~ 04时34分]"
         },
         {
-          "title": "据半岛电视台：白宫表示，美国不会为了结束战争并开放霍尔木兹海峡而“仓促与伊朗达成糟糕的协议”。",
-          "url": "https://flash.jin10.com/detail/20260429054559423800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "美国财政部：对35个伊朗实体和个人实施制裁。",
           "url": "https://flash.jin10.com/detail/20260429021657295800",
           "source": "金十数据",
@@ -296,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "美国禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260429062409813800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美国财政部网站：美国发布新的伊朗相关制裁。",
@@ -381,27 +398,283 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 19,
+      "keyword_group": "特朗普",
+      "match_count": 23,
       "titles": [
         {
-          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2358592",
-          "source": "财联社热门",
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时23分]"
+        },
+        {
+          "title": "美国参议院否决限制特朗普对古巴动武的决议",
+          "url": "https://wallstreetcn.com/livenews/3096062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
+          "url": "https://flash.jin10.com/detail/20260429032221127800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "美国总统特朗普：德国总理对伊朗问题的发言毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260429022605924800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 1,
+          "time_info": "02时39分"
         },
+        {
+          "title": "美国总统特朗普：德国总理默茨不知道自己在伊朗问题上说的啥。",
+          "url": "https://wallstreetcn.com/livenews/3095963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时36分]"
+        },
+        {
+          "title": "美国多个情报部门正在评估伊朗会对总统特朗普宣布胜利作何反应。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3095962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时36分]"
+        },
+        {
+          "title": "特朗普回应德国总理嘲笑：他根本不懂自己在说什么",
+          "url": "https://flash.jin10.com/detail/20260429023026738800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时36分]"
+        },
+        {
+          "title": "Robinhood预警特朗普账户相关支出，股价盘后下跌",
+          "url": "https://wallstreetcn.com/livenews/3096034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
+          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时39分]"
+        },
+        {
+          "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
+          "url": "https://wallstreetcn.com/livenews/3096010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时25分]"
+        },
+        {
+          "title": "伊朗战争丨受战事影响，特朗普支持率跌至任内新低",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "消息人士透露，美国情报部门正在研判伊朗对特朗普宣布获胜可能做出的反应。官员们认为，尽管军事选项依然存在，但冲突大规模升级的可能性已有所降低。",
+          "url": "https://flash.jin10.com/detail/20260429022426041800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "美国情报机构研判伊朗将如何回应特朗普单方面宣布胜利",
+          "url": "https://flash.jin10.com/detail/20260429031029178800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "美最新民调显示特朗普支持率跌至任内新低",
+          "url": "https://wallstreetcn.com/livenews/3096055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "纪念建国250周年 美国将发行印有特朗普肖像的护照",
+          "url": "https://flash.jin10.com/detail/20260429063235658800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "路透社/益普索调查：22%的美国人认可美国总统特朗普对生活成本问题的处理，较此前调查中的25%下降。",
+          "url": "https://flash.jin10.com/detail/20260429010845585800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "伊战争引发生活成本担忧，特朗普支持率跌至新低",
+          "url": "https://flash.jin10.com/detail/20260429040434165800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "路透社/益普索调查：34%的美国人对美国总统特朗普的工作表现表示认可，较4月中旬的36%下降。",
+          "url": "https://flash.jin10.com/detail/20260429010823654800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "路透社/益普索调查：因生活成本担忧和伊朗战争，美国总统特朗普的支持率持续下滑，降至其任期内最低水平。",
+          "url": "https://flash.jin10.com/detail/20260429010805616800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "据CBS：特朗普政府要求对移民申请者进行更严格的安全审查。",
+          "url": "https://flash.jin10.com/detail/20260429062107996800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "因与特朗普分歧加剧，美驻乌临时代办将离任",
+          "url": "https://wallstreetcn.com/livenews/3096049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美国驻乌克兰大使将因与美国总统特朗普的分歧而离职。",
+          "url": "https://flash.jin10.com/detail/20260429024103001800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 22,
+      "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -414,16 +687,29 @@
           "time_info": "[00时41分 ~ 05时28分]"
         },
         {
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时23分]"
+        },
+        {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时23分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -432,9 +718,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "OpenAI与Anthropic向美国众议院国土安全委员会做了一次简报。（Axios）",
@@ -443,7 +729,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -452,33 +738,48 @@
           "url": "https://flash.jin10.com/detail/20260429060010713800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
           "url": "https://flash.jin10.com/detail/20260429055922440800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
           "url": "https://flash.jin10.com/detail/20260429055656678800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
@@ -541,15 +842,15 @@
           "time_info": "[01时38分 ~ 02时39分]"
         },
         {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
-          "source": "财联社热门",
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时23分"
         },
         {
           "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
@@ -585,6 +886,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
+          "url": "https://wallstreetcn.com/livenews/3096044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
           "url": "https://flash.jin10.com/detail/20260429015838005800",
           "source": "金十数据",
@@ -605,212 +917,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时25分]"
         },
         {
-          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时25分]"
-        },
-        {
-          "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
-          "url": "https://flash.jin10.com/detail/20260429032221127800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "Robinhood预警特朗普账户相关支出，股价盘后下跌",
-          "url": "https://wallstreetcn.com/livenews/3096034",
+          "title": "OpenAI与Anthropic（上）周四向美国众议院国土安全委员会做了一次简报。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096036",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "美国总统特朗普：德国总理对伊朗问题的发言毫无根据。",
-          "url": "https://flash.jin10.com/detail/20260429022605924800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国总统特朗普：德国总理默茨不知道自己在伊朗问题上说的啥。",
-          "url": "https://wallstreetcn.com/livenews/3095963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时36分]"
-        },
-        {
-          "title": "美国多个情报部门正在评估伊朗会对总统特朗普宣布胜利作何反应。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3095962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时36分]"
-        },
-        {
-          "title": "特朗普回应德国总理嘲笑：他根本不懂自己在说什么",
-          "url": "https://flash.jin10.com/detail/20260429023026738800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时36分]"
-        },
-        {
-          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
-          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时39分]"
-        },
-        {
-          "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
-          "url": "https://wallstreetcn.com/livenews/3096010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时25分]"
-        },
-        {
-          "title": "消息人士透露，美国情报部门正在研判伊朗对特朗普宣布获胜可能做出的反应。官员们认为，尽管军事选项依然存在，但冲突大规模升级的可能性已有所降低。",
-          "url": "https://flash.jin10.com/detail/20260429022426041800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国情报机构研判伊朗将如何回应特朗普单方面宣布胜利",
-          "url": "https://flash.jin10.com/detail/20260429031029178800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "路透社/益普索调查：22%的美国人认可美国总统特朗普对生活成本问题的处理，较此前调查中的25%下降。",
-          "url": "https://flash.jin10.com/detail/20260429010845585800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "伊战争引发生活成本担忧，特朗普支持率跌至新低",
-          "url": "https://flash.jin10.com/detail/20260429040434165800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "路透社/益普索调查：34%的美国人对美国总统特朗普的工作表现表示认可，较4月中旬的36%下降。",
-          "url": "https://flash.jin10.com/detail/20260429010823654800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "路透社/益普索调查：因生活成本担忧和伊朗战争，美国总统特朗普的支持率持续下滑，降至其任期内最低水平。",
-          "url": "https://flash.jin10.com/detail/20260429010805616800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国驻乌克兰大使将因与美国总统特朗普的分歧而离职。",
-          "url": "https://flash.jin10.com/detail/20260429024103001800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "time_info": "07时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
@@ -831,7 +954,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -891,6 +1014,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "Silicon Motion Technology Corp.（SIMO）美股盘后涨14%，二季度销售指引超过分析师预期。",
+          "url": "https://wallstreetcn.com/livenews/3096046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "周二（4月28日），美股行业ETF涨跌各异，半导体ETF收跌2.97%，全球科技股指数ETF、科技行业ETF、网络股指数ETF跌1.81%-0.98%. 银行业ETF、区域银行ETF则至多收涨0.43%，能源业ETF涨1.66%。",
           "url": "https://wallstreetcn.com/livenews/3096000",
           "source": "华尔街见闻-快讯",
@@ -935,11 +1069,12 @@
           "url": "https://flash.jin10.com/detail/20260429054900131800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         }
       ]
     },
@@ -955,8 +1090,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时23分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -976,6 +1111,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美元指数28日上涨",
+          "url": "https://flash.jin10.com/detail/20260429050156496800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.59%，暂报2633.22点，北京时间07:55刷新日高至2688.46点，随后逐步下挫。 MarketVectorTM数字资产100中盘指数跌0.65%，报2834.73点。 MarketVector数字资产100指数跌0.52%，报15047.93点，08:48刷新日高至15274.89点，之后也逐步下挫。 目前，Solana跌0.70%，狗狗币涨1.97%，XRP涨1.11%。 比特币跌0.89%，暂报76078.21美元；以太坊跌0.02%，暂报2285.45美元。",
           "url": "https://wallstreetcn.com/livenews/3095937",
           "source": "华尔街见闻-快讯",
@@ -986,17 +1133,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时39分]"
-        },
-        {
-          "title": "美元指数28日上涨",
-          "url": "https://flash.jin10.com/detail/20260429050156496800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         }
       ]
     }
