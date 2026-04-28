@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T20:44:27.395104+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2026-04-28T21:41:57.802138+08:00",
+  "total_titles_processed": 1984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 89,
+      "match_count": 90,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时13分 ~ 20时44分]"
+          "appearance_count": 10,
+          "time_info": "[11时13分 ~ 21时41分]"
         },
         {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
@@ -39,11 +39,12 @@
             9,
             5,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时50分 ~ 20时44分]"
+          "appearance_count": 13,
+          "time_info": "[08时50分 ~ 21时41分]"
         },
         {
           "title": "美国以涉伊朗为由制裁中企 中方表态",
@@ -140,8 +141,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时40分 ~ 20时44分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 21时41分]"
         },
         {
           "title": "美以袭击伊朗进入第 59 天，当前局势如何？还有哪些信息值得关注？",
@@ -208,8 +209,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时13分 ~ 20时44分]"
+          "appearance_count": 9,
+          "time_info": "[13时13分 ~ 21时41分]"
         },
         {
           "title": "普京会见伊朗外长阿拉格齐",
@@ -558,6 +559,17 @@
           "time_info": "[04时29分 ~ 06时22分]"
         },
         {
+          "title": "伊朗警方发现“星链”设备等间谍装备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E6%96%B9%E5%8F%91%E7%8E%B0%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%AE%BE%E5%A4%87%E7%AD%89%E9%97%B4%E8%B0%8D%E8%A3%85%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 21时41分]"
+        },
+        {
           "title": "美国财长贝森特：上周五与欧盟委员会副主席谢夫乔维奇举行会谈。强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
           "url": "https://flash.jin10.com/detail/20260428033348055800",
           "source": "金十数据",
@@ -593,6 +605,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 13时13分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗黑客对美方发出一次“小小的警告”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时41分]"
         },
         {
           "title": "美国能源部长Wright：美国不考虑禁止出口本国能源产品。 今日将在欧洲宣布具有历史意义的协议。 动态增长将出现在中欧和东欧。 如果我们不出口，将不得不让炼油厂减产。 伊朗剩下的石油储存“并不多了”。 伊朗没有大量的存储能力。",
@@ -631,17 +654,6 @@
           "time_info": "[06时22分 ~ 07时24分]"
         },
         {
-          "title": "伊朗警方发现“星链”设备等间谍装备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E6%96%B9%E5%8F%91%E7%8E%B0%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%AE%BE%E5%A4%87%E7%AD%89%E9%97%B4%E8%B0%8D%E8%A3%85%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 20时44分]"
-        },
-        {
           "title": "伊朗外交部：美方扣押伊朗油轮是将“海盗行为”合法化",
           "url": "https://wallstreetcn.com/livenews/3095209",
           "source": "华尔街见闻-快讯",
@@ -666,15 +678,15 @@
           "time_info": "[04时29分 ~ 05时28分]"
         },
         {
-          "title": "伊朗战争丨伊朗黑客对美方发出一次“小小的警告”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E8%9A%8A%E5%AD%90%E8%88%B0%E9%98%9F%E2%80%9D%E5%A6%82%E4%BD%95%E6%8E%A7%E5%88%B6%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
           "ranks": [
-            6
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时41分]"
         },
         {
           "title": "美国驻联合国代表：伊朗违反海洋法，在霍尔木兹海峡进行海盗行为。",
@@ -774,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
+          "url": "https://www.cls.cn/detail/2358468",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "伊朗外长：与普京畅谈一个半小时“富有成效”",
@@ -925,7 +948,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -994,17 +1017,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        },
-        {
-          "title": "伊朗“蚊子舰队”如何控制海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E8%9A%8A%E5%AD%90%E8%88%B0%E9%98%9F%E2%80%9D%E5%A6%82%E4%BD%95%E6%8E%A7%E5%88%B6%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "伊朗警方在一处住宅发现“星链”设备等间谍装备",
@@ -1076,7 +1088,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 76,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -1153,6 +1165,17 @@
           "time_info": "[09时40分 ~ 15时02分]"
         },
         {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 21时41分]"
+        },
+        {
           "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
           "url": "https://www.cls.cn/detail/2357692",
           "source": "财联社热门",
@@ -1165,17 +1188,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时13分 ~ 17时53分]"
-        },
-        {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时02分 ~ 20时44分]"
         },
         {
           "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
@@ -1263,7 +1275,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1340,6 +1352,19 @@
           "time_info": "[09时40分 ~ 13时13分]"
         },
         {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 21时41分]"
+        },
+        {
           "title": "主持人读枪手宣言让特朗普破防",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%AF%BB%E6%9E%AA%E6%89%8B%E5%AE%A3%E8%A8%80%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E7%A0%B4%E9%98%B2",
           "source": "百度热搜",
@@ -1363,18 +1388,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时22分]"
-        },
-        {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 20时44分]"
         },
         {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
@@ -1423,6 +1436,17 @@
           "time_info": "[09时40分 ~ 09时41分]"
         },
         {
+          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
+          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时41分]"
+        },
+        {
           "title": "特朗普舞厅诉讼案原告拒绝美国司法部在“刺杀企图”后撤诉的要求。",
           "url": "https://wallstreetcn.com/livenews/3095149",
           "source": "华尔街见闻-快讯",
@@ -1445,6 +1469,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时41分]"
         },
         {
           "title": "美媒：特朗普对伊朗新方案不满意",
@@ -1479,6 +1515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "特朗普：伊朗希望美国尽快开放霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3095834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "主持人念枪手宣言惹怒特朗普",
@@ -1558,17 +1605,6 @@
           "time_info": "15时02分"
         },
         {
-          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
-          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "特朗普寻求为移民执法工作拨款 要求共和党人齐心支持",
           "url": "https://flash.jin10.com/detail/20260428030503481800",
           "source": "金十数据",
@@ -1589,6 +1625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "特朗普：伊朗希望我们开放霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260428213024676800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美国总统特朗普：我已要求在6月1日之前将最终法案放在我的桌上。",
@@ -1668,6 +1715,17 @@
           "time_info": "02时35分"
         },
         {
+          "title": "特朗普时隔7年再拍英王肩膀",
+          "url": "https://www.toutiao.com/trending/7633712116260143158/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "谈判陷入僵局之际 特朗普与团队就伊朗问题举行磋商",
           "url": "https://flash.jin10.com/detail/20260428014156137800",
           "source": "金十数据",
@@ -1688,17 +1746,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
-        },
-        {
-          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "白宫新闻秘书莱维特：你们将很快听到美国总统特朗普关于伊朗的消息。",
@@ -1844,6 +1891,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "美国总统特朗普在社交平台发布了一张关于其王室血统的媒体报道图片。他表示，我一直都梦想着能住在白金汉宫里呢！几分钟后我会和（英国）国王和王后谈谈这件事的！",
+          "url": "https://flash.jin10.com/detail/20260428211545973800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "美国白宫：嫌疑人是一名疯狂的、反对美国总统特朗普的个人。",
           "url": "https://flash.jin10.com/detail/20260428010601619800",
           "source": "金十数据",
@@ -1902,7 +1960,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -2090,7 +2148,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -2126,6 +2184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3095798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "联合包裹第一季度营收212亿美元，预估209.9亿美元。 第一季度调整后每股收益1.07美元，预估1.03美元。 联合包裹仍预计全年营收约897亿美元，市场预估897.1亿美元。 联合包裹美股盘前跌近3%。",
@@ -2306,6 +2375,153 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            11,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 09时41分]"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 21时41分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘前跌超1%，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "OpenAI表示其业务“运转良好”，企业和广告业务正在增长。",
+          "url": "https://wallstreetcn.com/livenews/3095838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
+          "url": "https://flash.jin10.com/detail/20260428054512315800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时24分]"
+        },
+        {
+          "title": "美股盘初：纳指跌1.2%，康宁跌约10%，OpenAI概念股跌幅居前",
+          "url": "https://wallstreetcn.com/livenews/3095833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美股开盘，道指涨0.22%，标普500指数跌0.52%，纳指跌1.18%。有报道称OpenAI未能实现收入和用户目标，英伟达(NVDA.O)跌3.5%，AMD(AMD.O)跌6%。iShares半导体ETF跌4%。甲骨文(ORCL.N)跌5.9%。",
+          "url": "https://flash.jin10.com/detail/20260428213031137800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "报道称OpenAI未达销售目标 相关股票下跌",
+          "url": "https://wallstreetcn.com/livenews/3095675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "CoreWeave称OpenAI是“非常棒的合作伙伴”，但并非唯一合作伙伴",
+          "url": "https://wallstreetcn.com/livenews/3095799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 10,
       "titles": [
@@ -2363,11 +2579,12 @@
             13,
             8,
             7,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时02分 ~ 20时44分]"
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek还是最强国产AI吗",
@@ -2379,8 +2596,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 20时44分]"
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 21时41分]"
         },
         {
           "title": "DeepSeekV4百万上下文有多强",
@@ -2436,87 +2653,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2357129",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            11,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 09时41分]"
-        },
-        {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 20时44分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘前跌超1%，半导体集体回调，WTI涨破百元大关，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
-          "url": "https://flash.jin10.com/detail/20260428054512315800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时24分]"
-        },
-        {
-          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3095321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "报道称OpenAI未达销售目标 相关股票下跌",
-          "url": "https://wallstreetcn.com/livenews/3095675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         }
       ]
     },
