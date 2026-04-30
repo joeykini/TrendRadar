@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T07:24:35.205231+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-04-30T08:52:31.286486+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 08时52分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 08时52分]"
         },
         {
           "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
@@ -71,6 +71,28 @@
           "time_info": "[01时36分 ~ 07时24分]"
         },
         {
+          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
+          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 08时52分]"
+        },
+        {
+          "title": "特朗普：乌克兰在军事上已被击败",
+          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 08时52分]"
+        },
+        {
           "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
           "url": "https://www.zhihu.com/question/2032422954055776061",
           "source": "知乎",
@@ -82,6 +104,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 07时24分]"
+        },
+        {
+          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
+          "url": "https://www.cls.cn/detail/2360318",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
+          "url": "https://www.zhihu.com/question/2032422954055776061",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
           "title": "特朗普支持率降至任内新低",
@@ -96,17 +140,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时36分 ~ 07时24分]"
-        },
-        {
-          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
-          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
@@ -131,15 +164,27 @@
           "time_info": "02时37分"
         },
         {
-          "title": "特朗普：乌克兰在军事上已被击败",
-          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
-          "source": "凤凰网",
+          "title": "德总理淡化与特朗普分歧 称彼此关系“依然良好”",
+          "url": "https://wallstreetcn.com/livenews/3097042",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "08时52分"
+        },
+        {
+          "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
+          "url": "https://wallstreetcn.com/articles/3771197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 08时52分]"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普进行了电话交谈。",
@@ -170,7 +215,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -208,6 +253,19 @@
           "time_info": "02时37分"
         },
         {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时24分 ~ 08时52分]"
+        },
+        {
           "title": "【普京：特朗普延长对伊朗及周边地区停火的决定是正确的】俄罗斯总统助理乌沙科夫29日晚通报说，俄总统普京与美国总统特朗普当天举行电话会谈，双方就白宫记协晚宴枪击事件、伊朗局势、乌克兰问题等议题交换意见。 据乌沙科夫介绍，特朗普在通话中向普京介绍了他对中东局势的看法。普京认为，特朗普延长对伊朗及周边地区停火的决定是正确的，这将有助于稳定局势。普京还表示，针对伊朗采取地面军事行动的选项是完全不可接受且极其危险的。 乌沙科夫说，此次通话是由俄方发起，持续超过一个半小时，双方对话“坦诚且务实”。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3096914",
           "source": "华尔街见闻-快讯",
@@ -233,27 +291,37 @@
           "time_info": "[00时38分 ~ 01时37分]"
         },
         {
-          "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
-          "url": "https://wallstreetcn.com/articles/3771197",
-          "source": "华尔街见闻",
+          "title": "普京与特朗普通话超一个半小时",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 07时24分]"
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
+          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
+          "url": "https://www.cls.cn/detail/2360313",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            15
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时24分 ~ 07时24分]"
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
+          "url": "https://www.zhihu.com/question/2032758360743883157",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
           "title": "特朗普拒绝伊朗提议，称将继续封锁霍尔木兹海峡",
@@ -304,6 +372,28 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
+          "url": "https://www.cls.cn/detail/2360339",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "普京与特朗普通话1个半小时",
+          "url": "https://www.toutiao.com/trending/7634319454465166874/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
           "title": "鲍威尔：我希望（我们）认为，我们能摆脱美联储承受压力的时期。 人们纷纷担忧，美联储可能会继续遭到（美国总统特朗普的）攻击。",
           "url": "https://wallstreetcn.com/livenews/3096900",
           "source": "华尔街见闻-快讯",
@@ -326,6 +416,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时37分]"
+        },
+        {
+          "title": "特朗普：乌克兰在军事上已被击败",
+          "url": "https://www.toutiao.com/trending/7633345228304416810/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
           "title": "特朗普：在核问题解决之前 不会解除对伊朗的海上封锁",
@@ -356,7 +457,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -389,7 +490,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -433,7 +534,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -488,7 +589,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -499,7 +600,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -554,7 +655,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -581,6 +682,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "“特朗普关税”首批退款将于5月11日左右发放",
+          "url": "https://wallstreetcn.com/livenews/3097025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国总统特朗普：海底有159艘伊朗船只。",
           "url": "https://flash.jin10.com/detail/20260430022346633800",
           "source": "金十数据",
@@ -598,7 +710,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -623,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "中金：美联储理论上应将2次降息，实际要看油价和特朗普配合",
+          "url": "https://flash.jin10.com/detail/20260430080840199800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美国总统特朗普：普京不想让伊朗拥有核武器。",
@@ -664,7 +787,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -708,7 +831,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -727,7 +850,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -746,11 +869,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 08时52分]"
         },
         {
           "title": "伊朗：将以前所未有的军事行动回应美",
@@ -788,8 +912,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 08时52分]"
         },
         {
           "title": "美国防部称伊朗战事已耗资250亿美元，赫格塞思接受国会质询遭批",
@@ -798,7 +922,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -869,6 +993,19 @@
           "time_info": "05时28分"
         },
         {
+          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时24分 ~ 08时52分]"
+        },
+        {
           "title": "伊朗战争丨五角大楼：伊朗战事已“烧掉”250亿美元",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -892,16 +1029,26 @@
           "time_info": "[05时28分 ~ 06时25分]"
         },
         {
-          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
-          "source": "澎湃新闻",
+          "title": "伊朗战争丨伊朗海军司令警告美军“勿进一步行动”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时24分 ~ 07时24分]"
+          "time_info": "[07时24分 ~ 08时52分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032954547836907965",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
           "title": "美国财政部长贝森特声称：消费者和股市正在看淡伊朗局势。",
@@ -988,6 +1135,17 @@
           "time_info": "[03时36分 ~ 04时31分]"
         },
         {
+          "title": "美称伊朗战事已耗资250亿美元",
+          "url": "https://www.toutiao.com/trending/7633391016129298441/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
           "title": "WTI原油日内涨幅达8.0%，报107.93美元/桶。 布伦特原油5分钟内上涨0.5美元/桶，报111.47美元/桶。 伊朗表示，为遇害领袖复仇仍在议事日程上。 据伊朗电视台，伊朗军事顾问称新领袖（穆杰塔巴·哈梅内伊）身体健康。",
           "url": "https://wallstreetcn.com/livenews/3096913",
           "source": "华尔街见闻-快讯",
@@ -1000,15 +1158,15 @@
           "time_info": "[04时31分 ~ 05时28分]"
         },
         {
-          "title": "伊朗战争丨伊朗海军司令警告美军“勿进一步行动”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "伊朗海军：将向敌人展示一种可怕武器",
+          "url": "https://www.toutiao.com/trending/7633278639656992810/",
+          "source": "今日头条",
           "ranks": [
-            6
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
           "title": "伊朗动荡不安的东南部地区发生枪击事件，3名警察被枪杀。",
@@ -1039,7 +1197,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -1088,6 +1246,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "消息人士：美国五角大楼对伊朗战争花费250亿美元的估算金额偏低，其中并未包含美国在该地区军事基地所遭受严重破坏的修复费用。",
+          "url": "https://flash.jin10.com/detail/20260430083358870800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国财长贝森特：消费者和股市（投资者）正在关注伊朗。",
           "url": "https://flash.jin10.com/detail/20260430044453564800",
           "source": "金十数据",
@@ -1097,6 +1266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美媒：美政府寻求“没收”两艘与伊朗关联油轮",
+          "url": "https://wallstreetcn.com/livenews/3097030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "比尔·阿克曼：在资本市场，我们有庞大的追随者基数。 对市场而言，伊朗局势是（悬在头上）最大的风险。 我们处于一个“愚蠢的、廉价的市场底部”的上方。 投资IPO将需要数周时间，而非数月。",
@@ -1130,6 +1310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美媒：美政府寻求“没收”两艘与伊朗关联油轮",
+          "url": "https://flash.jin10.com/detail/20260430080734044800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美国官员：美军在伊朗战事支出约为250亿美元",
@@ -1191,9 +1382,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 08时52分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 部分芯片股走强",
@@ -1305,7 +1496,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
@@ -1497,7 +1688,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -1526,11 +1717,12 @@
             13,
             6,
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 08时52分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1539,11 +1731,12 @@
           "ranks": [
             14,
             13,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 08时52分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
@@ -1575,7 +1768,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
@@ -1594,8 +1787,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 08时52分]"
         },
         {
           "title": "国际金价继续回撤至4500美元附近",
@@ -1632,11 +1825,12 @@
           "url": "https://wallstreetcn.com/articles/3771214",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 08时52分]"
         },
         {
           "title": "两年期美债收益率涨10个基点，报3.94%。 ICE美元指数涨超0.25%，刷新日高至98.923点。",
