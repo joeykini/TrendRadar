@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T09:41:42.976828+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-04-30T11:14:09.321360+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 09时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 11时14分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -39,8 +39,53 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 09时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 11时14分]"
+        },
+        {
+          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
+          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 11时14分]"
+        },
+        {
+          "title": "特朗普：乌克兰在军事上已被击败",
+          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 11时14分]"
+        },
+        {
+          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
+          "url": "https://www.cls.cn/detail/2360318",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 11时14分]"
+        },
+        {
+          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
+          "url": "https://www.zhihu.com/question/2032422954055776061",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 11时14分]"
         },
         {
           "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
@@ -52,17 +97,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时24分]"
-        },
-        {
-          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
-          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 09时41分]"
         },
         {
           "title": "特朗普再次无视英王室规矩拍国王肩膀",
@@ -82,38 +116,19 @@
           "time_info": "[01时36分 ~ 07时24分]"
         },
         {
-          "title": "特朗普：乌克兰在军事上已被击败",
-          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
-          "source": "凤凰网",
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            14,
+            15,
+            12,
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 09时41分]"
-        },
-        {
-          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
-          "url": "https://www.cls.cn/detail/2360318",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 09时41分]"
-        },
-        {
-          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
-          "url": "https://www.zhihu.com/question/2032422954055776061",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 09时41分]"
+          "appearance_count": 8,
+          "time_info": "[06时24分 ~ 11时14分]"
         },
         {
           "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
@@ -177,20 +192,6 @@
           "time_info": "02时37分"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时24分 ~ 09时41分]"
-        },
-        {
           "title": "俄罗斯总统普京与美国总统特朗普进行了电话交谈。",
           "url": "https://flash.jin10.com/detail/20260430012024015800",
           "source": "金十数据",
@@ -246,6 +247,18 @@
           "time_info": "06时25分"
         },
         {
+          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
+          "url": "https://www.cls.cn/detail/2360313",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 11时14分]"
+        },
+        {
           "title": "美国总统特朗普：阿联酋退出欧佩克有助于降低汽油和石油价格。",
           "url": "https://flash.jin10.com/detail/20260430023027460800",
           "source": "金十数据",
@@ -255,6 +268,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "普京与特朗普通话超一个半小时",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 11时14分]"
+        },
+        {
+          "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
+          "url": "https://www.zhihu.com/question/2032758360743883157",
+          "source": "知乎",
+          "ranks": [
+            7,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 11时14分]"
+        },
+        {
+          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
+          "url": "https://www.cls.cn/detail/2360339",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 11时14分]"
         },
         {
           "title": "【普京：特朗普延长对伊朗及周边地区停火的决定是正确的】俄罗斯总统助理乌沙科夫29日晚通报说，俄总统普京与美国总统特朗普当天举行电话会谈，双方就白宫记协晚宴枪击事件、伊朗局势、乌克兰问题等议题交换意见。 据乌沙科夫介绍，特朗普在通话中向普京介绍了他对中东局势的看法。普京认为，特朗普延长对伊朗及周边地区停火的决定是正确的，这将有助于稳定局势。普京还表示，针对伊朗采取地面军事行动的选项是完全不可接受且极其危险的。 乌沙科夫说，此次通话是由俄方发起，持续超过一个半小时，双方对话“坦诚且务实”。（新华社）",
@@ -294,52 +346,16 @@
           "time_info": "[00时38分 ~ 01时37分]"
         },
         {
-          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
-          "url": "https://www.cls.cn/detail/2360313",
-          "source": "财联社热门",
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            6
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时51分 ~ 09时41分]"
-        },
-        {
-          "title": "普京与特朗普通话超一个半小时",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 09时41分]"
-        },
-        {
-          "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
-          "url": "https://www.zhihu.com/question/2032758360743883157",
-          "source": "知乎",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 09时41分]"
-        },
-        {
-          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
-          "url": "https://www.cls.cn/detail/2360339",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 09时41分]"
+          "time_info": "[09时41分 ~ 11时14分]"
         },
         {
           "title": "普京与特朗普通话1个半小时",
@@ -437,6 +453,17 @@
           "time_info": "[08时51分 ~ 08时52分]"
         },
         {
+          "title": "特朗普牵手梅拉尼娅再现拒绝名场面",
+          "url": "https://www.toutiao.com/trending/7634080529591238706/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 11时14分]"
+        },
+        {
           "title": "特朗普：在核问题解决之前 不会解除对伊朗的海上封锁",
           "url": "https://flash.jin10.com/detail/20260429235520375800",
           "source": "金十数据",
@@ -476,7 +503,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -558,6 +585,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "媒体报道称特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
+          "url": "https://wallstreetcn.com/livenews/3097120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "美国总统特朗普：我与英国国王查尔斯的关系可能有助于英国首相斯塔默。",
           "url": "https://flash.jin10.com/detail/20260430022827739800",
           "source": "金十数据",
@@ -578,17 +616,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
         },
         {
           "title": "美国总统特朗普：如果由英国国王查尔斯做主，他“可能会帮助我们解决伊朗问题”。",
@@ -652,7 +679,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -789,6 +816,17 @@
           "time_info": "08时52分"
         },
         {
+          "title": "美媒称特朗普将听取打击伊朗新方案",
+          "url": "https://flash.jin10.com/detail/20260430104551895800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "美国总统特朗普：普京不想让伊朗拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260430022126556800",
           "source": "金十数据",
@@ -850,7 +888,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -877,6 +915,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "美媒：特朗普周四将听取对伊行动新方案简报 包括强力打击和部分控制霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260430103845310800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "特朗普：鲍威尔想留在美联储是因为在其他地方找不到工作",
           "url": "https://wallstreetcn.com/livenews/3096971",
           "source": "华尔街见闻-快讯",
@@ -897,12 +946,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普称正在研究削减驻德美军可能性",
+          "url": "https://wallstreetcn.com/livenews/3097085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -964,8 +1024,33 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 09时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 11时14分]"
+        },
+        {
+          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时24分 ~ 11时14分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗海军司令警告美军“勿进一步行动”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 11时14分]"
         },
         {
           "title": "美国防部称伊朗战事已耗资250亿美元，赫格塞思接受国会质询遭批",
@@ -977,19 +1062,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时24分 ~ 09时41分]"
         },
         {
           "title": "WTI原油日内涨幅达8.0%，报107.93美元/桶。 布伦特原油5分钟内上涨0.5美元/桶，报111.47美元/桶。伊朗表示，为遇害领袖复仇仍在议事日程上。",
@@ -1025,6 +1097,18 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032954547836907965",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 11时14分]"
+        },
+        {
           "title": "伊朗议长呼吁民众保持团结挫败敌人阴谋",
           "url": "https://flash.jin10.com/detail/20260430011357873800",
           "source": "金十数据",
@@ -1058,6 +1142,19 @@
           "time_info": "05时28分"
         },
         {
+          "title": "伊朗海军：将向敌人展示一种可怕武器",
+          "url": "https://www.toutiao.com/trending/7633278639656992810/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 11时14分]"
+        },
+        {
           "title": "伊朗战争丨五角大楼：伊朗战事已“烧掉”250亿美元",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -1067,17 +1164,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 02时37分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗海军司令警告美军“勿进一步行动”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 09时41分]"
         },
         {
           "title": "美国企图没收在海上扣押的、与伊朗相关的油轮。财长贝森特认为，油价将在伊朗冲突结束后下跌。WTI原油跌破108美元/桶关口，目前报107.99美元/桶。",
@@ -1090,29 +1176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时25分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032954547836907965",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 09时41分]"
-        },
-        {
-          "title": "伊朗海军：将向敌人展示一种可怕武器",
-          "url": "https://www.toutiao.com/trending/7633278639656992810/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 09时41分]"
         },
         {
           "title": "美称伊朗战事已耗资250亿美元",
@@ -1278,6 +1341,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "伊朗外长：美以侵略是地区动荡根源",
+          "url": "https://flash.jin10.com/detail/20260430110037207800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "美国国防部长赫格塞思：伊朗战争并非泥潭，而美国民主党议员的批评是在向伊朗送上宣传方面的胜利。",
           "url": "https://flash.jin10.com/detail/20260429234310723800",
           "source": "金十数据",
@@ -1412,6 +1486,145 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "电话会：谷歌母公司Alphabet上调2026年资本开支预期至1800亿-1900亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "谷歌母公司一季度营收1099亿美元，预期1071亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "周四亚太盘初，道指期货跌约0.4%，标普股指期货跌0.1%，纳指期货跌超0.2%，罗素2000股指期货跌超0.5%。 目前，Meta（美股盘后）跌6.1%，奈飞跌超1%，甲骨文跌超0.6%，亚马逊涨1.3%，Sandisk涨1.5%，亚马逊涨2.1%，西部数据涨2.7%，谷歌A涨5.8%，高通涨15.8%。",
+          "url": "https://wallstreetcn.com/livenews/3096972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 11时14分]"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 11时14分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet：“不急于”在Gemini投放广告，但也还么有什么好说的。",
+          "url": "https://wallstreetcn.com/livenews/3096962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)CEO：谷歌云业务正迎来强劲的交易势头。",
+          "url": "https://flash.jin10.com/detail/20260430044408891800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "谷歌母公司Alphabet一季度营收1099亿美元，分析师预期1071亿美元。 一季度Rev ex-TAC（剔除流量获取成本的收入）为946.7亿美元，分析师预期915.7亿美元。 一季度谷歌搜索与其他营收604亿美元，分析师预期590.8亿美元。 一季度谷歌服务营收896.4亿美元，分析师预期881.1亿美元。 一季度谷歌云营收200.3亿美元，分析师预期184.1亿美元。 一季度谷歌广告营收772.5亿美元，分析师预期762.1亿美元。 一季度YouTube广告营收98.8亿美元，分析师预期99.7亿美元。 一季度Alphabet Gemini Enterprise月活用户数（MAU）季环比增长40%。 一季度（Alphabet）运营利润397亿美元，分析师预期361.9亿美元。 一季度（Alphabet）资本开支356.7亿美元，分析师预期363.9亿美元。 谷歌A（GOOGL）美股盘后涨超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3096931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "谷歌财报电话会将于十分钟后举行。",
+          "url": "https://flash.jin10.com/detail/20260430042000001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "分析师电话会：谷歌母公司Alphabet上调2026年资本开支预期至1800亿-1900亿美元，分析师预期1792.7亿美元，原本预计1750亿-1850亿美元。 预计2027年资本开支将在2026年的基础上显著增长。 对计算的需求是空前的。",
+          "url": "https://wallstreetcn.com/livenews/3096952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
+          "url": "https://flash.jin10.com/detail/20260430041652163800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)：第一季度谷歌云收入为200.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260430041128697800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
@@ -1437,8 +1650,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 09时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 11时14分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 部分芯片股走强",
@@ -1557,125 +1770,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "电话会：谷歌母公司Alphabet上调2026年资本开支预期至1800亿-1900亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3096952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "谷歌母公司一季度营收1099亿美元，预期1071亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3096931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "周四亚太盘初，道指期货跌约0.4%，标普股指期货跌0.1%，纳指期货跌超0.2%，罗素2000股指期货跌超0.5%。 目前，Meta（美股盘后）跌6.1%，奈飞跌超1%，甲骨文跌超0.6%，亚马逊涨1.3%，Sandisk涨1.5%，亚马逊涨2.1%，西部数据涨2.7%，谷歌A涨5.8%，高通涨15.8%。",
-          "url": "https://wallstreetcn.com/livenews/3096972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时24分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet：“不急于”在Gemini投放广告，但也还么有什么好说的。",
-          "url": "https://wallstreetcn.com/livenews/3096962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)CEO：谷歌云业务正迎来强劲的交易势头。",
-          "url": "https://flash.jin10.com/detail/20260430044408891800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "谷歌母公司Alphabet一季度营收1099亿美元，分析师预期1071亿美元。 一季度Rev ex-TAC（剔除流量获取成本的收入）为946.7亿美元，分析师预期915.7亿美元。 一季度谷歌搜索与其他营收604亿美元，分析师预期590.8亿美元。 一季度谷歌服务营收896.4亿美元，分析师预期881.1亿美元。 一季度谷歌云营收200.3亿美元，分析师预期184.1亿美元。 一季度谷歌广告营收772.5亿美元，分析师预期762.1亿美元。 一季度YouTube广告营收98.8亿美元，分析师预期99.7亿美元。 一季度Alphabet Gemini Enterprise月活用户数（MAU）季环比增长40%。 一季度（Alphabet）运营利润397亿美元，分析师预期361.9亿美元。 一季度（Alphabet）资本开支356.7亿美元，分析师预期363.9亿美元。 谷歌A（GOOGL）美股盘后涨超1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3096931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "谷歌财报电话会将于十分钟后举行。",
-          "url": "https://flash.jin10.com/detail/20260430042000001800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "分析师电话会：谷歌母公司Alphabet上调2026年资本开支预期至1800亿-1900亿美元，分析师预期1792.7亿美元，原本预计1750亿-1850亿美元。 预计2027年资本开支将在2026年的基础上显著增长。 对计算的需求是空前的。",
-          "url": "https://wallstreetcn.com/livenews/3096952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
-          "url": "https://flash.jin10.com/detail/20260430041652163800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)：第一季度谷歌云收入为200.3亿美元。",
-          "url": "https://flash.jin10.com/detail/20260430041128697800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -1723,6 +1819,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 06时25分]"
+        },
+        {
+          "title": "Anthropic有望冲击9000亿美元估值 或反超OpenAI登顶AI之巅",
+          "url": "https://www.cls.cn/detail/2360305",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 11时14分]"
+        },
+        {
+          "title": "Anthropic年收300亿碾压OpenAI",
+          "url": "https://s.weibo.com/weibo?q=Anthropic%E5%B9%B4%E6%94%B6300%E4%BA%BF%E7%A2%BE%E5%8E%8BOpenAI&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 11时14分]"
         },
         {
           "title": "OpenAI：开发者大会9月29日在旧金山举行。",
@@ -1773,11 +1891,12 @@
             2,
             3,
             5,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 09时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 11时14分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1787,11 +1906,12 @@
             14,
             13,
             15,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 09时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 11时14分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
@@ -1839,11 +1959,12 @@
           "source": "微博",
           "ranks": [
             12,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 09时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 11时14分]"
         },
         {
           "title": "国际金价继续回撤至4500美元附近",
@@ -1884,8 +2005,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 09时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 11时14分]"
         },
         {
           "title": "两年期美债收益率涨10个基点，报3.94%。 ICE美元指数涨超0.25%，刷新日高至98.923点。",
@@ -1913,7 +2034,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数在“鲍威尔最后一次新闻发布会”当天涨超0.3%",
@@ -1926,6 +2047,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时28分]"
+        },
+        {
+          "title": "美元指数DXY站上99，日内涨0.06%。",
+          "url": "https://flash.jin10.com/detail/20260430104434830800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "美元指数涨0.26%，持稳于日高98.913点附近。 美元兑日元涨0.4%，美元兑瑞郎涨0.15%。 欧元兑美元、英镑兑美元跌0.2%，澳元兑美元跌0.68%，纽元兑美元跌0.80%。",
