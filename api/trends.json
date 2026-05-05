@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T04:08:22.300029+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-05-06T04:57:18.725006+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗战争丨伊朗总统办公室官员否认总统辞职传闻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "美防长：与伊朗的停火尚未结束",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "伊朗外长阿拉格齐 5 月 6 日访华，有哪些信息值得关注？",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
@@ -48,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "伊朗向美舰发射导弹视频曝光",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "伊朗外长阿拉格齐将访华",
@@ -74,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "曝美以或准备对伊朗发动新一轮打击",
@@ -87,8 +87,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "伊朗向美舰发射导弹画面曝光",
@@ -99,11 +99,12 @@
             23,
             27,
             14,
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "伊朗外长阿拉格齐启程访华",
@@ -170,7 +171,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -248,6 +249,18 @@
           "time_info": "[01时44分 ~ 02时42分]"
         },
         {
+          "title": "美国国务卿卢比奥：美方将不惜一切地确保双方（挑起战争的美国+以色列、以及伊朗）继续对话，从而能达成“永久性的”停火。",
+          "url": "https://wallstreetcn.com/livenews/3098913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时08分 ~ 04时57分]"
+        },
+        {
           "title": "IMF总裁：即使伊朗战争今天就结束，至少也还需要3-4个月来处理战争造成的后果。 AI对就业的总体影响实际上略微偏正面。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3098844",
           "source": "华尔街见闻-快讯",
@@ -258,6 +271,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时57分]"
+        },
+        {
+          "title": "美国国务卿卢比奥：已有10名平民海员在霍尔木兹海峡的冲突中丧生。 美国将继续针对对美国部队构成威胁的无人机和船只采取行动。 美国正在部署军事资产，以扩大对霍尔木兹海峡商业航运的防御保护。 美军已在霍尔木兹海峡摧毁7艘伊朗快艇。 美国将继续清理海峡通道，以恢复航行自由。",
+          "url": "https://wallstreetcn.com/livenews/3098906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时08分 ~ 04时57分]"
         },
         {
           "title": "伊拉克候任总理告诉伊朗总统：伊拉克可以围绕伊朗与美国缓和关系发挥作用。",
@@ -332,6 +357,18 @@
           "time_info": "[00时28分 ~ 00时57分]"
         },
         {
+          "title": "伊朗外长阿拉格齐将访华",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90%E5%B0%86%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 04时57分]"
+        },
+        {
           "title": "伊朗石油部长：在战争期间，伊朗的原油产量并未减少。",
           "url": "https://flash.jin10.com/detail/20260506002732519800",
           "source": "金十数据",
@@ -398,17 +435,6 @@
           "time_info": "02时42分"
         },
         {
-          "title": "美国国务卿卢比奥：美方将不惜一切地确保双方（挑起战争的美国+以色列、以及伊朗）继续对话，从而能达成“永久性的”停火。",
-          "url": "https://wallstreetcn.com/livenews/3098913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
           "title": "伊朗媒体援引佩泽希齐扬的话报道称：美国奉行极限施压政策，想让伊朗坐到谈判桌前，并接受其单方面的要求，这绝不可能。 尽管对话途径正在进行中，但伊朗再次看到了美国的军事集结和威胁。",
           "url": "https://wallstreetcn.com/livenews/3098887",
           "source": "华尔街见闻-快讯",
@@ -418,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "鲁比奥确认：对伊朗“史诗怒火”军事行动已结束",
+          "url": "https://wallstreetcn.com/livenews/3098927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "伊媒：伊朗已启动霍尔木兹海峡通行管理新机制",
@@ -453,17 +490,6 @@
           "time_info": "02时42分"
         },
         {
-          "title": "美国国务卿卢比奥：已有10名平民海员在霍尔木兹海峡的冲突中丧生。 美国将继续针对对美国部队构成威胁的无人机和船只采取行动。 美国正在部署军事资产，以扩大对霍尔木兹海峡商业航运的防御保护。 美军已在霍尔木兹海峡摧毁7艘伊朗快艇。 美国将继续清理海峡通道，以恢复航行自由。",
-          "url": "https://wallstreetcn.com/livenews/3098906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
           "title": "据伊朗媒体：伊朗总统佩泽希齐扬称，美国奉行极限施压政策，并希望伊朗坐到谈判桌前屈服于其单方面要求，这是不可能的。",
           "url": "https://flash.jin10.com/detail/20260506014724208800",
           "source": "金十数据",
@@ -473,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "伊朗总统：理性对话仍有可能 极限施压不会成功",
+          "url": "https://flash.jin10.com/detail/20260506043127321800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "伊朗正式启动霍尔木兹海峡航运新规，船只须获通行许可证",
@@ -508,6 +545,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "伊朗外交部发言人否认阿联酋关于伊朗向其发射导弹和无人机的指控，并发表声明称，伊朗的防御行动完全针对美国。",
+          "url": "https://flash.jin10.com/detail/20260506042531636800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：伊朗在谈判期间遭到两次攻击。我们正目睹军事集结和威胁。（法尔斯通讯社）",
           "url": "https://flash.jin10.com/detail/20260506014002865800",
           "source": "金十数据",
@@ -525,7 +573,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -558,7 +606,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -580,20 +628,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐将访华",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90%E5%B0%86%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "04时08分"
         },
         {
           "title": "据媒体报道，伊朗中部城市阿拉克附近的米甘湿地芦苇区发生火灾，强风助长火势蔓延。",
@@ -621,8 +658,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
@@ -632,8 +669,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -643,8 +680,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
@@ -665,8 +702,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -676,8 +713,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
@@ -687,19 +724,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
-        },
-        {
-          "title": "据华尔街日报：特朗普施压美国食品药品监督管理局（FDA）局长批准调味电子烟，敦促监管机构为年轻“让美国再次伟大”选民的电子烟议程扫清障碍。",
-          "url": "https://flash.jin10.com/detail/20260506003542696800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "特朗普准备“抛弃”台湾了吗",
@@ -712,8 +738,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时57分]"
+        },
+        {
+          "title": "据华尔街日报：特朗普施压美国食品药品监督管理局（FDA）局长批准调味电子烟，敦促监管机构为年轻“让美国再次伟大”选民的电子烟议程扫清障碍。",
+          "url": "https://flash.jin10.com/detail/20260506003542696800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
           "title": "法院文件显示，美国联邦航空管理局承包商因对美国总统特朗普发出威胁被起诉。",
@@ -896,6 +933,18 @@
           "time_info": "[01时44分 ~ 02时42分]"
         },
         {
+          "title": "OpenAI总裁：预计今年将在算力上花费500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3098909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时08分 ~ 04时57分]"
+        },
+        {
           "title": "OpenAI更新ChatGPT默认模型 提升准确性与个性化",
           "url": "https://flash.jin10.com/detail/20260506012340306800",
           "source": "金十数据",
@@ -938,17 +987,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "OpenAI总裁：预计今年将在算力上花费500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3098909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
         },
         {
           "title": "OpenAI：在所有ChatGPT模型中引入内存源。",
@@ -1001,7 +1039,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         }
@@ -1009,8 +1047,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3098935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
         {
           "title": "市场消息：苹果(AAPL.O)一直在测试与谷歌和Anthropic的集成。",
           "url": "https://flash.jin10.com/detail/20260506012503542800",
@@ -1077,12 +1126,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "Anthropic拟向谷歌投入2000亿美元",
+          "url": "https://flash.jin10.com/detail/20260506043310242800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘后涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260506042737308800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "Anthropic 承诺在谷歌的云服务和芯片上投资2000亿美元。（The Information）",
+          "url": "https://flash.jin10.com/detail/20260506042238368800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -1092,8 +1174,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
@@ -1101,11 +1183,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
@@ -1115,8 +1198,52 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
+        },
+        {
+          "title": "Strategy一季度营收1.243亿美元，IBES预期0.0494亿美元。 一季度每股收益（EPS）为38.25美元，IBES预期美股亏损0.17美元。 一季度运营亏损包含数字资产未实现的亏损144.6亿美元。 MSTR美股盘后跌1.3%，报184.46美元。",
+          "url": "https://wallstreetcn.com/livenews/3098934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "Lumentum第三财季营收8.084亿美元，IBES预期8.043亿美元。 第三财季调整后每股收益（EPS）为2.37美元，IBES预期2.27美元。 第三财季调整后净利润2.257亿美元，分析师预期2.025亿美元。 预计第四财季营收9.60亿-10.1亿美元，预计调整后EPS为2.85-3.05美元。 Lumentum美股盘后跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3098932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "AMD一季度调整后每股收益（EPS）为1.37美元，IBES预期1.29美元。 一季度调整后净利润22.65亿美元，IBES预期21.14亿美元。 一季度净利润13.83亿美元。 客户对MI450系列和Helios的（订单）参与正在增强。 AMD美股盘后跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3098931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美股行业ETF普遍收涨，半导体ETF涨超3.1%",
+          "url": "https://wallstreetcn.com/livenews/3098929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
@@ -1139,6 +1266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘后涨2%。",
+          "url": "https://flash.jin10.com/detail/20260506042115421800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     },
@@ -1155,30 +1293,61 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         },
         {
           "title": "美债收益率走低，因伊朗停火协议得以维持和油价下跌",
           "url": "https://wallstreetcn.com/livenews/3098912",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时08分 ~ 04时57分]"
         },
         {
           "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
           "url": "https://www.cls.cn/detail/2363061",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时08分 ~ 04时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周二（5月5日）纽约尾盘，ICE美元指数持平，报98.47点，日内交投区间为98.58-98.31点。",
+          "url": "https://wallstreetcn.com/livenews/3098915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时08分 ~ 04时57分]"
+        },
+        {
+          "title": "美元指数5日上涨",
+          "url": "https://flash.jin10.com/detail/20260506043446324800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时08分"
+          "time_info": "04时57分"
         }
       ]
     },
@@ -1216,28 +1385,12 @@
             20,
             5,
             16,
-            17
+            17,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（5月5日）纽约尾盘，ICE美元指数持平，报98.47点，日内交投区间为98.58-98.31点。",
-          "url": "https://wallstreetcn.com/livenews/3098915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时57分]"
         }
       ]
     }
