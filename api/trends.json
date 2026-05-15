@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T11:15:10.541768+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-05-15T13:24:17.067838+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普会谈",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 11时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 13时24分]"
         },
         {
           "title": "习近平为特朗普举行欢迎宴会",
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 11时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 13时24分]"
         },
         {
           "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
@@ -116,8 +116,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 11时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 13时24分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普参观天坛",
@@ -127,20 +127,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 11时15分]"
-        },
-        {
-          "title": "特朗普访华欢迎宴会，都有哪些看点值得关注？",
-          "url": "https://www.zhihu.com/question/2038333650341557719",
-          "source": "知乎",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 11时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 13时24分]"
         },
         {
           "title": "特朗普访华欢迎宴会",
@@ -167,6 +155,31 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时46分 ~ 09时43分]"
+        },
+        {
+          "title": "国际社会是怎样看待特朗普本次访华行程的？",
+          "url": "https://www.zhihu.com/question/2038010908488590805",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普访华欢迎宴会，都有哪些看点值得关注？",
+          "url": "https://www.zhihu.com/question/2038333650341557719",
+          "source": "知乎",
+          "ranks": [
+            2,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 13时24分]"
         },
         {
           "title": "特朗普称赞“中国太美了”",
@@ -336,20 +349,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 11时15分]"
-        },
-        {
-          "title": "国际社会是怎样看待特朗普本次访华行程的？",
-          "url": "https://www.zhihu.com/question/2038010908488590805",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 11时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 13时24分]"
         },
         {
           "title": "习近平同特朗普在中南海小范围会晤",
@@ -359,8 +360,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时24分]"
         },
         {
           "title": "习近平同特朗普在中南海小范围会晤",
@@ -370,8 +371,42 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时24分]"
+        },
+        {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://www.douyin.com/hot/2499691",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "time_info": "[13时23分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
+          "url": "https://wallstreetcn.com/articles/3772311",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普抵达中南海",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%8D%97%E6%B5%B7%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "特朗普数亿美元证券交易记录曝光 买入英伟达、苹果相关证券",
@@ -413,9 +448,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "特朗普：美国中餐馆比五大快餐店还多",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%AD%E9%A4%90%E9%A6%86%E6%AF%94%E4%BA%94%E5%A4%A7%E5%BF%AB%E9%A4%90%E5%BA%97%E8%BF%98%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 13时24分]"
         },
         {
           "title": "米兰向特朗普申请辞去美联储理事",
@@ -431,27 +479,16 @@
           "time_info": "[02时43分 ~ 04时36分]"
         },
         {
-          "title": "特朗普：美国中餐馆比五大快餐店还多",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%AD%E9%A4%90%E9%A6%86%E6%AF%94%E4%BA%94%E5%A4%A7%E5%BF%AB%E9%A4%90%E5%BA%97%E8%BF%98%E5%A4%9A",
+          "title": "特朗普乘车抵达中南海",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E8%BD%A6%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%8D%97%E6%B5%B7",
           "source": "百度热搜",
           "ranks": [
             12,
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时15分]"
-        },
-        {
-          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
-          "url": "https://wallstreetcn.com/articles/3772311",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普：将继续摧毁伊朗的军事。",
@@ -478,6 +515,17 @@
           "time_info": "[05时31分 ~ 06时29分]"
         },
         {
+          "title": "外交部就特朗普访华情况答问",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E9%97%AE",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
+        },
+        {
           "title": "消息人士：特朗普政府在寻求实现黎巴嫩与以色列之间全面且长期和平协议的最终目标上，仍面临漫长的道路。",
           "url": "https://flash.jin10.com/detail/20260515011935924800",
           "source": "金十数据",
@@ -490,15 +538,15 @@
           "time_info": "[01时56分 ~ 02时43分]"
         },
         {
-          "title": "特朗普乘车抵达中南海",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E8%BD%A6%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%8D%97%E6%B5%B7",
-          "source": "百度热搜",
+          "title": "外交部发言人就美国总统特朗普访华情况答记者问",
+          "url": "https://www.cls.cn/detail/2372089",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "特朗普谈两国人民共同点",
@@ -510,6 +558,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 11时15分]"
+        },
+        {
+          "title": "外交部就特朗普访华答问",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E7%AD%94%E9%97%AE%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普：对伊朗不会再过于耐心。",
@@ -529,7 +588,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -562,7 +621,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -573,7 +632,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -628,7 +687,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -639,7 +698,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -669,18 +728,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗外长：阿联酋直接参与侵略行动，是美以的同谋",
           "url": "https://news.ifeng.com/c/8t89Os71ql7",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 11时15分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时24分]"
         },
         {
           "title": "伊媒：伊朗已允许部分中国船只通过霍尔木兹海峡",
@@ -691,8 +751,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 11时15分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时24分]"
         },
         {
           "title": "美国中央司令部：我们已瘫痪82%的伊朗防空导弹系统。",
@@ -803,6 +863,17 @@
           "time_info": "[00时46分 ~ 03时37分]"
         },
         {
+          "title": "外交部回应中美元首是否谈及伊朗局势",
+          "url": "https://www.toutiao.com/trending/7638899887907700777/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：如果我们没有对伊朗发动两次战争，我们将面临一个拥有核弹的实体，这对我们构成生存威胁。",
           "url": "https://flash.jin10.com/detail/20260515015928058800",
           "source": "金十数据",
@@ -825,6 +896,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时37分]"
+        },
+        {
+          "title": "大批伊朗民众集会为男足壮行",
+          "url": "https://www.toutiao.com/trending/7638982403655450666/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "伊朗司法机构发言人：扣押在霍尔木兹海峡违规的美国油轮是基于国内法和国际法的。",
@@ -866,7 +948,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -880,6 +962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "伊朗战争引发全球原油供应失衡！美SPR释储近半出口",
+          "url": "https://flash.jin10.com/detail/20260515125849655800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "据华尔街日报：两艘日本油轮穿越霍尔木兹海峡，此前日本首相同伊朗领导层直接通话，以确保日本船只安全通行。",
@@ -965,7 +1058,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -1028,8 +1121,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时28分 ~ 11时15分]"
+          "appearance_count": 11,
+          "time_info": "[06时28分 ~ 13时24分]"
         },
         {
           "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
@@ -1042,6 +1135,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时46分 ~ 11时15分]"
+        },
+        {
+          "title": "美股光通信妖股POET暴涨超30% 披露光引擎采购大单",
+          "url": "https://www.cls.cn/detail/2371779",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时24分]"
         },
         {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
@@ -1069,18 +1174,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时56分 ~ 04时36分]"
-        },
-        {
-          "title": "美股光通信妖股POET暴涨超30% 披露光引擎采购大单",
-          "url": "https://www.cls.cn/detail/2371779",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 11时15分]"
         },
         {
           "title": "周四（5月14日），美股行业ETF普遍收涨，科技行业涨1.50%，全球科技股指数ETF涨1.41%，网络股指数ETF涨1.37%，半导体ETF涨1.03%，银行业ETF、区域银行ETF至少涨0.89%，能源业ETF涨0.76%，生物科技指数ETF跌0.76%。",
