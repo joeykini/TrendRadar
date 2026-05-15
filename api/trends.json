@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T15:17:30.143884+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-05-15T17:12:52.019847+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 85,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普会谈",
@@ -140,8 +140,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 17时12分]"
         },
         {
           "title": "特朗普访华欢迎宴会",
@@ -361,8 +361,21 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 15时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 17时12分]"
+        },
+        {
+          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
+          "url": "https://wallstreetcn.com/articles/3772311",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 17时12分]"
         },
         {
           "title": "习近平同特朗普在中南海小范围会晤",
@@ -376,29 +389,145 @@
           "time_info": "[11时14分 ~ 13时24分]"
         },
         {
-          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
-          "url": "https://wallstreetcn.com/articles/3772311",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 15时17分]"
-        },
-        {
           "title": "外交部就特朗普访华情况答记者问",
           "url": "https://www.douyin.com/hot/2499691",
           "source": "抖音",
           "ranks": [
             2,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 17时12分]"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181994",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
+        },
+        {
+          "title": "特朗普结束访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
+        },
+        {
+          "title": "特朗普结束访华 登空军一号挥手告别",
+          "url": "https://www.toutiao.com/trending/7639187811891904539/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
+        },
+        {
+          "title": "特朗普：美国中餐馆比五大快餐店还多",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%AD%E9%A4%90%E9%A6%86%E6%AF%94%E4%BA%94%E5%A4%A7%E5%BF%AB%E9%A4%90%E5%BA%97%E8%BF%98%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13,
+            14,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 17时12分]"
+        },
+        {
+          "title": "特朗普结束访华 乘专机离开北京",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E+%E4%B9%98%E4%B8%93%E6%9C%BA%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
+        },
+        {
+          "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33178453",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
+        },
+        {
+          "title": "特朗普结束访华离开北京",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
+        },
+        {
+          "title": "特朗普结束访华 乘专机离开北京",
+          "url": "https://www.douyin.com/hot/2499944",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
+        },
+        {
+          "title": "特朗普：热情期待在华盛顿接待习主席",
+          "url": "https://www.toutiao.com/trending/7638941233318104619/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
+        },
+        {
+          "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181024",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://wallstreetcn.com/articles/3772334",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
         },
         {
           "title": "特朗普抵达中南海",
@@ -412,15 +541,26 @@
           "time_info": "[13时23分 ~ 13时24分]"
         },
         {
-          "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181994",
-          "source": "澎湃新闻",
+          "title": "特朗普访华欢迎宴会都有哪些中国企业家参加了？",
+          "url": "https://www.zhihu.com/question/2038335260765544921",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
+        },
+        {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部回应",
+          "url": "https://news.ifeng.com/c/8t9GTpf4N3w",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "17时12分"
         },
         {
           "title": "特朗普数亿美元证券交易记录曝光 买入英伟达、苹果相关证券",
@@ -434,128 +574,26 @@
           "time_info": "05时31分"
         },
         {
-          "title": "特朗普结束访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "特朗普：美国中餐馆比五大快餐店还多",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%AD%E9%A4%90%E9%A6%86%E6%AF%94%E4%BA%94%E5%A4%A7%E5%BF%AB%E9%A4%90%E5%BA%97%E8%BF%98%E5%A4%9A",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            13,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 15时17分]"
-        },
-        {
-          "title": "特朗普结束访华 登空军一号挥手告别",
-          "url": "https://www.toutiao.com/trending/7639187811891904539/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "特朗普结束访华 乘专机离开北京",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E+%E4%B9%98%E4%B8%93%E6%9C%BA%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33178453",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "特朗普结束访华离开北京",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "特朗普结束访华 乘专机离开北京",
-          "url": "https://www.douyin.com/hot/2499944",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181024",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "特朗普：热情期待在华盛顿接待习主席",
-          "url": "https://www.toutiao.com/trending/7638941233318104619/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "特朗普访华欢迎宴会都有哪些中国企业家参加了？",
-          "url": "https://www.zhihu.com/question/2038335260765544921",
+          "title": "特朗普结束对中国的国事访问，乘专机离开北京，如何评价此次来访？",
+          "url": "https://www.zhihu.com/question/2038626152567281104",
           "source": "知乎",
           "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "习近平同美国总统特朗普在中南海小范围会晤",
-          "url": "https://wallstreetcn.com/articles/3772334",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "17时12分"
         },
         {
           "title": "据NBC新闻：美国总统特朗普提交的道德披露文件显示，其进行了与美国股票相关的交易。",
@@ -604,6 +642,43 @@
           "time_info": "[02时43分 ~ 04时36分]"
         },
         {
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://www.cls.cn/detail/2372297",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 17时12分]"
+        },
+        {
+          "title": "外交部就特朗普访华情况答问",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E9%97%AE",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 17时12分]"
+        },
+        {
+          "title": "外交部发言人就美国总统特朗普访华情况答记者问",
+          "url": "https://www.cls.cn/detail/2372089",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 17时12分]"
+        },
+        {
           "title": "特朗普乘车抵达中南海",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E8%BD%A6%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%8D%97%E6%B5%B7",
           "source": "百度热搜",
@@ -614,29 +689,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时14分 ~ 13时24分]"
-        },
-        {
-          "title": "外交部就特朗普访华情况答问",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E9%97%AE",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时17分]"
-        },
-        {
-          "title": "外交部发言人就美国总统特朗普访华情况答记者问",
-          "url": "https://www.cls.cn/detail/2372089",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时17分]"
         },
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -709,15 +761,26 @@
           "time_info": "[13时23分 ~ 13时24分]"
         },
         {
-          "title": "习近平同美国总统特朗普在中南海小范围会晤",
-          "url": "https://www.cls.cn/detail/2372297",
+          "title": "特朗普离开这一幕中国军人尽显英姿",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%BB%E5%BC%80%E8%BF%99%E4%B8%80%E5%B9%95%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E5%B0%BD%E6%98%BE%E8%8B%B1%E5%A7%BF",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
+          "url": "https://www.cls.cn/detail/2372433",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "17时12分"
         },
         {
           "title": "美国总统特朗普：对伊朗不会再过于耐心。",
@@ -729,6 +792,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普离京 王毅机场送行",
+          "url": "https://www.toutiao.com/trending/7640008667797917211/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "跳票近一年 特朗普“土豪金”T1手机开始发货",
@@ -803,7 +877,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -825,7 +899,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -852,6 +926,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "特朗普离京现场的中国军人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%BB%E4%BA%AC%E7%8E%B0%E5%9C%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "特朗普乘车抵达中南海",
           "url": "https://flash.jin10.com/detail/20260515105540362800",
           "source": "金十数据",
@@ -869,7 +954,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -880,7 +965,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -902,9 +987,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "特朗普说中国军人棒极了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E6%A3%92%E6%9E%81%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "美众议院再度否决限制特朗普战争权力的议案 投票差距不断收窄",
@@ -921,7 +1017,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗外长：阿联酋直接参与侵略行动，是美以的同谋",
@@ -1032,6 +1128,18 @@
           "time_info": "[02时43分 ~ 03时37分]"
         },
         {
+          "title": "外交部回应中美元首是否谈及伊朗局势",
+          "url": "https://www.toutiao.com/trending/7638899887907700777/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 17时12分]"
+        },
+        {
           "title": "伊朗外长阿拉格齐：地区国家如今意识到，不能依赖美国和以色列来保障安全。",
           "url": "https://flash.jin10.com/detail/20260515021419544800",
           "source": "金十数据",
@@ -1056,17 +1164,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时46分 ~ 03时37分]"
-        },
-        {
-          "title": "外交部回应中美元首是否谈及伊朗局势",
-          "url": "https://www.toutiao.com/trending/7638899887907700777/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时17分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：如果我们没有对伊朗发动两次战争，我们将面临一个拥有核弹的实体，这对我们构成生存威胁。",
@@ -1126,6 +1223,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "美国已拒绝伊朗提出的结束战争方案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%8B%92%E7%BB%9D%E4%BC%8A%E6%9C%97%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "美国中央司令部：我们针对伊朗的所有行动完全符合武装冲突法。",
           "url": "https://flash.jin10.com/detail/20260515000535534800",
           "source": "金十数据",
@@ -1146,6 +1254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://www.cls.cn/detail/2372496",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "伊朗议会内部事务委员会成员纳哈伊：作为对敌人任何侵略行径的回应，宣布关闭曼德海峡是合适的，这样侵略的代价对他们而言将变得难以承受。",
@@ -1201,6 +1320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国方面给的消息前后矛盾是主要问题。",
+          "url": "https://wallstreetcn.com/livenews/3104272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗所做的，不仅仅是一场与美以的战争，而是影响了整个世界，国际社会正在等待和平的实现。",
@@ -1300,6 +1430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://wallstreetcn.com/livenews/3104255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     },
@@ -1552,7 +1693,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
@@ -1589,6 +1730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "OpenAI首席财务官：或将筹集更多资金，未来可能考虑通过公开市场融资",
+          "url": "https://wallstreetcn.com/livenews/3104253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     },
@@ -1671,7 +1823,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -1682,7 +1834,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
@@ -1699,7 +1851,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
