@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T21:35:49.976789+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-05-17T22:35:30.762181+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时14分 ~ 21时35分]"
+          "appearance_count": 12,
+          "time_info": "[11时14分 ~ 22时35分]"
         },
         {
           "title": "伊朗股市将于下周二重新开放。（伊朗国家媒体）",
@@ -111,11 +111,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时14分 ~ 21时35分]"
+          "appearance_count": 12,
+          "time_info": "[11时14分 ~ 22时35分]"
         },
         {
           "title": "伊朗：已制定管理霍尔木兹海峡指定航道的专业机制",
@@ -190,8 +191,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 21时35分]"
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 22时35分]"
         },
         {
           "title": "伊朗军方：若美国再次发起军事行动将面临“进攻性回应”",
@@ -201,11 +202,28 @@
             1,
             3,
             7,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 21时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 22时35分]"
+        },
+        {
+          "title": "伊朗议长谴责以色列“违反承诺”",
+          "url": "https://wallstreetcn.com/livenews/3104862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            10,
+            14,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 22时35分]"
         },
         {
           "title": "伊朗称美方对伊朗提出5个关键条件",
@@ -215,11 +233,12 @@
             3,
             5,
             9,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 21时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 22时35分]"
         },
         {
           "title": "伊朗股市将于下周二重开",
@@ -235,21 +254,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时29分 ~ 07时23分]"
-        },
-        {
-          "title": "伊朗议长谴责以色列“违反承诺”",
-          "url": "https://wallstreetcn.com/livenews/3104862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            10,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 21时35分]"
         },
         {
           "title": "据伊朗官方媒体：伊朗股市将于下周二重开。",
@@ -297,15 +301,18 @@
           "time_info": "[05时21分 ~ 09时41分]"
         },
         {
-          "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
-          "url": "https://wallstreetcn.com/livenews/3104883",
+          "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
+          "url": "https://wallstreetcn.com/livenews/3104872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2,
+            6,
+            12,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 22时35分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：世界正站在新秩序的开端。未来属于全球南方国家。",
@@ -335,19 +342,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 04时21分]"
-        },
-        {
-          "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
-          "url": "https://wallstreetcn.com/livenews/3104872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时32分 ~ 21时35分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔首相兼外交大臣与沙特外交大臣进行了电话会谈。双方回顾了两国的合作关系及进一步支持和强化合作的途径，还讨论了地区局势发展，尤其是涉及美国与伊朗停火的相关事项，以及旨在降级紧张局势、提升地区安全与稳定的努力。",
@@ -423,6 +417,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 09时41分]"
+        },
+        {
+          "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
+          "url": "https://wallstreetcn.com/livenews/3104883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时35分]"
         },
         {
           "title": "北约情报机构认为伊朗仍保有大部分导弹库存及设施",
@@ -515,6 +521,17 @@
           "time_info": "[16时49分 ~ 17时39分]"
         },
         {
+          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时35分]"
+        },
+        {
           "title": "据伊朗国际电视台：伊朗推出了一项针对途经霍尔木兹海峡船只的新海上保险平台。据相关报道，该系统提供数字化保险保单。",
           "url": "https://flash.jin10.com/detail/20260517061552694800",
           "source": "金十数据",
@@ -599,6 +616,17 @@
           "time_info": "[18时34分 ~ 19时32分]"
         },
         {
+          "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
+          "url": "https://news.ifeng.com/c/8tCrbKpsiVO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "伊朗宣布5月19日起恢复股市交易",
           "url": "https://www.douyin.com/hot/2501755",
           "source": "抖音",
@@ -608,17 +636,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
-        },
-        {
-          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
         },
         {
           "title": "据俄新社：克里姆林宫表示，俄罗斯总统普京与阿联酋总统通电话，讨论了中东和伊朗问题。",
@@ -723,7 +740,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -733,8 +750,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 21时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时24分 ~ 22时35分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -755,11 +772,12 @@
             3,
             2,
             1,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时55分 ~ 21时35分]"
+          "appearance_count": 15,
+          "time_info": "[08时55分 ~ 22时35分]"
         },
         {
           "title": "特朗普警告台独",
@@ -798,8 +816,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 21时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时24分 ~ 22时35分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -814,6 +832,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[15时05分 ~ 21时35分]"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时05分 ~ 22时35分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -873,20 +905,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时24分 ~ 13时22分]"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时05分 ~ 21时35分]"
         },
         {
           "title": "台舆论称特朗普不许台独视美为靠山",
@@ -961,6 +979,17 @@
           "time_info": "[18时34分 ~ 21时35分]"
         },
         {
+          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
+          "url": "https://flash.jin10.com/detail/20260517215033948800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
           "url": "https://flash.jin10.com/detail/20260517181500544800",
           "source": "金十数据",
@@ -1004,6 +1033,18 @@
           "time_info": "[01时26分 ~ 04时21分]"
         },
         {
+          "title": "国民党副主席回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 22时35分]"
+        },
+        {
           "title": "特朗普警告“台独”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D",
           "source": "百度热搜",
@@ -1021,23 +1062,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 21时35分]"
-        },
-        {
-          "title": "国民党副主席回应特朗普涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 22时35分]"
         },
         {
           "title": "据华盛顿邮报：巴西总统卢拉表示，希望美国总统特朗普能尊重巴西，理解他在巴西是民主选举产生的总统。",
@@ -1165,6 +1195,17 @@
           "time_info": "[20时27分 ~ 21时35分]"
         },
         {
+          "title": "据韩联社：韩国总统李在明与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260517213955159800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "美参议院官员删除特朗普白宫宴会厅安保资金条款",
           "url": "https://flash.jin10.com/detail/20260517102530488800",
           "source": "金十数据",
@@ -1288,8 +1329,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时40分 ~ 21时35分]"
+          "appearance_count": 14,
+          "time_info": "[09时40分 ~ 22时35分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -1344,11 +1385,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 22时35分]"
         }
       ]
     },
@@ -1367,8 +1409,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时22分 ~ 21时35分]"
+          "appearance_count": 11,
+          "time_info": "[13时22分 ~ 22时35分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
