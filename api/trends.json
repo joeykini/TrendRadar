@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T21:15:52.196791+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2026-05-19T23:12:01.633883+08:00",
+  "total_titles_processed": 1832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 94,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时58分 ~ 21时15分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 23时12分]"
         },
         {
           "title": "外交部回应特朗普涉台表态",
@@ -223,6 +223,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "美国总统特朗普：无论是通过军事手段还是达成协议，情况很快就会开始好转。",
+          "url": "https://flash.jin10.com/detail/20260519230514214800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "特朗普：取消原定明天对伊朗发动袭击的计划",
           "url": "https://wallstreetcn.com/livenews/3105568",
           "source": "华尔街见闻-快讯",
@@ -232,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "美国总统特朗普：我们还没有撤离伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3106147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "据福克斯商业：美联储主席提名人沃什将于周五在白宫宣誓就职，宣誓仪式将由特朗普主持。",
@@ -256,6 +278,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "美国总统特朗普：伊朗这次学到了教训，霍尔木兹海峡是国际水域，不是他们的私有领土。",
+          "url": "https://flash.jin10.com/detail/20260519230341382800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国总统特朗普：（对伊朗的）袭击原定于明天进行。",
           "url": "https://flash.jin10.com/detail/20260519030339830800",
           "source": "金十数据",
@@ -265,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗和高油价）都不会再持续太久。",
+          "url": "https://flash.jin10.com/detail/20260519230244917800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "日专家：特朗普暗示日本过头了",
@@ -289,6 +333,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "美国总统特朗普：可能会出台其他举措来压低汽油价格。",
+          "url": "https://flash.jin10.com/detail/20260519230201591800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "报道：特朗普将于周五主持沃什宣誓就职的仪式",
           "url": "https://wallstreetcn.com/livenews/3105534",
           "source": "华尔街见闻-快讯",
@@ -309,6 +364,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美国总统特朗普：我们目前还不会离开伊朗，要把正确的事情做完。",
+          "url": "https://flash.jin10.com/detail/20260519230146891800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "特朗普称不考虑向伊朗作任何让步，美官员称美同意暂时豁免对伊石油制裁是假消息",
+          "url": "https://wallstreetcn.com/articles/3772567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时09分 ~ 23时12分]"
         },
         {
           "title": "UP主独家解读特朗普访华国宴",
@@ -360,16 +438,26 @@
           "time_info": "[06时26分 ~ 07时28分]"
         },
         {
-          "title": "特朗普称不考虑向伊朗作任何让步，美官员称美同意暂时豁免对伊石油制裁是假消息",
-          "url": "https://wallstreetcn.com/articles/3772567",
-          "source": "华尔街见闻",
+          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
+          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
+          "source": "凤凰网",
           "ranks": [
-            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时12分]"
+        },
+        {
+          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
+          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
+          "source": "凤凰网",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时15分]"
+          "time_info": "[21时15分 ~ 23时12分]"
         },
         {
           "title": "外交部回应特朗普涉台表态",
@@ -563,17 +651,6 @@
           "time_info": "[02时43分 ~ 03时36分]"
         },
         {
-          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
-          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
           "title": "美国司法部设17.76亿美元基金 补偿遭“政治针对”特朗普盟友",
           "url": "https://flash.jin10.com/detail/20260519002643967800",
           "source": "金十数据",
@@ -596,15 +673,26 @@
           "time_info": "08时58分"
         },
         {
-          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
-          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：伊朗仍有一定的报复能力，但不多。",
+          "url": "https://flash.jin10.com/detail/20260519230101989800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "特朗普称美方可能不得不对伊朗“再予以一击”",
+          "url": "https://wallstreetcn.com/livenews/3106137",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时15分"
+          "time_info": "23时12分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
@@ -629,6 +717,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "美国总统特朗普：将为得州参议院竞选进行背书。",
+          "url": "https://flash.jin10.com/detail/20260519225703881800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "特朗普暗示日本过头了",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86",
           "source": "百度热搜",
@@ -651,6 +750,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "美国总统特朗普：无论对伊朗的军事行动是否获得民众支持，我都不会允许世界在我眼前被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260519225652252800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "特朗普称“不考虑向德黑兰作出任何让步”",
           "url": "https://flash.jin10.com/detail/20260519020526852800",
           "source": "金十数据",
@@ -662,13 +772,24 @@
           "time_info": "02时43分"
         },
         {
+          "title": "特朗普：伊朗时间有限 美国可能会再次对伊朗采取行动",
+          "url": "https://flash.jin10.com/detail/20260519225638359800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "为何特朗普抛涉台“四不”说法",
           "url": "https://www.toutiao.com/trending/7640681040356671526/",
           "source": "今日头条",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -682,6 +803,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "伊朗议会国家安全与外交政策委员会主席Azizi：特朗普显然不在乎波斯湾国家元首之间的调解，他唯一听得懂的语言是实力。",
+          "url": "https://flash.jin10.com/detail/20260519225631068800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美国总统特朗普谈与伊朗接近达成协议，宣称：我以前就听过这种说法。 （谈伊朗问题时间表）可能是两三天，也可能到下周初。 正在有限的时间（窗口期）内等待伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3106132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国总统特朗普：我们将看看与伊朗的谈判是否会有成果。",
@@ -704,6 +847,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "伊朗议会国家安全与外交政策委员会主席Azizi：特朗普现在的犹豫源于一个现实，他知道对伊朗的任何行动都将面临果断的军事回击和团结一致的民族。",
+          "url": "https://flash.jin10.com/detail/20260519225554539800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国总统特朗普：打折销售的药品规模扩大六倍。 TrumpPx网站上架的药品增加600种仿制药。",
@@ -745,7 +899,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -783,15 +937,37 @@
           "time_info": "08时58分"
         },
         {
+          "title": "美国总统特朗普：很快你们就会知道我们是否需要再来一次重拳出击。",
+          "url": "https://wallstreetcn.com/livenews/3106127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美防长模仿特朗普口音",
           "url": "https://www.douyin.com/hot/2504566",
           "source": "抖音",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
+        },
+        {
+          "title": "美国总统特朗普：我没有时间向人民解释这场战争，因为我正忙于结束它。",
+          "url": "https://flash.jin10.com/detail/20260519225059552800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国民主党：特朗普不能在IRS和解案中“既当裁判又当运动员”",
@@ -816,6 +992,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "美国总统特朗普：我认为宗教对一个国家非常重要。",
+          "url": "https://flash.jin10.com/detail/20260519224951582800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国总统特朗普宣布扩大折扣药品定价计划。",
           "url": "https://flash.jin10.com/detail/20260519052015836800",
           "source": "金十数据",
@@ -827,6 +1014,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "美国总统特朗普：我毫不怀疑，如果伊朗获得核武器，他们会使用它。",
+          "url": "https://flash.jin10.com/detail/20260519224724697800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美再延长俄海运石油制裁豁免30天；应海湾盟友请求，特朗普取消原定19日的对伊军事打击，国际油价应声跳水。当前美油空头仍占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260519103859683800",
           "source": "金十数据",
@@ -836,6 +1034,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗战争）每个人都告诉我这不受欢迎，但我认为它非常受欢迎。",
+          "url": "https://flash.jin10.com/detail/20260519224638436800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗人获得核武器，他们将会摧毁以色列。",
+          "url": "https://flash.jin10.com/detail/20260519224526283800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美国总统特朗普：我同意再给伊朗2到3天的时间，也许到周五或周六，也许到下周初，时间有限。",
+          "url": "https://flash.jin10.com/detail/20260519224449922800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美国总统特朗普展示白宫舞厅的建设情况。",
+          "url": "https://wallstreetcn.com/livenews/3106119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "特朗普：将推迟攻击伊朗",
@@ -863,7 +1105,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 68,
+      "match_count": 71,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -929,6 +1171,22 @@
           "time_info": "[01时04分 ~ 08时58分]"
         },
         {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            16,
+            13,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时14分 ~ 23时12分]"
+        },
+        {
           "title": "美方被曝将暂停对伊朗的石油制裁",
           "url": "https://news.ifeng.com/c/8tEXAzuY8D3",
           "source": "凤凰网",
@@ -949,21 +1207,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时04分 ~ 07时28分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            16,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时14分 ~ 21时15分]"
         },
         {
           "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
@@ -996,9 +1239,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时12分]"
         },
         {
           "title": "澳洲联储会议纪要：委员会讨论了金融市场是否低估了伊朗冲突风险的可能性。",
@@ -1032,6 +1275,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时09分 ~ 23时12分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -1119,15 +1374,16 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
-          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
+          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            15,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时15分]"
+          "time_info": "[21时15分 ~ 23时12分]"
         },
         {
           "title": "CNBC记者：美国官员表示，伊朗国家媒体关于美国同意在谈判期间解除石油制裁的报道是虚假的。",
@@ -1231,6 +1487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "美国财政部：我们的盟友需监控伊朗的影子舰队，以防止通过不受制裁的油轮转运石油。",
+          "url": "https://flash.jin10.com/detail/20260519230030315800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美媒称中东多国领导人希望美国暂缓打击伊朗",
@@ -1371,18 +1638,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1396,6 +1652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "伊朗副外长：伊朗已准备好应对任何军事侵略",
+          "url": "https://wallstreetcn.com/livenews/3106130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "沙特媒体：伊朗提出有条件地将浓缩铀转到俄罗斯",
@@ -1440,6 +1707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "美国财政部长贝森特提醒金融机构警惕伊朗的操纵行为，声称伊朗试图“破坏”金融体系。",
+          "url": "https://wallstreetcn.com/livenews/3106126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "伊朗哈尔克岛连续10天未见油轮",
@@ -1591,7 +1869,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1643,7 +1921,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -1654,8 +1932,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时25分 ~ 21时15分]"
+          "appearance_count": 16,
+          "time_info": "[06时25分 ~ 23时12分]"
         },
         {
           "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
@@ -1828,6 +2106,17 @@
           "time_info": "[04时42分 ~ 05时32分]"
         },
         {
+          "title": "美股开盘：西部数据、闪迪跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E3%80%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
+        },
+        {
           "title": "美股开盘：百度集团涨近4%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%BF%914%25",
           "source": "百度热搜",
@@ -1846,7 +2135,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1893,12 +2182,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
+        },
+        {
+          "title": "美股芯片板块跌3.5%，软件概念股继续走高",
+          "url": "https://wallstreetcn.com/livenews/3106117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美债收益率破5%有何影响",
@@ -1921,8 +2221,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时14分 ~ 21时15分]"
+          "appearance_count": 11,
+          "time_info": "[11时14分 ~ 23时12分]"
         },
         {
           "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
@@ -1935,6 +2235,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时27分 ~ 17时18分]"
+        },
+        {
+          "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
+          "url": "https://wallstreetcn.com/articles/3772605",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -2028,6 +2339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "美国两年期国债收益率涨至4.11%，创2025年2月份以来新高。 五年期/七年期美债收益率日内涨幅扩大至10个基点。",
+          "url": "https://wallstreetcn.com/livenews/3106116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
@@ -2142,7 +2464,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
@@ -2159,6 +2481,17 @@
           "time_info": "[13时27分 ~ 19时10分]"
         },
         {
+          "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3106144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
           "url": "https://wallstreetcn.com/livenews/3105604",
           "source": "华尔街见闻-快讯",
@@ -2169,6 +2502,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时26分]"
+        },
+        {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
         },
         {
           "title": "报道：谷歌与黑石集团拟成立一家新的AI云公司",
