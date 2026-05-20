@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T13:27:54.975569+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-05-20T15:23:50.575471+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时30分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[07时30分 ~ 15时23分]"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -44,8 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时43分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[02时43分 ~ 15时23分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -59,6 +59,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时58分 ~ 13时27分]"
+        },
+        {
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 15时23分]"
         },
         {
           "title": "谷歌搜索宣布大改版 AI模式与代理助手全面嵌入",
@@ -78,22 +91,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
-        },
-        {
-          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2376118",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 13时27分]"
         },
         {
           "title": "谷歌展示Google Flow Music。",
@@ -191,6 +191,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时31分]"
+        },
+        {
+          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
+          "url": "https://www.cls.cn/detail/2376249",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时23分]"
         },
         {
           "title": "谷歌公司将在美国面向AI Ultra订阅用户推出Gemini Spark测试版。",
@@ -357,17 +369,6 @@
           "time_info": "09时49分"
         },
         {
-          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
-          "url": "https://www.cls.cn/detail/2376249",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "谷歌I/O大会全复盘",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CI%2FO%E5%A4%A7%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
@@ -396,7 +397,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -432,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "谷歌Gemini3.5系列模型",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8CGemini3.5%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "谷歌开发者大会",
@@ -481,7 +493,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -504,8 +516,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时04分 ~ 13时27分]"
+          "appearance_count": 17,
+          "time_info": "[01时04分 ~ 15时23分]"
         },
         {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
@@ -540,11 +552,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 15时23分]"
         },
         {
           "title": "为何特朗普抛涉台“四不”说法",
@@ -768,7 +781,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -872,6 +885,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "特朗普称台偷走芯片产业 国台办回应",
+          "url": "https://www.toutiao.com/trending/7641090156523716649/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "特朗普3月推迟打击伊朗前原油期货现异动，CFTC展开调查",
           "url": "https://flash.jin10.com/detail/20260520092125955800",
           "source": "金十数据",
@@ -908,7 +932,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -974,6 +998,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "印尼央行行长：通胀保持在低位，必须应对全球动态的影响。原油价格的上涨与伊朗战争有关，可能会影响国内通胀。",
+          "url": "https://flash.jin10.com/detail/20260520151330905800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "伊朗：美国关于伊朗学校位于巡航导弹基地内的说法毫无根据。",
@@ -1092,6 +1127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "伊朗方面表示，美国关于其击中的伊朗学校位于巡航导弹基地内的说法毫无根据。",
@@ -1235,8 +1281,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时35分 ~ 13时27分]"
+          "appearance_count": 11,
+          "time_info": "[05时35分 ~ 15时23分]"
         },
         {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
@@ -1430,7 +1476,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -1471,11 +1517,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 15时23分]"
         },
         {
           "title": "汇丰：10年期美债收益率在危险区，但尚未发出买入信号",
@@ -1488,6 +1535,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时40分]"
+        },
+        {
+          "title": "WTI多头仍占优，黄金高位拉扯，美债警报突然变响｜市场赔率数据表",
+          "url": "https://flash.jin10.com/detail/20260520151055539800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -1515,8 +1573,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "软银创始人孙正义对OpenAI的集中押注日益引发担忧",
+          "url": "https://wallstreetcn.com/livenews/3106553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
         {
           "title": "OpenAI创始人跳槽Anthropic",
           "url": "https://s.weibo.com/weibo?q=OpenAI%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B7%B3%E6%A7%BDAnthropic&t=31&band_rank=28&Refer=top",
@@ -1664,7 +1733,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "高盛：金价回调不改长期涨势",
@@ -1688,6 +1757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "金十图示：2026年05月20日（周三）上海金午盘价为983.69元/克，较国际金价(980.63元/克)，高3.06元/克",
+          "url": "https://flash.jin10.com/detail/20260520150440630800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     }
