@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T09:48:35.206852+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-05-21T11:15:59.649274+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗：将在“强烈不信任美国”的情况下继续推进谈判",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "分析师指出，受伊朗战争导致石油出口受阻的影响，沙特被迫关闭了部分油田，进而导致天然气供应中断，预计今年夏季，沙特将因此燃烧更多进口燃料油用于发电。",
+          "url": "https://flash.jin10.com/detail/20260521110018707800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "美国已经向伊朗发送新文本。 伊朗正在审阅，尚未做出回应。（伊朗媒体Tasnim）",
@@ -243,6 +254,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗目前正在研究美国的观点。",
           "url": "https://flash.jin10.com/detail/20260521005852156800",
           "source": "金十数据",
@@ -342,6 +364,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "伊朗努尔新闻(Nour News)：伊朗外交部发言人表示已收到美方意见，目前正在进行审查。",
+          "url": "https://flash.jin10.com/detail/20260521103913680800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
           "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
           "url": "https://wallstreetcn.com/livenews/3106964",
           "source": "华尔街见闻-快讯",
@@ -389,7 +422,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -421,19 +454,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时13分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时13分 ~ 11时15分]"
         },
         {
           "title": "特朗普，“退了一万亿”",
           "url": "https://news.ifeng.com/c/8tIcotw8V5W",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 11时15分]"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 11时15分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "特朗普：我们还记着古巴，起诉前古巴总统卡斯特罗是一个非常重要的时刻。古巴是一个失败的国家，无法预测他们的未来。",
@@ -481,17 +538,6 @@
           "time_info": "[03时48分 ~ 04时48分]"
         },
         {
-          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
-          "url": "https://wallstreetcn.com/articles/3772754",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 09时48分]"
-        },
-        {
           "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
           "url": "https://www.cls.cn/detail/2377369",
           "source": "财联社热门",
@@ -499,8 +545,20 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 11时15分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 08时59分]"
+          "time_info": "[09时48分 ~ 11时15分]"
         },
         {
           "title": "美国总统特朗普与以色列总理内塔尼亚胡周二就伊朗问题进行了气氛紧张的通话。（Axios）",
@@ -526,6 +584,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
           "title": "美国参议员肯尼迪：参议院未获得通过特朗普舞厅资金提案的足够支持。",
           "url": "https://flash.jin10.com/detail/20260521023330632800",
           "source": "金十数据",
@@ -546,17 +615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
-        },
-        {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
         },
         {
           "title": "土耳其总统府：土耳其总统埃尔多安与特朗普进行了电话交谈。",
@@ -625,13 +683,24 @@
           "time_info": "03时48分"
         },
         {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
           "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
           "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -691,6 +760,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "美伊谈判出现缓和信号，特朗普称美伊谈判已进入最后阶段，美以对伊政策分歧日益公开化......当前金银多头情绪不减、美油陷入多空拉锯，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260521103458120800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
           "title": "特朗普：（关于伊朗）我们必须得到正确的答案。",
           "url": "https://flash.jin10.com/detail/20260521024415165800",
           "source": "金十数据",
@@ -738,8 +818,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时35分 ~ 09时48分]"
+          "appearance_count": 6,
+          "time_info": "[06时35分 ~ 11时15分]"
         },
         {
           "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
@@ -750,8 +830,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 09时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 11时15分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
@@ -1109,8 +1189,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 11时15分]"
         },
         {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -1207,7 +1287,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
