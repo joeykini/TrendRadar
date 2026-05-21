@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T05:36:29.520539+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-05-22T06:33:32.534246+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "中方回应特朗普称将与赖清德对话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "中方回应特朗普称将与赖清德谈军售",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
@@ -73,30 +73,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
-          "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
-          "url": "https://flash.jin10.com/detail/20260522050949939800",
-          "source": "金十数据",
+          "title": "美国总统特朗普将于美东时间周五上午11点主持沃什的美联储主席就职宣誓仪式。",
+          "url": "https://wallstreetcn.com/livenews/3107644",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "特朗普宣布将向波兰增兵5000人 推翻五角大楼一周前撤军计划",
-          "url": "https://flash.jin10.com/detail/20260522050714239800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "06时33分"
         },
         {
           "title": "美国总统特朗普：将向波兰增派5000名士兵。",
@@ -108,6 +97,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
+          "url": "https://flash.jin10.com/detail/20260522050949939800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时33分]"
         },
         {
           "title": "美国总统特朗普：如果DC（华盛顿特区）和波多黎各成为州，那将是“灾难”。",
@@ -122,6 +123,31 @@
           "time_info": "[00时58分 ~ 01时45分]"
         },
         {
+          "title": "美国总统特朗普：美国将向波兰增派5000名士兵。",
+          "url": "https://flash.jin10.com/detail/20260522042656396800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时33分]"
+        },
+        {
+          "title": "特朗普宣布将向波兰增兵5000人 推翻五角大楼一周前撤军计划",
+          "url": "https://flash.jin10.com/detail/20260522050714239800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时33分]"
+        },
+        {
           "title": "美国总统特朗普：牛肉价格将下降。",
           "url": "https://wallstreetcn.com/livenews/3107554",
           "source": "华尔街见闻-快讯",
@@ -134,18 +160,6 @@
           "time_info": "[00时58分 ~ 01时45分]"
         },
         {
-          "title": "美国总统特朗普：美国将向波兰增派5000名士兵。",
-          "url": "https://flash.jin10.com/detail/20260522042656396800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
-        },
-        {
           "title": "美国总统特朗普兜售股市上涨。 目前，标普跌超0.3%，道指跌107点，纳指跌0.47%。",
           "url": "https://wallstreetcn.com/livenews/3107553",
           "source": "华尔街见闻-快讯",
@@ -156,6 +170,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时45分]"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
+          "url": "https://wallstreetcn.com/livenews/3107623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时33分]"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀 称到手后或销毁",
+          "url": "https://flash.jin10.com/detail/20260522041941266800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时33分]"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -183,18 +223,6 @@
           "time_info": "[00时58分 ~ 01时45分]"
         },
         {
-          "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
-          "url": "https://wallstreetcn.com/livenews/3107623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
-        },
-        {
           "title": "IBM(IBM.N)涨超11%，公司获得特朗普政府的资金支持。",
           "url": "https://flash.jin10.com/detail/20260522022754736800",
           "source": "金十数据",
@@ -219,16 +247,16 @@
           "time_info": "[02时44分 ~ 03时37分]"
         },
         {
-          "title": "特朗普再威胁伊朗交出浓缩铀 称到手后或销毁",
-          "url": "https://flash.jin10.com/detail/20260522041941266800",
-          "source": "金十数据",
+          "title": "特朗普称将向波兰增派5000名美军",
+          "url": "https://wallstreetcn.com/livenews/3107628",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            14
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
+          "time_info": "[05时36分 ~ 06时33分]"
         },
         {
           "title": "特朗普宣称，美国将获得伊朗的浓缩铀。 新华社此前援引路透报道称，伊朗最高领袖穆杰塔巴·哈梅内伊已下达指令，要求该国浓缩铀库存不得运往国外。",
@@ -254,15 +282,15 @@
           "time_info": "00时58分"
         },
         {
-          "title": "特朗普称将向波兰增派5000名美军",
-          "url": "https://wallstreetcn.com/livenews/3107628",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士称，美国国土安全部部长马林警告航空公司高管，特朗普政府可能暂停部分“庇护城市”机场的国际旅行处理服务。",
+          "url": "https://flash.jin10.com/detail/20260522053538980800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "06时33分"
         },
         {
           "title": "美国总统特朗普：（关于人工智能行政命令）这一政令被推迟，因为我对某些方面不满意。",
@@ -444,7 +472,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
@@ -457,8 +485,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -468,8 +496,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时33分]"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://wallstreetcn.com/articles/3772837",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时44分 ~ 06时33分]"
         },
         {
           "title": "伊朗外交部：现阶段谈判重点是结束所有战线战争",
@@ -494,16 +534,15 @@
           "time_info": "03时37分"
         },
         {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://wallstreetcn.com/articles/3772837",
-          "source": "华尔街见闻",
+          "title": "据伊朗学生通讯社：（美伊）信息交流旨在达成协议框架。",
+          "url": "https://flash.jin10.com/detail/20260522053719602800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时44分 ~ 05时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "胡塞武装领导人：全力支持伊朗 以色列可以被击败",
@@ -511,11 +550,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时33分]"
         },
         {
           "title": "伊朗外交部：现阶段谈判重点是结束所有战线战争",
@@ -531,6 +571,19 @@
           "time_info": "[01时45分 ~ 03时37分]"
         },
         {
+          "title": "沙特阿拉伯卫星电视台：伊朗媒体报道称美伊协议已达成并将此消息源归于本台的说法是捏造的。 伊朗媒体在未经核实的情况下将相关报道归于本台的行为属于新闻失实。",
+          "url": "https://wallstreetcn.com/livenews/3107624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时33分]"
+        },
+        {
           "title": "伊朗外交部：伊朗外长与奥地利外长周四下午进行了电话交谈，讨论了最新的外交动态及双边关系相关问题，进行了意见交流。",
           "url": "https://flash.jin10.com/detail/20260522002235311800",
           "source": "金十数据",
@@ -543,16 +596,17 @@
           "time_info": "[00时58分 ~ 01时45分]"
         },
         {
-          "title": "沙特阿拉伯卫星电视台：伊朗媒体报道称美伊协议已达成并将此消息源归于本台的说法是捏造的。 伊朗媒体在未经核实的情况下将相关报道归于本台的行为属于新闻失实。",
-          "url": "https://wallstreetcn.com/livenews/3107624",
+          "title": "伊朗高级官员：双方目前尚未达成任何最终协议，但彼此之间的立场差距已有所收窄。 伊朗的铀浓缩活动及其对霍尔木兹海峡的控制权，依然是当前谈判中最核心的僵持点（梗阻所在）。",
+          "url": "https://wallstreetcn.com/livenews/3107609",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            10
+            18,
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时33分]"
         },
         {
           "title": "战损惨重！伊朗已击毁价值近10亿美元的美国“死神”无人机",
@@ -591,18 +645,6 @@
           "time_info": "[04时41分 ~ 05时36分]"
         },
         {
-          "title": "伊朗高级官员：双方目前尚未达成任何最终协议，但彼此之间的立场差距已有所收窄。 伊朗的铀浓缩活动及其对霍尔木兹海峡的控制权，依然是当前谈判中最核心的僵持点（梗阻所在）。",
-          "url": "https://wallstreetcn.com/livenews/3107609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
-        },
-        {
           "title": "【巴基斯坦官员：美伊谈判正朝着正确的方向发展】一名巴基斯坦参议员在接受媒体采访时表示，伊朗与巴基斯坦之间以及巴基斯坦与美国之间的谈判仍在进行中，巴基斯坦尽一切努力促使各方回到谈判桌前，减少分歧，达成协议，结束战争。他还表示，美伊谈判正朝着正确的方向发展。伊朗和美国之间的谈判已经取得进展，并对此持乐观态度。（央视）",
           "url": "https://wallstreetcn.com/livenews/3107603",
           "source": "华尔街见闻-快讯",
@@ -613,6 +655,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时36分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗与美国之间的消息交流正在进行，巴基斯坦方面从中进行调解。",
+          "url": "https://flash.jin10.com/detail/20260522053700213800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "据伊朗劳工通讯社（ILNA）援引阿拉伯卫星电视台消息，在巴基斯坦斡旋下，美伊协议的最终草案已经达成，预计将在未来数小时内公布。",
@@ -651,7 +704,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股盘中）",
@@ -683,11 +736,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时33分]"
         },
         {
           "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
@@ -695,11 +749,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时33分]"
         },
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
@@ -707,11 +762,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时33分]"
         },
         {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股收盘）",
@@ -719,11 +775,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时33分]"
         },
         {
           "title": "美股收盘：三大股指收涨 Arm涨16%",
@@ -736,6 +793,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时36分]"
+        },
+        {
+          "title": "据华尔街日报报道，IMAX探索出售，与多家娱乐公司进行了初步接触。 IMAX美股盘后涨14.34%。",
+          "url": "https://wallstreetcn.com/livenews/3107635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
+          "url": "https://www.cls.cn/detail/2378488",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股盘中）",
@@ -836,8 +915,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -890,7 +969,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -900,8 +979,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -911,8 +990,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时33分]"
         },
         {
           "title": "传美伊最终协议草案达成 美债收益率走低",
@@ -924,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "两年期美债收益率涨2.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3107639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "太平洋投资管理公司（PIMCO）的CIO Daniel Ivascyn：鉴于美债收益率飙涨，美联储将针对美国通胀问题采取行动。 如果通胀预期进一步抬头，美联储及其他主要央行可能不得不采取行动。 如果长期通胀预期“出现更显著的脱锚，那么即使面对经济疲软，你也将看到货币政策的收紧”，这将进一步加大股市和信用债市场的压力。",
