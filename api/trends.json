@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T15:22:34.204333+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-05-22T17:13:26.691964+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -68,23 +68,23 @@
           "time_info": "[00时58分 ~ 07时27分]"
         },
         {
+          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
+          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 17时13分]"
+        },
+        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
           "source": "凤凰网",
           "ranks": [
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
-          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -103,8 +103,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时58分 ~ 15时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时58分 ~ 17时13分]"
+        },
+        {
+          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
+          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 17时13分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
@@ -120,17 +131,6 @@
           "time_info": "[08时56分 ~ 15时22分]"
         },
         {
-          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
-          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 15时22分]"
-        },
-        {
           "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
           "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
           "source": "凤凰网",
@@ -139,8 +139,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 17时13分]"
         },
         {
           "title": "特朗普儿媳再忆中国行直呼震撼",
@@ -149,11 +149,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 17时13分]"
         },
         {
           "title": "美国总统特朗普：今天在能源和商务委员会就一项包括《阳光保护法案》在内的法案进行了重大投票（48票赞成，1票反对）！该法案将使夏令时永久化！",
@@ -176,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "波兰总理图斯克：特朗普总统关于美国军队在波兰驻扎的决定对波兰和美国来说是个好消息。",
+          "url": "https://flash.jin10.com/detail/20260522170749302800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "美众议院推迟表决限制特朗普对伊动武法案",
@@ -376,6 +388,17 @@
           "time_info": "[02时44分 ~ 03时37分]"
         },
         {
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 17时13分]"
+        },
+        {
           "title": "特朗普宣称，美国将获得伊朗的浓缩铀。 新华社此前援引路透报道称，伊朗最高领袖穆杰塔巴·哈梅内伊已下达指令，要求该国浓缩铀库存不得运往国外。",
           "url": "https://wallstreetcn.com/livenews/3107547",
           "source": "华尔街见闻-快讯",
@@ -398,6 +421,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 11时15分]"
+        },
+        {
+          "title": "特朗普说去不去儿子婚礼都会被骂",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%8E%BB%E4%B8%8D%E5%8E%BB%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%83%BD%E4%BC%9A%E8%A2%AB%E9%AA%82%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 17时13分]"
         },
         {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
@@ -439,18 +474,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
-          "url": "https://wallstreetcn.com/articles/3772862",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -510,6 +534,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "今晚11点！美联储新主席沃什将宣誓就职 特朗普“降息梦”能实现吗？",
+          "url": "https://www.cls.cn/detail/2378649",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "美国总统特朗普：我们将不得不退还1490亿美元的关税。",
           "url": "https://flash.jin10.com/detail/20260522001849483800",
           "source": "金十数据",
@@ -530,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美国国务卿卢比奥：特朗普对一些北约盟国感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3107918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "俄方不排除普京与特朗普11月在华会晤",
@@ -598,6 +644,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "特朗普拟建“凯旋门” 方案获批",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E5%BB%BA%E2%80%9C%E5%87%AF%E6%97%8B%E9%97%A8%E2%80%9D+%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "美国总统特朗普：我们不会允许伊朗拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260522001437518800",
           "source": "金十数据",
@@ -664,15 +721,15 @@
           "time_info": "13时27分"
         },
         {
-          "title": "特朗普说去不去儿子婚礼都会被骂",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%8E%BB%E4%B8%8D%E5%8E%BB%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%83%BD%E4%BC%9A%E8%A2%AB%E9%AA%82%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "美国务卿将向北约转达特朗普很失望",
+          "url": "https://wallstreetcn.com/livenews/3107900",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "17时13分"
         },
         {
           "title": "北约秘书长吕特对特朗普宣布美军在波兰部署兵力表示欢迎。",
@@ -681,7 +738,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -700,7 +757,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -714,8 +771,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时44分 ~ 15时22分]"
+          "appearance_count": 14,
+          "time_info": "[02时44分 ~ 17时13分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -723,11 +780,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时58分 ~ 09时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 17时13分]"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
@@ -750,11 +808,12 @@
           "ranks": [
             10,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[07时27分 ~ 17时13分]"
         },
         {
           "title": "伊朗外交部：现阶段谈判重点是结束所有战线战争",
@@ -960,6 +1019,39 @@
           "time_info": "01时45分"
         },
         {
+          "title": "阿联酋总统顾问安瓦尔：我们看到伊朗有能力使用其手中掌握的任何武器，这就是我们此次冲突得到的教训。我们必须避免进一步的军事竞争，但要深入挖掘以解决根本问题。",
+          "url": "https://flash.jin10.com/detail/20260522165508029800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "“是偶然还是趋势？” 伊朗冲突颠覆50万亿美元主权债市场中的通胀观点",
+          "url": "https://wallstreetcn.com/livenews/3107906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "阿联酋总统顾问安瓦尔：伊朗核计划曾是我们的第二或第三个担忧，现在是我们的首要担忧。",
+          "url": "https://flash.jin10.com/detail/20260522165415271800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "据英国金融时报：法国财政部长表示，各国在了解伊朗冲突将持续多久之前，无法决定是否释放更多石油储备。",
           "url": "https://flash.jin10.com/detail/20260522121242400800",
           "source": "金十数据",
@@ -974,7 +1066,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -1000,6 +1092,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "盈透证券美股盘前涨超9％，现报91美元。",
+          "url": "https://wallstreetcn.com/livenews/3107930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "美股盘前，老虎证券跌幅扩大至逾40%，富途控股跌超30%。",
+          "url": "https://wallstreetcn.com/livenews/3107928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
@@ -1081,6 +1195,18 @@
           "time_info": "[06时33分 ~ 07时27分]"
         },
         {
+          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
+          "url": "https://www.cls.cn/detail/2378668",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 17时13分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 Arm涨16%",
           "url": "https://flash.jin10.com/detail/20260522040124425800",
           "source": "金十数据",
@@ -1093,15 +1219,37 @@
           "time_info": "[04时41分 ~ 05时36分]"
         },
         {
-          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
-          "url": "https://www.cls.cn/detail/2378668",
-          "source": "财联社热门",
+          "title": "美股盘前，老虎证券跌幅扩大至逾33%，富途控股跌超25%。",
+          "url": "https://wallstreetcn.com/livenews/3107927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "美股盘前，老虎证券跌幅扩大至逾24%，富途控股跌超20%。",
+          "url": "https://wallstreetcn.com/livenews/3107925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "美股盘前，老虎证券跌近16%，富途控股跌近13%。",
+          "url": "https://wallstreetcn.com/livenews/3107922",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "17时13分"
         },
         {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股盘中）",
@@ -1239,8 +1387,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 17时13分]"
         },
         {
           "title": "传美伊最终协议草案达成 美债收益率走低",
@@ -1366,8 +1514,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 17时13分]"
         },
         {
           "title": "金价",
@@ -1387,7 +1535,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
