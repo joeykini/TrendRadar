@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T17:39:31.294991+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-05-23T18:35:33.054381+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
         {
           "title": "鲁比奥：伊朗问题确实有一些进展",
@@ -67,6 +67,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "伊朗顶级谈判员卡利巴夫会见巴基斯坦局方领导人（陆军参谋长穆尼尔）。（伊朗国家媒体）",
+          "url": "https://wallstreetcn.com/livenews/3108341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
           "url": "https://wallstreetcn.com/livenews/3108305",
           "source": "华尔街见闻-快讯",
@@ -80,6 +91,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时13分 ~ 17时39分]"
+        },
+        {
+          "title": "伊朗外长与巴基斯坦陆军参谋长会谈",
+          "url": "https://wallstreetcn.com/livenews/3108314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            14,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 18时35分]"
         },
         {
           "title": "伊朗关闭西部空域",
@@ -97,37 +123,19 @@
           "time_info": "[11时13分 ~ 17时39分]"
         },
         {
-          "title": "据沙特媒体哈达斯（Alhadath）：伊朗高级消息人士表示，我们将就争议问题进行谈判，但不包括导弹问题。我们目前提出的方案美国无法接受。",
-          "url": "https://flash.jin10.com/detail/20260523172032415800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）：伊朗高级消息人士表示，伊朗希望达成一项原则声明，以明确战争将如何结束，并希望就如何谈判争议问题确定明确机制。",
-          "url": "https://flash.jin10.com/detail/20260523171948830800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "伊朗民航局否认近期曾发布任何涉及限制航班飞行的警告",
-          "url": "https://wallstreetcn.com/livenews/3108330",
+          "title": "伊朗警告若再遭袭将开启战斗3.0",
+          "url": "https://wallstreetcn.com/livenews/3108310",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5,
+            12,
+            17,
+            22,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 18时35分]"
         },
         {
           "title": "拉夫罗夫：俄坚决反对再次发生针对伊朗的武装侵略",
@@ -144,43 +152,15 @@
           "time_info": "[08时55分 ~ 13时20分]"
         },
         {
-          "title": "伊朗外长与巴基斯坦陆军参谋长举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3108328",
+          "title": "伊朗革命卫队称过去24小时有25艘船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3108335",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "伊朗外长与巴基斯坦陆军参谋长会谈",
-          "url": "https://wallstreetcn.com/livenews/3108314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 17时39分]"
-        },
-        {
-          "title": "伊朗警告若再遭袭将开启战斗3.0",
-          "url": "https://wallstreetcn.com/livenews/3108310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 17时39分]"
+          "time_info": "18时35分"
         },
         {
           "title": "美国国务卿鲁比奥：美国与北约盟国正在讨论一项“B计划”，以应对伊朗拒绝重新开放霍尔木兹海峡的情况；部分北约国家可能支持采取应对措施。",
@@ -207,6 +187,44 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时55分 ~ 11时13分]"
+        },
+        {
+          "title": "伊朗外长与巴基斯坦陆军参谋长举行会谈",
+          "url": "https://flash.jin10.com/detail/20260523160536279800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 18时35分]"
+        },
+        {
+          "title": "消息人士：伊朗军方已制定新方案 随时应对敌方挑衅",
+          "url": "https://wallstreetcn.com/livenews/3108324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 18时35分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：伊朗高级消息人士表示，我们将就争议问题进行谈判，但不包括导弹问题。我们目前提出的方案美国无法接受。",
+          "url": "https://flash.jin10.com/detail/20260523172032415800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时35分]"
         },
         {
           "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
@@ -246,18 +264,6 @@
           "time_info": "[13时20分 ~ 15时02分]"
         },
         {
-          "title": "伊朗外长与巴基斯坦陆军参谋长举行会谈",
-          "url": "https://flash.jin10.com/detail/20260523160536279800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时39分]"
-        },
-        {
           "title": "据以色列第12频道：以色列军方宣布进入最高警戒状态，以防与伊朗可能发生的局势升级。",
           "url": "https://flash.jin10.com/detail/20260523131157063800",
           "source": "金十数据",
@@ -268,6 +274,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 15时02分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：伊朗高级消息人士表示，伊朗希望达成一项原则声明，以明确战争将如何结束，并希望就如何谈判争议问题确定明确机制。",
+          "url": "https://flash.jin10.com/detail/20260523171948830800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时35分]"
         },
         {
           "title": "受伊朗战争重创，全球航运巨头达飞海运第一季度利润暴跌",
@@ -282,16 +300,16 @@
           "time_info": "[03时36分 ~ 04时37分]"
         },
         {
-          "title": "消息人士：伊朗军方已制定新方案 随时应对敌方挑衅",
-          "url": "https://wallstreetcn.com/livenews/3108324",
+          "title": "伊朗民航局否认近期曾发布任何涉及限制航班飞行的警告",
+          "url": "https://wallstreetcn.com/livenews/3108330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            9
+            3,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时39分]"
+          "time_info": "[17时39分 ~ 18时35分]"
         },
         {
           "title": "伊朗外交部发言人：当前伊美谈判不涉及核问题",
@@ -306,6 +324,20 @@
           "time_info": "[02时43分 ~ 03时36分]"
         },
         {
+          "title": "伊朗外长：美国要求过分、立场矛盾 阻碍谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3108317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 18时35分]"
+        },
+        {
           "title": "伊朗外交部发言人：来自卡塔尔的代表团目前正在与伊朗外交部长进行会谈，但巴基斯坦方面仍是谈判中的调解方。",
           "url": "https://flash.jin10.com/detail/20260523012228131800",
           "source": "金十数据",
@@ -316,6 +348,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时43分]"
+        },
+        {
+          "title": "伊朗外长与巴基斯坦陆军参谋长举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3108328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时35分]"
         },
         {
           "title": "【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)",
@@ -355,19 +399,6 @@
           "time_info": "[13时20分 ~ 16时48分]"
         },
         {
-          "title": "伊朗外长：美国要求过分、立场矛盾 阻碍谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3108317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 17时39分]"
-        },
-        {
           "title": "报道：伊朗军方准备好应对美方任何行动",
           "url": "https://wallstreetcn.com/livenews/3108258",
           "source": "华尔街见闻-快讯",
@@ -392,6 +423,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时55分 ~ 11时13分]"
+        },
+        {
+          "title": "美媒发现不对劲：打伊朗都这么吃力，美国未来还怎么应对中国",
+          "url": "https://news.ifeng.com/c/8tMZVeAyacg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时35分]"
         },
         {
           "title": "伊朗外交部发言人：谈判的重点是结束战争。",
@@ -513,6 +555,30 @@
           "time_info": "[02时43分 ~ 03时36分]"
         },
         {
+          "title": "据伊朗媒体Fars News：伊朗伊斯兰革命卫队海军表示，过去24小时内，25艘船只在获得伊朗许可后通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260523170217653800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时35分]"
+        },
+        {
+          "title": "伊朗民航局否认近期曾发布任何涉及限制航班飞行的警告",
+          "url": "https://flash.jin10.com/detail/20260523170033585800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时35分]"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，目前阶段未讨论与核问题相关的细节。",
           "url": "https://flash.jin10.com/detail/20260523013343176800",
           "source": "金十数据",
@@ -573,6 +639,18 @@
           "time_info": "[13时20分 ~ 15时02分]"
         },
         {
+          "title": "伊朗国防部再对美发出警告",
+          "url": "https://flash.jin10.com/detail/20260523163431536800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时35分]"
+        },
+        {
           "title": "共和党参议员：美国应完成摧毁伊朗常规军事能力的行动",
           "url": "https://wallstreetcn.com/livenews/3108186",
           "source": "华尔街见闻-快讯",
@@ -608,17 +686,6 @@
           "time_info": "[13时20分 ~ 15时02分]"
         },
         {
-          "title": "美媒发现不对劲：打伊朗都这么吃力，美国未来还怎么应对中国",
-          "url": "https://news.ifeng.com/c/8tMZVeAyacg",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
           "title": "据半岛电视台：一位伊朗消息人士表示，目前尚未达成任何最终协议，双方正在努力缩小差距，停止所有战线的战争是未来任何谈判的基本前提。",
           "url": "https://flash.jin10.com/detail/20260523024028629800",
           "source": "金十数据",
@@ -630,15 +697,15 @@
           "time_info": "03时36分"
         },
         {
-          "title": "据伊朗媒体Fars News：伊朗伊斯兰革命卫队海军表示，过去24小时内，25艘船只在获得伊朗许可后通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260523170217653800",
+          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260523172347641800",
           "source": "金十数据",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "18时35分"
         },
         {
           "title": "伊朗外长：美国要求过分、立场矛盾 阻碍谈判进程",
@@ -652,17 +719,6 @@
           "time_info": "15时02分"
         },
         {
-          "title": "伊朗民航局否认近期曾发布任何涉及限制航班飞行的警告",
-          "url": "https://flash.jin10.com/detail/20260523170033585800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
           "title": "据以色列第12频道：以色列官员证实，以色列与华盛顿达成协议，禁止伊朗保留铀浓缩能力。",
           "url": "https://flash.jin10.com/detail/20260523131449442800",
           "source": "金十数据",
@@ -672,17 +728,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
-        },
-        {
-          "title": "伊朗国防部再对美发出警告",
-          "url": "https://flash.jin10.com/detail/20260523163431536800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）：高级消息人士透露，巴基斯坦陆军参谋长穆尼尔与伊朗革命卫队司令将于周六在德黑兰会晤。",
@@ -705,6 +750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 85 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2041297018006368689",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "伊朗外交部：伊朗外长阿拉格齐与阿曼外交大臣通话，讨论防止局势升级的外交努力。",
@@ -768,6 +824,19 @@
           "time_info": "[00时50分 ~ 07时29分]"
         },
         {
+          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
+          "url": "https://wallstreetcn.com/articles/3772951",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时12分 ~ 18时35分]"
+        },
+        {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
           "url": "https://www.zhihu.com/question/2040769816697558038",
           "source": "知乎",
@@ -781,19 +850,6 @@
           "time_info": "[00时50分 ~ 11时13分]"
         },
         {
-          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
-          "url": "https://wallstreetcn.com/articles/3772951",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时12分 ~ 17时39分]"
-        },
-        {
           "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
           "url": "https://wallstreetcn.com/articles/3772950",
           "source": "华尔街见闻",
@@ -803,8 +859,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 17时39分]"
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 18时35分]"
         },
         {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
@@ -813,9 +869,35 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时35分]"
+        },
+        {
+          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
+          "url": "https://wallstreetcn.com/articles/3772968",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 18时35分]"
+        },
+        {
+          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
+          "url": "https://www.zhihu.com/question/2041148892323000444",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 18时35分]"
         },
         {
           "title": "特朗普儿媳再忆中国行直呼震撼",
@@ -881,18 +963,6 @@
           "time_info": "[13时20分 ~ 15时02分]"
         },
         {
-          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
-          "url": "https://wallstreetcn.com/articles/3772968",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时39分]"
-        },
-        {
           "title": "特朗普政府宣布：外国人必须回本国才能申请绿卡",
           "url": "https://wallstreetcn.com/livenews/3108198",
           "source": "华尔街见闻-快讯",
@@ -919,20 +989,6 @@
           "time_info": "[11时13分 ~ 16时48分]"
         },
         {
-          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
-          "url": "https://www.zhihu.com/question/2041148892323000444",
-          "source": "知乎",
-          "ranks": [
-            15,
-            6,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 17时39分]"
-        },
-        {
           "title": "特朗普周末坐镇白宫：若谈判破裂，或对伊朗发动“决定性打击”",
           "url": "https://news.ifeng.com/c/8tMHNGJri8m",
           "source": "凤凰网",
@@ -942,6 +998,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 16时48分]"
+        },
+        {
+          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
+          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 18时35分]"
         },
         {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
@@ -955,6 +1023,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时30分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 18时35分]"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -1004,16 +1084,16 @@
           "time_info": "[04时37分 ~ 05时30分]"
         },
         {
-          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
-          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
-          "source": "凤凰网",
+          "title": "“新美联储通讯社”：特朗普选沃什本为降息，但市场已开始押注加息",
+          "url": "https://wallstreetcn.com/articles/3772936",
+          "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时39分]"
+          "time_info": "[17时39分 ~ 18时35分]"
         },
         {
           "title": "美国总统特朗普：图尔西·加巴德将于6月30日离开政府；国家情报局副局长亚伦·卢卡斯将担任国家情报局代理局长。",
@@ -1148,18 +1228,6 @@
           "time_info": "[05时30分 ~ 06时27分]"
         },
         {
-          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时39分]"
-        },
-        {
           "title": "美国总统特朗普：预计凯文·沃什将是一位伟大的美联储主席。 沃什将从今天开始领导美联储。 没有人比沃什更适合领导美联储。 沃什对美联储的尊重是最深的。 希望沃什完全是独立的。 （告诉沃什）别看我，做好你自己的工作。 希望沃什独立，做一个伟大的工作。 沃什理解、知道何时经济繁荣，那很好。 美联储是全球金融体系的支柱。",
           "url": "https://wallstreetcn.com/livenews/3108156",
           "source": "华尔街见闻-快讯",
@@ -1196,6 +1264,18 @@
           "time_info": "[00时50分 ~ 01时39分]"
         },
         {
+          "title": "特朗普取消出席儿子婚礼返回白宫",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E5%87%BA%E5%B8%AD%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC%E8%BF%94%E5%9B%9E%E7%99%BD%E5%AE%AB%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时35分]"
+        },
+        {
           "title": "美联储主席沃什：感谢美国总统特朗普。我们正处于一个重要的时刻。",
           "url": "https://flash.jin10.com/detail/20260523001217430800",
           "source": "金十数据",
@@ -1205,17 +1285,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "“新美联储通讯社”：特朗普选沃什本为降息，但市场已开始押注加息",
-          "url": "https://wallstreetcn.com/articles/3772936",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         },
         {
           "title": "特朗普主持沃什就任美联储主席仪式",
@@ -1381,17 +1450,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "特朗普取消出席儿子婚礼返回白宫",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E5%87%BA%E5%B8%AD%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC%E8%BF%94%E5%9B%9E%E7%99%BD%E5%AE%AB%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         }
       ]
     },
@@ -1409,8 +1467,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时28分 ~ 17时39分]"
+          "appearance_count": 12,
+          "time_info": "[07时28分 ~ 18时35分]"
         },
         {
           "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
@@ -1487,6 +1545,19 @@
           "time_info": "[02时43分 ~ 03时36分]"
         },
         {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 18时35分]"
+        },
+        {
           "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
           "url": "https://wallstreetcn.com/livenews/3108278",
           "source": "华尔街见闻-快讯",
@@ -1511,18 +1582,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时55分 ~ 11时13分]"
-        },
-        {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时39分]"
         },
         {
           "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
@@ -1576,8 +1635,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时28分 ~ 17时39分]"
+          "appearance_count": 12,
+          "time_info": "[07时28分 ~ 18时35分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
@@ -1591,6 +1650,17 @@
           "time_info": "[00时50分 ~ 07时29分]"
         },
         {
+          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2041150006099501503",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时35分]"
+        },
+        {
           "title": "周五（5月22日）纽约尾盘，美国10年期基准国债收益率跌1.18个基点，报4.5578%，美联储理事沃勒讲话之前，在北京时间21:16刷新日低至4.5241%，沃什讲话后继续反弹，22:50刷新日高至4.5837%，凯文·沃什在00:00宣誓就任美联储主席的前后高位企稳，本周累计下跌3.55个基点，整体交投于4.6853%-4.5241%。 两年期美债收益率涨3.79个基点，报4.1210%，也在美股开盘之前刷新日低至4.0505%，沃什讲话后持续走高，沃什宣誓就职之际、在00:05刷新日高至4.1423%，本周累涨5.22个基点，5月20日23:00曾跳水至4.0085%。",
           "url": "https://wallstreetcn.com/livenews/3108253",
           "source": "华尔街见闻-快讯",
@@ -1600,17 +1670,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        },
-        {
-          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2041150006099501503",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         },
         {
           "title": "两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点",
@@ -1649,11 +1708,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时12分 ~ 17时39分]"
+          "appearance_count": 7,
+          "time_info": "[11时12分 ~ 18时35分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
@@ -1662,11 +1722,12 @@
           "ranks": [
             7,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 18时35分]"
         },
         {
           "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
@@ -1674,11 +1735,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时39分]"
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 18时35分]"
         }
       ]
     },
@@ -1727,8 +1789,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 17时39分]"
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 18时35分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
