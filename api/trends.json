@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T07:29:12.529263+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-05-23T08:55:10.565727+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 08时55分]"
         },
         {
           "title": "特朗普儿媳再忆中国行直呼震撼",
@@ -128,6 +128,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时30分]"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "美国总统特朗普：图尔西·加巴德将于6月30日离开政府；国家情报局副局长亚伦·卢卡斯将担任国家情报局代理局长。",
@@ -477,18 +488,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "鲁比奥：伊朗问题确实有一些进展",
           "url": "https://news.ifeng.com/c/8tKwzchzUFC",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 08时55分]"
         },
         {
           "title": "伊朗“最大内鬼”，原来是他？",
@@ -498,19 +510,75 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 08时55分]"
         },
         {
           "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
           "url": "https://flash.jin10.com/detail/20260523041413545800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时37分 ~ 07时29分]"
+          "appearance_count": 5,
+          "time_info": "[04时37分 ~ 08时55分]"
+        },
+        {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
+          "url": "https://news.ifeng.com/c/8tLyq3d0i0r",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国与北约盟国正在讨论一项“B计划”，以应对伊朗拒绝重新开放霍尔木兹海峡的情况；部分北约国家可能支持采取应对措施。",
+          "url": "https://flash.jin10.com/detail/20260523083955929800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "拉夫罗夫：俄坚决反对再次发生针对伊朗的武装侵略",
+          "url": "https://wallstreetcn.com/livenews/3108289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，伊朗军方已进入最高戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260523083809091800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
+          "url": "https://flash.jin10.com/detail/20260523083401521800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "伊朗外交部发言人：巴基斯坦陆军参谋长穆尼尔是外交进程的延续，不能说这必然意味着我们已经到达了一个转折点或决定性状态。",
@@ -570,6 +638,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时37分 ~ 07时29分]"
+        },
+        {
+          "title": "报道：伊朗军方准备好应对美方任何行动",
+          "url": "https://wallstreetcn.com/livenews/3108258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 08时55分]"
         },
         {
           "title": "伊朗外交部发言人：谈判的重点是结束战争。",
@@ -642,18 +723,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时30分]"
-        },
-        {
-          "title": "报道：伊朗军方准备好应对美方任何行动",
-          "url": "https://wallstreetcn.com/livenews/3108258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
         },
         {
           "title": "伊朗：卡塔尔在（与相关方面）谈，但巴基斯坦仍然是（伊朗与美国之间的）调停人。",
@@ -751,6 +820,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
+          "url": "https://wallstreetcn.com/livenews/3108288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "据沙特媒体哈达斯（Alhadath）：高级消息人士透露，巴基斯坦陆军参谋长穆尼尔与伊朗革命卫队司令将于周六在德黑兰会晤。",
           "url": "https://flash.jin10.com/detail/20260523010431559800",
           "source": "金十数据",
@@ -787,18 +867,67 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 08时55分]"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040728628800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时37分 ~ 08时55分]"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040726833800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时37分 ~ 08时55分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 高通涨超11%",
+          "url": "https://flash.jin10.com/detail/20260523040305525800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时37分 ~ 08时55分]"
+        },
         {
           "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
           "url": "https://wallstreetcn.com/livenews/3108274",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 08时55分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -825,50 +954,6 @@
           "time_info": "[02时43分 ~ 03时36分]"
         },
         {
-          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260523040728628800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时37分 ~ 07时29分]"
-        },
-        {
-          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260523040726833800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时37分 ~ 07时29分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 高通涨超11%",
-          "url": "https://flash.jin10.com/detail/20260523040305525800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时37分 ~ 07时29分]"
-        },
-        {
-          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
-          "url": "https://www.cls.cn/detail/2379649",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时29分]"
-        },
-        {
           "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
           "url": "https://wallstreetcn.com/livenews/3108158",
           "source": "华尔街见闻-快讯",
@@ -891,6 +976,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 06时27分]"
+        },
+        {
+          "title": "美股标普连涨八周 富途控股跌27.53%",
+          "url": "https://www.toutiao.com/trending/7642859924128550441/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
+          "url": "https://wallstreetcn.com/livenews/3108278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
@@ -914,11 +1032,12 @@
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 08时55分]"
         },
         {
           "title": "周五（5月22日）纽约尾盘，美国10年期基准国债收益率跌1.18个基点，报4.5578%，美联储理事沃勒讲话之前，在北京时间21:16刷新日低至4.5241%，沃什讲话后继续反弹，22:50刷新日高至4.5837%，凯文·沃什在00:00宣誓就任美联储主席的前后高位企稳，本周累计下跌3.55个基点，整体交投于4.6853%-4.5241%。 两年期美债收益率涨3.79个基点，报4.1210%，也在美股开盘之前刷新日低至4.0505%，沃什讲话后持续走高，沃什宣誓就职之际、在00:05刷新日高至4.1423%，本周累涨5.22个基点，5月20日23:00曾跳水至4.0085%。",
@@ -938,9 +1057,37 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 08时55分]"
+        },
+        {
+          "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
+          "url": "https://wallstreetcn.com/livenews/3108281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
@@ -987,25 +1134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 07时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果谷歌英伟达，集体松了口气",
-          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 08时55分]"
         }
       ]
     },
