@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T08:55:10.565727+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-05-23T09:41:43.413013+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 08时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时41分]"
         },
         {
           "title": "特朗普儿媳再忆中国行直呼震撼",
@@ -107,6 +108,17 @@
           "time_info": "[05时30分 ~ 07时29分]"
         },
         {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 09时41分]"
+        },
+        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33206550",
           "source": "澎湃新闻",
@@ -128,17 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时30分]"
-        },
-        {
-          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
-          "url": "https://wallstreetcn.com/articles/3772950",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "美国总统特朗普：图尔西·加巴德将于6月30日离开政府；国家情报局副局长亚伦·卢卡斯将担任国家情报局代理局长。",
@@ -488,7 +489,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "鲁比奥：伊朗问题确实有一些进展",
@@ -499,8 +500,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 08时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时41分]"
         },
         {
           "title": "伊朗“最大内鬼”，原来是他？",
@@ -510,8 +511,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 08时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时41分]"
         },
         {
           "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
@@ -519,11 +520,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时37分 ~ 08时55分]"
+          "appearance_count": 6,
+          "time_info": "[04时37分 ~ 09时41分]"
         },
         {
           "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
@@ -533,52 +535,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国与北约盟国正在讨论一项“B计划”，以应对伊朗拒绝重新开放霍尔木兹海峡的情况；部分北约国家可能支持采取应对措施。",
-          "url": "https://flash.jin10.com/detail/20260523083955929800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 09时41分]"
         },
         {
           "title": "拉夫罗夫：俄坚决反对再次发生针对伊朗的武装侵略",
           "url": "https://wallstreetcn.com/livenews/3108289",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 09时41分]"
         },
         {
-          "title": "据伊朗国家媒体报道，伊朗军方已进入最高戒备状态。",
-          "url": "https://flash.jin10.com/detail/20260523083809091800",
+          "title": "美国国务卿鲁比奥：美国与北约盟国正在讨论一项“B计划”，以应对伊朗拒绝重新开放霍尔木兹海峡的情况；部分北约国家可能支持采取应对措施。",
+          "url": "https://flash.jin10.com/detail/20260523083955929800",
           "source": "金十数据",
           "ranks": [
-            2
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
-          "url": "https://flash.jin10.com/detail/20260523083401521800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 09时41分]"
         },
         {
           "title": "伊朗外交部发言人：巴基斯坦陆军参谋长穆尼尔是外交进程的延续，不能说这必然意味着我们已经到达了一个转折点或决定性状态。",
@@ -593,6 +575,18 @@
           "time_info": "[01时39分 ~ 02时43分]"
         },
         {
+          "title": "据伊朗国家媒体报道，伊朗军方已进入最高戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260523083809091800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 09时41分]"
+        },
+        {
           "title": "受伊朗战争重创，全球航运巨头达飞海运第一季度利润暴跌",
           "url": "https://wallstreetcn.com/livenews/3108211",
           "source": "华尔街见闻-快讯",
@@ -603,6 +597,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时37分]"
+        },
+        {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
+          "url": "https://flash.jin10.com/detail/20260523083401521800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 09时41分]"
         },
         {
           "title": "伊朗外交部发言人：当前伊美谈判不涉及核问题",
@@ -749,6 +755,18 @@
           "time_info": "[02时43分 ~ 03时36分]"
         },
         {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
+          "url": "https://wallstreetcn.com/livenews/3108288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 09时41分]"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，目前阶段未讨论与核问题相关的细节。",
           "url": "https://flash.jin10.com/detail/20260523013343176800",
           "source": "金十数据",
@@ -820,15 +838,15 @@
           "time_info": "03时36分"
         },
         {
-          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
-          "url": "https://wallstreetcn.com/livenews/3108288",
+          "title": "【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3108290",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "09时41分"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）：高级消息人士透露，巴基斯坦陆军参谋长穆尼尔与伊朗革命卫队司令将于周六在德黑兰会晤。",
@@ -878,8 +896,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 08时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 09时41分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
@@ -923,11 +941,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 09时41分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -952,6 +971,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时36分]"
+        },
+        {
+          "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
+          "url": "https://wallstreetcn.com/livenews/3108278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 09时41分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 09时41分]"
         },
         {
           "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
@@ -987,28 +1030,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
-          "url": "https://wallstreetcn.com/livenews/3108278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
-          "url": "https://wallstreetcn.com/livenews/3108276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
         }
       ]
     },
@@ -1033,11 +1054,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 08时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 09时41分]"
         },
         {
           "title": "周五（5月22日）纽约尾盘，美国10年期基准国债收益率跌1.18个基点，报4.5578%，美联储理事沃勒讲话之前，在北京时间21:16刷新日低至4.5241%，沃什讲话后继续反弹，22:50刷新日高至4.5837%，凯文·沃什在00:00宣誓就任美联储主席的前后高位企稳，本周累计下跌3.55个基点，整体交投于4.6853%-4.5241%。 两年期美债收益率涨3.79个基点，报4.1210%，也在美股开盘之前刷新日低至4.0505%，沃什讲话后持续走高，沃什宣誓就职之际、在00:05刷新日高至4.1423%，本周累涨5.22个基点，5月20日23:00曾跳水至4.0085%。",
@@ -1075,19 +1097,48 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 08时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时41分]"
         },
         {
           "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
           "url": "https://wallstreetcn.com/livenews/3108281",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 09时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "09时41分"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260523091339971800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
@@ -1134,8 +1185,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 08时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时41分]"
         }
       ]
     },
