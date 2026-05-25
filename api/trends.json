@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T17:28:27.317143+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-05-25T19:28:01.307381+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 89,
+      "match_count": 93,
       "titles": [
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
@@ -142,9 +142,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "美国和沙特企业联手仿制伊朗无人机",
+          "url": "https://flash.jin10.com/detail/20260525192406583800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "伊朗称过去24小时33艘船通过霍尔木兹海峡",
@@ -327,6 +338,17 @@
           "time_info": "[00时26分 ~ 03时33分]"
         },
         {
+          "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
+          "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时28分]"
+        },
+        {
           "title": "伊朗：准备向全世界保证不寻求拥核",
           "url": "https://www.toutiao.com/trending/7643313675294244883/",
           "source": "今日头条",
@@ -337,6 +359,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时38分 ~ 15时44分]"
+        },
+        {
+          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
+          "url": "https://www.zhihu.com/question/2042201889626907656",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时28分]"
         },
         {
           "title": "白宫顾问哈塞特：结束伊朗战争或为美联储降息创造空间，美国可能会“负通胀”",
@@ -552,24 +586,13 @@
           "time_info": "[13时38分 ~ 13时39分]"
         },
         {
-          "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
-          "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "内塔尼亚胡：美以一致认为美伊协议须消除伊朗“核威胁”",
           "url": "https://wallstreetcn.com/livenews/3108790",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -616,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "伊朗媒体称伊朗央行行长前往卡塔尔访问",
+          "url": "https://wallstreetcn.com/livenews/3108849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "据福克斯新闻援引美国政府官员的话报道，我们的计划包括处理伊朗的全部浓缩材料库存。",
@@ -712,7 +746,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -756,7 +790,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -805,17 +839,6 @@
           "time_info": "15时44分"
         },
         {
-          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
-          "url": "https://www.zhihu.com/question/2042201889626907656",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "以色列总参谋长：我们已准备好随时重返高强度战斗，以削弱伊朗恐怖主义政权。",
           "url": "https://flash.jin10.com/detail/20260525001520353800",
           "source": "金十数据",
@@ -844,7 +867,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -869,6 +892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "据俄新社：俄罗斯总统普京与巴林国王讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260525185855644800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "伊朗与阿曼举行会议商讨霍尔木兹海峡通行原则",
@@ -932,7 +966,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -965,7 +999,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1025,6 +1059,17 @@
           "time_info": "15时44分"
         },
         {
+          "title": "伊朗称处决伊斯法罕省骚乱“武装领导人之一”",
+          "url": "https://wallstreetcn.com/livenews/3108816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "据Axios援引一位美国官员的话称，伊朗最高领袖已批准协议的总体框架。",
           "url": "https://flash.jin10.com/detail/20260524230317704800",
           "source": "金十数据",
@@ -1042,7 +1087,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
@@ -1050,7 +1095,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
@@ -1144,6 +1189,18 @@
           "time_info": "[00时26分 ~ 06时24分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时28分]"
+        },
+        {
           "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
           "url": "https://www.cls.cn/detail/2380246",
           "source": "财联社热门",
@@ -1211,17 +1268,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 09时52分]"
-        },
-        {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
@@ -1329,6 +1375,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "特朗普：不会签署让伊朗获得核武器的协议",
+          "url": "https://wallstreetcn.com/livenews/3108835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "特朗普：与伊朗的协议要伟大且有意义 否则不会有任何协议",
+          "url": "https://wallstreetcn.com/livenews/3108827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
@@ -1384,11 +1452,12 @@
             14,
             17,
             21,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 17时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 19时28分]"
         },
         {
           "title": "DeepSeek宣布降价，算力租赁概念股放量大跌，多家上市公司回应",
@@ -1544,7 +1613,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
