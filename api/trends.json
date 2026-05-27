@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T15:35:26.024926+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-05-27T17:16:38.105980+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 53,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -133,6 +133,17 @@
           "time_info": "07时30分"
         },
         {
+          "title": "伊朗官员：最终与美国签署的协议必定符合伊朗国家利益",
+          "url": "https://flash.jin10.com/detail/20260527170349999800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
           "url": "https://wallstreetcn.com/livenews/3109576",
           "source": "华尔街见闻-快讯",
@@ -142,6 +153,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "伊朗官员：最终与美国签署的协议必定符合伊朗国家利益",
+          "url": "https://wallstreetcn.com/livenews/3109980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 17时16分]"
         },
         {
           "title": "伊朗官员：美国处于“请求”与伊朗达成协议的地位",
@@ -226,19 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时42分]"
-        },
-        {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 15时35分]"
         },
         {
           "title": "伊朗公布击落美MQ-9死神无人机画面",
@@ -381,6 +404,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "伊朗副安全事务负责人巴盖里与南非总统府部长的会晤",
+          "url": "https://flash.jin10.com/detail/20260527165932946800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "伊朗大不里士国际机场恢复运营",
           "url": "https://wallstreetcn.com/livenews/3109841",
           "source": "华尔街见闻-快讯",
@@ -456,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "伊朗称美将在所有战线停火60天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "伊朗总统：德黑兰寻求以“有尊严的框架”结束战争。",
@@ -541,9 +586,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "伊朗支付超7万亿土曼“药品支持计划”相关欠款",
+          "url": "https://wallstreetcn.com/livenews/3109951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "伊朗强硬回应美国打击，称若战争重启将猛烈回击，并将阻止地区石油出口。消息称解冻伊朗海外资金成伊美谈判主要分歧，中东局势前景未明……当前现货金银卖出信号强烈，美油多空情绪分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
@@ -555,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "韩国公布霍尔木兹海峡船只遇袭事件调查结果。伊朗导弹或导致船只在霍尔木兹海峡遭袭。韩国将就船只在霍尔木兹海峡遇袭事件召见伊朗大使。彭博）",
+          "url": "https://wallstreetcn.com/livenews/3109941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
@@ -562,6 +629,18 @@
       "keyword_group": "特朗普",
       "match_count": 32,
       "titles": [
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 17时16分]"
+        },
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
@@ -572,23 +651,12 @@
             16,
             11,
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时12分 ~ 15时35分]"
-        },
-        {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 15时35分]"
+          "appearance_count": 16,
+          "time_info": "[01时12分 ~ 17时16分]"
         },
         {
           "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
@@ -599,8 +667,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 17时16分]"
         },
         {
           "title": "市场不信特朗普的“和平剧本”：不信海峡很快打开，不敢建立原油头寸",
@@ -1166,11 +1234,12 @@
           "url": "https://wallstreetcn.com/articles/3773150",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 17时16分]"
         },
         {
           "title": "如果 deepseek r1 推理激活参数只有 37B，是不是意味着 37B 的大模型就可以在垂直领域有效？",
@@ -1211,7 +1280,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         }
@@ -1243,6 +1312,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌将于7月1日更新在爱尔兰的博彩和游戏政策，以符合新的监管要求。",
+          "url": "https://flash.jin10.com/detail/20260527163129223800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     }
