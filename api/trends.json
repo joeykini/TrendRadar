@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T08:53:25.409211+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-05-28T09:41:13.609562+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 08时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 09时41分]"
         },
         {
           "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
@@ -26,9 +26,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 09时41分]"
         },
         {
           "title": "美军完成对古巴的军事部署，等待特朗普最终下令",
@@ -37,7 +37,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -88,6 +88,17 @@
           "time_info": "[05时38分 ~ 07时32分]"
         },
         {
+          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
+          "url": "https://www.cls.cn/detail/2383563",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
+        },
+        {
           "title": "特朗普政府要求在肯尼亚隔离埃博拉病毒接触人员，专家：在美国、德国治疗的效果更好",
           "url": "https://wallstreetcn.com/livenews/3110278",
           "source": "华尔街见闻-快讯",
@@ -122,6 +133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
         },
         {
           "title": "据华尔街日报：特朗普儿童账户应用程序定于周四上线。",
@@ -193,6 +215,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "特朗普政府正在就资助美国无人机公司进行谈判。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3110336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "美国总统特朗普：正在努力重新开放加利福尼亚的石油储备。",
           "url": "https://flash.jin10.com/detail/20260528003200488800",
           "source": "金十数据",
@@ -232,7 +265,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -246,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "美媒：特朗普政府拟入股无人机企业以扶持国内产能",
+          "url": "https://flash.jin10.com/detail/20260528091116021800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成一份协议。 对潜在伊朗协议的内容还感到不满意。 我们可能会重返伊朗并完成任务，也可能不会再过去。 伊朗不可以拥有核武器。 其他国家非常支持。",
@@ -325,6 +369,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "据华尔街日报：特朗普政府正在洽谈为美国无人机公司提供资金。",
+          "url": "https://flash.jin10.com/detail/20260528090257639800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "伊朗：伊朗不会因特朗普的言辞而退让红线",
           "url": "https://flash.jin10.com/detail/20260528045742064800",
           "source": "金十数据",
@@ -391,6 +446,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "据华尔街日报：美国总统特朗普政府正在与美国无人机公司洽谈融资事宜。",
+          "url": "https://flash.jin10.com/detail/20260528090038202800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特朗普更倾向于与伊朗进行谈判。",
           "url": "https://flash.jin10.com/detail/20260528002219205800",
           "source": "金十数据",
@@ -452,7 +518,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         }
@@ -460,7 +526,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
@@ -516,8 +582,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 08时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 09时41分]"
         },
         {
           "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
@@ -529,8 +595,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 08时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 09时41分]"
         },
         {
           "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
@@ -551,9 +617,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 09时41分]"
+        },
+        {
+          "title": "美国伊朗开始爆发直接冲突",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E7%88%86%E5%8F%91%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 09时41分]"
+        },
+        {
+          "title": "美军对伊朗实施新一轮空袭，击落4架无人机",
+          "url": "https://news.ifeng.com/c/8tUKOkpz0DS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
         },
         {
           "title": "美国国防部长赫格塞思：全球没有一艘伊朗油轮是安全的。",
@@ -578,6 +666,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "伊朗媒体称美军袭击阿巴斯港周围焦土，未造成损失",
+          "url": "https://wallstreetcn.com/livenews/3110343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "巴基斯坦总理办公室：总理今天接到伊朗总统的电话。",
           "url": "https://wallstreetcn.com/livenews/3110190",
           "source": "华尔街见闻-快讯",
@@ -600,15 +699,15 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美国伊朗开始爆发直接冲突",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E7%88%86%E5%8F%91%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "伊朗媒体称一艘试图穿越霍尔木兹海峡的美国油轮被迫折返",
+          "url": "https://wallstreetcn.com/livenews/3110339",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "09时41分"
         },
         {
           "title": "据伊朗学生通讯社：伊斯法罕国际机场在停运80天后将全面恢复运营。",
@@ -623,6 +722,17 @@
           "time_info": "[02时54分 ~ 03时45分]"
         },
         {
+          "title": "伊朗阿巴斯港附近传出爆炸声",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%BF%E5%B7%B4%E6%96%AF%E6%B8%AF%E9%99%84%E8%BF%91%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 09时41分]"
+        },
+        {
           "title": "墨西哥央行行长Rodriguez：预计经济将在二季度重拾增长趋势。 伊朗战争加重了经济面临的下行风险。 世界杯对经济的利好效应可能会超过预期。",
           "url": "https://wallstreetcn.com/livenews/3110232",
           "source": "华尔街见闻-快讯",
@@ -635,6 +745,41 @@
           "time_info": "[03时45分 ~ 04时48分]"
         },
         {
+          "title": "美官员称美军击落4架伊朗无人机",
+          "url": "https://wallstreetcn.com/livenews/3110319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 09时41分]"
+        },
+        {
+          "title": "欧洲央行首席经济学家Lane：即使最初的能源冲击开始逆转，第二轮效应也将持续存在一段时间。 即使伊朗战争得到某种程度的解决，但由于冲突已经持续了如此之久，在最佳多元化策略方面可能会出现重新定位。",
+          "url": "https://wallstreetcn.com/livenews/3110317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 09时41分]"
+        },
+        {
+          "title": "美媒：美军再次短暂空袭伊朗",
+          "url": "https://www.toutiao.com/trending/7644203153613488174/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：与伊朗的谈判已取得一些进展",
           "url": "https://flash.jin10.com/detail/20260528003705074800",
           "source": "金十数据",
@@ -644,17 +789,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "美官员称美军击落4架伊朗无人机",
-          "url": "https://wallstreetcn.com/livenews/3110319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
         },
         {
           "title": "伊朗阿巴斯港发生爆炸 防空系统启动数分钟",
@@ -701,15 +835,15 @@
           "time_info": "07时32分"
         },
         {
-          "title": "欧洲央行首席经济学家Lane：即使最初的能源冲击开始逆转，第二轮效应也将持续存在一段时间。 即使伊朗战争得到某种程度的解决，但由于冲突已经持续了如此之久，在最佳多元化策略方面可能会出现重新定位。",
-          "url": "https://wallstreetcn.com/livenews/3110317",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗媒体称一艘试图穿越霍尔木兹海峡的美国油轮被迫折返",
+          "url": "https://flash.jin10.com/detail/20260528090910484800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "09时41分"
         },
         {
           "title": "巴基斯坦总理办公室：巴基斯坦总理谢里夫今天早些时候接到了伊朗总统佩泽希齐扬的电话。",
@@ -732,17 +866,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "伊朗阿巴斯港附近传出爆炸声",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%BF%E5%B7%B4%E6%96%AF%E6%B8%AF%E9%99%84%E8%BF%91%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
         },
         {
           "title": "美国国务卿鲁比奥：我们会全力为与伊朗进行谈判、开展外交交流创造一切可能的条件。",
@@ -784,7 +907,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -795,7 +918,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -806,7 +929,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -880,8 +1003,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 08时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 09时41分]"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -890,9 +1013,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 09时41分]"
+        },
+        {
+          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
+          "url": "https://www.cls.cn/detail/2383514",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 09时41分]"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油大跌5%，黄金一度跌2%",
@@ -915,18 +1051,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 04时48分]"
-        },
-        {
-          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
-          "url": "https://www.cls.cn/detail/2383514",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 08时53分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -965,6 +1089,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时48分 ~ 06时43分]"
+        },
+        {
+          "title": "美股收盘：芯片股回调 高通跌6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E5%9B%9E%E8%B0%83+%E9%AB%98%E9%80%9A%E8%B7%8C6%25",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 09时41分]"
         },
         {
           "title": "现货黄金跌约1.2%，美股盘前逼近4400美元",
@@ -1036,24 +1172,13 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美股收盘：芯片股回调 高通跌6%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E5%9B%9E%E8%B0%83+%E9%AB%98%E9%80%9A%E8%B7%8C6%25",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
           "title": "美股三大股指期货走低，纳斯达克100指数期货现跌0.13%，标普500指数期货跌0.01%，道指期货涨0.04%。",
           "url": "https://flash.jin10.com/detail/20260528083031920800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         }
@@ -1076,6 +1201,18 @@
           "time_info": "[03时45分 ~ 04时48分]"
         },
         {
+          "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
+          "url": "https://wallstreetcn.com/articles/3773219",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 09时41分]"
+        },
+        {
           "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
           "url": "https://wallstreetcn.com/livenews/3110231",
           "source": "华尔街见闻-快讯",
@@ -1086,17 +1223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 04时48分]"
-        },
-        {
-          "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
-          "url": "https://wallstreetcn.com/articles/3773219",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
         },
         {
           "title": "大摩：对冲基金青睐的美债策略正在收缩，反映出获利机会稀缺",
