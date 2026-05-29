@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T09:02:00.268590+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-05-29T09:49:08.861221+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
@@ -16,8 +16,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 09时49分]"
+        },
+        {
+          "title": "伊朗称击落一架美军飞机，美方回应",
+          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 09时49分]"
         },
         {
           "title": "伊朗对美国空军基地实施打击",
@@ -35,15 +46,15 @@
           "time_info": "[01时21分 ~ 07时33分]"
         },
         {
-          "title": "伊朗称击落一架美军飞机，美方回应",
-          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
-          "source": "凤凰网",
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
+          "time_info": "[09时48分 ~ 09时49分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我们并不寻求核武器。",
@@ -96,7 +107,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -621,8 +632,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 09时49分]"
+        },
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 09时49分]"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 09时49分]"
         },
         {
           "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
@@ -636,28 +669,6 @@
           "time_info": "[05时43分 ~ 07时33分]"
         },
         {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
-        },
-        {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
-        },
-        {
           "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
           "url": "https://www.cls.cn/detail/2384768",
           "source": "财联社热门",
@@ -666,8 +677,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 09时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 09时49分]"
         },
         {
           "title": "Gap一季度净销售35亿美元，分析师预期35.2亿美元。 预计全年净销售将增长1%-2%，公司原本预计会增长2%-3%。 预计全年调整后每股收益（EPS）大约为2.30-2.40美元，公司原本预计大约2.20-2.35美元。 盖普（GPS）美股盘后跌9.8。",
@@ -706,6 +717,17 @@
           "time_info": "[05时43分 ~ 06时36分]"
         },
         {
+          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
+          "url": "https://www.cls.cn/detail/2384732",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 09时49分]"
+        },
+        {
           "title": "戴尔科技美股盘后涨幅扩大至22%。",
           "url": "https://wallstreetcn.com/livenews/3110943",
           "source": "华尔街见闻-快讯",
@@ -716,17 +738,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时36分]"
-        },
-        {
-          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
-          "url": "https://www.cls.cn/detail/2384732",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
           "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
@@ -888,8 +899,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 09时49分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -899,8 +910,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 09时49分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -1023,7 +1034,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         }
@@ -1184,11 +1195,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 09时49分]"
         }
       ]
     },
@@ -1206,8 +1218,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 09时49分]"
         }
       ]
     },
