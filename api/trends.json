@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T15:57:22.066610+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-06-01T18:02:10.926486+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
@@ -34,6 +34,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时29分 ~ 15时57分]"
+        },
+        {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 18时02分]"
         },
         {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
@@ -83,26 +96,13 @@
           "time_info": "06时26分"
         },
         {
-          "title": "伊朗总统：要么强硬前行，要么牺牲",
-          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 15时57分]"
-        },
-        {
           "title": "伊朗方面声称，以色列对黎巴嫩的攻击正在妨碍与美国达成协议。",
           "url": "https://flash.jin10.com/detail/20260601154343940800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -116,6 +116,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
+          "url": "https://www.cls.cn/detail/2386651",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 18时02分]"
+        },
+        {
+          "title": "伊朗情报机构宣布捣毁一恐怖分子团伙",
+          "url": "https://wallstreetcn.com/livenews/3112326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "伊朗外交部长：在达成明确结果之前，我们无法对谈判做出判断。",
@@ -152,7 +176,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -163,7 +187,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -361,18 +385,6 @@
           "time_info": "[13时44分 ~ 15时57分]"
         },
         {
-          "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
-          "url": "https://www.cls.cn/detail/2386651",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 15时57分]"
-        },
-        {
           "title": "美国财长贝森特：伊朗在47年来首次做好了放弃其核计划的准备；我们不会接受无法确保阻止伊朗获得核武器的协议。",
           "url": "https://flash.jin10.com/detail/20260531235701308800",
           "source": "金十数据",
@@ -421,6 +433,17 @@
           "time_info": "[05时25分 ~ 06时26分]"
         },
         {
+          "title": "伊朗议会议长：美国违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3112320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "美国寻求达成协议，而伊朗需要一个敌人",
           "url": "https://flash.jin10.com/detail/20260601105038841800",
           "source": "金十数据",
@@ -430,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "伊朗副外长：只有伊朗和阿曼有权在霍尔木兹海峡“行使主权”",
+          "url": "https://flash.jin10.com/detail/20260601174202780800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "伊朗再度否认佩泽希齐扬辞职传闻",
@@ -449,7 +483,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -460,7 +494,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -476,6 +510,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "伊朗外交部：伊朗武装部队回击美军“侵略行动”",
+          "url": "https://wallstreetcn.com/livenews/3112312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "伊官员称伊朗不会对美退让妥协",
           "url": "https://wallstreetcn.com/livenews/3111985",
           "source": "华尔街见闻-快讯",
@@ -485,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "伊朗情报机构宣布捣毁一恐怖分子团伙",
+          "url": "https://flash.jin10.com/detail/20260601173527221800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "伊朗：美若再战 就是一条道走到黑",
@@ -515,7 +571,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -623,6 +679,18 @@
           "time_info": "[01时28分 ~ 07时28分]"
         },
         {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 18时02分]"
+        },
+        {
           "title": "多名艺人辞演后特朗普决定自己上台",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%89%BA%E4%BA%BA%E8%BE%9E%E6%BC%94%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%B3%E5%AE%9A%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%8F%B0%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -658,18 +726,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 15时57分]"
         },
         {
           "title": "据以色列第12频道：内塔尼亚胡试图说服特朗普扩大军事行动范围，将贝鲁特纳入其中。",
@@ -729,7 +785,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -803,7 +859,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股的“午夜钟声”或将敲响",
@@ -829,6 +885,17 @@
           "time_info": "[06时26分 ~ 07时28分]"
         },
         {
+          "title": "华尔街大鳄警告：美股崩盘和衰退已是“定时炸弹”，可转向金银投资！",
+          "url": "https://www.cls.cn/detail/2386791",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
+        },
+        {
           "title": "美股期货走高，标普500指数期货涨0.1%，纳斯达克100指数期货涨0.3%。 欧股期货走低，欧洲Stoxx 50指数期货跌0.3%，德国DAX指数期货跌0.2%。",
           "url": "https://wallstreetcn.com/livenews/3112021",
           "source": "华尔街见闻-快讯",
@@ -838,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "高盛称对冲基金以六个月来的最快速度买入美股",
+          "url": "https://wallstreetcn.com/livenews/3112323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "英伟达美股夜盘股价上涨2.7%。",
@@ -851,6 +929,17 @@
           "time_info": "13时44分"
         },
         {
+          "title": "美光科技美股盘前涨超4%，盘前价格突破1000美元/股。",
+          "url": "https://wallstreetcn.com/livenews/3112292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "李大霄：为何鲜有人提醒美股风险",
           "url": "https://www.toutiao.com/trending/7646060691119410724/",
           "source": "今日头条",
@@ -860,6 +949,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "美股软件股盘前走高涨，IBM上涨5.4%，Adobe上涨4.1%，Salesforce上涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3112282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
