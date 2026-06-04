@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T07:37:36.368984+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-06-04T09:10:23.082364+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 09时10分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 09时10分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -62,11 +62,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时37分]"
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 09时10分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -75,9 +76,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 09时10分]"
         },
         {
           "title": "九个贸易团体发函财长贝森特与商务部长卢特尼克，围绕存储芯片问题施压美国总统特朗普的政府。 针对人工智能（AI）造成的供应受抑问题，它们要求美国加大存储芯片的供应力度。",
@@ -101,6 +102,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时37分]"
+        },
+        {
+          "title": "美众议院通过决议限制特朗普对伊动武",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 09时10分]"
         },
         {
           "title": "特朗普淡化霍尔木兹海峡水雷威胁，并鼓吹替代航线",
@@ -137,6 +149,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时37分]"
+        },
+        {
+          "title": "美众院通过决议限制特朗普对伊朗动武",
+          "url": "https://www.toutiao.com/trending/7646226299874426916/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "特朗普点名万斯、鲁比奥：两人大选联手将是一支难以被击败的团队",
+          "url": "https://news.ifeng.com/c/8tfpnbgvAEj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "特朗普：若有美军士兵战死 将考虑终止同伊朗的停火",
+          "url": "https://wallstreetcn.com/livenews/3114095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "特朗普计划拨款数亿美元，力推煤电厂建设及出口设施项目",
@@ -183,6 +228,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "据CNN：一位知情人士透露，美国总统特朗普即将提名托德·布兰奇（Todd Blanche）担任司法部长。",
+          "url": "https://flash.jin10.com/detail/20260604083859899800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "美国总统特朗普：一旦签署协议，霍尔木兹海峡将立即开放。",
           "url": "https://wallstreetcn.com/livenews/3114011",
           "source": "华尔街见闻-快讯",
@@ -194,15 +250,15 @@
           "time_info": "05时10分"
         },
         {
-          "title": "美众议院通过决议限制特朗普对伊动武",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
-          "source": "百度热搜",
+          "title": "以总理承认与特朗普存“战术分歧”",
+          "url": "https://www.toutiao.com/trending/7646597140789149702/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "09时10分"
         },
         {
           "title": "美国总统特朗普：企图将伊朗与黎巴嫩问题分开处理。",
@@ -214,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2390155",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "特朗普：霍尔木兹海峡重新开放后，美国将走南线航道。",
@@ -258,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "特朗普告诉助手，只有在美军士兵遇袭丧生的情况下，他才会重启战争。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3114085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "特朗普谈如何定义停火：更温和的开火就是停火",
@@ -321,7 +399,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -381,6 +459,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "美媒：只要伊朗不造成美军阵亡 特朗普愿意容忍零星冲突",
+          "url": "https://flash.jin10.com/detail/20260604080914074800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "特朗普：封锁霍尔木兹海峡的作用比空袭更大。",
           "url": "https://flash.jin10.com/detail/20260604042840926800",
           "source": "金十数据",
@@ -392,6 +481,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "据华尔街日报：特朗普告知幕僚，除非有美军遇袭身亡，否则不会对伊朗重启全面战争。",
+          "url": "https://flash.jin10.com/detail/20260604080223867800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "特朗普称与伊朗谈判进展“非常顺利”",
           "url": "https://wallstreetcn.com/livenews/3114023",
           "source": "华尔街见闻-快讯",
@@ -401,12 +501,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "特朗普欲将以黎冲突和美伊谈判“分开处理”",
+          "url": "https://wallstreetcn.com/livenews/3114010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
@@ -441,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "伊朗突然变了，美国突然客气了",
+          "url": "https://news.ifeng.com/c/8tfoNxuqYgl",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "【伊朗革命卫队否认向科威特机场开火】当地时间3日，伊朗伊斯兰革命卫队发言人表示，其军队并未向科威特机场这一目标开火。 发言人称，科威特机场航站楼损毁系美国“爱国者”防空导弹系统故障所致，该系统发射的导弹在拦截伊朗导弹失败后误落至该航站楼。 科威特外交部3日发表声明说，科威特国际机场等多处民用设施当天遭伊朗弹道导弹和无人机袭击，造成1人死亡、多人受伤。科威特一度暂停该国空中交通并关闭领空。（央视）",
@@ -572,7 +694,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -594,7 +716,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -778,7 +900,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -792,6 +914,20 @@
           "time_info": "[01时46分 ~ 06时47分]"
         },
         {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 09时10分]"
+        },
+        {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3773742",
           "source": "华尔街见闻",
@@ -803,19 +939,6 @@
           "time_info": "[01时46分 ~ 05时10分]"
         },
         {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时37分]"
-        },
-        {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
           "url": "https://wallstreetcn.com/articles/3773742",
           "source": "华尔街见闻",
@@ -824,8 +947,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时37分]"
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 09时10分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -833,11 +956,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时37分]"
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 09时10分]"
         },
         {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
@@ -849,8 +973,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 09时10分]"
         },
         {
           "title": "博通美股盘后跌幅扩大至12%。",
@@ -931,6 +1055,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "美股科技最大多头正在消失",
+          "url": "https://www.toutiao.com/trending/7646818194858295334/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "金十图示：2026年06月03日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260604003805317800",
           "source": "金十数据",
@@ -977,11 +1112,12 @@
             11,
             9,
             17,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 09时10分]"
         },
         {
           "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
@@ -1094,11 +1230,12 @@
           "ranks": [
             2,
             4,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 09时10分]"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
@@ -1107,11 +1244,12 @@
           "ranks": [
             12,
             11,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 09时10分]"
         }
       ]
     },
