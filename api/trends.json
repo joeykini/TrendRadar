@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T13:43:08.960690+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-06-04T15:46:58.427560+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时46分 ~ 13时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时46分 ~ 15时46分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时37分 ~ 13时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时37分 ~ 15时46分]"
         },
         {
           "title": "“离签署协议已非常接近”，特朗普披露美伊谈判细节",
@@ -89,8 +89,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时46分]"
         },
         {
           "title": "九个贸易团体发函财长贝森特与商务部长卢特尼克，围绕存储芯片问题施压美国总统特朗普的政府。 针对人工智能（AI）造成的供应受抑问题，它们要求美国加大存储芯片的供应力度。",
@@ -113,6 +113,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2390155",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 15时46分]"
         },
         {
           "title": "美众议院通过决议限制特朗普对伊动武",
@@ -138,28 +150,17 @@
           "time_info": "[06时47分 ~ 07时37分]"
         },
         {
-          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2390155",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 13时43分]"
-        },
-        {
           "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
           "url": "https://www.cls.cn/detail/2390202",
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 15时46分]"
         },
         {
           "title": "特朗普点名万斯、鲁比奥：两人大选联手将是一支难以被击败的团队",
@@ -305,7 +306,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -600,8 +601,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 15时46分]"
         },
         {
           "title": "伊朗媒体Fars News援引德黑兰谈判团队媒体组成员的消息称，伊朗对美国最新草案的回应尚未发送至华盛顿。",
@@ -665,7 +666,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -711,8 +712,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时46分]"
         },
         {
           "title": "科威特称伊朗袭击致63人受伤",
@@ -983,7 +984,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
@@ -997,8 +998,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时46分 ~ 13时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时46分 ~ 15时46分]"
         },
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -1009,8 +1010,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时47分 ~ 13时43分]"
+          "appearance_count": 7,
+          "time_info": "[06时47分 ~ 15时46分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -1022,8 +1023,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时47分 ~ 13时43分]"
+          "appearance_count": 7,
+          "time_info": "[06时47分 ~ 15时46分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -1083,6 +1084,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "美股超级IPO如何影响指数",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E8%B6%85%E7%BA%A7IPO%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%8C%87%E6%95%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
@@ -1182,6 +1205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "美股芯片巨头暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         }
       ]
     },
@@ -1194,11 +1228,12 @@
           "url": "https://wallstreetcn.com/articles/3773814",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时46分]"
         },
         {
           "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
@@ -1252,7 +1287,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
