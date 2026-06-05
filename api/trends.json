@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T19:12:46.055635+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-06-05T21:10:39.542037+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -510,6 +510,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美国总统特朗普：如果没有美国的军事支持，乌克兰将无法继续作战。",
           "url": "https://flash.jin10.com/detail/20260605041433585800",
           "source": "金十数据",
@@ -527,7 +538,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -560,7 +571,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -714,7 +725,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -854,7 +865,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗“圣城旅”喊话以色列",
@@ -894,6 +905,19 @@
           "time_info": "07时31分"
         },
         {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 21时10分]"
+        },
+        {
           "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
           "url": "https://flash.jin10.com/detail/20260605051927289800",
           "source": "金十数据",
@@ -916,19 +940,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时48分]"
-        },
-        {
-          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 19时12分]"
         },
         {
           "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
@@ -985,6 +996,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 98 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046131640967984631",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "数据显示：伊朗石油出口降至六年来的最低水平",
@@ -1119,6 +1141,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "伊朗否认已同意将部分浓缩铀转移至第三国",
+          "url": "https://wallstreetcn.com/livenews/3115122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗外长阿拉格齐表示，伊朗有能力维持战争，但不寻求战争。",
           "url": "https://flash.jin10.com/detail/20260605020723148800",
           "source": "金十数据",
@@ -1141,13 +1174,24 @@
           "time_info": "09时02分"
         },
         {
+          "title": "伊朗军队向美军舰开火示警 美舰船随后驶离阿曼湾",
+          "url": "https://wallstreetcn.com/livenews/3115119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐与哈马斯高级领导人哈利勒·哈亚讨论了加沙及更广泛地区的最新局势发展，双方重申支持巴勒斯坦事业，并支持旨在结束以色列军事行动的相关努力。",
           "url": "https://flash.jin10.com/detail/20260605181500509800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1166,7 +1210,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -1233,6 +1277,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时08分 ~ 09时02分]"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
@@ -1343,6 +1398,18 @@
           "time_info": "[01时08分 ~ 07时31分]"
         },
         {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 21时10分]"
+        },
+        {
           "title": "谷歌计划投放3200万只蚊子",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1352,17 +1419,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 01时09分]"
-        },
-        {
-          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
-          "url": "https://www.zhihu.com/question/2045932866278895886",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
         },
         {
           "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
@@ -1421,11 +1477,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时10分]"
         },
         {
           "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
@@ -1474,6 +1531,96 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260605060453998800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
+        },
+        {
+          "title": "美国非农数据公布后，美国国债收益率直线拉升，10年期国债收益率上行逾4bp，现报4.520%；现货黄金短线下挫，现报4447.73美元/盎司。标普500和纳斯达克100期货跌幅扩大。新兴市场货币指数下跌。",
+          "url": "https://wallstreetcn.com/livenews/3115138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "非农就业远超预期，美元指数DXY短线走高15点，现报99.36。",
+          "url": "https://flash.jin10.com/detail/20260605203046176800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "周四（6月4日）纽约尾盘，ICE美元指数跌0.10%，报99.432点，全天处于下跌状态，北京时间16:00之前持稳于99.450点附近，之后呈现出V形走势、20:00刷新日低至99.179点。 彭博美元指数跌0.06%，报1204.71点，欧股盘初曾短线转涨、15:41刷新日高至1205.94点，随后出现V型行情、20:00也刷新日低至1202.49点。 美元兑日元跌0.03%，报160.02日元，在一波短线跳水行情中、12:34刷新日低至159.61日元。",
+          "url": "https://wallstreetcn.com/livenews/3114603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指期货跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "美国如何一次性解决 36 万亿美债问题？",
+          "url": "https://www.zhihu.com/question/6607165102",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "美国10年期国债收益率在就业数据公布后上升，最新上涨4.7个基点至4.524%。2年期美债收益率最新上涨5.6个基点，报4.105%。",
+          "url": "https://flash.jin10.com/detail/20260605203338577800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1498,35 +1645,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数4日下跌",
-          "url": "https://flash.jin10.com/detail/20260605060453998800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时31分]"
-        },
-        {
-          "title": "周四（6月4日）纽约尾盘，ICE美元指数跌0.10%，报99.432点，全天处于下跌状态，北京时间16:00之前持稳于99.450点附近，之后呈现出V形走势、20:00刷新日低至99.179点。 彭博美元指数跌0.06%，报1204.71点，欧股盘初曾短线转涨、15:41刷新日高至1205.94点，随后出现V型行情、20:00也刷新日低至1202.49点。 美元兑日元跌0.03%，报160.02日元，在一波短线跳水行情中、12:34刷新日低至159.61日元。",
-          "url": "https://wallstreetcn.com/livenews/3114603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
         }
       ]
     }
