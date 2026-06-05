@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T15:38:50.669219+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-06-05T17:16:37.640147+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 15时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时16分]"
         },
         {
           "title": "特朗普最新支持率曝光，压力骤增",
@@ -774,6 +774,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "特朗普开会睡觉视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "美国总统特朗普：任何接近伊朗核设施的人，我们都会采取相应行动应对。",
           "url": "https://flash.jin10.com/detail/20260605042731966800",
           "source": "金十数据",
@@ -879,11 +890,23 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 17时16分]"
+        },
+        {
+          "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
+          "url": "https://news.ifeng.com/c/8thzeBSBwEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时38分 ~ 15时38分]"
+          "time_info": "[15时38分 ~ 17时16分]"
         },
         {
           "title": "哈马斯高官与伊朗外长通话，讨论地区局势",
@@ -915,18 +938,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
-          "url": "https://news.ifeng.com/c/8thzeBSBwEz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -1025,7 +1037,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -1110,7 +1122,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -1256,6 +1268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "美股盘前，科技股延续跌势，英伟达跌超1.5%，美光科技跌2.77%，ARM跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3114919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
@@ -1334,8 +1357,20 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 17时16分]"
+        },
         {
           "title": "OpenAI的CEO Altman与美国总统特朗普谈论政府持股事宜。 美国官员就政府收购AI巨头们的股份开会。 佛蒙特州（vermont）独立议员即将给出的立法草案还建议，对OpenAI、Anthropic、马斯克旗下xAI、以及其他AI公司的股票征税50%。（Notus）",
           "url": "https://wallstreetcn.com/livenews/3114670",
@@ -1348,15 +1383,15 @@
           "time_info": "07时31分"
         },
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时38分"
+          "time_info": "17时16分"
         },
         {
           "title": "OpenAI：改善ChatGPT中的记忆合成，以优化新鲜度、连续性和相关性。",
@@ -1404,7 +1439,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
