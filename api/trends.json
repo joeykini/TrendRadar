@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T13:38:19.265609+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-06-07T15:32:15.853750+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "巴基斯坦内政部长Naqvi将向伊朗最高领袖递送信息。（ISNA）",
@@ -113,11 +113,30 @@
             5,
             8,
             13,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时31分 ~ 13时38分]"
+          "appearance_count": 8,
+          "time_info": "[04时31分 ~ 15时32分]"
+        },
+        {
+          "title": "伊朗媒体：哈尔克岛附近居民听到爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3115493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            7,
+            8,
+            11,
+            16,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时34分 ~ 15时32分]"
         },
         {
           "title": "美媒曝以色列在伊朗周边多国设据点",
@@ -138,21 +157,21 @@
           "time_info": "[00时30分 ~ 09时04分]"
         },
         {
-          "title": "伊朗媒体：哈尔克岛附近居民听到爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3115493",
+          "title": "伊朗哈尔克岛附近爆炸声系排爆作业所致",
+          "url": "https://wallstreetcn.com/livenews/3115496",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
+            5,
             6,
             7,
-            8,
-            11,
-            16,
-            21
+            10,
+            15,
+            20,
+            27
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[03时34分 ~ 13时38分]"
+          "time_info": "[04时31分 ~ 15时32分]"
         },
         {
           "title": "世界杯伊朗代表团十余人遭美国拒签",
@@ -177,22 +196,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 07时28分]"
-        },
-        {
-          "title": "伊朗哈尔克岛附近爆炸声系排爆作业所致",
-          "url": "https://wallstreetcn.com/livenews/3115496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            7,
-            10,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时31分 ~ 13时38分]"
         },
         {
           "title": "美或用伊朗资产赔偿海湾盟友",
@@ -260,6 +263,20 @@
           "time_info": "[05时27分 ~ 09时04分]"
         },
         {
+          "title": "报道：美或用伊朗被冻资产赔偿海湾盟友",
+          "url": "https://wallstreetcn.com/livenews/3115503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 15时32分]"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：哈尔克岛附近传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260607021404909800",
           "source": "金十数据",
@@ -273,29 +290,17 @@
           "time_info": "[02时34分 ~ 04时31分]"
         },
         {
-          "title": "报道：美或用伊朗被冻资产赔偿海湾盟友",
-          "url": "https://wallstreetcn.com/livenews/3115503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时38分]"
-        },
-        {
           "title": "美军中央司令部6日在社交媒体上发文说，当天早些时候，美军击落了两架伊朗单向攻击无人机。（新华国际）",
           "url": "https://wallstreetcn.com/livenews/3115510",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时38分]"
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 15时32分]"
         },
         {
           "title": "世界杯伊朗代表团十余人遭美国拒签",
@@ -347,6 +352,18 @@
           "time_info": "[06时28分 ~ 09时04分]"
         },
         {
+          "title": "世界杯伊朗代表团十余人遭美国拒签，伊朗足协将向国际足联申诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33326338",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 15时32分]"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：黎巴嫩真主党谴责以色列对黎巴嫩军车的致命袭击。",
           "url": "https://flash.jin10.com/detail/20260607000022677800",
           "source": "金十数据",
@@ -395,6 +412,17 @@
           "time_info": "[03时34分 ~ 04时31分]"
         },
         {
+          "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
+          "url": "https://www.cls.cn/detail/2392742",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
           "title": "世界杯伊朗代表团十余人遭美国拒签",
           "url": "https://flash.jin10.com/detail/20260606223809441800",
           "source": "金十数据",
@@ -430,15 +458,15 @@
           "time_info": "[09时03分 ~ 09时04分]"
         },
         {
-          "title": "世界杯伊朗代表团十余人遭美国拒签，伊朗足协将向国际足联申诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33326338",
-          "source": "澎湃新闻",
+          "title": "伊朗第一副总统：伊朗官员在谈判方案上立场一致",
+          "url": "https://flash.jin10.com/detail/20260607143350817800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "15时32分"
         },
         {
           "title": "伊朗代表团：对核设施的攻击不应被正常化",
@@ -499,7 +527,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -526,6 +554,30 @@
           "time_info": "[00时29分 ~ 05时27分]"
         },
         {
+          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
+          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 15时32分]"
+        },
+        {
+          "title": "伊朗开价240亿美元，这可要了特朗普的命",
+          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 15时32分]"
+        },
+        {
           "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
           "url": "https://flash.jin10.com/detail/20260607031222169800",
           "source": "金十数据",
@@ -540,27 +592,16 @@
           "time_info": "[03时34分 ~ 07时28分]"
         },
         {
-          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
-          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
+          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
+          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
           "source": "凤凰网",
           "ranks": [
-            9,
-            11
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时03分 ~ 13时38分]"
-        },
-        {
-          "title": "伊朗开价240亿美元，这可要了特朗普的命",
-          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 13时38分]"
+          "time_info": "[11时16分 ~ 15时32分]"
         },
         {
           "title": "美国总统特朗普转发了白宫关于就业数据的社交媒体帖子，内容为：“就业、就业、就业。数据不会骗人。”",
@@ -576,16 +617,27 @@
           "time_info": "[00时30分 ~ 02时34分]"
         },
         {
-          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
-          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
+          "title": "美防长在法国模仿特朗普，美军被逗得哈哈大笑",
+          "url": "https://v.ifeng.com/c/8tl4ufgZGdN",
           "source": "凤凰网",
           "ranks": [
             7,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时38分]"
+          "time_info": "[13时38分 ~ 15时32分]"
+        },
+        {
+          "title": "特朗普刚起床就发了AI视频",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%B5%B7%E5%BA%8A%E5%B0%B1%E5%8F%91%E4%BA%86AI%E8%A7%86%E9%A2%91&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 15时32分]"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -618,18 +670,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "美防长在法国模仿特朗普，美军被逗得哈哈大笑",
-          "url": "https://v.ifeng.com/c/8tl4ufgZGdN",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -645,15 +686,15 @@
           "time_info": "11时17分"
         },
         {
-          "title": "特朗普刚起床就发了AI视频",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%B5%B7%E5%BA%8A%E5%B0%B1%E5%8F%91%E4%BA%86AI%E8%A7%86%E9%A2%91&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "特朗普5月猛发800多条Truth帖文 美化首都的帖子占了十分之一",
+          "url": "https://flash.jin10.com/detail/20260607133116790800",
+          "source": "金十数据",
           "ranks": [
-            18
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "15时32分"
         }
       ]
     },
@@ -670,8 +711,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -682,8 +723,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -741,7 +782,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         }
@@ -749,7 +790,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -772,22 +813,35 @@
             1,
             4,
             9,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时28分 ~ 13时38分]"
+          "appearance_count": 6,
+          "time_info": "[06时28分 ~ 15时32分]"
         },
         {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
           "url": "https://wallstreetcn.com/livenews/3115520",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 15时32分]"
+        },
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
@@ -796,7 +850,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -807,7 +861,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         }
@@ -830,8 +884,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时31分 ~ 13时38分]"
+          "appearance_count": 12,
+          "time_info": "[04时31分 ~ 15时32分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
@@ -846,15 +900,26 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时27分 ~ 13时38分]"
+          "appearance_count": 11,
+          "time_info": "[05时27分 ~ 15时32分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价大跌投资者如何选择",
+          "url": "https://www.toutiao.com/trending/7648489572677979711/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
         {
           "title": "金价跌回2025年是买还是等",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%E6%98%AF%E4%B9%B0%E8%BF%98%E6%98%AF%E7%AD%89",
