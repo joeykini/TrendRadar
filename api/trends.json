@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T19:08:54.275792+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2026-06-09T21:08:32.031240+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -98,19 +98,6 @@
           "time_info": "[01时13分 ~ 07时31分]"
         },
         {
-          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
-          "url": "https://news.ifeng.com/c/8toKe0HelhI",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 17时16分]"
-        },
-        {
           "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
           "url": "https://wallstreetcn.com/articles/3774122",
           "source": "华尔街见闻",
@@ -122,8 +109,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时31分 ~ 19时08分]"
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 21时08分]"
+        },
+        {
+          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
+          "url": "https://news.ifeng.com/c/8toKe0HelhI",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 17时16分]"
         },
         {
           "title": "特朗普：未来两周将对伊朗全面胜利",
@@ -172,6 +172,18 @@
           "time_info": "07时31分"
         },
         {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 21时08分]"
+        },
+        {
           "title": "特朗普曾警告内塔尼亚胡：再开战，将遭孤立",
           "url": "https://news.ifeng.com/c/8toEUKCFcdF",
           "source": "凤凰网",
@@ -189,7 +201,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -217,18 +229,6 @@
           "time_info": "[07时31分 ~ 08时56分]"
         },
         {
-          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
-          "url": "https://www.cls.cn/detail/2394559",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 19时08分]"
-        },
-        {
           "title": "美国总统特朗普：石油价格将在伊朗问题结束后下跌。",
           "url": "https://wallstreetcn.com/livenews/3116365",
           "source": "华尔街见闻-快讯",
@@ -251,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 21时08分]"
         },
         {
           "title": "美国总统特朗普：以色列不会与伊朗重启战争。",
@@ -380,17 +391,6 @@
           "time_info": "01时13分"
         },
         {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
           "title": "特朗普拟推动政府持股AI企业，本周或开启关键谈判",
           "url": "https://flash.jin10.com/detail/20260609144536111800",
           "source": "金十数据",
@@ -424,13 +424,24 @@
           "time_info": "07时31分"
         },
         {
+          "title": "DeepTalk：特朗普提名沃什另有深意？国际现货黄金等待“归来”时刻！",
+          "url": "https://flash.jin10.com/detail/20260609204059730800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "佩斯科夫：俄总统普京与美总统特朗普的电话交谈尚未列入议程",
           "url": "https://wallstreetcn.com/livenews/3116765",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -691,7 +702,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗和以色列先后宣布停止袭击对方",
@@ -912,6 +923,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "阿联酋航空总裁：在伊朗战争前，头等舱的客座率约为正常水平的一半。",
+          "url": "https://flash.jin10.com/detail/20260609203910248800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "伊朗全境航班暂停运行",
           "url": "https://wallstreetcn.com/livenews/3116269",
           "source": "华尔街见闻-快讯",
@@ -967,6 +989,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "阿联酋航空总裁：将为乘客提供非价格激励，包括安全承诺和旅行保障，以应对伊朗战争的影响。",
+          "url": "https://flash.jin10.com/detail/20260609203637209800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "德国工业产出自伊朗战争爆发以来首次增长",
           "url": "https://flash.jin10.com/detail/20260609143438928800",
           "source": "金十数据",
@@ -984,7 +1017,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1149,7 +1182,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         }
@@ -1157,7 +1190,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -1165,11 +1198,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时36分 ~ 19时08分]"
+          "appearance_count": 10,
+          "time_info": "[06时36分 ~ 21时08分]"
         },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -1248,8 +1282,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 19时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 21时08分]"
         },
         {
           "title": "金十图示：2026年06月08日（周一）热门中概股行情一览（美股盘中）",
@@ -1261,6 +1295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3116848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
@@ -1393,13 +1438,24 @@
           "time_info": "01时13分"
         },
         {
+          "title": "美股存储芯片股全线杀跌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E6%9D%80%E8%B7%8C&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "台积电美股盘前跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3116742",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         }
@@ -1419,6 +1475,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 21时08分]"
         },
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
@@ -1445,18 +1513,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时36分]"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 19时08分]"
         },
         {
           "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
@@ -1571,7 +1627,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1627,8 +1683,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 19时08分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 21时08分]"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果最大的模型“AFM Cloud Pro”将运行在谷歌云基础设施上。",
@@ -1761,7 +1817,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -1787,8 +1843,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时36分 ~ 15时23分]"
+          "appearance_count": 8,
+          "time_info": "[06时36分 ~ 21时08分]"
         },
         {
           "title": "金价大跌 郑州金店被挤爆",
@@ -1825,6 +1881,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 17时16分]"
+        },
+        {
+          "title": "金饰价格跌回2025年底，业内人士：短期金价或将宽幅震荡",
+          "url": "https://wallstreetcn.com/livenews/3116828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     },
