@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T13:38:46.923685+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-06-10T15:38:39.011175+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 105,
+      "match_count": 108,
       "titles": [
         {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
@@ -34,6 +34,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时03分 ~ 11时15分]"
+        },
+        {
+          "title": "伊朗称摧毁约旦美军基地F-35机库",
+          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 15时38分]"
+        },
+        {
+          "title": "美军对伊朗发动打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 15时38分]"
         },
         {
           "title": "伊朗战争最新动态丨美国和伊朗又动手了，情况如何？",
@@ -113,15 +138,15 @@
           "time_info": "05时38分"
         },
         {
-          "title": "伊朗称摧毁约旦美军基地F-35机库",
-          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
-          "source": "凤凰网",
+          "title": "伊朗消息人士称反击行动击中七成预定目标",
+          "url": "https://wallstreetcn.com/livenews/3117299",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "15时38分"
         },
         {
           "title": "伊朗媒体援引当地居民的话报道称，伊朗锡里克（Sirik）地区传出爆炸声，原因不明。",
@@ -168,19 +193,6 @@
           "time_info": "05时38分"
         },
         {
-          "title": "美军对伊朗发动打击",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 13时38分]"
-        },
-        {
           "title": "伊朗外交部长：靠近伊朗领土的外国力量始终处于风险之中，这种风险可能来自人为失误、意外事故，或在冲突中被卷入交火。为了降低这种风险，最好的解决方案就是这些外部力量撤离该地区。",
           "url": "https://flash.jin10.com/detail/20260610021903833800",
           "source": "金十数据",
@@ -190,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "外交部：中方对当前伊朗局势深表关切，各方应保持冷静克制",
+          "url": "https://wallstreetcn.com/livenews/3117296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "伊朗迈赫尔通讯社援引当地消息源：伊朗贾斯克周边再次传出爆炸声。",
@@ -231,7 +254,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -430,6 +453,18 @@
           "time_info": "[06时37分 ~ 07时33分]"
         },
         {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.toutiao.com/trending/7649563798306557482/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 15时38分]"
+        },
+        {
           "title": "伊朗击落一架美军阿帕奇直升机",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E7%BE%8E%E5%86%9B%E9%98%BF%E5%B8%95%E5%A5%87%E7%9B%B4%E5%8D%87%E6%9C%BA",
           "source": "百度热搜",
@@ -442,15 +477,28 @@
           "time_info": "[09时03分 ~ 11时15分]"
         },
         {
+          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
+          "url": "https://www.zhihu.com/question/2047951657120396654",
+          "source": "知乎",
+          "ranks": [
+            18,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 15时38分]"
+        },
+        {
           "title": "伊朗袭击美军第五舰队",
-          "url": "https://www.toutiao.com/trending/7649563798306557482/",
-          "source": "今日头条",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时15分 ~ 13时38分]"
+          "time_info": "[13时38分 ~ 15时38分]"
         },
         {
           "title": "美军对伊朗发动报复性打击",
@@ -536,18 +584,6 @@
           "time_info": "[06时37分 ~ 07时33分]"
         },
         {
-          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
-          "url": "https://www.zhihu.com/question/2047951657120396654",
-          "source": "知乎",
-          "ranks": [
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 13时38分]"
-        },
-        {
           "title": "据纽约时报，美国与伊朗在磋商中聚焦于四个核问题。 美国认为，伊朗同意暂停铀浓缩活动15年。 标普500指数跌幅收窄至1.2%，道指跌幅不足0.5%，纳指跌2.1%，半导体指数跌幅也收窄至4.8%。",
           "url": "https://wallstreetcn.com/livenews/3116971",
           "source": "华尔街见闻-快讯",
@@ -628,17 +664,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时46分]"
-        },
-        {
-          "title": "伊朗袭击美军第五舰队",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         },
         {
           "title": "伊朗最高联合军事指挥部：已对地区内部分美军基地实施打击，以回应美国“对伊朗南部的侵略”。",
@@ -746,7 +771,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -856,7 +881,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -966,7 +991,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -1186,9 +1211,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "伊朗击落美军“阿帕奇”直升机",
+          "url": "https://www.douyin.com/hot/2529103",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "据AXIOS记者：伊朗向位于巴林、科威特和约旦的美国基地发射了至少4枚弹道导弹和多架无人机。",
@@ -1222,6 +1258,18 @@
           "time_info": "[01时03分 ~ 11时15分]"
         },
         {
+          "title": "特朗普证实美军打击伊朗",
+          "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时33分 ~ 15时38分]"
+        },
+        {
           "title": "特朗普：美伊谈判进入“最后关头”",
           "url": "https://news.ifeng.com/c/8tooQUA09O3",
           "source": "凤凰网",
@@ -1232,18 +1280,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时03分 ~ 13时38分]"
-        },
-        {
-          "title": "特朗普证实美军打击伊朗",
-          "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 13时38分]"
         },
         {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
@@ -1264,11 +1300,39 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 15时38分]"
+        },
+        {
+          "title": "专家：达成协议是大势所趋，特朗普比伊朗更着急",
+          "url": "https://news.ifeng.com/c/8tq3SJCc0lq",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时15分 ~ 13时38分]"
+          "time_info": "[13时38分 ~ 15时38分]"
+        },
+        {
+          "title": "特朗普指示美军打击伊朗 伊外长发警告",
+          "url": "https://www.toutiao.com/trending/7649536140243897906/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            6,
+            12,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时33分 ~ 15时38分]"
         },
         {
           "title": "万斯发声力挺特朗普对伊政策，“确信”美伊战争一年内将成为历史",
@@ -1293,15 +1357,17 @@
           "time_info": "01时03分"
         },
         {
-          "title": "专家：达成协议是大势所趋，特朗普比伊朗更着急",
-          "url": "https://news.ifeng.com/c/8tq3SJCc0lq",
-          "source": "凤凰网",
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            6,
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 15时38分]"
         },
         {
           "title": "特朗普称伊朗击落美军阿帕奇直升机、美方将作出回应",
@@ -1313,32 +1379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "特朗普指示美军打击伊朗 伊外长发警告",
-          "url": "https://www.toutiao.com/trending/7649536140243897906/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            6,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 13时38分]"
-        },
-        {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 13时38分]"
         },
         {
           "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
@@ -1550,7 +1590,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -1712,6 +1752,18 @@
           "time_info": "[01时03分 ~ 02时51分]"
         },
         {
+          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
+          "url": "https://www.cls.cn/detail/2395632",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 15时38分]"
+        },
+        {
           "title": "美股三大股指期货开盘小幅下跌，其中纳指期货跌0.2%。",
           "url": "https://flash.jin10.com/detail/20260610060116201800",
           "source": "金十数据",
@@ -1736,6 +1788,17 @@
           "time_info": "[03时45分 ~ 07时33分]"
         },
         {
+          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
+          "url": "https://www.cls.cn/detail/2395711",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "超微电脑计划通过股权和股权相关方式融资70亿美元。 最近数周，该公司围绕AI服务器的融资获得390亿美元认购。 超微电脑美股盘后跌10%。",
           "url": "https://wallstreetcn.com/livenews/3117028",
           "source": "华尔街见闻-快讯",
@@ -1745,17 +1808,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
-        },
-        {
-          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
-          "url": "https://www.cls.cn/detail/2395632",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         },
         {
           "title": "金十图示：2026年06月09日（周二）美股热门股票行情一览（美股收盘）",
@@ -1824,6 +1876,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "李大霄提醒警惕美股新股高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E8%AD%A6%E6%83%95%E7%BE%8E%E8%82%A1%E6%96%B0%E8%82%A1%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "摩根资管：美股将挺过任何短暂且剧烈的回调",
           "url": "https://wallstreetcn.com/livenews/3116931",
           "source": "华尔街见闻-快讯",
@@ -1833,6 +1896,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月10日（周三）上海金早盘价为912.95元/克，较国际金价(909.42元/克)，高3.53元/克",
+          "url": "https://flash.jin10.com/detail/20260610110836946800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "国际油价金价大跌",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 15时38分]"
+        },
+        {
+          "title": "金价连续大跌",
+          "url": "https://www.douyin.com/hot/2529220",
+          "source": "抖音",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 15时38分]"
+        },
+        {
+          "title": "金价大跌女子狂卖2斤金条",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%A5%B3%E5%AD%90%E7%8B%82%E5%8D%962%E6%96%A4%E9%87%91%E6%9D%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
+          "title": "中东冲突再起，油价美元双双走高拖累金价下跌",
+          "url": "https://flash.jin10.com/detail/20260610105607725800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "金十图示：2026年06月10日（周三）上海金午盘价为917.44元/克，较国际金价(915.85元/克)，高1.59元/克",
+          "url": "https://flash.jin10.com/detail/20260610150306957800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
+          "url": "https://wallstreetcn.com/livenews/3117058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
@@ -1911,80 +2060,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金十图示：2026年06月10日（周三）上海金早盘价为912.95元/克，较国际金价(909.42元/克)，高3.53元/克",
-          "url": "https://flash.jin10.com/detail/20260610110836946800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "国际油价金价大跌",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 13时38分]"
-        },
-        {
-          "title": "金价连续大跌",
-          "url": "https://www.douyin.com/hot/2529220",
-          "source": "抖音",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 13时38分]"
-        },
-        {
-          "title": "金价大跌女子狂卖2斤金条",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%A5%B3%E5%AD%90%E7%8B%82%E5%8D%962%E6%96%A4%E9%87%91%E6%9D%A1%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        },
-        {
-          "title": "中东冲突再起，油价美元双双走高拖累金价下跌",
-          "url": "https://flash.jin10.com/detail/20260610105607725800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
-          "url": "https://wallstreetcn.com/livenews/3117058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
         }
       ]
     },
