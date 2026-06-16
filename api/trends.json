@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T02:33:50.801548+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-17T04:06:43.712437+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "翻脸不认球,美国驱赶伊朗队",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "伊朗央行行长：谅解备忘录规定美有义务解冻伊资产",
@@ -58,9 +58,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "伊朗副总统：德黑兰将维持对霍尔木兹海峡的控制权",
+          "url": "https://flash.jin10.com/detail/20260617033850014800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "安全消息人士称，无人机袭击了伊拉克埃尔比勒东部的一个伊朗反对派营地。",
+          "url": "https://flash.jin10.com/detail/20260617033223707800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "伊朗外长：在第一阶段之后，谈判将持续60天，以达成一项最终协议，该协议将包括核问题及解除制裁的内容。",
@@ -69,31 +91,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
         {
-          "title": "伊朗央行行长：谅解备忘录规定美有义务解冻伊资产",
-          "url": "https://wallstreetcn.com/livenews/3120455",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗武装部队哈塔姆安比亚中央总部指控以色列在过去两天内违反黎巴嫩停火协议84次，并警告称如果侵犯行为持续，伊朗将予以武力回应。",
+          "url": "https://flash.jin10.com/detail/20260617032841521800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "伊朗外长：美国与伊朗之间的谈判将在两国签署谅解备忘录的当天启动。",
-          "url": "https://flash.jin10.com/detail/20260617021118910800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "04时06分"
         },
         {
           "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
@@ -104,8 +115,43 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
+        },
+        {
+          "title": "伊朗外长：美国与伊朗之间的谈判将在两国签署谅解备忘录的当天启动。",
+          "url": "https://flash.jin10.com/detail/20260617021118910800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "伊朗央行行长：谅解备忘录规定美有义务解冻伊资产",
+          "url": "https://wallstreetcn.com/livenews/3120455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "time_info": "[02时33分 ~ 04时06分]"
+        },
+        {
+          "title": "伊朗队突然被勒令离开美国",
+          "url": "https://www.toutiao.com/trending/7651870551576677938/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "两度扳平!伊朗2-2新西兰",
@@ -115,19 +161,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
-        },
-        {
-          "title": "伊朗队突然被勒令离开美国",
-          "url": "https://www.toutiao.com/trending/7651870551576677938/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
@@ -138,8 +173,43 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
+        },
+        {
+          "title": "阿曼与伊朗外长讨论霍尔木兹海峡航运安全等问题",
+          "url": "https://wallstreetcn.com/livenews/3120451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "time_info": "[02时33分 ~ 04时06分]"
+        },
+        {
+          "title": "伊朗在美伊协议中寻求关于资金获取的“充分保证”",
+          "url": "https://wallstreetcn.com/livenews/3120450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 04时06分]"
+        },
+        {
+          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 04时06分]"
         },
         {
           "title": "伊朗暂不允许国际原子能机构检查其核设施",
@@ -162,28 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "阿曼与伊朗外长讨论霍尔木兹海峡航运安全等问题",
-          "url": "https://wallstreetcn.com/livenews/3120451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "伊朗在美伊协议中寻求关于资金获取的“充分保证”",
-          "url": "https://wallstreetcn.com/livenews/3120450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
         },
         {
           "title": "报道：美国与伊朗的协议允许伊朗立即销售石油",
@@ -214,7 +262,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -236,7 +284,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -247,18 +295,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -274,6 +311,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "美政府或将为伊朗设3000亿美元基金",
+          "url": "https://www.toutiao.com/trending/7650825259012227118/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
           "title": "据伊朗Press TV：伊朗总统佩泽希齐扬称，与美国达成的共识是迈向停火与谈判的关键一步；最终协议尚待达成。",
           "url": "https://flash.jin10.com/detail/20260616234619435800",
           "source": "金十数据",
@@ -283,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部：如果以色列不停止对黎巴嫩南部的攻击，就应当预料到伊朗武装部队的强硬回应。",
+          "url": "https://flash.jin10.com/detail/20260617023823103800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "伊朗队被勒令离开美国",
@@ -305,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "媒体：伊朗踢个球美国如临大敌",
+          "url": "https://www.toutiao.com/trending/7651933802163342902/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         }
       ]
     },
@@ -320,19 +390,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "特朗普和马克龙为何为一瓶红酒较劲",
           "url": "https://www.toutiao.com/trending/7651982793936735807/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。",
@@ -377,8 +448,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
@@ -388,8 +459,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "以媒：应特朗普要求，以色列在“最后一刻”取消8日大规模空袭伊朗的计划",
@@ -420,7 +491,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -442,7 +513,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -453,7 +524,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -471,8 +542,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -483,8 +554,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
@@ -495,8 +566,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
@@ -506,8 +577,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "高盛交易员：中东局势缓和推动美股投资者关注AI以外板块",
@@ -533,7 +604,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -555,7 +626,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -566,7 +637,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -581,22 +652,24 @@
           "url": "https://www.toutiao.com/trending/7651979830128283145/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时06分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://www.toutiao.com/trending/7651579346738855979/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 04时06分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
@@ -613,8 +686,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "周二（6月16日）纽约尾盘，ICE美元指数跌0.09%，报99.543点，日内交投区间为99.791-99.461点。 彭博美元指数跌0.12%，报1204.72点，日内交投区间为1207.31-1204.02点。",
+          "url": "https://wallstreetcn.com/livenews/3120470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌3.34%，暂报2380.03点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌3.40%，报2730.06点，出现一波V形走势之后转跌、在北京时间22:33刷新期内最低位至2712.52点。 MarketVector数字资产100指数跌2.53%，报13051.20点，22:33也刷新期内最低位至12983.30点。 目前，Solana跌2.87%，狗狗币跌2.86%，XRP跌4.97%。 比特币跌1.42%，暂报65665.81美元；以太坊跌2.52%，暂报1777.06美元。",
           "url": "https://wallstreetcn.com/livenews/3120444",
@@ -622,7 +706,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
