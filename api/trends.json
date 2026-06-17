@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T16:02:34.056717+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-06-17T17:50:39.654562+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 56,
       "titles": [
         {
           "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
@@ -42,11 +42,12 @@
             5,
             7,
             10,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 16时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 17时50分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -57,11 +58,12 @@
             6,
             7,
             4,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 16时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 17时50分]"
         },
         {
           "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
@@ -87,11 +89,12 @@
             9,
             10,
             13,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 16时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 17时50分]"
         },
         {
           "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
@@ -275,6 +278,30 @@
           "time_info": "[07时36分 ~ 09时06分]"
         },
         {
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时46分 ~ 17时50分]"
+        },
+        {
+          "title": "勒令伊朗国足连夜离境 美方回应",
+          "url": "https://www.baidu.com/s?wd=%E5%8B%92%E4%BB%A4%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%BF%9E%E5%A4%9C%E7%A6%BB%E5%A2%83+%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时50分]"
+        },
+        {
           "title": "阿曼与伊朗外长讨论霍尔木兹海峡航运安全等问题",
           "url": "https://wallstreetcn.com/livenews/3120451",
           "source": "华尔街见闻-快讯",
@@ -285,18 +312,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 04时06分]"
-        },
-        {
-          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
-          "url": "https://wallstreetcn.com/articles/3774848",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 16时02分]"
         },
         {
           "title": "伊朗在美伊协议中寻求关于资金获取的“充分保证”",
@@ -357,17 +372,6 @@
           "time_info": "00时36分"
         },
         {
-          "title": "勒令伊朗国足连夜离境 美方回应",
-          "url": "https://www.baidu.com/s?wd=%E5%8B%92%E4%BB%A4%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%BF%9E%E5%A4%9C%E7%A6%BB%E5%A2%83+%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "伊朗暂不允许国际原子能机构检查其核设施",
           "url": "https://flash.jin10.com/detail/20260617000735704800",
           "source": "金十数据",
@@ -379,6 +383,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "北约秘书长吕特：伊朗协议提升了所有人的安全。",
+          "url": "https://flash.jin10.com/detail/20260617173024130800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "报道：美国与伊朗的协议允许伊朗立即销售石油",
           "url": "https://wallstreetcn.com/livenews/3120419",
           "source": "华尔街见闻-快讯",
@@ -388,6 +403,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美方回应勒令伊朗国足连夜离境",
+          "url": "https://www.toutiao.com/trending/7652270116297690634/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "美方回应“伊朗队被勒令连夜离境”",
+          "url": "https://www.cls.cn/detail/2402204",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "据船舶追踪网站Tanker Trackers：第三艘伊朗国家油轮公司（NITC）油轮离开封锁线，船上装载了100万桶原油。",
@@ -418,7 +455,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -473,7 +510,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -500,6 +537,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "伊朗外长与俄外长通电话 讨论美伊谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3120881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "据伊朗Press TV：伊朗总统佩泽希齐扬称，与美国达成的共识是迈向停火与谈判的关键一步；最终协议尚待达成。",
           "url": "https://flash.jin10.com/detail/20260616234619435800",
           "source": "金十数据",
@@ -520,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "卡尼称加拿大不会为3,000亿美元伊朗基金出资",
+          "url": "https://wallstreetcn.com/livenews/3120877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "世界杯伊朗队风波梳理",
@@ -544,6 +603,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：消息人士还指出，根据双方达成的共识，该谅解备忘录的文本将在周五签署后公布。",
+          "url": "https://flash.jin10.com/detail/20260617172010683800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "伊朗议会议长、顶级谈判员卡利巴夫与黎巴嫩议会议长通电话时表示：以色列必须退出黎巴嫩“被占领的地区”。 以色列必须从所有战线离开，其中就包括黎巴嫩。",
           "url": "https://wallstreetcn.com/livenews/3120397",
           "source": "华尔街见闻-快讯",
@@ -555,6 +625,28 @@
           "time_info": "00时36分"
         },
         {
+          "title": "伊朗与俄罗斯外长通话讨论美伊协议事宜。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3120872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：消息人士强调，彭博社报道中涉及第一条及霍尔木兹海峡相关内容的部分存在具体失实之处，遗漏了关键条款。",
+          "url": "https://flash.jin10.com/detail/20260617171943837800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "媒体：伊朗踢个球美国如临大敌",
           "url": "https://www.toutiao.com/trending/7651933802163342902/",
           "source": "今日头条",
@@ -564,12 +656,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：消息人士称，彭博社报道的所谓伊美谅解备忘录文本“不准确”。",
+          "url": "https://flash.jin10.com/detail/20260617171910437800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -581,6 +684,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普：关我们啥事？就是卖卖武器",
+          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 17时50分]"
         },
         {
           "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
@@ -595,18 +711,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 09时06分]"
-        },
-        {
-          "title": "特朗普：关我们啥事？就是卖卖武器",
-          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 16时02分]"
         },
         {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
@@ -632,6 +736,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 17时50分]"
         },
         {
           "title": "特朗普政府再次推动转移教育部职能",
@@ -667,17 +784,15 @@
           "time_info": "00时36分"
         },
         {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
+          "title": "“马克龙想借中国，来跟特朗普讨价还价”",
+          "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            7,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "德国总理默茨：我告诉美国总统特朗普，德国愿意为霍尔木兹海峡任务作出贡献。",
@@ -785,6 +900,17 @@
           "time_info": "[11时15分 ~ 11时16分]"
         },
         {
+          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
+          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "以媒：应特朗普要求，以色列在“最后一刻”取消8日大规模空袭伊朗的计划",
           "url": "https://wallstreetcn.com/livenews/3120422",
           "source": "华尔街见闻-快讯",
@@ -796,6 +922,28 @@
           "time_info": "00时36分"
         },
         {
+          "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
+          "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "报道：特朗普顾问考虑美国政府入股AI巨头的可能结构",
+          "url": "https://wallstreetcn.com/livenews/3120898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "沃什的“首秀”尴尬了，特朗普选他来降息，如今美联储却在谈加息",
           "url": "https://flash.jin10.com/detail/20260617104212999800",
           "source": "金十数据",
@@ -805,6 +953,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "现场：马克龙夫人险摔倒，不抓身旁老公，反而抓住特朗普",
+          "url": "https://v.ifeng.com/c/8u1lYy22fhi",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "同样是石油大国！特朗普政府公布下一个目标：利比亚",
+          "url": "https://flash.jin10.com/detail/20260617172728336800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "美国联邦登记处公布总统特朗普6月11日的备忘录。",
@@ -827,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "母亲举报儿子密谋特朗普生日袭击白宫",
+          "url": "https://www.toutiao.com/trending/7651988532776714282/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "莫迪与特朗普将在G7峰会上讨论双边贸易协定。（印度《经济时报》）",
@@ -877,8 +1058,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时42分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[06时42分 ~ 17时50分]"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
@@ -1069,8 +1250,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 16时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 17时50分]"
         },
         {
           "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
@@ -1082,8 +1263,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 16时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 17时50分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
@@ -1116,7 +1297,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1135,7 +1316,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌：Wear OS 7今日起向符合条件的Pixel Watch设备推送，为全天候日常使用提供可靠的平台支持。",
@@ -1203,6 +1384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "针对英国监管机构关于搜索业务的新规，谷歌(GOOG.O)表示将与英国竞争与市场管理局（CMA）开展建设性合作，以确保“能够为用户维持高质量的搜索体验”。",
+          "url": "https://flash.jin10.com/detail/20260617173014863800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
@@ -1369,7 +1561,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
