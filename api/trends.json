@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T11:16:16.703530+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-06-17T13:46:38.175058+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
@@ -29,11 +29,12 @@
             3,
             4,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 11时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 13时46分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -46,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 11时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 13时46分]"
         },
         {
           "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
@@ -82,11 +83,12 @@
             7,
             8,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 11时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 13时46分]"
         },
         {
           "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
@@ -97,11 +99,12 @@
             16,
             14,
             8,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 11时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 13时46分]"
         },
         {
           "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
@@ -112,11 +115,12 @@
             18,
             15,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时33分 ~ 11时16分]"
+          "appearance_count": 10,
+          "time_info": "[02时33分 ~ 13时46分]"
         },
         {
           "title": "伊朗副外长披露美伊谅解备忘录细节",
@@ -127,8 +131,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时46分]"
+        },
+        {
+          "title": "“伊朗永远不会得到美国纳税人的一分钱”",
+          "url": "https://news.ifeng.com/c/8u1ZY3ZubFf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时16分]"
+          "time_info": "[11时15分 ~ 13时46分]"
         },
         {
           "title": "伊朗队突然被勒令离开美国",
@@ -143,17 +158,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 07时36分]"
-        },
-        {
-          "title": "“伊朗永远不会得到美国纳税人的一分钱”",
-          "url": "https://news.ifeng.com/c/8u1ZY3ZubFf",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "伊朗央行行长：谅解备忘录规定美有义务解冻伊资产",
@@ -264,8 +268,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时46分]"
         },
         {
           "title": "阿曼与伊朗外长讨论霍尔木兹海峡航运安全等问题",
@@ -316,6 +320,17 @@
           "time_info": "[04时06分 ~ 05时54分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗武装部队指挥部就以色列违反黎巴嫩停火协议发出严厉警告。",
+          "url": "https://flash.jin10.com/detail/20260617133344327800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "伊朗暂不允许国际原子能机构检查其核设施",
           "url": "https://wallstreetcn.com/livenews/3120423",
           "source": "华尔街见闻-快讯",
@@ -338,6 +353,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "报道：美国与伊朗的协议允许伊朗立即销售石油",
           "url": "https://wallstreetcn.com/livenews/3120419",
           "source": "华尔街见闻-快讯",
@@ -355,7 +381,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -380,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "七国集团：伊朗永远不会拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3120742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "据华尔街日报：对伊朗石油销售制裁豁免的条款将在本周签署协议后立即生效，并涵盖银行、交通和保险等必要服务，以促进销售。",
@@ -523,6 +560,18 @@
           "time_info": "[00时36分 ~ 09时06分]"
         },
         {
+          "title": "特朗普：关我们啥事？就是卖卖武器",
+          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时46分]"
+        },
+        {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
           "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
           "source": "凤凰网",
@@ -532,18 +581,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 09时06分]"
-        },
-        {
-          "title": "特朗普：关我们啥事？就是卖卖武器",
-          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时16分]"
         },
         {
           "title": "特朗普和马克龙为何为一瓶红酒较劲",
@@ -604,6 +641,32 @@
           "time_info": "00时36分"
         },
         {
+          "title": "特朗普称美伊协议已签署",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 13时46分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时46分]"
+        },
+        {
           "title": "【特朗普：美方可能近期恢复对俄罗斯石油制裁】美国总统特朗普16日称，美国可能很快重新实施对俄罗斯石油的制裁。特朗普当天在法国埃维昂莱班出席七国集团峰会期间对媒体称：“（恢复制裁）很快就能落实，因为目前石油已在正常流通……我们此前之所以暂缓制裁，显然是不希望影响石油供应。目前条件已经具备，可以尽快采取行动。”（新华社）",
           "url": "https://wallstreetcn.com/livenews/3120426",
           "source": "华尔街见闻-快讯",
@@ -628,6 +691,17 @@
           "time_info": "[07时36分 ~ 09时06分]"
         },
         {
+          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
+          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时46分]"
+        },
+        {
           "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
           "url": "https://wallstreetcn.com/livenews/3120506",
           "source": "华尔街见闻-快讯",
@@ -638,41 +712,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 06时42分]"
-        },
-        {
-          "title": "特朗普称美伊协议已签署",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 11时16分]"
-        },
-        {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时16分]"
-        },
-        {
-          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
-          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时16分]"
         },
         {
           "title": "特朗普称美伊协议谈判进入第二阶段",
@@ -726,7 +765,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -759,7 +798,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -792,6 +831,19 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时42分 ~ 13时46分]"
+        },
+        {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
           "url": "https://www.cls.cn/detail/2401513",
           "source": "财联社热门",
@@ -806,17 +858,16 @@
           "time_info": "[00时36分 ~ 11时16分]"
         },
         {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
+          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
+          "url": "https://www.cls.cn/detail/2401731",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            2,
-            1
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时42分 ~ 11时16分]"
+          "time_info": "[07时35分 ~ 13时46分]"
         },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -830,18 +881,6 @@
           "time_info": "[00时36分 ~ 06时42分]"
         },
         {
-          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
-          "url": "https://www.cls.cn/detail/2401731",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 11时16分]"
-        },
-        {
           "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
           "url": "https://www.cls.cn/detail/2401752",
           "source": "财联社热门",
@@ -850,8 +889,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 11时16分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 13时46分]"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
@@ -950,7 +989,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -984,6 +1023,30 @@
           "time_info": "[02时33分 ~ 09时06分]"
         },
         {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时46分]"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时46分]"
+        },
+        {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1008,32 +1071,21 @@
           "time_info": "[09时06分 ~ 11时16分]"
         },
         {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
+          "title": "DeepSeek为什么此时融资",
+          "url": "https://www.toutiao.com/trending/7652171876302605843/",
+          "source": "今日头条",
           "ranks": [
-            9
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
-        },
-        {
-          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
-          "url": "https://www.zhihu.com/question/2050271442697188542",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌：Wear OS 7今日起向符合条件的Pixel Watch设备推送，为全天候日常使用提供可靠的平台支持。",
@@ -1092,6 +1144,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "XREAL联手谷歌发布空间计算眼镜，深度集成Gemini",
+          "url": "https://wallstreetcn.com/livenews/3120751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3120568",
           "source": "华尔街见闻-快讯",
@@ -1139,8 +1202,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 13时46分]"
         },
         {
           "title": "OpenAI第一季度消耗现金37亿美元，同比增加两倍",
