@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T15:46:56.745428+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-06-21T17:22:14.562188+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 78,
+      "match_count": 94,
       "titles": [
         {
           "title": "伊朗军方宣布关闭霍尔木兹海峡",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 15时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 17时22分]"
         },
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -43,6 +43,18 @@
           "time_info": "[00时37分 ~ 11时17分]"
         },
         {
+          "title": "伊朗谈判代表团已抵达瑞士，专机上印了一个特殊数字",
+          "url": "https://news.ifeng.com/c/8u7wvFHmYbA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 17时22分]"
+        },
+        {
           "title": "伊朗军方宣布关闭霍尔木兹海峡，伊朗外交部称美国未能约束以色列，违反谅解备忘录，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2051776067241775423",
           "source": "知乎",
@@ -50,11 +62,12 @@
             3,
             2,
             1,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时35分 ~ 15时46分]"
+          "appearance_count": 15,
+          "time_info": "[01时35分 ~ 17时22分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -77,11 +90,12 @@
             4,
             6,
             9,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 15时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 17时22分]"
         },
         {
           "title": "巴基斯坦：伊朗与美国将于6月21日举行会谈",
@@ -92,23 +106,12 @@
             5,
             7,
             10,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 15时46分]"
-        },
-        {
-          "title": "伊朗谈判代表团已抵达瑞士，专机上印了一个特殊数字",
-          "url": "https://news.ifeng.com/c/8u7wvFHmYbA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 15时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 17时22分]"
         },
         {
           "title": "伊朗警告船只勿靠近霍尔木兹海峡，否则有安全风险",
@@ -119,11 +122,12 @@
             6,
             8,
             11,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 15时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 17时22分]"
         },
         {
           "title": "伊朗革命卫队：霍尔木兹海峡对所有船只关闭。",
@@ -134,26 +138,12 @@
             7,
             9,
             12,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 15时46分]"
-        },
-        {
-          "title": "伊朗外交部：美国未能约束以色列，违反谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3122274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            10,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 15时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 17时22分]"
         },
         {
           "title": "伊朗军方宣布关闭霍尔木兹海峡",
@@ -165,6 +155,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时32分]"
+        },
+        {
+          "title": "伊朗外交部：美国未能约束以色列，违反谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3122274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            10,
+            13,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 17时22分]"
         },
         {
           "title": "伊朗军方宣布关闭霍尔木兹海峡，为何再次关闭？美伊谈判可能有哪些变数？",
@@ -213,11 +219,12 @@
             10,
             12,
             15,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 15时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 17时22分]"
         },
         {
           "title": "伊朗外长将与巴基斯坦内政部长一同前往瑞士",
@@ -228,11 +235,12 @@
             11,
             13,
             16,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 15时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 17时22分]"
         },
         {
           "title": "伊朗宣布将派团前往瑞士并要求美方履行承诺",
@@ -243,11 +251,12 @@
             12,
             14,
             17,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 15时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 17时22分]"
         },
         {
           "title": "伊朗国家电视台：伊朗代表团前往瑞士与美国会谈。",
@@ -308,8 +317,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 15时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 17时22分]"
         },
         {
           "title": "美国副总统万斯：并没有任何证据表明伊朗仍然关闭霍尔木兹海峡。 在霍尔木兹海峡扫雷需要一些时间。",
@@ -408,8 +417,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 17时22分]"
         },
         {
           "title": "伊朗军方宣布关闭霍尔木兹海峡，美方回应",
@@ -423,6 +432,56 @@
           "time_info": "[13时42分 ~ 15时46分]"
         },
         {
+          "title": "【早报】伊朗谈判代表团已抵达瑞士；荷兰5-1战胜瑞典",
+          "url": "https://www.cls.cn/detail/2404706",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 17时22分]"
+        },
+        {
+          "title": "伊朗透露伊美会谈安排",
+          "url": "https://news.ifeng.com/c/8u8igDXFYqk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
+          "title": "霍尔木兹海峡又封了？伊朗、美国说法不一 瑞士小镇上演外交风云",
+          "url": "https://www.cls.cn/detail/2404688",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 17时22分]"
+        },
+        {
+          "title": "伊朗外交部发言人：美国未执行谅解备忘录第一条",
+          "url": "https://news.ifeng.com/c/8u8jKnIv0GU",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
           "title": "伊朗石油部长Paknejad：协议达成后，伊朗石油工业将成为全球范围内提供投资机会、技术和金融合作的最大平台。",
           "url": "https://flash.jin10.com/detail/20260621131701531800",
           "source": "金十数据",
@@ -432,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国未执行谅解备忘录第一条",
+          "url": "https://wallstreetcn.com/livenews/3122321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "伊朗宣布将派团前往瑞士",
@@ -448,15 +518,48 @@
           "time_info": "[01时35分 ~ 06时31分]"
         },
         {
+          "title": "伊朗外交部：伊美与调解方四方会谈将在21日下午举行",
+          "url": "https://wallstreetcn.com/livenews/3122320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "伊朗议会议员诺文：伊朗凭借战场上的优势和人民的支持，在地区格局和谈判中占据上风。",
           "url": "https://flash.jin10.com/detail/20260621150855101800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：若备忘录停留在纸面 中东能源流动将停滞",
+          "url": "https://flash.jin10.com/detail/20260621165355761800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "伊朗媒体称霍尔木兹海峡仍然关闭",
+          "url": "https://wallstreetcn.com/livenews/3122317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "万斯称希望在伊朗核问题及黎巴嫩停火上取得进展",
@@ -478,37 +581,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
         {
-          "title": "【早报】伊朗谈判代表团已抵达瑞士；荷兰5-1战胜瑞典",
-          "url": "https://www.cls.cn/detail/2404706",
-          "source": "财联社热门",
+          "title": "伊朗外长与瑞士外长在瑞士比尔根山会晤",
+          "url": "https://wallstreetcn.com/livenews/3122311",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            10,
-            7,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 15时46分]"
-        },
-        {
-          "title": "霍尔木兹海峡又封了？伊朗、美国说法不一 瑞士小镇上演外交风云",
-          "url": "https://www.cls.cn/detail/2404688",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 15时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "伊朗进球功臣穿“补丁球鞋”出战",
@@ -530,11 +616,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 17时22分]"
         },
         {
           "title": "伊朗革命卫队警告船只远离霍尔木兹海峡",
@@ -771,6 +858,17 @@
           "time_info": "13时43分"
         },
         {
+          "title": "伊朗外长与瑞士外长在瑞士比尔根山会晤",
+          "url": "https://flash.jin10.com/detail/20260621162951540800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗方面表示，此次瑞士对话的结果将明确华盛顿是否真的有意愿进入第二阶段谈判。",
           "url": "https://flash.jin10.com/detail/20260621093911953800",
           "source": "金十数据",
@@ -788,9 +886,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "伊朗：瑞士会谈为期一天 黎巴嫩停火将成为核心议题",
+          "url": "https://flash.jin10.com/detail/20260621162312014800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "据CNN：一名伊朗官员表示，结束黎巴嫩冲突是伊朗代表团此次议程中最重要的事项。",
@@ -810,9 +919,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，会议还将讨论其他议题，包括对伊朗石油销售的豁免以及解冻伊朗被冻结资产。",
+          "url": "https://flash.jin10.com/detail/20260621161922599800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "伊朗央行行长：战争期间我们的外汇储备增加了45亿美元。",
@@ -821,9 +941,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，美国未能确保黎巴嫩停火，该议题将成为瑞士会议的核心议题。",
+          "url": "https://flash.jin10.com/detail/20260621161743669800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "美国军方：美国军方始终保持在场并保持警惕，以确保与伊朗的协议各方面得到遵守、执行，并全面有效。",
@@ -835,6 +966,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，今天的会议是对与美国达成的谅解备忘录实施情况的后续跟进。",
+          "url": "https://flash.jin10.com/detail/20260621161724023800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "伊朗队11人被拒签赛前困于他国",
@@ -854,9 +996,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，比尔根山会议为期一天，下午将举行伊朗、美国、卡塔尔和巴基斯坦四方联席会议。",
+          "url": "https://flash.jin10.com/detail/20260621161521199800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "据沙特媒体哈达斯：伊朗谈判团队在伊朗外长阿拉格齐的带领下已前往瑞士。",
@@ -887,9 +1040,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "伊朗军方消息人士：霍尔木兹海峡仍然关闭",
+          "url": "https://flash.jin10.com/detail/20260621160901006800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "美军称暂未观察到伊朗关闭霍尔木兹海峡",
@@ -901,6 +1065,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "瑞士官方部门称，由万斯率领的美国代表团、由卡利巴夫率领的伊朗代表团及调解方均已抵达比尔根山（Bürgenstock），谈判将于（当地时间）周日上午启动。",
+          "url": "https://flash.jin10.com/detail/20260621155208138800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "伊朗革命卫队海军：以色列在黎巴嫩的行动以及美国违反停火承诺是霍尔木兹海峡关闭的原因。",
@@ -920,7 +1095,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -953,7 +1128,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -975,7 +1150,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -989,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐与瑞士外长在比尔根山（ Bürgenstock）会晤。",
+          "url": "https://flash.jin10.com/detail/20260621154733386800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
@@ -1117,7 +1303,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -1132,6 +1318,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时07分 ~ 15时46分]"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 17时22分]"
         },
         {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
@@ -1169,18 +1367,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时33分 ~ 07时32分]"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时46分]"
         },
         {
           "title": "梅洛尼回应特朗普“乞求合影”言论",
@@ -1294,8 +1480,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 15时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 17时22分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -1335,11 +1521,12 @@
             18,
             17,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 15时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 17时22分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
@@ -1409,8 +1596,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 17时22分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
