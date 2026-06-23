@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-24T01:40:34.898986+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-06-24T02:49:27.015896+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "意大利总理梅洛尼：允许伊朗在霍尔木兹海峡征收通行费，将把战略贸易航道变成地缘政治武器，这是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260624024252694800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
         {
           "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
           "url": "https://flash.jin10.com/detail/20260624011029676800",
@@ -14,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -48,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
         },
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
@@ -59,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
         },
         {
           "title": "比利时0-0伊朗",
@@ -71,19 +82,32 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
         },
         {
           "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
           "url": "https://wallstreetcn.com/livenews/3123592",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时49分]"
+        },
+        {
+          "title": "嘉年华邮轮：伊朗战事冲击预订业务，下调业绩预期",
+          "url": "https://wallstreetcn.com/livenews/3123589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时49分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我们绝不会与任何人就我们的防御能力进行谈判。",
@@ -95,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "英国央行官员：伊朗冲突通胀传导效应料弱于乌克兰冲突",
+          "url": "https://wallstreetcn.com/livenews/3123603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：伊朗的导弹不在谅解备忘录范围内，也永远不会在。",
@@ -119,15 +154,26 @@
           "time_info": "00时55分"
         },
         {
-          "title": "嘉年华邮轮：伊朗战事冲击预订业务，下调业绩预期",
-          "url": "https://wallstreetcn.com/livenews/3123589",
-          "source": "华尔街见闻-快讯",
+          "title": "据美联社：美国国土安全部发言人表示，美方放宽了对伊朗世界杯代表队的限制，允许该队在下一场比赛前两天启程前往比赛场地。",
+          "url": "https://flash.jin10.com/detail/20260624023107946800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "02时49分"
+        },
+        {
+          "title": "鲁比奥：伊朗出于“内部原因”否认同意核检查",
+          "url": "https://flash.jin10.com/detail/20260624022550760800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：如果没有巴基斯坦的努力，我们今天就不会取得这样的成就。",
@@ -224,7 +270,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -251,6 +297,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "以色列证实向伊朗偷运数万星链",
+          "url": "https://flash.jin10.com/detail/20260624015705874800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
           "title": "加拿大央行行长Macklem：5月CPI报告与央行预期吻合。 迄今，还没有迹象表明石油价格扩散至整体CPI。 伊朗和平协议缓解了一些通胀上行的压力。 总体而言，央行目前尚未看到高油价大幅传导至其他商品和服务的价格中。 食品通胀是一个令人担忧的问题。",
           "url": "https://wallstreetcn.com/livenews/3123551",
           "source": "华尔街见闻-快讯",
@@ -265,7 +322,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普谈伊朗：伊朗关于国际原子能机构核查的说法是错误的。核查人员将在适当的时候抵达现场。",
@@ -274,18 +331,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
-          "url": "https://wallstreetcn.com/livenews/3123596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -301,17 +347,6 @@
           "time_info": "00时55分"
         },
         {
-          "title": "美国总统特朗普：正与伊朗达成一份协议，将观察后续进展。 伊朗关于国际原子能机构（IAEA）观察员的立场是错误的。 并不急于实地调查伊朗的核问题。 伊朗在饥饿、食品、医药、通胀方面存在问题。",
-          "url": "https://wallstreetcn.com/livenews/3123594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
           "title": "意大利总理梅洛尼：与特朗普发生争执后，意大利的外交政策仍将保持不变。",
           "url": "https://flash.jin10.com/detail/20260624003946351800",
           "source": "金十数据",
@@ -323,15 +358,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
+          "title": "国际足联（FIFA）主席：美国总统特朗普将亲自颁发世界杯奖杯。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3123606",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -341,8 +376,44 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
+        },
+        {
+          "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
+          "url": "https://wallstreetcn.com/livenews/3123596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时49分]"
+        },
+        {
+          "title": "美国总统特朗普：正与伊朗达成一份协议，将观察后续进展。 伊朗关于国际原子能机构（IAEA）观察员的立场是错误的。 并不急于实地调查伊朗的核问题。 伊朗在饥饿、食品、医药、通胀方面存在问题。",
+          "url": "https://wallstreetcn.com/livenews/3123594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时49分]"
         },
         {
           "title": "特朗普提前宣布斯塔默辞职有何意味",
@@ -350,11 +421,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
         },
         {
           "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
@@ -369,6 +441,28 @@
           "time_info": "[00时55分 ~ 01时40分]"
         },
         {
+          "title": "国际足联主席：特朗普将亲自颁发世界杯奖杯。​​​",
+          "url": "https://flash.jin10.com/detail/20260624022618787800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
+          "url": "https://wallstreetcn.com/livenews/3123598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
           "title": "据AXIOS：预计美国总统特朗普将于周二宣布，他将在7月15日于美国陆军战争学院举行的宾夕法尼亚州国防与创新峰会上发表主旨演讲，该峰会由宾夕法尼亚州联邦参议员戴夫·麦考密克主办。",
           "url": "https://flash.jin10.com/detail/20260624002526241800",
           "source": "金十数据",
@@ -378,6 +472,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "特朗普支持率降至任内最低，半数美国人认为对伊战争得不偿失",
+          "url": "https://flash.jin10.com/detail/20260624022036676800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "IBM(IBM.N)：特朗普政府将持有Anderon的股权，但不参与治理。",
+          "url": "https://flash.jin10.com/detail/20260624021722023800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "据英国金融时报：知情人士透露，特朗普在上周的七国集团峰会上对乌克兰在俄罗斯境内进行的远程打击“印象深刻，并表示非常赞赏”。特朗普还同意加大对俄罗斯能源的制裁力度。",
@@ -413,11 +529,12 @@
           "source": "微博",
           "ranks": [
             6,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
         },
         {
           "title": "金十图示：2026年06月23日（周二）美股热门股票行情一览（美股盘中）",
@@ -455,8 +572,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
+        },
+        {
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
         },
         {
           "title": "德银上调对短期美债收益率的预测",
@@ -469,17 +597,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时40分]"
-        },
-        {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
         }
       ]
     },
@@ -493,22 +610,24 @@
           "source": "知乎",
           "ranks": [
             17,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
         },
         {
           "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
           "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
         }
       ]
     },
@@ -524,19 +643,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
         },
         {
           "title": "彭博美元指数创2025年11月份以来盘中新高。",
           "url": "https://wallstreetcn.com/livenews/3123590",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时49分]"
         }
       ]
     },
@@ -549,11 +669,29 @@
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
+          "url": "https://flash.jin10.com/detail/20260624022839964800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         }
       ]
     }
