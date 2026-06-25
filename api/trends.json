@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T17:13:51.447145+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2026-06-25T19:02:34.185105+08:00",
+  "total_titles_processed": 1730,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：进展非常顺利。",
@@ -109,17 +109,6 @@
           "time_info": "08时58分"
         },
         {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
           "title": "美国官员：特朗普将在补充拨款法案中纳入全年销售含更高乙醇比例汽油的相关内容。",
           "url": "https://flash.jin10.com/detail/20260625041111417800",
           "source": "金十数据",
@@ -140,6 +129,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
@@ -207,11 +208,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 17时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 19时02分]"
         },
         {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
@@ -224,6 +226,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
+          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时02分]"
         },
         {
           "title": "特朗普：委内瑞拉强震造成惨重死亡",
@@ -375,17 +389,6 @@
           "time_info": "00时50分"
         },
         {
-          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
           "title": "美国总统特朗普：今天，与多家石油公司会谈。 石油公司对汽油的降价力度还不够。 埃克森美孚、雪佛龙等多家公司正被调查，这是汽油价格飙涨问题的一部分。",
           "url": "https://wallstreetcn.com/livenews/3124237",
           "source": "华尔街见闻-快讯",
@@ -535,7 +538,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -590,7 +593,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -620,7 +623,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -656,8 +659,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 17时13分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 19时02分]"
         },
         {
           "title": "巴西石油监管机构ANP负责人表示，在美国与伊朗达成初步协议后，国内燃料价格正逐渐回落。",
@@ -751,6 +754,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "鲁比奥称美国不会不惜一切代价同伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3124607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "鲁比奥重申，伊朗不能对霍尔木兹过境收取费用",
           "url": "https://flash.jin10.com/detail/20260625001726784800",
           "source": "金十数据",
@@ -790,7 +804,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -905,6 +919,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "鲁比奥称美国不会不惜一切代价同伊朗达成协议",
+          "url": "https://flash.jin10.com/detail/20260625182106119800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美国国务卿鲁比奥：负责伊朗事务的技术小组将于本月晚些时候重返。",
           "url": "https://flash.jin10.com/detail/20260625001227488800",
           "source": "金十数据",
@@ -919,7 +944,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -1100,6 +1125,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "SpaceX美股盘前扩大涨势，现上涨2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3124608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 金龙指数跌1.7%",
           "url": "https://flash.jin10.com/detail/20260625040106828800",
           "source": "金十数据",
@@ -1133,13 +1169,35 @@
           "time_info": "05时34分"
         },
         {
+          "title": "SpaceX(SPCX.O)美股盘前涨势扩大，最新上涨2.4%。",
+          "url": "https://flash.jin10.com/detail/20260625182304353800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "IBM美股盘前涨超6%，公司推出全球首款亚1纳米芯片技术",
+          "url": "https://wallstreetcn.com/livenews/3124593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美股盘前：存储板块大涨，美光科技涨约18%",
           "url": "https://wallstreetcn.com/livenews/3124530",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         }
@@ -1147,7 +1205,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -1163,6 +1221,20 @@
           "time_info": "[00时49分 ~ 02时42分]"
         },
         {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 19时02分]"
+        },
+        {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
           "url": "https://www.cls.cn/detail/2408544",
           "source": "财联社热门",
@@ -1174,19 +1246,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时58分 ~ 15时20分]"
-        },
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 17时13分]"
         },
         {
           "title": "金价跌至去年10月水平",
@@ -1209,6 +1268,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 11时15分]"
+        },
+        {
+          "title": "金价大跌投资者抄底刷爆银行卡 金店10克20克金条3小时卖光",
+          "url": "https://wallstreetcn.com/livenews/3124603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "受美元走强及加息预期影响，金价收于4000美元下方",
@@ -1253,12 +1334,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "金价大跌投资者抄底刷爆银行卡 金店10克20克金条3小时卖光",
+          "url": "https://flash.jin10.com/detail/20260625181541512800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -1331,6 +1423,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
           "url": "https://flash.jin10.com/detail/20260625022949974800",
           "source": "金十数据",
@@ -1376,7 +1479,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         }
