@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T21:46:53.464762+08:00",
-  "total_titles_processed": 1970,
+  "generated_at": "2026-06-25T23:04:45.432185+08:00",
+  "total_titles_processed": 2091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 21时46分]"
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 23时04分]"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
@@ -49,11 +49,12 @@
           "ranks": [
             20,
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时26分 ~ 21时46分]"
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 23时04分]"
         },
         {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
@@ -62,11 +63,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 21时46分]"
+          "appearance_count": 6,
+          "time_info": "[17时13分 ~ 23时04分]"
         },
         {
           "title": "美国总统特朗普：进展非常顺利。",
@@ -357,6 +359,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "市场消息：美国最高法院裁定支持特朗普政府终止对叙利亚和海地移民驱逐保护的提议。",
+          "url": "https://flash.jin10.com/detail/20260625222639632800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "特朗普称可能永远无法查明是谁袭击了伊朗小学",
           "url": "https://flash.jin10.com/detail/20260625082645457800",
           "source": "金十数据",
@@ -388,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "美国最高法院表示，下周一将是下一个意见征询日。 据彭博报道，最高法院完成审议后，下周可能会对特朗普政府起诉美联储理事库克一案作出裁决。",
+          "url": "https://wallstreetcn.com/livenews/3124740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "美国总统特朗普：今天，与多家石油公司会谈。 石油公司对汽油的降价力度还不够。 埃克森美孚、雪佛龙等多家公司正被调查，这是汽油价格飙涨问题的一部分。",
@@ -429,7 +453,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -451,7 +475,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -594,7 +618,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -657,7 +681,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -677,11 +701,12 @@
           "ranks": [
             11,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 21时46分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 23时04分]"
         },
         {
           "title": "伊朗：签谅解备忘录表明“美国战败”",
@@ -795,7 +820,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -839,7 +864,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -1009,6 +1034,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "伊朗议长否认被解冻资产将用于购买美国农产品",
+          "url": "https://wallstreetcn.com/livenews/3124725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "伊朗议长卡利巴夫：美国谎称伊朗资金将用于购买他们的农产品。",
           "url": "https://wallstreetcn.com/livenews/3124669",
           "source": "华尔街见闻-快讯",
@@ -1023,7 +1059,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -1177,7 +1213,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -1199,7 +1235,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -1210,7 +1246,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -1221,7 +1257,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -1270,6 +1306,17 @@
           "time_info": "19时02分"
         },
         {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 金龙指数跌1.7%",
           "url": "https://flash.jin10.com/detail/20260625040106828800",
           "source": "金十数据",
@@ -1298,7 +1345,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -1350,7 +1397,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -1462,6 +1509,17 @@
           "time_info": "15时20分"
         },
         {
+          "title": "华尔街机构对金价前景判断分化",
+          "url": "https://www.toutiao.com/trending/7655314315704012314/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "金十图示：2026年06月25日（周四）上海金早盘价为869.65元/克，较国际金价(872.02元/克)，低2.37元/克",
           "url": "https://flash.jin10.com/detail/20260625103618213800",
           "source": "金十数据",
@@ -1507,9 +1565,23 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
+        },
+        {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 23时04分]"
         },
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -1522,19 +1594,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时36分]"
-        },
-        {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 21时46分]"
         },
         {
           "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
@@ -1601,7 +1660,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -1615,6 +1674,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
+          "url": "https://wallstreetcn.com/livenews/3124210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时40分]"
+        },
+        {
+          "title": "美元指数24日上涨",
+          "url": "https://flash.jin10.com/detail/20260625040511895800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美元指数DXY短线走低十余点，最新报101.64。",
+          "url": "https://flash.jin10.com/detail/20260625203205814800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "美元指数DXY短线走低十余点，报101.38。非美货币短线上扬。",
+          "url": "https://flash.jin10.com/detail/20260625220528496800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "彭博美元指数跌0.3%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3124728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "美元指数短线走低，美国国债、现货黄金上涨 通胀数据温和降低了加息预期",
+          "url": "https://wallstreetcn.com/livenews/3124689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         }
       ]
     },
@@ -1674,58 +1806,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
-          "url": "https://wallstreetcn.com/livenews/3124210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 04时40分]"
-        },
-        {
-          "title": "美元指数24日上涨",
-          "url": "https://flash.jin10.com/detail/20260625040511895800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "美元指数DXY短线走低十余点，最新报101.64。",
-          "url": "https://flash.jin10.com/detail/20260625203205814800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "美元指数短线走低，美国国债、现货黄金上涨 通胀数据温和降低了加息预期",
-          "url": "https://wallstreetcn.com/livenews/3124689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "21时46分"
         }
@@ -1772,8 +1853,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek发布招聘广告：正努力将所有部门的规模扩大至少一倍",
+          "url": "https://wallstreetcn.com/livenews/3124723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
         {
           "title": "屎山BUG半决赛之DeepSeek",
           "url": "https://search.bilibili.com/all?keyword=%E5%B1%8E%E5%B1%B1BUG%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%B9%8BDeepSeek",
@@ -1781,7 +1873,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         }
