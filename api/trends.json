@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T13:32:29.912831+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-06-26T15:26:22.936415+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时33分 ~ 13时32分]"
+        },
+        {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 15时26分]"
         },
         {
           "title": "美国总统特朗普：将宣布110亿美元的农民救助。",
@@ -90,17 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时45分 ~ 07时34分]"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时32分]"
         },
         {
           "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
@@ -325,7 +326,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -341,6 +342,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时51分 ~ 07时34分]"
+        },
+        {
+          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
+          "url": "https://www.cls.cn/detail/2409704",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 15时26分]"
         },
         {
           "title": "美国与海湾合作委员会发表声明，谴责伊朗代理人在伊拉克发动的袭击。",
@@ -363,18 +377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
-        },
-        {
-          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
-          "url": "https://www.cls.cn/detail/2409704",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时32分]"
         },
         {
           "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
@@ -435,6 +437,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "伊朗“波斯湾海峡管理部门”：使用未经授权航线的船只将无法获得保险或相关责任承保。",
           "url": "https://flash.jin10.com/detail/20260626024938592800",
           "source": "金十数据",
@@ -485,7 +498,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -507,7 +520,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -518,7 +531,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -540,9 +553,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "伊朗武装部队哈塔姆安比亚中央总部：如果美国无法约束以色列，伊朗将不会容忍任何对自身的威胁，并保留回应的权利。",
+          "url": "https://flash.jin10.com/detail/20260626150915316800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "伊朗武装部队哈塔姆安比亚中央总部：以色列军机途经部分邻国领空前往伊朗，这一行为是危险举动，构成对伊朗的直接威胁。",
+          "url": "https://flash.jin10.com/detail/20260626150844030800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     },
@@ -560,8 +595,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时35分 ~ 13时32分]"
+          "appearance_count": 11,
+          "time_info": "[06时35分 ~ 15时26分]"
         },
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -572,8 +607,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时33分 ~ 13时32分]"
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 15时26分]"
         },
         {
           "title": "美股",
@@ -871,8 +906,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 13时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 15时26分]"
         },
         {
           "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
@@ -948,8 +983,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 15时26分]"
         },
         {
           "title": "金价跌回3字头 半年回撤30%",
@@ -958,23 +993,12 @@
           "ranks": [
             14,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时32分]"
-        },
-        {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2547979",
-          "source": "抖音",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 15时26分]"
         },
         {
           "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
@@ -986,8 +1010,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时26分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            5,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 15时26分]"
         },
         {
           "title": "金价回落至900元以下",
@@ -1028,8 +1065,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 13时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 15时26分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -1064,11 +1101,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 15时26分]"
         }
       ]
     },
