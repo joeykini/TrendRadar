@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T09:02:53.646131+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-07-01T11:16:22.064660+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时50分 ~ 07时32分]"
+        },
+        {
+          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
+          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时16分]"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -61,17 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
-        },
-        {
-          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
-          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
         },
         {
           "title": "美国总统特朗普：我们完全可以通过国会立法解决这一问题，我也会予以支持。",
@@ -144,6 +145,17 @@
           "time_info": "[05时36分 ~ 07时32分]"
         },
         {
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时16分]"
+        },
+        {
           "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
           "url": "https://flash.jin10.com/detail/20260701054226191800",
           "source": "金十数据",
@@ -154,6 +166,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时16分]"
         },
         {
           "title": "美国总统特朗普2025年度的财务报告称，其至少买入10万零1美元以上的Palantir(PLTR.N)股票。",
@@ -239,17 +262,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "特朗普政府，遭全美半数州集体起诉",
-          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：承认与特朗普之间有时会存在一些分歧。",
           "url": "https://flash.jin10.com/detail/20260701032453750800",
           "source": "金十数据",
@@ -294,17 +306,6 @@
           "time_info": "06时32分"
         },
         {
-          "title": "特朗普在最高法院输了，为什么又扯上中国？",
-          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "市场消息：美国共和党强硬派阻挠众议院推进国防政策法案的举措，以抗议特朗普关于选民身份验证的立法主张。",
           "url": "https://flash.jin10.com/detail/20260701021835956800",
           "source": "金十数据",
@@ -322,9 +323,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "美媒爆料：特朗普因加密货币获利超10亿美元",
+          "url": "https://news.ifeng.com/c/8uOrOAberkf",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "美国总统特朗普：Pierre Yared辞去经济顾问委员会的代理主席。 其将重返哥伦比亚大学研究生院。",
@@ -355,7 +367,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -369,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美联储9月加息概率升至80%！特朗普927页超10亿美元“吸金”财务报告披露：三度加仓苹果、微软、英伟达，金条持仓同步现身……当前金银油卖出信号持续高企，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260701104023615800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "美国总统特朗普：共和党在美国最高法院得到了非常公平的对待。",
@@ -388,7 +411,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -737,7 +760,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
@@ -745,11 +768,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 11时16分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -767,11 +791,12 @@
           "url": "https://www.cls.cn/detail/2413598",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 09时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 11时16分]"
         },
         {
           "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
@@ -780,9 +805,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时16分]"
         },
         {
           "title": "耐克美股盘后跌幅扩大至6.6%。",
@@ -916,6 +941,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时32分]"
+        },
+        {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "美股“七巨头”指数6月下跌8.9%，创2025年3月以来最差单月表现。",
@@ -1094,6 +1130,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金主权需求被严重低估，高盛重申年底5400美元的金价预测",
+          "url": "https://flash.jin10.com/detail/20260701110435543800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "金十图示：2026年07月01日（周三）上海金早盘价为869.62元/克，较国际金价(870.23元/克)，低0.61元/克",
+          "url": "https://flash.jin10.com/detail/20260701103600829800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1106,8 +1170,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 09时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 11时16分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
